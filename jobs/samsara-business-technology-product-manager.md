@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Business Technology Product Manager at Samsara
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7593250?gh_jid=7593250) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at Samsara was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

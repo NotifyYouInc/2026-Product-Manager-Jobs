@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+#  Product Owner at ALTEN
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107564679-product-owner) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at ALTEN was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

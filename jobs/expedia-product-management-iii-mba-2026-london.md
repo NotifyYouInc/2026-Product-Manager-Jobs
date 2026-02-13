@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Product Management III - MBA - 2026 - London at Expedia
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Actimize_R2601544) |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Management-III---MBA---2026---London_R-101932-1) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-05.
+This product manager position at Expedia was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

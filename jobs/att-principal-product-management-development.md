@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Principal - Product Management & Development at AT&T
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Actimize_R2601544) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal---Product-Management---Development_R-99658) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-05.
+This product manager position at AT&T was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

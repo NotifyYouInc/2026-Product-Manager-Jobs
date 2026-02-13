@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Staff Product Manager at Walmart
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Bruno, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Actimize_R2601544) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Staff-Product-Manager_R-2398043-1) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-05.
+This product manager position at Walmart was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

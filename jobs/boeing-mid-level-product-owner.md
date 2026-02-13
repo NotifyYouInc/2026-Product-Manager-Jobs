@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Mid-Level Product Owner at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Mid-Level-Product-Owner_JR2026495182-1) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at Boeing was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

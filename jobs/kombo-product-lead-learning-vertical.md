@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Product Lead (Learning Vertical) at Kombo
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [Kombo](https://scoutify.ai/companies/kombo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kombo/979b0414-266e-4ddb-9cef-8babfc52782f) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at Kombo was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

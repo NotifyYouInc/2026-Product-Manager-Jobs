@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Agent Product Manager (Founding Team) at Pallet
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [Pallet](https://scoutify.ai/companies/pallet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pallet/jobs/5044643007) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at Pallet was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

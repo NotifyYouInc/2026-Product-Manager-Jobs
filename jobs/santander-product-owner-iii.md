@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Product Owner III at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Actimize_R2601544) |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Product-Owner-III_Req1514103) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-05.
+This product manager position at Santander was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

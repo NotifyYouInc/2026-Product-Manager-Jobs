@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Senior Product Manager at Flexport
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bellevue, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7560844?gh_jid=7560844) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at Flexport was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

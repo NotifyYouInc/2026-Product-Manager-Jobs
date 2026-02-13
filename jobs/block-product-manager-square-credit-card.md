@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Product Manager, Square Credit Card at Block
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | California, US |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5098886008?gh_jid=5098886008) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at Block was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

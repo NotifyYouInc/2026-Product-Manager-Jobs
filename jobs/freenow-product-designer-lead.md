@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Product Designer Lead  at FREENOW
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7591997) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at FREENOW was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

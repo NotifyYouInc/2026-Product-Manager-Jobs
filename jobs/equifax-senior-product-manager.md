@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Senior Product Manager at Equifax
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Actimize_R2601544) |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Ontario---Toronto/Senior-Product-Manager_J00174442) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-05.
+This product manager position at Equifax was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

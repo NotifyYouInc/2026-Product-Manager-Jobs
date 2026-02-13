@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Staff Product Manager, Immigration at Deel
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/c5c4fed9-dd50-4477-9148-59ce9cebc0fc) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at Deel was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

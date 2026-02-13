@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Staff Product Manager, AI Platforms at Disney
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Actimize_R2601544) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Seattle-WA-USA/Staff-Product-Manager--AI-Platforms_10140305) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-05.
+This product manager position at Disney was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

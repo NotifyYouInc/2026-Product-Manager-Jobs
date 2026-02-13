@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Product Manager II, Google Ads at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Mountain View, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Actimize_R2601544) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/115407451066376902-product-manager-ii-google-ads?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-05.
+This product manager position at Google was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

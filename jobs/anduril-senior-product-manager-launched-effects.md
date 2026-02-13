@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Senior Product Manager, Launched Effects at Anduril
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Actimize_R2601544) |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5044797007?gh_jid=5044797007) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-05.
+This product manager position at Anduril was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

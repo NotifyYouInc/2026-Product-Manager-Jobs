@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Product Manager at ROLLER
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [ROLLER](https://scoutify.ai/companies/roller?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/roller/jobs/5044950007) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at ROLLER was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Digital product manager at Eurofiber
+# Product Manager at FMC Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofiber](https://scoutify.ai/companies/eurofiber?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maarssen, Utrecht, The Netherlands |
+| Company | [FMC Corporation](https://scoutify.ai/companies/fmc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Calgary, Alberta, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofiber1/744000107371995-digital-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/Calgary-Canada/Product-Manager_R-1401-1) |
 
 ## About This Role
 
-This product manager position at Eurofiber was posted on 2026-02-04.
+This product manager position at FMC Corporation was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
