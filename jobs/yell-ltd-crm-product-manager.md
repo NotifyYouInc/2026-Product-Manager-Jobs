@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Yell Ltd](https://scoutify.ai/companies/yellltd?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/YellLtd/744000107300943-crm-product-manager) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/YellLtd/744000107586845-crm-product-manager) |
 
 ## About This Role
 
-This product manager position at Yell Ltd was posted on 2026-02-04.
+This product manager position at Yell Ltd was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

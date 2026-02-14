@@ -5,12 +5,12 @@
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Randburg, Gauteng, South Africa |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Lead-Product-Engineer_R-15982981-1) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Lead-Product-Engineer_R-15982975-1) |
 
 ## About This Role
 
-This software engineer position at Absa was posted on 2026-02-04.
+This software engineer position at Absa was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

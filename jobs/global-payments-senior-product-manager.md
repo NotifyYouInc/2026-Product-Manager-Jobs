@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Product Marketing Management |
+| Location | 8 locations |
+| Category | Product Manager |
 | Posted | 2026-02-04 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Dublin-Ireland/Senior-Product-Manager_R0069368) |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Indianapolis-Indiana-USA/Senior-Product-Manager_R0069604) |
 
 ## About This Role
 
-This product marketing management position at Global Payments was posted on 2026-02-04.
+This product manager position at Global Payments was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

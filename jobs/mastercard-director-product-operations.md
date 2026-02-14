@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Product-Operations_R-270322) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Director--Product-Operations_R-269479) |
 
 ## About This Role
 
-This operations position at Mastercard was posted on 2026-02-04.
+This operations position at Mastercard was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
