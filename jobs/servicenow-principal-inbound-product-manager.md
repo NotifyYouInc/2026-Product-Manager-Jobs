@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Principal Inbound Product Manager at ServiceNow
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108126795-principal-inbound-product-manager) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at ServiceNow was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

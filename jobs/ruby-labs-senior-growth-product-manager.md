@@ -1,16 +1,16 @@
-# Senior Product Manager, Oncology at AbbVie
+# Senior Growth Product Manager at Ruby Labs
 
 | Field | Details |
 |-------|---------|
-| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Ukraine |
 | Category | Product Marketing Management |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011539726-senior-product-manager-oncology) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/402dd608-0ed9-4d80-af62-cbf2d9dfb63e) |
 
 ## About This Role
 
-This product marketing management position at AbbVie was posted on 2026-02-05.
+This product marketing management position at Ruby Labs was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

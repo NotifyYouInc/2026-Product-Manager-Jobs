@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Product Owner, Vuture at Marigold
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [Marigold](https://scoutify.ai/companies/marigold?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-Kingdom/Product-Owner--Vuture_R2365) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at Marigold was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

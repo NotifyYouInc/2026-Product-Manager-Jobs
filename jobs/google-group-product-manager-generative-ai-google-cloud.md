@@ -1,16 +1,16 @@
-# Principal Product Manager at Walmart
+# Group Product Manager, Generative AI, Google Cloud at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Principal-Product-Manager_R-2398050-1) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/91566308797096646-group-product-manager-generative-ai-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at Walmart was posted on 2026-02-05.
+This product manager position at Google was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

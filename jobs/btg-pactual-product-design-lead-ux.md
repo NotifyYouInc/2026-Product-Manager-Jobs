@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Product Design Lead | UX at BTG Pactual
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Brazil |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5797568004) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at BTG Pactual was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Staff Product Manager - Fintech, Client Experience at Deel
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Not specified |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/955171b2-83ce-4954-a9e9-4f4168c41630) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at Deel was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager at S&P Global
+# Assistant Manager, Regional Loyalty Strategy - Markets at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Manager |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Product-Manager_325151-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108006460-assistant-manager-regional-loyalty-strategy-markets) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-02-08.
+This product manager position at Grab was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

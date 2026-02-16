@@ -1,16 +1,16 @@
-# Principal Inbound Product Manager - MoveWorks at ServiceNow
+# Senior Product Manager - Enterprise Networking Services at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108222111-principal-inbound-product-manager-moveworks) |
+| Posted | 2026-02-08 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager---Enterprise-Networking-Services_JR2002865) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-02-09.
+This product manager position at Nvidia was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

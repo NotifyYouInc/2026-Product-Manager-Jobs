@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Senior Director, Product Management at Ansira
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [Ansira](https://scoutify.ai/companies/ansira?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Missouri, US |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://ansira.wd1.myworkdayjobs.com/ansira_careers/job/Remote-MO/Senior-Director--Product-Management_R935) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at Ansira was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

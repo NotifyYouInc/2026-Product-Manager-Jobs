@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/UK---Remote/Product-Manager_R54336) |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Manager_R53071) |
 
 ## About This Role
 

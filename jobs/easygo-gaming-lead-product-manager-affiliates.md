@@ -1,16 +1,16 @@
-# Product Manager at S&P Global
+# Lead Product Manager - Affiliates at Easygo Gaming
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Company | [Easygo Gaming](https://scoutify.ai/companies/easygo-gaming?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Product-Manager_325151-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/easygo/jobs/5046472007) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-02-08.
+This product manager position at Easygo Gaming was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

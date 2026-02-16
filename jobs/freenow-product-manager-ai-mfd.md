@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Product Manager – AI (m/f/d) at FREENOW
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 4 locations |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7599361) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at FREENOW was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Product Manager eCommerce B2B (m/f/d) at Sixt
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000108141087-product-manager-ecommerce-b2b-mfd) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at Sixt was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

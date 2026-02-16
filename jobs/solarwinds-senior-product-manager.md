@@ -1,16 +1,16 @@
-# Product Manager at S&P Global
+# Senior Product Manager at SolarWinds
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
 | Posted | 2026-02-08 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Product-Manager_325151-1) |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4656018005&gh_jid=4656018005) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-02-08.
+This product manager position at SolarWinds was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

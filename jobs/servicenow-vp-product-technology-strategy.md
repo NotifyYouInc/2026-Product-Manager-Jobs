@@ -6,7 +6,7 @@
 | Location | Santa Clara, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107435365-vp-product-technology-strategy) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107616563-vp-product-technology-strategy) |
 
 ## About This Role
 

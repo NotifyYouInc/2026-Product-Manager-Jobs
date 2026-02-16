@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Senior Product Manager - SSO & CIAM at CyberArk Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000108249476-senior-product-manager-sso-ciam) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at CyberArk Software was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

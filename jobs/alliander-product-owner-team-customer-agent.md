@@ -1,16 +1,16 @@
-# Product Manager at Exclusivenetworks
+# Product Owner Team Customer Agent at Alliander
 
 | Field | Details |
 |-------|---------|
-| Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indonesia |
+| Company | [Alliander](https://scoutify.ai/companies/alliander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Arnhem, Gelderland, The Netherlands |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Remote-Indonesia/Product-Manager_JR1391-1) |
+| Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/ARNHEM/Product-Owner-Team-Customer-Agent_JR17843) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-02-09.
+This product manager position at Alliander was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
