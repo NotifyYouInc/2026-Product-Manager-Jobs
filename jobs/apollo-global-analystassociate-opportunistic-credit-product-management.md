@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apollo Global](https://scoutify.ai/companies/athene?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York, US |
-| Category | Product Marketing Management |
+| Category | Marketing |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://athene.wd5.myworkdayjobs.com/Apollo_Careers/job/New-York-New-York/Analyst-Associate---Opportunistic-Credit-Product-Management_R254131) |
 
 ## About This Role
 
-This product marketing management position at Apollo Global was posted on 2026-02-06.
+This marketing position at Apollo Global was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

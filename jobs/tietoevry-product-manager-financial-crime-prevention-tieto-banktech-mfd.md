@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Norway |
-| Category | Product Marketing Management |
+| Category | Product Marketing |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000107795070-product-manager-financial-crime-prevention-tieto-banktech-mfd) |
 
 ## About This Role
 
-This product marketing management position at Tietoevry was posted on 2026-02-06.
+This product marketing position at Tietoevry was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bend, Oregon, United States |
-| Category | Product Marketing Management |
+| Category | Product Marketing |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000107805965-head-of-us-marketing-product-go-to-market-bend-or) |
 
 ## About This Role
 
-This product marketing management position at The Wonderful Company was posted on 2026-02-06.
+This product marketing position at The Wonderful Company was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

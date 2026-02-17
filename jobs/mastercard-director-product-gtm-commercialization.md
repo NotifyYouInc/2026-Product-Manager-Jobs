@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Marketing Management |
+| Category | Business Development |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Director--Product-GTM---Commercialization_R-270614) |
 
 ## About This Role
 
-This product marketing management position at Mastercard was posted on 2026-02-09.
+This business development position at Mastercard was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

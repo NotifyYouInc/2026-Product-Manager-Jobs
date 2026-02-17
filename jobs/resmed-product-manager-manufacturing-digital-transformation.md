@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Johor Bahru, Johor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Singapore-Singapore/Product-Manager---Manufacturing--Digital-Transformation-_JR_048403) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Johor-Bahru-Malaysia/Product-Manager---Manufacturing--Digital-Transformation-_JR_048404) |
 
 ## About This Role
 
-This product manager position at ResMed was posted on 2026-02-04.
+This product manager position at ResMed was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
