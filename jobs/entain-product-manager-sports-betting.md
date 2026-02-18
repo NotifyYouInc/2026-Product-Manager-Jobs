@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107500615-product-manager-sports-betting) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000108525366-product-manager-sports-betting) |
 
 ## About This Role
 
-This product manager position at Entain was posted on 2026-02-05.
+This product manager position at Entain was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

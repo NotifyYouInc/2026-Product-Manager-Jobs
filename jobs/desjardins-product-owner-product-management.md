@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit-intgrateur--Habitation_R2601514) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits-TI_R2515486) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107616563-vp-product-technology-strategy) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108677936-vp-product-technology-strategy) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-02-05.
+This product manager position at ServiceNow was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

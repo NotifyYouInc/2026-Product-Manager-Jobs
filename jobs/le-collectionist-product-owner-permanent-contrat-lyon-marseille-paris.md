@@ -5,12 +5,12 @@
 | Company | [Le Collectionist](https://scoutify.ai/companies/lecollectionist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LeCollectionist/744000107737007-product-owner-permanent-contrat-lyon-marseille-paris) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LeCollectionist/744000108422437-product-owner-permanent-contrat-lyon-marseille-paris) |
 
 ## About This Role
 
-This product manager position at Le Collectionist was posted on 2026-02-06.
+This product manager position at Le Collectionist was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
