@@ -6,7 +6,7 @@
 | Location | Minato City, Tokyo, Japan |
 | Category | Product Manager |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011589196-senior-manager-strategy-new-product-introduction) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011604366-senior-manager-strategy-new-product-introduction) |
 
 ## About This Role
 

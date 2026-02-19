@@ -1,16 +1,16 @@
-# Staff Product Manager at Walmart
+# Staff, Product Manager at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Bruno, California, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Staff-Product-Manager_R-2398043-1) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Main-Home-Office-Building-AR-BENTONVILLE-Home-Office/Staff--Product-Manager_R-2411059-1) |
 
 ## About This Role
 
-This product manager position at Walmart was posted on 2026-02-05.
+This product manager position at Walmart was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager – Financial Crime Prevention, Tieto BankTech (m/f/d) at Tietoevry
+# Product Manager – Financial Crime Prevention, Tieto Banktech (m/f/d) at Tietoevry
 
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Norway |
+| Location | Riga, Riga, Latvia |
 | Category | Product Marketing |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000107795070-product-manager-financial-crime-prevention-tieto-banktech-mfd) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108740140-product-manager-financial-crime-prevention-tieto-banktech-mfd) |
 
 ## About This Role
 
-This product marketing position at Tietoevry was posted on 2026-02-06.
+This product marketing position at Tietoevry was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

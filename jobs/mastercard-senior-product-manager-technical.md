@@ -1,16 +1,16 @@
-# Senior Product Manager- Technical at Mastercard
+# Senior Product Manager - Technical at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager--Technical_R-269991-1) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-269936-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-02-03.
+This product manager position at Mastercard was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

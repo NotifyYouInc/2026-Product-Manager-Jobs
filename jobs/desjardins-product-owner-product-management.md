@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits-TI_R2515486) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--clientle-des-particuliers_R2601864) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-06.
+This product manager position at Desjardins was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
