@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# Director & Chief Product Owner at Manulife
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Director---Chief-Product-Owner_JR25120558-3) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at Manulife was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# Senior Product Manager at Assent
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Ottawa, Ontario, Canada |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000109017765-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at Assent was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# Lead Product Designer at Careers at Tide
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7629485003) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at Careers at Tide was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager at Experian
+# Lead, Advanced Analytics, Product at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108965225-product-manager) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7612790?gh_jid=7612790) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-12.
+This product manager position at Airbnb was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

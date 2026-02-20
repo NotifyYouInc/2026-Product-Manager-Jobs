@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# Product Owner Optical Network & IT at Swisscom
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bern, Bern, Switzerland |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Bern/Product-Owner-Optical-Network---IT_R-0004363-1) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at Swisscom was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

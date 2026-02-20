@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# ENTERPRISE GENAI COPILOT PRODUCT OWNER at Mango
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [Mango](https://scoutify.ai/companies/mango?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Catalonia, ES |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://mango.wd3.myworkdayjobs.com/mango_work_your_passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/ENTERPRISE-GENAI-COPILOT-PRODUCT-OWNER_JR130723) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at Mango was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

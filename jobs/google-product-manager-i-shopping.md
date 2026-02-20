@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Product Manager I, Shopping at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Switzerland |
 | Category | Product Manager |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630673003) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/76006789039956678-product-manager-i-shopping?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-02-13.
+This product manager position at Google was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

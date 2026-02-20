@@ -1,16 +1,16 @@
-# Product Manager at Experian
+# Product Manager - Fan Experience  at AXS
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [AXS](https://scoutify.ai/companies/axs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108965225-product-manager) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8421631002) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-12.
+This product manager position at AXS was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

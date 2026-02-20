@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# Product Manager – Wix Editor at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000109013355-product-manager-wix-editor) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at Wix.com was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

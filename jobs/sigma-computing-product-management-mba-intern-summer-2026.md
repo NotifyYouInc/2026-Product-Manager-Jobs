@@ -1,4 +1,4 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Product Management MBA Intern (Summer 2026) at Sigma Computing
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630673003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630664003) |
 
 ## About This Role
 

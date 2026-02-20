@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# Edge AI MPU Product Manager at NXP Semiconductors
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Edge-AI-MPU-Product-Manager_R-10060939-1) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at NXP Semiconductors was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

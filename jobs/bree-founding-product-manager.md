@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# Founding Product Manager at Bree
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [Bree](https://scoutify.ai/companies/bree?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bree/bf9cf729-2544-4bcf-b5f5-28eb67623355) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at Bree was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

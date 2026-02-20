@@ -1,16 +1,16 @@
-# Product Owner - Azure Pipelines at Together Money
+# Product Manager - Pricing, Cloud Economics, and Product Strategy at Crusoe
 
 | Field | Details |
 |-------|---------|
-| Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Company | [Crusoe](https://scoutify.ai/companies/crusoe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000108973446-product-owner-azure-pipelines) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crusoe/e65694db-1447-47ec-bc7a-69c15053f723) |
 
 ## About This Role
 
-This product manager position at Together Money was posted on 2026-02-12.
+This product manager position at Crusoe was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

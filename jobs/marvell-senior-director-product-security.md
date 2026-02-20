@@ -1,16 +1,16 @@
-# Senior Director, Product Security at Marvell
+# Senior Director Product Security at Marvell
 
 | Field | Details |
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | 3 locations |
 | Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Bangalore/Senior-Director--Product-Security_2600416) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Senior-Director-Product-Security_2600412) |
 
 ## About This Role
 
-This operations position at Marvell was posted on 2026-02-09.
+This operations position at Marvell was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

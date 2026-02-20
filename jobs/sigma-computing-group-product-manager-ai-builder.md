@@ -1,4 +1,4 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Group Product Manager, AI Builder at Sigma Computing
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630673003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630659003) |
 
 ## About This Role
 

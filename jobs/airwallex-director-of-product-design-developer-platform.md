@@ -1,16 +1,16 @@
-# Product Manager at Experian
+# Director of Product Design - Developer Platform at Airwallex
 
 | Field | Details |
 |-------|---------|
-| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108965225-product-manager) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/967a6fef-cfb1-4a1b-98c2-50690489bd4e) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-12.
+This product manager position at Airwallex was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

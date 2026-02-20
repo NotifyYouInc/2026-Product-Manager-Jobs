@@ -1,4 +1,4 @@
-# Senior Product Manager, Mobile at Royal Bank of Canada
+# Senior Digital Product Owner, Wealth Planning at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Product-Manager--Mobile_R-0000158771-2) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Digital-Product-Owner--Wealth-Planning_R-0000151040) |
 
 ## About This Role
 

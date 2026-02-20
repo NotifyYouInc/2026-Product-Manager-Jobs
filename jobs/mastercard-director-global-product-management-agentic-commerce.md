@@ -1,16 +1,16 @@
-# Senior Product Manager, Mobile at Royal Bank of Canada
+# Director, Global Product Management, Agentic Commerce at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
 | Posted | 2026-02-12 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Product-Manager--Mobile_R-0000158771-2) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Director--Global-Product-Management--Agentic-Commerce_R-270732) |
 
 ## About This Role
 
-This product manager position at Royal Bank of Canada was posted on 2026-02-12.
+This product manager position at Mastercard was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

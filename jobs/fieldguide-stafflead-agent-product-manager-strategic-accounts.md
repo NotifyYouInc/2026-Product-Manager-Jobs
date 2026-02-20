@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Staff/Lead Agent Product Manager, Strategic Accounts at Fieldguide
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Fieldguide](https://scoutify.ai/companies/fieldguide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7630673003) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/fieldguide/jobs/07llOSk-staff-lead-agent-product-manager-strategic-accounts) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-02-13.
+This product manager position at Fieldguide was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
