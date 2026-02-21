@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/92625061185233606-senior-outbound-product-manager-generative-ai-cloud-ai?sort_by=date&page=1) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/73166750505411270-senior-outbound-product-manager-generative-ai-cloud-ai?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-06.
+This product manager position at Google was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

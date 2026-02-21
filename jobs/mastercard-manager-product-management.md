@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
-| Category | Product Marketing |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Product-Management_R-266450) |
+| Location | New York, US |
+| Category | Product Manager |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Product-Management_R-268601-1) |
 
 ## About This Role
 
-This product marketing position at Mastercard was posted on 2026-02-06.
+This product manager position at Mastercard was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

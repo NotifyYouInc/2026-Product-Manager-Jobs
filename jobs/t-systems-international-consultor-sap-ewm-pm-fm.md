@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Reus, Catalonia, Spain |
+| Location | Granada, Andalusia, Spain |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000108557575-consultor-sap-ewm-pm-fm) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000108962735-consultor-sap-ewm-pm-fm) |
 
 ## About This Role
 
-This product manager position at T-Systems International was posted on 2026-02-10.
+This product manager position at T-Systems International was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

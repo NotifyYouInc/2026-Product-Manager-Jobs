@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Product-Owner-ll_R237883-1) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Product-Owner-ll_R235821) |
 
 ## About This Role
 
-This product manager position at Sysco was posted on 2026-02-10.
+This product manager position at Sysco was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
