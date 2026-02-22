@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000108725325-product-manager-confirmee-hfn) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000108729658-product-manager-confirmee-hfn) |
 
 ## About This Role
 
