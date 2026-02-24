@@ -1,16 +1,16 @@
-# Product Owner (Acute Care Management) at Inovalon
+# Product Manager at SIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7629026003) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109639877-product-manager) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-02-11.
+This product manager position at SIA was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

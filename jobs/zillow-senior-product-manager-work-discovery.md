@@ -1,16 +1,16 @@
-# Product Management, VP at State Street
+# Senior Product Manager, Work Discovery at Zillow
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-784282) |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Product-Manager--Work-Discovery_P749305-1) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-16.
+This product manager position at Zillow was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

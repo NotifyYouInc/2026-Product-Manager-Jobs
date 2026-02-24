@@ -1,16 +1,16 @@
-# Product Owner (Acute Care Management) at Inovalon
+# Product Owner, Digital Wealth at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7629026003) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Product-Owner--Digital-Wealth_JR00005819) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-02-11.
+This product manager position at OCBC was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Workday Product Owner Lead at Dentsu
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Caisse-scolaire_R2602032) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/London---10-Triton-Street/Workday-Product-Owner-Lead_R1107820) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-12.
+This product manager position at Dentsu was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

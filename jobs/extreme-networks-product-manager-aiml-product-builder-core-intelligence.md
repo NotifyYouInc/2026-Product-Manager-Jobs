@@ -1,16 +1,16 @@
-# Product Manager III at Expedia
+# Product Manager – AI/ML Product Builder (Core Intelligence) at Extreme Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Extreme Networks](https://scoutify.ai/companies/extreme-networks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | California, US |
 | Category | Product Manager |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Product-Manager-III_R-102516-1) |
+| Apply | [View on company site](https://jobs.lever.co/extremenetworks/64b3c08b-25e8-433f-90f8-d24c8c7d3a04) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-02-17.
+This product manager position at Extreme Networks was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

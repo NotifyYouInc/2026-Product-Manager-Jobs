@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# VP - Agentic Commerce Product at PayPal
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Caisse-scolaire_R2602032) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/VP---Agentic-Commerce-Product_R0130149) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-12.
+This product manager position at PayPal was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

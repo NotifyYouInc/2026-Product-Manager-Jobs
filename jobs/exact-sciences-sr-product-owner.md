@@ -1,16 +1,16 @@
-# Product Manager III at Expedia
+# Sr Product Owner at Exact Sciences
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Diego, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Product-Manager-III_R-102516-1) |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---CA---San-Diego/Sr-Product-Owner_R26-12391) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-02-17.
+This product manager position at Exact Sciences was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

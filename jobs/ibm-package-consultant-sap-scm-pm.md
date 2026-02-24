@@ -1,16 +1,16 @@
-# Product Owner (Acute Care Management) at Inovalon
+# Package Consultant-SAP SCM PM at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Karnataka, IN |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7629026003) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93965) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-02-11.
+This product manager position at IBM was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

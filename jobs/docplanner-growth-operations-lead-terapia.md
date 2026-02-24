@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000108766186-growth-operations-lead-terapia) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000109007561-growth-operations-lead-terapia) |
 
 ## About This Role
 
-This operations position at DocPlanner was posted on 2026-02-11.
+This operations position at DocPlanner was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

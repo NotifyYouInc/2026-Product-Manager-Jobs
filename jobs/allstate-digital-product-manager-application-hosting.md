@@ -1,16 +1,16 @@
-# Product Management, VP at State Street
+# Digital Product Manager (Application Hosting) at Allstate
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-784282) |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Digital-Product-Manager--Application-Hosting-_R26132) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-16.
+This product manager position at Allstate was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

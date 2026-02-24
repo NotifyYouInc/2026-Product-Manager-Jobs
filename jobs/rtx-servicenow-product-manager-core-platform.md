@@ -1,16 +1,16 @@
-# Product Manager III at Expedia
+# ServiceNow Product Manager – Core Platform at RTX
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Colorado, US |
 | Category | Product Manager |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Product-Manager-III_R-102516-1) |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CO-REMOTE/ServiceNow-Product-Manager---Core-Platform_01824449) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-02-17.
+This product manager position at RTX was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

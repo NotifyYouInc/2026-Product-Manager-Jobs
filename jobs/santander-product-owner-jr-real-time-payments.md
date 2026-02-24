@@ -1,16 +1,16 @@
-# Product Management, VP at State Street
+# Product Owner Jr - Real Time Payments at Santander
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Not specified |
 | Category | Product Manager |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-784282) |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Product-Owner-Jr---Real-Time-Payments_Req1545591) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-16.
+This product manager position at Santander was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

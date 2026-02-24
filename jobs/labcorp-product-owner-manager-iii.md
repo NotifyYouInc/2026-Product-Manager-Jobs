@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Product Owner/  Manager III at Labcorp
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Caisse-scolaire_R2602032) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Burlington-NC/Product-Owner---Manager-III_265458) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-12.
+This product manager position at Labcorp was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

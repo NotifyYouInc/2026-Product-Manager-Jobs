@@ -1,16 +1,16 @@
-# Product Management, VP at State Street
+# Sr. Data Product Manager at Skechers USA
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Company | [Skechers USA](https://scoutify.ai/companies/skechers-usa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hermosa Beach, California, United States |
 | Category | Product Manager |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-784282) |
+| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Hermosa-Beach-CA/Sr-Data-Product-Manager_JR125222) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-16.
+This product manager position at Skechers USA was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

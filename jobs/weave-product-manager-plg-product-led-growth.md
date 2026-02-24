@@ -1,16 +1,16 @@
-# Product Owner (Acute Care Management) at Inovalon
+# Product Manager, PLG (Product Led Growth) at Weave
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Weave](https://scoutify.ai/companies/weave?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Lehi, Utah, United States |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7629026003) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/weave/c43f8214-b731-4c77-9950-fad578ca3339) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-02-11.
+This product manager position at Weave was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

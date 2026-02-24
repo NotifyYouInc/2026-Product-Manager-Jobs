@@ -1,16 +1,16 @@
-# Product Management, VP at State Street
+# Product Manager, YouTube Create at Google
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-784282) |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/91487027995779782-product-manager-youtube-create?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-16.
+This product manager position at Google was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

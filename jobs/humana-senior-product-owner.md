@@ -1,16 +1,16 @@
-# Product Owner (Acute Care Management) at Inovalon
+# Senior Product Owner at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7629026003) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Owner_R-402667) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-02-11.
+This product manager position at Humana was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

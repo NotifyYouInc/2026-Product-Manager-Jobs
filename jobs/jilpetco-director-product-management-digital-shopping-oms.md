@@ -1,16 +1,16 @@
-# Product Management, VP at State Street
+# Director, Product Management, Digital Shopping & OMS at Jilpetco
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Company | [Jilpetco](https://scoutify.ai/companies/jilpetco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | California, US |
 | Category | Product Manager |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-784282) |
+| Apply | [View on company site](https://petco.wd1.myworkdayjobs.com/external/job/NSC/Lead-Digital-Product-Manager_R329860) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-16.
+This product manager position at Jilpetco was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

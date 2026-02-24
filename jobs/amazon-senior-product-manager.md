@@ -1,16 +1,16 @@
-# Product Owner (Acute Care Management) at Inovalon
+# Senior Product Manager at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7629026003) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3182226/senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-02-11.
+This product manager position at Amazon was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

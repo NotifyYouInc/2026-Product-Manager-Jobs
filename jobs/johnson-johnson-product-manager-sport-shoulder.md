@@ -1,16 +1,16 @@
-# Product Management, VP at State Street
+# Product Manager Sport & Shoulder at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Zug, Zug, Switzerland |
 | Category | Product Manager |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-784282) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Zuchwil-Switzerland/Product-Manager-Sport---Shoulder_R-057486) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-16.
+This product manager position at Johnson & Johnson was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

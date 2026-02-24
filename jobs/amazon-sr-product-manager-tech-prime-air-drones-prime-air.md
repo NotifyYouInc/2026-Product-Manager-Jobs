@@ -1,16 +1,16 @@
-# Product Manager III at Expedia
+# Sr. Product Manager - Tech, Prime Air (Drones), Prime Air at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Manager |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Product-Manager-III_R-102516-1) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3182240/sr-product-manager-tech-prime-air-drones-prime-air) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-02-17.
+This product manager position at Amazon was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

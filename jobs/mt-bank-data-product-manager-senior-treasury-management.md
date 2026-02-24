@@ -1,16 +1,16 @@
-# Product Manager III at Expedia
+# Data Product Manager Senior - Treasury Management at M&T Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Buffalo, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Product-Manager-III_R-102516-1) |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Data-Product-Manager-Senior_R82482) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-02-17.
+This product manager position at M&T Bank was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

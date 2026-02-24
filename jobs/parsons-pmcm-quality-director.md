@@ -1,16 +1,16 @@
-# Product Manager III at Expedia
+# PM/CM Quality Director at Parsons
 
 | Field | Details |
 |-------|---------|
-| Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Product-Manager-III_R-102516-1) |
+| Category | Operations |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---TX-Austin/PM-CM-Quality-Director_R177391-1) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-02-17.
+This operations position at Parsons was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Management, VP at State Street
+# Product Owner at Advance Auto Parts
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Company | [Advance Auto Parts](https://scoutify.ai/companies/advanceauto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Not specified |
 | Category | Product Manager |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-784282) |
+| Apply | [View on company site](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Product-Owner_R-0569163-1) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-16.
+This product manager position at Advance Auto Parts was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 
