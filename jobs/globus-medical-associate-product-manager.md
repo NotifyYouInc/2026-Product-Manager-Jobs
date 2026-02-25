@@ -1,16 +1,16 @@
-# ASSOCIATE PRODUCT MANAGER at Globus Medical
+# Associate Product Manager at Globus Medical
 
 | Field | Details |
 |-------|---------|
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pennsylvania, US |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/ASSOCIATE-PRODUCT-MANAGER_JR105634-1) |
+| Posted | 2026-02-16 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Associate-Product-Manager_JR105828) |
 
 ## About This Role
 
-This product manager position at Globus Medical was posted on 2026-02-12.
+This product manager position at Globus Medical was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

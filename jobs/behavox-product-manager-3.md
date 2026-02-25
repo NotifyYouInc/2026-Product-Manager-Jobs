@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Behavox](https://scoutify.ai/companies/behavox?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/behavox/jobs/7609517) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/behavox/jobs/7622665) |
 
 ## About This Role
 
-This product manager position at Behavox was posted on 2026-02-12.
+This product manager position at Behavox was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

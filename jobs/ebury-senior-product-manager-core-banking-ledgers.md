@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ebury.com/job?gh_jid=4779984101) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://careers.ebury.com/job?gh_jid=4784737101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-02-11.
+This product manager position at Ebury was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

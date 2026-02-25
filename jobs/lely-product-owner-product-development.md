@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000109171964-product-owner-product-development) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000109660886-product-owner-product-development) |
 
 ## About This Role
 
-This product manager position at Lely was posted on 2026-02-13.
+This product manager position at Lely was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

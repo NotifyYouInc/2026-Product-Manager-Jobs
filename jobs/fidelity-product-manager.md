@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Product-Manager_2121675) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Product-Manager_2121540-1) |
 
 ## About This Role
 
-This product manager position at Fidelity was posted on 2026-02-06.
+This product manager position at Fidelity was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

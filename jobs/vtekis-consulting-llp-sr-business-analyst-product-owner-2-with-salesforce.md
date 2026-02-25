@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000109054919-sr-business-analyst-product-owner-2-with-salesforce) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000109293045-sr-business-analyst-product-owner-2-with-salesforce) |
 
 ## About This Role
 
-This product manager position at VTekis Consulting LLP was posted on 2026-02-12.
+This product manager position at VTekis Consulting LLP was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

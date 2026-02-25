@@ -5,12 +5,12 @@
 | Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000108967542-senior-product-manager-ad-tech-hfn) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000109252146-senior-product-manager-ad-tech-hfn) |
 
 ## About This Role
 
-This product manager position at Believe was posted on 2026-02-12.
+This product manager position at Believe was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

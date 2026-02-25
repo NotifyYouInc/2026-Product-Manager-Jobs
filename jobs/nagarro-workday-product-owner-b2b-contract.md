@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Poland |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000109191435-workday-product-owner-b2b-contract) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000109663775-workday-product-owner-b2b-contract) |
 
 ## About This Role
 
-This product manager position at Nagarro was posted on 2026-02-13.
+This product manager position at Nagarro was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

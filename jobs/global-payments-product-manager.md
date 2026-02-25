@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Leicester-United-Kingdom/Product-Manager_R0069677) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Atlanta-Georgia-USA/Product-Manager_R0069630) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-02-10.
+This product manager position at Global Payments was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

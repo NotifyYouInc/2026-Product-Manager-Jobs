@@ -5,12 +5,12 @@
 | Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Carlsbad, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000108281507-solution-product-manager-insurance) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000109790360-solution-product-manager-insurance) |
 
 ## About This Role
 
-This product manager position at Nearmap was posted on 2026-02-09.
+This product manager position at Nearmap was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
