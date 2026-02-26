@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
-| Category | Product Marketing |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Empire-Tower-Bangkok-Thailand/Assistant-Manager--MX-Product-Management--Myanmar-Branch-_R114439) |
+| Location | Yangon, Yangon, Myanmar |
+| Category | Account Manager |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Junction-City-Tower-Yangon-Myanmar/Assistant-Manager--MX-Product-Management--Myanmar-Branch-_R114588) |
 
 ## About This Role
 
-This product marketing position at Samsung was posted on 2026-02-13.
+This account manager position at Samsung was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

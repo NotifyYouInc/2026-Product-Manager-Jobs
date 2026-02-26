@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/1-Complexe-Desjardins-Montral/Responsable-de-produit--Microsoft-Copilot-Studio_R2602142) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--gestion-de-la-connaissance_R2602184-1) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-16.
+This product manager position at Desjardins was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

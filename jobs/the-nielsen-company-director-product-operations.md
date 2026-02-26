@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011653306-director-product-operations) |
+| Category | Program Manager |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011725784-director-product-operations) |
 
 ## About This Role
 
-This operations position at The Nielsen Company was posted on 2026-02-12.
+This program manager position at The Nielsen Company was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

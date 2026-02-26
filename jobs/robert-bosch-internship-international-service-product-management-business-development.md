@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
-| Category | Business Development |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000108994247-internship-international-service-product-management-business-development) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109876785-internship-international-service-product-management-business-development) |
 
 ## About This Role
 
-This business development position at Robert Bosch was posted on 2026-02-12.
+This sales development (sdr / bdr) position at Robert Bosch was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

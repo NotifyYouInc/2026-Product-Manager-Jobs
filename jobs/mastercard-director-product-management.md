@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Product-Management_R-270881-1) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Product-Management_R-265698-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-02-11.
+This product manager position at Mastercard was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

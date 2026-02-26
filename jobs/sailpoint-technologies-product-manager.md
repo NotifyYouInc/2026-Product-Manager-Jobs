@@ -5,12 +5,12 @@
 | Company | [SailPoint Technologies](https://scoutify.ai/companies/sailpoint-technologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Product-Manager_R012673) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://sailpoint.wd1.myworkdayjobs.com/sailpoint/job/United-States/Associate-Product-Manager_R012183) |
 
 ## About This Role
 
-This product manager position at SailPoint Technologies was posted on 2026-02-13.
+This product manager position at SailPoint Technologies was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

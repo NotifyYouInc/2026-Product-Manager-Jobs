@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107736665-associate-product-manager) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109897475-associate-product-manager) |
 
 ## About This Role
 
-This product manager position at NielsenIQ was posted on 2026-02-06.
+This product manager position at NielsenIQ was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

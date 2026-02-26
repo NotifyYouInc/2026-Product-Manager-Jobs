@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Spain |
-| Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ebury.com/job?gh_jid=4780072101) |
+| Location | London, England, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4782949101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-02-11.
+This accounting position at Ebury was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
