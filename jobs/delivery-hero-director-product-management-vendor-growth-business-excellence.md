@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000109004387-director-product-management-vendor-growth-business-excellence) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110155101-director-product-management-vendor-growth-business-excellence) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-02-12.
+This product manager position at Delivery Hero was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

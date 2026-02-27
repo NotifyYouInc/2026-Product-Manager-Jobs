@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000109752527-commercieel-product-manager-data-services) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110188100-commercieel-product-manager-data-services) |
 
 ## About This Role
 
-This product manager position at KPN was posted on 2026-02-17.
+This product manager position at KPN was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

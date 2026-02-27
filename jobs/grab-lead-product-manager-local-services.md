@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108907876-lead-product-manager-local-services) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000110095165-lead-product-manager-local-services) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-02-12.
+This product manager position at Grab was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

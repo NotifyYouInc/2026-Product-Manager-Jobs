@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ahmedabad, Gujarat, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94632) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94630) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-17.
+This technology / it consulting position at IBM was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
