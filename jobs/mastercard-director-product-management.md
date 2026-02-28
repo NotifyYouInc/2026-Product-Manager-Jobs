@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | New York, US |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Product-Management_R-265698-1) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Product-Management_R-271473) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-02-18.
+This product manager position at Mastercard was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

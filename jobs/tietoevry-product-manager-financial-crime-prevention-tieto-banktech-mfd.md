@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Riga, Riga, Latvia |
-| Category | Product Marketing |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000108740140-product-manager-financial-crime-prevention-tieto-banktech-mfd) |
+| Location | Norway |
+| Category | Product Manager |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000110368476-product-manager-financial-crime-prevention-tieto-banktech-mfd) |
 
 ## About This Role
 
-This product marketing position at Tietoevry was posted on 2026-02-11.
+This product manager position at Tietoevry was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

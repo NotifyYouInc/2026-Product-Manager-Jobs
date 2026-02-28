@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beneva](https://scoutify.ai/companies/beneva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Québec, Quebec, Canada |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Conseiller-stratgie-numrique---Espaces-connects-transversales_R14791) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Longueuil-Quebec/Conseiller-exprience-numrique_R15332) |
 
 ## About This Role
 
-This product manager position at Beneva was posted on 2026-02-17.
+This product manager position at Beneva was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Manager--Product-Management_R0134681-1) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-Manager--Product-Management_R0134824-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-02-17.
+This product manager position at PayPal was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

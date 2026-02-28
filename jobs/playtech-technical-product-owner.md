@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tartu, Tartu, Estonia |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000109026866-technical-product-owner) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000110327508-technical-product-owner) |
 
 ## About This Role
 
-This product manager position at Playtech was posted on 2026-02-12.
+This product manager position at Playtech was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

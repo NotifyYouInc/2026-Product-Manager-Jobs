@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000109907312-product-owner-senior-paris-hf) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000110323512-product-owner-senior-paris-hf) |
 
 ## About This Role
 
-This product manager position at Iliad-Free was posted on 2026-02-18.
+This product manager position at Iliad-Free was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
