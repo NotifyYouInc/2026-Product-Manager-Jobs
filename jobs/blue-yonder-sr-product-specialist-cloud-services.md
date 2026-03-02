@@ -1,16 +1,16 @@
-# Director of Product Management,  AI Business Intelligence  at Sigma Computing
+# Sr Product Specialist - Cloud Services at Blue Yonder
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Product Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639789003) |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Dallas/Sr-Product-Specialist---Cloud-Services_260547) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-02-23.
+This product manager position at Blue Yonder was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

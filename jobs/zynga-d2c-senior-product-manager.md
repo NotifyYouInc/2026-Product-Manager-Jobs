@@ -1,16 +1,16 @@
-# Package Consultant-SAP SCM PM at IBM
+# D2C Senior Product Manager at Zynga
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Technology / IT Consulting |
+| Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | Product Manager |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=80213) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5712135004) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-22.
+This product manager position at Zynga was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

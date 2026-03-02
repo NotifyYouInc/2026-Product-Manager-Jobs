@@ -1,16 +1,16 @@
-# Director of Product Management,  AI Business Intelligence  at Sigma Computing
+# Founding Product Manager at SureBright
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [SureBright](https://scoutify.ai/companies/surebright?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639789003) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/surebright/jobs/NHRof5F-founding-product-manager) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-02-23.
+This product manager position at SureBright was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Package Consultant-SAP SCM PM at IBM
+# Director Product Management, AI at Brex
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ahmedabad, Gujarat, India |
-| Category | Technology / IT Consulting |
+| Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 3 locations |
+| Category | Product Manager |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=80213) |
+| Apply | [View on company site](https://www.brex.com/careers/8432707002?gh_jid=8432707002) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-22.
+This product manager position at Brex was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

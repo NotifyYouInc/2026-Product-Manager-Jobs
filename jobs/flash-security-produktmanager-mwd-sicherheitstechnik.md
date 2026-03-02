@@ -1,16 +1,16 @@
-# Director of Product Management,  AI Business Intelligence  at Sigma Computing
+# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639789003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000110679065-produktmanager-mwd-sicherheitstechnik) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-02-23.
+This product manager position at flash-security was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

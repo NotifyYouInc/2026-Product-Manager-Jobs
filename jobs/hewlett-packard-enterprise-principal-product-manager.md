@@ -1,12 +1,12 @@
-# Senior Product Manager at Hewlett Packard Enterprise
+# Principal Product Manager at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Andover, Minnesota, United States |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Senior-Product-Manager_1201995) |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Principal-Product-Manager_1201999-1) |
 
 ## About This Role
 

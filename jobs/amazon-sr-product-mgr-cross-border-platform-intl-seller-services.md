@@ -1,16 +1,16 @@
-# Director of Product Management,  AI Business Intelligence  at Sigma Computing
+# Sr Product Mgr, Cross-Border Platform, Intl Seller Services at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7639789003) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3186693/sr-product-mgr-cross-border-platform-intl-seller-services) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-02-23.
+This product manager position at Amazon was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
