@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000110198126-senior-genai-ux-analyst) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000110323427-senior-genai-ux-analyst) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-19.
+This product manager position at Experian was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

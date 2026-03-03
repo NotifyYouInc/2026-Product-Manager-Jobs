@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000110323845-product-manager-wealth-mfx) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000110384740-product-manager-wealth-mfx) |
 
 ## About This Role
 

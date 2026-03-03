@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Needham, Massachusetts, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655223006) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4655465006) |
 
 ## About This Role
 
-This product manager position at SharkNinja was posted on 2026-02-18.
+This product manager position at SharkNinja was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

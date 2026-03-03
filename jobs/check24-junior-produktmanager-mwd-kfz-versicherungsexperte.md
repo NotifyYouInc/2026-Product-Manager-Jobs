@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000110194806-junior-produktmanager-mwd-kfz-versicherungsexperte) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000110363284-junior-produktmanager-mwd-kfz-versicherungsexperte) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-02-19.
+This product manager position at CHECK24 was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

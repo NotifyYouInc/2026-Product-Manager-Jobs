@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Owner_R0234309) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Owner_R0234562-1) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-02-17.
+This product manager position at Booz Allen was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montreuil, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000109784318-senior-international-product-manager-projet-non-annonce-fhnb) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000110815285-senior-international-product-manager-projet-non-annonce-fhnb) |
 
 ## About This Role
 
-This product manager position at Ubisoft was posted on 2026-02-17.
+This product manager position at Ubisoft was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
