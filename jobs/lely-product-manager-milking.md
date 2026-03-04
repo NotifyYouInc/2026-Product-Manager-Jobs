@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000110114517-product-manager-milking) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000111056160-product-manager-milking) |
 
 ## About This Role
 
-This product manager position at Lely was posted on 2026-02-19.
+This product manager position at Lely was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

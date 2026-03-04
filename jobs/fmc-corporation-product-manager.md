@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FMC Corporation](https://scoutify.ai/companies/fmc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/Calgary-Canada/Product-Manager_R-1401-1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://fmc.wd12.myworkdayjobs.com/FMC/job/Frankfurt-Germany/Product-Manager_R-1514) |
 
 ## About This Role
 
-This product manager position at FMC Corporation was posted on 2026-02-05.
+This product manager position at FMC Corporation was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

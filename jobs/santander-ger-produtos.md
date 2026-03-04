@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/GER-PRODUTOS_Req1546609) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/GER-PRODUTOS_Req1546603) |
 
 ## About This Role
 
-This product manager position at Santander was posted on 2026-02-20.
+This product manager position at Santander was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

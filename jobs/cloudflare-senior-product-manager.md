@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7600080?gh_jid=7600080) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7645014?gh_jid=7645014) |
 
 ## About This Role
 
-This product manager position at Cloudflare was posted on 2026-02-10.
+This product manager position at Cloudflare was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81981) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81982) |
 
 ## About This Role
 
-This product manager position at IBM was posted on 2026-02-10.
+This product manager position at IBM was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

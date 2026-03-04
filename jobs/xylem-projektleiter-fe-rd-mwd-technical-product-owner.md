@@ -5,12 +5,12 @@
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Mainz/Projektleiter-F-E---R-D--m-w-d---Technical-Product-Owner_R46108) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Weilheim/Projektleiter-F-E---R-D--m-w-d---Technical-Product-Owner_R46863) |
 
 ## About This Role
 
-This product manager position at Xylem was posted on 2026-02-10.
+This product manager position at Xylem was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

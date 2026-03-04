@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Missouri, US |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Product-Owner_R300746) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Product-Owner_R307493) |
 
 ## About This Role
 
-This product manager position at Cushman & Wakefield was posted on 2026-02-17.
+This product manager position at Cushman & Wakefield was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

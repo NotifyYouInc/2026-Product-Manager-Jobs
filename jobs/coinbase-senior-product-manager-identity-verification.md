@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/6257031?gh_jid=6257031) |
+| Category | Trust & Safety |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7647238?gh_jid=7647238) |
 
 ## About This Role
 
-This product manager position at Coinbase was posted on 2026-02-04.
+This trust & safety position at Coinbase was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

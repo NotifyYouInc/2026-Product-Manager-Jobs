@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Groningen, Groningen, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110360085-customer-journey-specialist) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110794105-customer-journey-specialist) |
 
 ## About This Role
 
-This product manager position at KPN was posted on 2026-02-20.
+This product manager position at KPN was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

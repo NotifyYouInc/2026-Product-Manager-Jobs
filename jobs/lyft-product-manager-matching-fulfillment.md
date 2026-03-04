@@ -5,12 +5,12 @@
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8430067002?gh_jid=8430067002) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8430532002?gh_jid=8430532002) |
 
 ## About This Role
 
-This product manager position at Lyft was posted on 2026-02-20.
+This product manager position at Lyft was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

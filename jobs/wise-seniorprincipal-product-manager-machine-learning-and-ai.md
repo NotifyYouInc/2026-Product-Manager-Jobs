@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000108712686-seniorprincipal-product-manager-machine-learning-and-ai) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000111029631-seniorprincipal-product-manager-machine-learning-and-ai) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-02-11.
+This product manager position at WISE was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

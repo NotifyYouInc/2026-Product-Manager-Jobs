@@ -1,4 +1,4 @@
-# Product Manager I, Growth at Coinbase
+# Product Manager I, Growth  at Coinbase
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Product Manager |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/7623211?gh_jid=7623211) |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7647017?gh_jid=7647017) |
 
 ## About This Role
 

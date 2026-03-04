@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Alpharetta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Colorado---Denver---17th-Street/Product-Owner_J00174606) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Product-Owner_J00174848) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-02-20.
+This product manager position at Equifax was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
