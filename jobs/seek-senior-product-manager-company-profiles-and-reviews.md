@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Australia |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000110094735-senior-product-manager-company-profiles-and-reviews) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000111315126-senior-product-manager-company-profiles-and-reviews) |
 
 ## About This Role
 
-This product manager position at SEEK was posted on 2026-02-19.
+This product manager position at SEEK was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

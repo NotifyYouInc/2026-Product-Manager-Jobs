@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000109655270-product-director-asos-design-menswear) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000111355755-product-director-asos-design-menswear) |
 
 ## About This Role
 
-This product manager position at ASOS was posted on 2026-02-17.
+This product manager position at ASOS was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

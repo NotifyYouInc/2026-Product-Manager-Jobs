@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107284175-international-product-manager-air-conditioning) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111348255-international-product-manager-air-conditioning) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-02-04.
+This product manager position at Robert Bosch was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

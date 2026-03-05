@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107129385-senior-staff-outbound-product-manager-telecom) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111437696-senior-staff-outbound-product-manager-telecom) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-02-03.
+This product manager position at ServiceNow was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

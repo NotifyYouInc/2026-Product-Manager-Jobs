@@ -1,16 +1,16 @@
-# Director, Product Development - Mastercard Foundry at Mastercard
+# Director - Product Development - Mastercard Foundry at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | New York, US |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Product-Development---Mastercard-Foundry_R-270817) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director---Product-Development---Mastercard-Foundry_R-271516) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-02-12.
+This product manager position at Mastercard was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AXS](https://scoutify.ai/companies/axs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8421631002) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8438179002) |
 
 ## About This Role
 
-This product manager position at AXS was posted on 2026-02-13.
+This product manager position at AXS was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

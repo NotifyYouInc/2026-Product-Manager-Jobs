@@ -1,16 +1,16 @@
-# Sr. Product Manager at Philips
+# Sr Product Manager at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Beijing/Sr-Product-Manager_571065) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Sr-Product-Manager_555204) |
 
 ## About This Role
 
-This product manager position at Philips was posted on 2026-02-10.
+This product manager position at Philips was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

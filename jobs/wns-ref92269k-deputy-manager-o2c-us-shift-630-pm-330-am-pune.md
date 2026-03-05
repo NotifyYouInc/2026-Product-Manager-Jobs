@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000107713214-ref92269k-deputy-manager-o2c-us-shift-630-pm-330-am-pune) |
+| Category | Product Manager |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000111358414-ref92269k-deputy-manager-o2c-us-shift-630-pm-330-am-pune) |
 
 ## About This Role
 
-This operations position at WNS was posted on 2026-02-06.
+This product manager position at WNS was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# PRODUCT MANAGER at Experian
+# Product Manager at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Colombia |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000109802464-product-manager) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000111539120-product-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-17.
+This product manager position at Experian was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
