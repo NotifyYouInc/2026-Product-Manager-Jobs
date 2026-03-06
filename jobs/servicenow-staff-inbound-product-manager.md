@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111314215-staff-inbound-product-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000111446345-staff-inbound-product-manager) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kulim, Kedah, Malaysia |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kulim-Kedah-Malaysia/Principal--Product-Management_REQ-10288) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Minato-ku-Tokyo-Japan/Principal--Product-Management_REQ-10261) |
 
 ## About This Role
 
-This product manager position at Entegris was posted on 2026-02-25.
+This product manager position at Entegris was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

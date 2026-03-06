@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Principal-Product-Manager--AI-Builder-Experiences_R-99405) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Principal-Product-Manager--AI-Builder-Experiences_R-99752-2) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-02-05.
+This product manager position at Expedia was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

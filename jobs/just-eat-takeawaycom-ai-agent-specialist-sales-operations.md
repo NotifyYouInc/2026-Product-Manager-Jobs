@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Amsterdam-Office/AI-Agent-Specialist--Sales-Operations-_R_049825) |
+| Category | Revenue / Sales Operations |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Amsterdam-Office/AI-Agent-Specialist--Sales-Operations-_R_049831) |
 
 ## About This Role
 
-This product manager position at Just Eat Takeaway.com was posted on 2026-02-10.
+This revenue / sales operations position at Just Eat Takeaway.com was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

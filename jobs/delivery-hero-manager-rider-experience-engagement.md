@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Egypt |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000109657376-manager-rider-experience-engagement) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111586122-manager-rider-experience-engagement) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-02-17.
+This product manager position at Delivery Hero was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

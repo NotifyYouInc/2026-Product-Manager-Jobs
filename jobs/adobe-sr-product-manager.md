@@ -1,16 +1,16 @@
-# Sr Product Manager at Adobe
+# Sr. Product Manager at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Product-Manager_R164782) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Sr-Product-Manager_R165164) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-02-14.
+This product manager position at Adobe was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

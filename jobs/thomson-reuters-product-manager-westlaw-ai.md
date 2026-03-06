@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New South Wales, AU |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Australia-Pyrmont-New-South-Wales/Product-Manager--Westlaw-AI_JREQ198462) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Singapore-Singapore/Product-Manager--Westlaw-AI_JREQ198729) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-02-25.
+This product manager position at Thomson Reuters was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

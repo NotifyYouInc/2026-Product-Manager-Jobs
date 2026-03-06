@@ -6,7 +6,7 @@
 | Location | Quebec, CA |
 | Category | Product Manager |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--volution-des-oprations_R2602808) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--ServiceNow_R2602748) |
 
 ## About This Role
 

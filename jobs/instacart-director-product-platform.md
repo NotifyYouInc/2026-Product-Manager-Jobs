@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Alberta, CA |
 | Category | Product Manager |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7648668) |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7648670) |
 
 ## About This Role
 
