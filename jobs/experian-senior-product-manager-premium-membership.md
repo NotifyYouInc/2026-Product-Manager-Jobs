@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000111483555-senior-product-manager-premium-membership) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000111913836-senior-product-manager-premium-membership) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-26.
+This product manager position at Experian was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

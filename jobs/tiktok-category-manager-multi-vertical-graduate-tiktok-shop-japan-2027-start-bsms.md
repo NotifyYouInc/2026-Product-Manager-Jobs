@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7610633646723303733/detail) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7611432927004576005/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-02-25.
+This product manager position at TikTok was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

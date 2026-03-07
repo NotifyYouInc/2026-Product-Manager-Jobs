@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | 7 locations |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-Kingdom---Walton-Oaks/Director--Product-Manager--Commercial-Forward-Impact-Engineering---Engagement-Team_4952134-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Florida---Tampa/Director--Product-Manager--Commercial-Forward-Impact-Engineering---Engagement-Team_4952293-2) |
 
 ## About This Role
 
-This product manager position at Pfizer was posted on 2026-02-17.
+This product manager position at Pfizer was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

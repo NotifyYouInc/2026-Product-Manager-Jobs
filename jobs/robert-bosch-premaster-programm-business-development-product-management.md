@@ -6,7 +6,7 @@
 | Location | Ludwigsburg, Baden-Wurttemberg, Germany |
 | Category | Sales Development (SDR / BDR) |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111614218-premaster-programm-business-development-product-management) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111630330-premaster-programm-business-development-product-management) |
 
 ## About This Role
 

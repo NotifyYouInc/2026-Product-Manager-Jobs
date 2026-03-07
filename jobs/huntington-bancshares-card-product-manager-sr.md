@@ -1,16 +1,16 @@
-# Card Product Manager Sr. at Huntington Bancshares
+# Card Product Manager Sr at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Card-Product-Manager-Sr_R0066291) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Card-Product-Manager-Sr_R0069477) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-02-03.
+This product manager position at Huntington Bancshares was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

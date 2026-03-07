@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Manager---HVDC-C-P-PM_R0117043) |
+| Category | Engineering Manager |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/Project-Engineering-Manager---HVDC-C-P-PM_R0107408) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-02-05.
+This engineering manager position at Hitachi was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
