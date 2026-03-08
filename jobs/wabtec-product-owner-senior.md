@@ -1,16 +1,16 @@
-# AI Commercial Enablement Lead at Ebury
+# Product Owner Senior at Wabtec
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Learning & Development |
+| Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Montréal, Quebec, Canada |
+| Category | Product Manager |
 | Posted | 2026-02-28 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4792648101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011908416-product-owner-senior) |
 
 ## About This Role
 
-This learning & development position at Ebury was posted on 2026-02-28.
+This product manager position at Wabtec was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

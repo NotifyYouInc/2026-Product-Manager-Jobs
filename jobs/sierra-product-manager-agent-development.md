@@ -1,16 +1,16 @@
-# Product Manager at Syngenta
+# Product Manager, Agent Development at Sierra
 
 | Field | Details |
 |-------|---------|
-| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000111994617-product-manager) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/a7c0d6cb-483e-45c7-9e8c-316b8b214c6c) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-02-28.
+This product manager position at Sierra was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

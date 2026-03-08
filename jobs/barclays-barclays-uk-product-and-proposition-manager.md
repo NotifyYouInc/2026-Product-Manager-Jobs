@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Barclays-UK-Product-and-Proposition-Manager_JR-0000096179) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Barclays-UK-Product-and-Proposition-Manager_JR-0000096187) |
 
 ## About This Role
 
