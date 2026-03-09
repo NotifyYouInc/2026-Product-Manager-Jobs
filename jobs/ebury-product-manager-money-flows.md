@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4790146101) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4792807101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-02-25.
+This product manager position at Ebury was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

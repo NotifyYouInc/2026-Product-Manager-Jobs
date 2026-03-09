@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# Product Manager - Security CTO Office at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Product Manager |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556768400) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at Microsoft was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

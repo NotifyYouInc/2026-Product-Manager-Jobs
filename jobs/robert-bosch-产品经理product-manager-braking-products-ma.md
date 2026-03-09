@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# 产品经理/Product Manager (Braking Products)_MA at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000112088307-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112076657-product-manager-braking-products-ma) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-02.
+This product manager position at Robert Bosch was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

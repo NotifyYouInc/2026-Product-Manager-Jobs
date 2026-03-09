@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# Director of Product Design at CoStar Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Director-of-Product-Design_R38337-1) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at CoStar Group was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

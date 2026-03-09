@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# Lead Product Manager, eCommerce - WMS  at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | Product Manager |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000112074517-lead-product-manager-ecommerce-wms) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at Grab was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

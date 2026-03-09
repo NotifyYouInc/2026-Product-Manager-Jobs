@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# Sr. Digital Product Manager_MA at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112031697-sr-digital-product-manager-ma) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at Robert Bosch was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

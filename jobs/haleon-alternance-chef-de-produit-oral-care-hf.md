@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# Alternance : Chef de Produit Oral Care H/F at Haleon
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Rueil-Malmaison, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Rueil-Malmaison/Alternance---Chef-de-Produit-Oral-Care-H-F_540260-1) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at Haleon was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

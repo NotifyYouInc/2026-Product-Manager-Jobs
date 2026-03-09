@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# Specialist Product Owner  at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4787862101?gh_jid=4787862101) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at NiCE was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

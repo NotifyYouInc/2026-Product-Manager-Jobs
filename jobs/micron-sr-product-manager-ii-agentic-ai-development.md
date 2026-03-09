@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# Sr Product Manager II, Agentic AI Development at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Boise, Idaho, United States |
 | Category | Product Manager |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000112088307-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Sr-Product-Manager-II--Agentic-AI-Development_JR92443) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-02.
+This product manager position at Micron was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

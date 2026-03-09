@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# [Medtech] Product Manager_WCH at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taiwan |
 | Category | Product Manager |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000112088307-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Taipei-City-Taiwan/Product-Manager_R-037500) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-02.
+This product manager position at Johnson & Johnson was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# CX and Customer Insights Sr PM, AMET Crossborder Business at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3192420/cx-and-customer-insights-sr-pm-amet-crossborder-business) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at Amazon was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Lead Digital Product Manager at Wells Fargo
+# Senior Manager Digital Product Management - workplace Technology at Wells Fargo
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager_R-523615) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Manager-Digital-Product-Management---workplace-Technology_R-524325) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# Deputy Manager - Product Owner Oracle Fusion at Michelin
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Pune/Deputy-Manager---Product-Owner-Oracle-Fusion_R-2025027520) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at Michelin was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

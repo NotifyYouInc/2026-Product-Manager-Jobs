@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# T20020-產品經理 at Wistron NeWeb
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hsinchu, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/T20020-_REQ_260310506) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at Wistron NeWeb was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

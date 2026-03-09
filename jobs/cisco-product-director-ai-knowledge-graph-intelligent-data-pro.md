@@ -1,16 +1,16 @@
-# Senior Product Manager - API Platform at Ebury
+# Product Director - AI Knowledge Graph & Intelligent Data Pro at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4792849101) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Product-Director---AI-Knowledge-Graph---Intelligent-Data-Pro_2004035-1) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-03-01.
+This product manager position at Cisco was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

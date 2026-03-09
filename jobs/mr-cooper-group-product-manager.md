@@ -1,16 +1,16 @@
-# Senior Product Manager at Venn
+# Product Manager at Mr. Cooper Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Mr. Cooper Group](https://scoutify.ai/companies/mr-cooper-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/8a7d7fc3-2761-4b9e-8976-54ef674720bd) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/NSM_Bangalore/Product-Manager_024452) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-03-01.
+This product manager position at Mr. Cooper Group was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
