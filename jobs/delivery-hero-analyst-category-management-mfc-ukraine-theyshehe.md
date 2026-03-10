@@ -6,7 +6,7 @@
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Manager |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111873155-analyst-category-management-mfc-ukraine-theyshehe) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111891476-analyst-category-management-mfc-ukraine-theyshehe) |
 
 ## About This Role
 

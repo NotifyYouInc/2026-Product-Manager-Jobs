@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-31-Client/Agile-Product-Owner-Senior_JR0303472-1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IRL-DUBL-11-12/Agile-Product-Owner-Senior_JR0304654) |
 
 ## About This Role
 
-This product manager position at Fidelity National Information Services was posted on 2026-02-19.
+This product manager position at Fidelity National Information Services was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Easton-Ops-Cols-C-Oh/Analytics-Product-Owner---Onsite--Columbus-or-NYC_R0068690-1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Easton-Ops-Cols-C-Oh/Analytics-Product-Owner---Onsite--Columbus-or-NYC_R0068692) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-02-25.
+This product manager position at Huntington Bancshares was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

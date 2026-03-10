@@ -1,16 +1,16 @@
-# (Associate) Product Manager - Settlement Services (m/f/x) at Scalable Capital
+# (Associate) Product Manager- Settlement Services (m/f/x) at Scalable Capital
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000109960261-associate-product-manager-settlement-services-mfx) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000112109097-associate-product-manager-settlement-services-mfx) |
 
 ## About This Role
 
-This product manager position at Scalable Capital was posted on 2026-02-18.
+This product manager position at Scalable Capital was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

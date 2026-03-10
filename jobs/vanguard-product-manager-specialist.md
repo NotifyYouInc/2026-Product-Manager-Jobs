@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Texas, US |
+| Location | Pennsylvania, US |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/Product-Manager--Specialist_174778) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Product-Manager--Specialist_175179-1) |
 
 ## About This Role
 
-This product manager position at Vanguard was posted on 2026-02-13.
+This product manager position at Vanguard was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

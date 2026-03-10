@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000111849568-product-owner-supply-chain-luxe-retail) |
+| Category | Product Manager |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000112167389-product-owner-supply-chain-luxe-retail) |
 
 ## About This Role
 
-This technology / it consulting position at Magellan Partners was posted on 2026-02-27.
+This product manager position at Magellan Partners was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | France |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000111025687-ingenieur-responsable-produit-serie-hf) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000112107817-ingenieur-responsable-produit-serie-hf) |
 
 ## About This Role
 
-This product manager position at ALTEN was posted on 2026-02-24.
+This product manager position at ALTEN was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

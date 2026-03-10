@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Cross-Pillar-Product-Director--Trade---Working-Capital-Solutions---Services_26939510-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Cross-Pillar-Product-Director--Trade---Working-Capital-Solutions---Services_26943441) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-02-23.
+This product manager position at Citigroup was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

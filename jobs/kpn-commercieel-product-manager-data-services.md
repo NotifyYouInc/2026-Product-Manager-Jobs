@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110188100-commercieel-product-manager-data-services) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000112227046-commercieel-product-manager-data-services) |
 
 ## About This Role
 
-This product manager position at KPN was posted on 2026-02-19.
+This product manager position at KPN was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

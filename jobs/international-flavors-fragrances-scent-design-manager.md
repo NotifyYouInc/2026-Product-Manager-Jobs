@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Neuilly-sur-Seine, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Mumbai-India/Scent-Design-Manager_R15011) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Neuilly-Sur-Seine-Cedex-France/Scent-Design-Manager_R15670) |
 
 ## About This Role
 
-This product manager position at International Flavors & Fragrances was posted on 2026-02-05.
+This product manager position at International Flavors & Fragrances was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

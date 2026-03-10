@@ -5,12 +5,12 @@
 | Company | [Confido](https://scoutify.ai/companies/confido?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/confido/jobs/gFQ0dKr-head-of-product) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/confido/f70c9378-d0f8-461a-9f95-3f83b11a4005) |
 
 ## About This Role
 
-This product manager position at Confido was posted on 2026-02-22.
+This product manager position at Confido was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

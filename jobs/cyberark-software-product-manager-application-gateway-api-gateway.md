@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000108250148-product-manager-application-gateway-api-gateway) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000112110130-product-manager-application-gateway-api-gateway) |
 
 ## About This Role
 
-This product manager position at CyberArk Software was posted on 2026-02-09.
+This product manager position at CyberArk Software was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
