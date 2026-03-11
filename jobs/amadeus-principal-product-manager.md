@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | India |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Principal-Product-Manager_R33276) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Principal-Product-Manager_R32484-1) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-02-20.
+This product manager position at Amadeus was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

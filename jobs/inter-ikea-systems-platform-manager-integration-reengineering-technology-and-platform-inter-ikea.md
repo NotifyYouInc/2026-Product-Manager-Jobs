@@ -6,7 +6,7 @@
 | Location | Delft, South Holland, The Netherlands |
 | Category | Product Manager |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000112160807-platform-manager-integration-reengineering-technology-and-platform-inter-ikea) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000112170109-platform-manager-integration-reengineering-technology-and-platform-inter-ikea) |
 
 ## About This Role
 

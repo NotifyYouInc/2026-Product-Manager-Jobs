@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000110843215-gaming-manager) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000112367927-gaming-manager) |
 
 ## About This Role
 
-This product manager position at Entain was posted on 2026-02-23.
+This product manager position at Entain was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

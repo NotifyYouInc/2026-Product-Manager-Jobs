@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kent, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Site-Reliability-Product-Owner_JR2026495951-1) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Site-Reliability-Product-Owner_JR2026498920-1) |
 
 ## About This Role
 
-This product manager position at Boeing was posted on 2026-02-25.
+This product manager position at Boeing was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

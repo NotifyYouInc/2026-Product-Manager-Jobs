@@ -1,16 +1,16 @@
-# Technology Product Management - Senior  Vice President at Citigroup
+# Technology Product Management - Senior Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Tampa, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology-Product-Management---Senior--Vice-President_26938613) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology-Product-Management---Senior-Vice-President_26942284) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-02-27.
+This product manager position at Citigroup was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

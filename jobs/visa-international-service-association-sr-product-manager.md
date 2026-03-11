@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Foster City, California, United States |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107612685-sr-product-manager) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112509159-sr-product-manager) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-02-05.
+This product manager position at Visa International Service Association was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

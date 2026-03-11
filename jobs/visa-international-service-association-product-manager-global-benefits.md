@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111353435-product-manager-global-benefits) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112380093-product-manager-global-benefits) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-02-25.
+This product manager position at Visa International Service Association was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
