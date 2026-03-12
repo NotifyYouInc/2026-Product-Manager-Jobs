@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107110578-senior-product-manager-logistics-customer) |
+| Category | Product Manager |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112634930-senior-product-manager-logistics-customer) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-02-03.
+This product manager position at Delivery Hero was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

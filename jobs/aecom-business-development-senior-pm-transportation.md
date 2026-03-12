@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
-| Category | Business Development |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000108601216-business-development-senior-pm-transportation) |
+| Location | Murray, Utah, United States |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000112780497-business-development-senior-pm-transportation) |
 
 ## About This Role
 
-This business development position at AECOM was posted on 2026-02-10.
+This sales development (sdr / bdr) position at AECOM was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Burlington, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Advisor--Product-Management_19038928-3) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Burlington-Canada/Advisor--Product-Management_19039613) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-02-23.
+This product manager position at TransUnion was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

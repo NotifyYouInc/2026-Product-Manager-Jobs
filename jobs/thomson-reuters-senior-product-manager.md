@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Eagan, Minnesota, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Product-Manager_JREQ195931) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Senior-Product-Manager_JREQ198902) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-02-25.
+This product manager position at Thomson Reuters was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

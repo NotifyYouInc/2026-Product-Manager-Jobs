@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Indonesia |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/dcdf6876-e552-405d-a51a-6d0cca4a3571) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/693c830c-fbab-4205-87dc-a20aab577fac) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-02-11.
+This product manager position at Bjak was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | France |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112173738-product-owner-hf) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112508186-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Everience was posted on 2026-03-02.
+This product manager position at Everience was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

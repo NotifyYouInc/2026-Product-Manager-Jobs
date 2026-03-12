@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011931236-iga-saviynt-product-owner-identity-and-access-management-remote) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011938626-iga-saviynt-product-owner-identity-and-access-management-remote) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-03-02.
+This product manager position at AbbVie was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

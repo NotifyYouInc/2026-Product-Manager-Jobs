@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Tampa, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Product-Manager--Complex-Assets--Vice-President-_26940178) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Product-Manager--Complex-Assets--Vice-President-_26940188) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-02-24.
+This product manager position at Citigroup was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

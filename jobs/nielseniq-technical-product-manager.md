@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110158857-technical-product-manager) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000112656037-technical-product-manager) |
 
 ## About This Role
 
-This product manager position at NielsenIQ was posted on 2026-02-19.
+This product manager position at NielsenIQ was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

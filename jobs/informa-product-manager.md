@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000110474715-product-manager) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000112777169-product-manager) |
 
 ## About This Role
 
-This product manager position at Informa was posted on 2026-02-20.
+This product manager position at Informa was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Pallet](https://scoutify.ai/companies/pallet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pallet/jobs/5044643007) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pallet/jobs/5069818007) |
 
 ## About This Role
 
-This product manager position at Pallet was posted on 2026-02-05.
+This product manager position at Pallet was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

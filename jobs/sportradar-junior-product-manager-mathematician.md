@@ -6,7 +6,7 @@
 | Location | Mostar, Federation of B&H, Bosnia and Herzegovina |
 | Category | Product Manager |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000112412427-junior-product-manager-mathematician) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000112419557-junior-product-manager-mathematician) |
 
 ## About This Role
 

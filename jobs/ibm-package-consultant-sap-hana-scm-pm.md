@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Karnataka, IN |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94389) |
+| Category | Product Manager |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93615) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-02.
+This product manager position at IBM was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

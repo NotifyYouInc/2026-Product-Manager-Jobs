@@ -1,16 +1,16 @@
-# Technical product owner at Equifax
+# Technical Product Owner at Equifax
 
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Clayton, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Technical-product-owner_J00174583-1) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-Missouri---St-Louis---Clayton/Technical-Product-Owner_J00175130-1) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-02-11.
+This product manager position at Equifax was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
