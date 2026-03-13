@@ -1,16 +1,16 @@
-# Growth & Operations Lead – Terapia at DocPlanner
+# Growth & Operations Lead - Terapia at DocPlanner
 
 | Field | Details |
 |-------|---------|
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000109007561-growth-operations-lead-terapia) |
+| Location | Brazil |
+| Category | Growth Marketing |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000112980709-growth-operations-lead-terapia) |
 
 ## About This Role
 
-This operations position at DocPlanner was posted on 2026-02-12.
+This growth marketing position at DocPlanner was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

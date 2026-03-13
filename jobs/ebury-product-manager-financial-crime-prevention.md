@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4789302101) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4796302101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-02-26.
+This product manager position at Ebury was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

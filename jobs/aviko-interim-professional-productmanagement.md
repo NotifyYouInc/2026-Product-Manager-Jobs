@@ -5,12 +5,12 @@
 | Company | [Aviko](https://scoutify.ai/companies/aviko?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aviko/744000112402880-interim-professional-productmanagement) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aviko/744000112912077-interim-professional-productmanagement) |
 
 ## About This Role
 
-This product manager position at Aviko was posted on 2026-03-03.
+This product manager position at Aviko was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

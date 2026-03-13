@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7650725003) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7653441003) |
 
 ## About This Role
 
-This product manager position at Careers at Tide was posted on 2026-03-03.
+This product manager position at Careers at Tide was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

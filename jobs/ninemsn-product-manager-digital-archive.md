@@ -5,12 +5,12 @@
 | Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New South Wales, AU |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000110305525-product-manager-digital-archive) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000113062466-product-manager-digital-archive) |
 
 ## About This Role
 
-This product manager position at Ninemsn was posted on 2026-02-20.
+This product manager position at Ninemsn was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

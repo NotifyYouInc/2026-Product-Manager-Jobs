@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mostar, Federation of B&H, Bosnia and Herzegovina |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000112419557-junior-product-manager-mathematician) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000112676647-junior-product-manager-mathematician) |
 
 ## About This Role
 
-This product manager position at Sportradar was posted on 2026-03-03.
+This product manager position at Sportradar was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

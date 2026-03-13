@@ -5,12 +5,12 @@
 | Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000107470676-junior-product-manager-stage-hfn) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000112861692-junior-product-manager-stage-hfn) |
 
 ## About This Role
 
-This product manager position at Believe was posted on 2026-02-05.
+This product manager position at Believe was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

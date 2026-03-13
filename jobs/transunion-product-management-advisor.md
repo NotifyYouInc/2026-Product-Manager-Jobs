@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Costa Rica |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Boca-Raton-Florida/Product-Management-Advisor_19039102) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Product-Management-Advisor_19039228) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-02-04.
+This product manager position at TransUnion was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

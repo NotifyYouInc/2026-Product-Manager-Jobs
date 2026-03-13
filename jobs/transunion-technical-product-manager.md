@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Costa Rica |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Technical-Product-Manager_19039166) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Lagunilla-de-Heredia/Technical-Product-Manager_19039338-1) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-02-19.
+This product manager position at TransUnion was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
