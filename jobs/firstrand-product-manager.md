@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Randburg, Gauteng, South Africa |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Randburg/Product-Manager_R45839) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Product-Manager_R47156) |
 
 ## About This Role
 
-This product manager position at FirstRand was posted on 2026-02-05.
+This product manager position at FirstRand was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

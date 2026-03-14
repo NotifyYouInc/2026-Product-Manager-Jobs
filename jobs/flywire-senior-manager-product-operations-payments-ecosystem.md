@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Not specified |
 | Category | Program Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000109817020-senior-manager-product-operations-payments-ecosystem) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000113233358-senior-manager-product-operations-payments-ecosystem) |
 
 ## About This Role
 
-This program manager position at Flywire was posted on 2026-02-17.
+This program manager position at Flywire was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

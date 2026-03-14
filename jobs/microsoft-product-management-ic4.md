@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556769526) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556803315) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-03-02.
+This product manager position at Microsoft was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

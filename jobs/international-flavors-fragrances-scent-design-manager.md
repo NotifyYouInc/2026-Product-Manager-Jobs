@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Neuilly-sur-Seine, Île-de-France, France |
+| Location | Argentina |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Neuilly-Sur-Seine-Cedex-France/Scent-Design-Manager_R15670) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Garin-Argentina/Scent-Design-Manager_R15931) |
 
 ## About This Role
 
-This product manager position at International Flavors & Fragrances was posted on 2026-03-02.
+This product manager position at International Flavors & Fragrances was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

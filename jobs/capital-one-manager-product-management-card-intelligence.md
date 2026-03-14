@@ -1,16 +1,16 @@
-# Manager, Product Management, Card Intelligence at Capital One
+# Manager, Product Management- Card Intelligence at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Product-Management--Card-Intelligence_R236648) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management--Card-Intelligence_R237522) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-02-24.
+This product manager position at Capital One was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

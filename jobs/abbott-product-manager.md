@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Tashkent, Tashkent, Uzbekistan |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Taiwan---Taipei/Product-Manager_31143425) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Uzbekistan---Tashkent/Product-Manager_31143952) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-03-02.
+This product manager position at Abbott was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

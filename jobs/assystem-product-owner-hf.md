@@ -1,16 +1,16 @@
-# Product Owner - H/F at Assystem
+# Product Owner H/F at Assystem
 
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Le Petit-Quevilly, Normandy, France |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000111098101-product-owner-hf) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000113128219-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Assystem was posted on 2026-02-24.
+This product manager position at Assystem was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

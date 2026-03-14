@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Product-Manager_R431247-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Product-Manager_R432023) |
 
 ## About This Role
 
-This product manager position at Comcast was posted on 2026-02-25.
+This product manager position at Comcast was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

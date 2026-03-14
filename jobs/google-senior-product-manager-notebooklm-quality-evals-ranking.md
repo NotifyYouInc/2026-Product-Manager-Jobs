@@ -1,0 +1,22 @@
+# Senior Product Manager, NotebookLM, Quality, Evals, Ranking at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
+| Category | Product Manager |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/96472064466002630-senior-product-manager-notebooklm-quality-evals-ranking?sort_by=date&page=1) |
+
+## About This Role
+
+This product manager position at Google was posted on 2026-03-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
