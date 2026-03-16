@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager_R0134299-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Lead-Product-Manager_R0134898-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-02-19.
+This product manager position at PayPal was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

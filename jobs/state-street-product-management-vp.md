@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Quincy, Massachusetts, United States |
+| Location | Burlington, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Product-Management--VP_R-784773) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--VP_R-785235) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-23.
+This product manager position at State Street was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

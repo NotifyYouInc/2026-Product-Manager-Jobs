@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Senior Manager, Product at Autodesk
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Quebec, CA |
 | Category | Product Manager |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657058003) |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Colorado-USA---Remote/Senior-Manager--Product_26WD95997-2) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-03-09.
+This product manager position at Autodesk was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

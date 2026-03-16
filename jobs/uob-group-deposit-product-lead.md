@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Deposit Product Lead at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Manager |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657058003) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Ho-Chi-Minh-City-Area/Deposit-Product-Lead_JR80022) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-03-09.
+This product manager position at UOB Group was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

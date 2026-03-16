@@ -1,16 +1,16 @@
-# Senior Product Manager at Microsoft
+# Senior Data Product Manager at Payoneer
 
 | Field | Details |
 |-------|---------|
-| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Redmond, Washington, United States |
+| Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556823791) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://www.payoneer.com/careers/position/7647053/?gh_jid=7647053) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-03-05.
+This product manager position at Payoneer was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

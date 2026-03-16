@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Data Product Owner at Carrier Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7657058003) |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Ecospace-Campus-3A-4th-Floor-Outer-Ring-Road-Bellandur-Bengaluru--560103/Data-Product-Owner_30200674) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-03-09.
+This product manager position at Carrier Global was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
