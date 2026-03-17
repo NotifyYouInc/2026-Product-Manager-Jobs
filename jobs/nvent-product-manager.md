@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Anoka, Minnesota, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Product-Manager_R20627) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/New-Berlin-WI-US/Product-Manager_R20873) |
 
 ## About This Role
 
-This product manager position at nVent was posted on 2026-02-24.
+This product manager position at nVent was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

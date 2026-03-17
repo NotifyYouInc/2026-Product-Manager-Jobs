@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Fort Worth, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012004806-senior-product-line-manager) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012041367-senior-product-line-manager) |
 
 ## About This Role
 
-This product manager position at Wabtec was posted on 2026-03-05.
+This product manager position at Wabtec was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

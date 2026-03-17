@@ -5,12 +5,12 @@
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/5820689004?gh_jid=5820689004) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/5820698004?gh_jid=5820698004) |
 
 ## About This Role
 
-This product manager position at Epic Games was posted on 2026-03-06.
+This product manager position at Epic Games was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000110726845-product-owner-devops-hf) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113506624-product-owner-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-02-23.
+This devops engineer position at Inetum was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

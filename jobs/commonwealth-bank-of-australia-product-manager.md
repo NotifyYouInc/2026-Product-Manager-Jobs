@@ -5,12 +5,12 @@
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Product-Manager_REQ254043) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Product-Manager_REQ254395) |
 
 ## About This Role
 
-This product manager position at Commonwealth Bank of Australia was posted on 2026-02-22.
+This product manager position at Commonwealth Bank of Australia was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

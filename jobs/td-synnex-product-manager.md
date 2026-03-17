@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
-| Category | Business Development |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Jakarta-Indonesia/Product-Manager_R48231) |
+| Location | Hanoi, Hanoi, Vietnam |
+| Category | Product Manager |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Hanoi-Vietnam/Product-Manager_R48674) |
 
 ## About This Role
 
-This business development position at TD Synnex was posted on 2026-02-26.
+This product manager position at TD Synnex was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

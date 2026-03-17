@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New Delhi, Delhi, India |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000112844237-apm-mep) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000113405687-apm-mep) |
 
 ## About This Role
 
-This product manager position at Turner & Townsend was posted on 2026-03-05.
+This product manager position at Turner & Townsend was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000112580139-product-operations-associate-settlements) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000113629260-product-operations-associate-settlements) |
 
 ## About This Role
 
-This product manager position at Cuscal was posted on 2026-03-04.
+This product manager position at Cuscal was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

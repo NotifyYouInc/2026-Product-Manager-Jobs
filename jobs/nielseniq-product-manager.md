@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Budapest, Budapest, Hungary |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000107124930-product-manager) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113639378-product-manager) |
 
 ## About This Role
 
-This product manager position at NielsenIQ was posted on 2026-02-03.
+This product manager position at NielsenIQ was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

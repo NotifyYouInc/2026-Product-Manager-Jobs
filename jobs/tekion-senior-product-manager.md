@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tekion](https://scoutify.ai/companies/tekion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pleasanton, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7651614003) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7651163003) |
 
 ## About This Role
 
-This product manager position at Tekion was posted on 2026-03-05.
+This product manager position at Tekion was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

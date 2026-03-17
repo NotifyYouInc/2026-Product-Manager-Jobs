@@ -5,12 +5,12 @@
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000107747421-product-owner-confirme-transport-ferroviaire-fh) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000113506257-product-owner-confirme-transport-ferroviaire-fh) |
 
 ## About This Role
 
-This product manager position at ASI was posted on 2026-02-06.
+This product manager position at ASI was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
