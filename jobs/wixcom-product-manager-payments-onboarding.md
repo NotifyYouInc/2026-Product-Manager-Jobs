@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000111601365-product-manager-payments-onboarding) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000113676677-product-manager-payments-onboarding) |
 
 ## About This Role
 
-This product manager position at Wix.com was posted on 2026-02-26.
+This product manager position at Wix.com was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

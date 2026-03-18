@@ -5,12 +5,12 @@
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Manager_R53071) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Manager_R54953) |
 
 ## About This Role
 
-This product manager position at Trimble was posted on 2026-02-05.
+This product manager position at Trimble was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

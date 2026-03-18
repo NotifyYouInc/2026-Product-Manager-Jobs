@@ -1,16 +1,16 @@
-# PRODUCT OWNER – AGENTIC AI, Global Delivery Simplification Vice President at State Street
+# Product Owner – AGENTIC AI, Global Delivery Simplification, Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/PRODUCT-OWNER---AGENTIC-AI--Global-Delivery-Simplification-Vice-President_R-785393-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Product-Owner---AGENTIC-AI--Global-Delivery-Simplification--Vice-President_R-785585-2) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-03-06.
+This product manager position at State Street was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

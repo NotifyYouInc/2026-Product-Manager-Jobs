@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | Oegstgeest, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000112685887-product-line-manager-core-materials) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000113771067-product-line-manager-core-materials) |
 
 ## About This Role
 
-This product manager position at Avery Dennison Corporation was posted on 2026-03-04.
+This product manager position at Avery Dennison Corporation was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

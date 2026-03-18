@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Pune/Senior-Product-Owner_R33434) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-Product-Owner_R33804) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-02-27.
+This product manager position at Amadeus was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

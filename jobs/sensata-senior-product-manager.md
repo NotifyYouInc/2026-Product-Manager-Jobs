@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Attleboro, Massachusetts, United States |
-| Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/US-Remote/Senior-Product-Manager_IRC96989) |
+| Location | 2 locations |
+| Category | Marketing |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Attleboro-Massachusetts/Senior-Product-Manager_IRC96958) |
 
 ## About This Role
 
-This product manager position at Sensata was posted on 2026-03-03.
+This marketing position at Sensata was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
