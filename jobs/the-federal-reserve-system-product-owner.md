@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | Cleveland, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/New-York-NY/Product-Owner_R-0000031633-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/Product-Owner_R-0000031608) |
 
 ## About This Role
 
-This product manager position at The Federal Reserve System was posted on 2026-03-06.
+This product manager position at The Federal Reserve System was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

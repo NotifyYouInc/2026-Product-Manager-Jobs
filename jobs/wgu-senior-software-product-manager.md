@@ -5,12 +5,12 @@
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-Office/Senior-Software-Product-Manager_JR-024257) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Software-Product-Manager_JR-024572) |
 
 ## About This Role
 
-This product manager position at WGU was posted on 2026-02-03.
+This product manager position at WGU was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

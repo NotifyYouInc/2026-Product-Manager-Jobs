@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Bangkok/Product-Manager_JR1538-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Jakarta/Product-Manager_JR1553) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-03-10.
+This product manager position at Exclusivenetworks was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
