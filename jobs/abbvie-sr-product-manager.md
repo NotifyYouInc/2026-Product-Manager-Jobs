@@ -1,16 +1,16 @@
-# (Sr.) Product Manager at AbbVie
+# Sr. Product Manager at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011627966-sr-product-manager) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012121466-sr-product-manager) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-02-11.
+This product manager position at AbbVie was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Lead-Product-Manager_R0135274-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Lead-Product-Manager_R0135219-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-03-10.
+This product manager position at PayPal was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

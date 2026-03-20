@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Australia |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Manager--Product-Management_R-272337) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Product-Management_R-272033) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-06.
+This product manager position at Mastercard was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

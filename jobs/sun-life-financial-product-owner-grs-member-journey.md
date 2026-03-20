@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Product-Owner--GRS-Member-Journey_JR00120911-2) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Product-Owner--GRS-Member-Journey_JR00121445-1) |
 
 ## About This Role
 
-This product manager position at Sun Life Financial was posted on 2026-02-27.
+This product manager position at Sun Life Financial was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Program Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000109030913-pmo-it-pm-it-hf) |
+| Category | Product Manager |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000114317087-pmo-it-pm-it-hf) |
 
 ## About This Role
 
-This program manager position at ALTEN was posted on 2026-02-12.
+This product manager position at ALTEN was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deel/955171b2-83ce-4954-a9e9-4f4168c41630) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/a446c59c-83f8-4034-94e9-baa042884de6) |
 
 ## About This Role
 
-This product manager position at Deel was posted on 2026-02-09.
+This product manager position at Deel was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

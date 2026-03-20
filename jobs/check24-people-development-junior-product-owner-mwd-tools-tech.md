@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000108765544-people-development-junior-product-owner-mwd-tools-tech) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000114306192-people-development-junior-product-owner-mwd-tools-tech) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-02-11.
+This product manager position at CHECK24 was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

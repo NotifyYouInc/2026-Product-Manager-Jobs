@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Product-Manager_26WD96411-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/Senior-Product-Manager_26WD96471-1) |
 
 ## About This Role
 
-This product manager position at Autodesk was posted on 2026-03-10.
+This product manager position at Autodesk was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

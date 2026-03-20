@@ -1,16 +1,16 @@
-# Product Management, Manager at Athena Health
+# Product Management Manager at Athena Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Product-Management--Manager_R14393) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Product-Management-Manager_R14625) |
 
 ## About This Role
 
-This product manager position at Athena Health was posted on 2026-02-11.
+This product manager position at Athena Health was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

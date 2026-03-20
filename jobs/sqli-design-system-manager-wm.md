@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sant Just Desvern, Catalonia, Spain |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000113699459-design-system-manager-wm) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000114332077-design-system-manager-wm) |
 
 ## About This Role
 
-This product manager position at SQLI was posted on 2026-03-10.
+This product manager position at SQLI was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

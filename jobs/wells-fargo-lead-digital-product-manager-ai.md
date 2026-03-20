@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---AI_R-521242) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Digital-Product-Manager---AI_R-521241-1) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-03-03.
+This product manager position at Wells Fargo was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

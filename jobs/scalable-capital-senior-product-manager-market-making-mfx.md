@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | 2 locations |
 | Category | Sales & Trading |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000113664319-senior-product-manager-market-making-mfx) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000114038117-senior-product-manager-market-making-mfx) |
 
 ## About This Role
 
-This sales & trading position at Scalable Capital was posted on 2026-03-10.
+This sales & trading position at Scalable Capital was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

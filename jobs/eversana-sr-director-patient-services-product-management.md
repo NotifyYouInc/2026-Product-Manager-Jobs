@@ -5,12 +5,12 @@
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mason, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000110816381-sr-director-patient-services-product-management) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000114476657-sr-director-patient-services-product-management) |
 
 ## About This Role
 
-This product manager position at EVERSANA was posted on 2026-02-23.
+This product manager position at EVERSANA was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
