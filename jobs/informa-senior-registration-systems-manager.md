@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000114007248-senior-registration-systems-manager) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000114359587-senior-registration-systems-manager) |
 
 ## About This Role
 
-This product manager position at Informa was posted on 2026-03-11.
+This product manager position at Informa was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

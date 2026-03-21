@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Quebec, CA |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Intelligence-artificielle_R2603275) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--AS400_R2603553) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-03-11.
+This product manager position at Desjardins was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kochi, Kerala, India |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=86251) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102606) |
 
 ## About This Role
 
-This product manager position at IBM was posted on 2026-02-04.
+This product manager position at IBM was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

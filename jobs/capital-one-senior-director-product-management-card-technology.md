@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Director--Product-Management--Card-Technology_R236767-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Director--Product-Management--Card-Technology_R237600-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-02-25.
+This product manager position at Capital One was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

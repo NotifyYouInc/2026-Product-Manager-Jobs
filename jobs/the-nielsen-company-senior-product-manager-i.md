@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011937466-senior-product-manager-i) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012130232-senior-product-manager-i) |
 
 ## About This Role
 
-This product manager position at The Nielsen Company was posted on 2026-03-03.
+This product manager position at The Nielsen Company was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Product-Manager_JR-0105054) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Product-Manager_JR-0104998) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-03-11.
+This product manager position at Workday was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
