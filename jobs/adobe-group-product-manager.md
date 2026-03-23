@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# Group Product Manager at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000114898407-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Group-Product-Manager_R166561) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-16.
+This product manager position at Adobe was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

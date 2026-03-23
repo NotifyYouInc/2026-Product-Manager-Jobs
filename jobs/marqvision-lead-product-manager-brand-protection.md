@@ -1,16 +1,16 @@
-# Product Manager at SIA
+# Lead Product Manager, Brand Protection  at MarqVision
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Product Manager |
+| Company | [MarqVision](https://scoutify.ai/companies/marqvision?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Brand Marketing |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000114889147-product-manager) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/marqvision/jobs/4534437008) |
 
 ## About This Role
 
-This product manager position at SIA was posted on 2026-03-16.
+This brand marketing position at MarqVision was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

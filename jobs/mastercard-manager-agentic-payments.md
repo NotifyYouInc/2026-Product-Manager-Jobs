@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# Manager, Agentic Payments at Mastercard
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000114898407-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Manager--Agentic-Payments_R-272746) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-16.
+This product manager position at Mastercard was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

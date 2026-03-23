@@ -1,16 +1,16 @@
-# Global Shared Services Manager P2P (Purchasing) : Shift Timing - 7 pm to 4 am IST at QAD
+# Product Manager – Neuroscience - Mumbai at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000114896342-global-shared-services-manager-p2p-purchasing-shift-timing-7-pm-to-4-am-ist) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Mumbai-India/Product-Manager---Neuroscience---Mumbai_R-056077) |
 
 ## About This Role
 
-This product manager position at QAD was posted on 2026-03-16.
+This product manager position at Johnson & Johnson was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

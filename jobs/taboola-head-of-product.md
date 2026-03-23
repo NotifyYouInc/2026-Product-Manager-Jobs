@@ -1,16 +1,16 @@
-# Product Manager, Models at Heidi Health
+# Head of Product at Taboola
 
 | Field | Details |
 |-------|---------|
-| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Company | [Taboola](https://scoutify.ai/companies/taboola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/d4afa65a-d652-442d-a294-d29f7b93557e) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://www.taboola.com/careers/job/7695161?gh_jid=7695161) |
 
 ## About This Role
 
-This product manager position at Heidi Health was posted on 2026-03-16.
+This product manager position at Taboola was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

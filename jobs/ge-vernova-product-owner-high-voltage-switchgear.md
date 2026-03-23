@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# Product Owner - High Voltage Switchgear at GE Vernova
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 5 locations |
 | Category | Product Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000114898407-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Product-Owner---High-Voltage-Switchgear_R5034781-2) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-16.
+This product manager position at GE Vernova was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

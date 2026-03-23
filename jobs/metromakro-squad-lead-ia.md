@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# Squad Lead IA at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000114898407-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000114897407-squad-lead-ia) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-16.
+This product manager position at METRO/MAKRO was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

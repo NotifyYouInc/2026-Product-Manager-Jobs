@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# Upstream Product Manager, Protein Research at Danaher
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000114898407-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Upstream-Product-Manager--Protein-Research_R1305352) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-16.
+This product manager position at Danaher was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

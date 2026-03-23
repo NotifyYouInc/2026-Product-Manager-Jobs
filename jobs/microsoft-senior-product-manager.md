@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-03-12 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556835408) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556837602) |
 
 ## About This Role
 

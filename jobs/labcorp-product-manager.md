@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bangalore-India/Product-Manager_266467-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bangalore-India/Product-Manager_268036-1) |
 
 ## About This Role
 
-This product manager position at Labcorp was posted on 2026-03-04.
+This product manager position at Labcorp was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
