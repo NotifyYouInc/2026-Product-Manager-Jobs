@@ -1,16 +1,16 @@
-# Senior Product Manager, Tableau Next at Salesforce
+# Senior Product Manager - Tableau Next at Salesforce
 
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto-Metro---Remote/Senior-Product-Manager--Tableau-Next_JR330445) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Product-Manager---Tableau-Next_JR332263) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-02-24.
+This product manager position at Salesforce was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

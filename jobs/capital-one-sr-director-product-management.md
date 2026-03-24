@@ -1,16 +1,16 @@
-# Sr. Director Product Management at Capital One
+# Sr. Director, Product Management at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Sr-Director-Product-Management_R231268-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Sr-Director--Product-Management_R238159-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-03-09.
+This product manager position at Capital One was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

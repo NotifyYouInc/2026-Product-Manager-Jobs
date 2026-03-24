@@ -5,12 +5,12 @@
 | Company | [BUT](https://scoutify.ai/companies/but?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | France |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BUT2/744000114370127-alternant-chef-de-produit-web-fhx) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BUT2/744000115013118-alternant-chef-de-produit-web-fhx) |
 
 ## About This Role
 
-This product manager position at BUT was posted on 2026-03-12.
+This product manager position at BUT was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

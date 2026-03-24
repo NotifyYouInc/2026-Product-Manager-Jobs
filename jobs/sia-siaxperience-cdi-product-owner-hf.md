@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109975686-siaxperience-cdi-product-owner-hf) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000115052912-siaxperience-cdi-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at SIA was posted on 2026-02-18.
+This product manager position at SIA was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

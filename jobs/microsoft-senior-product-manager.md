@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Redmond, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556837602) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843497) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-03-12.
+This product manager position at Microsoft was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

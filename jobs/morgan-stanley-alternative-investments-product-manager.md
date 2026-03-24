@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York, US |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/Alternative-Investments-Product-Manager_PT-JR032088) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/Alternative-Investments-Product-Manager_PT-JR032090) |
 
 ## About This Role
 
-This product manager position at Morgan Stanley was posted on 2026-03-12.
+This product manager position at Morgan Stanley was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

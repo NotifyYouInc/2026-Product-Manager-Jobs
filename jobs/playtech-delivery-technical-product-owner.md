@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000108751188-delivery-technical-product-owner) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000115018998-delivery-technical-product-owner) |
 
 ## About This Role
 
-This product manager position at Playtech was posted on 2026-02-11.
+This product manager position at Playtech was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Product-Manager_J00174269) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Product-Manager_J00175472) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-02-04.
+This product manager position at Equifax was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 2 locations |
 | Category | Corporate Finance |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000114353290-ref91674r-senior-associate-accounts-receivable-order-to-cast-2-3-years-1100-am-0800-pm-day-shift-job-location-thane) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000114558272-ref91674r-senior-associate-accounts-receivable-order-to-cast-2-3-years-1100-am-0800-pm-day-shift-job-location-thane) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-03-12.
+This corporate finance position at WNS was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
