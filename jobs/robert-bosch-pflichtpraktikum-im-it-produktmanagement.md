@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114047093-pflichtpraktikum-im-it-produktmanagement) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115140734-pflichtpraktikum-im-it-produktmanagement) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-03-11.
+This product manager position at Robert Bosch was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

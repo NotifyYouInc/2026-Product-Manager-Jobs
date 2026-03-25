@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Costa Rica |
+| Location | Kerala, IN |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI-Sabana/Senior-Technical-Product-Owner_J00175474) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Senior-Technical-Product-Owner_J00175546-1) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-03-13.
+This product manager position at Equifax was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

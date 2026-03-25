@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000109883891-associate-product-owner-mwd-traineeprogramm-dusseldorf) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000115248347-associate-product-owner-mwd-traineeprogramm-dusseldorf) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-02-18.
+This product manager position at CHECK24 was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

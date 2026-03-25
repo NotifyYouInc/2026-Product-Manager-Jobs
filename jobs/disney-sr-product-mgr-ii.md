@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | Santa Monica, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Product-Mgr-II_10145123) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Product-Mgr-II_10145233) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-03-12.
+This product manager position at Disney was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

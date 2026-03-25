@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556802453) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556834630) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-02-27.
+This product manager position at Microsoft was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

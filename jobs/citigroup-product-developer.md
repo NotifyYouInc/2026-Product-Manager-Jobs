@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New Castle, Pennsylvania, United States |
+| Location | Irving, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Product-Developer_26940164) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Product-Developer_26940960-1) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-03-07.
+This product manager position at Citigroup was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

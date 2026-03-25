@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114665142-technical-product-manager-compliance-technology-operations) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115045057-technical-product-manager-compliance-technology-operations) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-03-13.
+This product manager position at Visa International Service Association was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

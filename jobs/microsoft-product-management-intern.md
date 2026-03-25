@@ -1,16 +1,16 @@
-# Product Management INTERN at Microsoft
+# Product Management Intern at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Illinois, US |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556629980) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556834073) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-02-25.
+This product manager position at Microsoft was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

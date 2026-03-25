@@ -5,12 +5,12 @@
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Waukesha, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Product-Manager_JR12382-1) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Product-Manager_JR13002) |
 
 ## About This Role
 
-This product manager position at Generac was posted on 2026-03-04.
+This product manager position at Generac was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/34e689bb-cf61-4388-80ae-7695d2fa5606) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/81963446-c0b8-4027-8f75-584ed63cd411) |
 
 ## About This Role
 
-This product manager position at Jerry.ai was posted on 2026-03-13.
+This product manager position at Jerry.ai was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

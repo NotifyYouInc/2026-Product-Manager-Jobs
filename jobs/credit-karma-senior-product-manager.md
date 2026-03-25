@@ -5,12 +5,12 @@
 | Company | [Credit Karma](https://scoutify.ai/companies/creditkarma?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/creditkarma/jobs/7658248003) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/creditkarma/jobs/7658246003) |
 
 ## About This Role
 
-This product manager position at Credit Karma was posted on 2026-03-13.
+This product manager position at Credit Karma was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000109921275-product-owner) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000115156761-product-owner) |
 
 ## About This Role
 
-This product manager position at Netcompany was posted on 2026-02-18.
+This product manager position at Netcompany was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

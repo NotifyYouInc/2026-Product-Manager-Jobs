@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Digital-Product-Owner_R0000355142) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Senior-Digital-Product-Owner_R0000353973) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-03-09.
+This product manager position at Caterpillar was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

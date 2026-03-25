@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843497) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556843425) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-03-13.
+This product manager position at Microsoft was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

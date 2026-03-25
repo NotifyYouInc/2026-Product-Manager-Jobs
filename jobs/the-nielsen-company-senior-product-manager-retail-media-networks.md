@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York, US |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011740156-senior-product-manager-retail-media-networks) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012182780-senior-product-manager-retail-media-networks) |
 
 ## About This Role
 
-This product manager position at The Nielsen Company was posted on 2026-02-18.
+This product manager position at The Nielsen Company was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

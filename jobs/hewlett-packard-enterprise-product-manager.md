@@ -1,16 +1,16 @@
-# Product manager at Hewlett Packard Enterprise
+# Product Manager at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | Spring, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Product-manager_1202384-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Product-Manager_1200590) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard Enterprise was posted on 2026-02-20.
+This product manager position at Hewlett Packard Enterprise was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
