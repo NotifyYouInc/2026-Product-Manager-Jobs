@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tashkent, Tashkent, Uzbekistan |
+| Location | New South Wales, AU |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Uzbekistan---Tashkent/Product-Manager_31143952) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia--Macquarie-Park--299-Lane-Cove-Road/Product-Manager_31144180) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-03-06.
+This product manager position at Abbott was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

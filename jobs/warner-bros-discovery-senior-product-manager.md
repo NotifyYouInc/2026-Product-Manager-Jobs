@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | New York, US |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Senior-Product-Manager_R000101618) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-230-Park-Avenue-South/Senior-Product-Manager_R000103745) |
 
 ## About This Role
 
-This product manager position at Warner Bros Discovery was posted on 2026-02-27.
+This product manager position at Warner Bros Discovery was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

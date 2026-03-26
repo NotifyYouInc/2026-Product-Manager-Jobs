@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/PO-Junior---Data---IA--Ciudad-de-Mxico--Cuauhtmoc-_JR00096510) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/PO-Junior---Data---IA--Ciudad-de-Mxico--Cuauhtmoc-_JR00098983) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-19.
+This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114140538-especialista-de-produtos) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000115542797-especialista-de-produtos) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-03-11.
+This product manager position at Experian was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

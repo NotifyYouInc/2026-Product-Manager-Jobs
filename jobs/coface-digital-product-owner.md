@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bois-Colombes, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000111131424-digital-product-owner) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000115489704-digital-product-owner) |
 
 ## About This Role
 
-This product manager position at Coface was posted on 2026-02-24.
+This product manager position at Coface was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

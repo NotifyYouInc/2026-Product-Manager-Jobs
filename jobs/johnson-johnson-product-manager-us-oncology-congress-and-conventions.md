@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pennsylvania, US |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Product-Manager--US-Oncology-Congress-and-Conventions_R-060359-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Product-Manager--US-Oncology-Congress-and-Conventions_R-064711-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-02-23.
+This product manager position at Johnson & Johnson was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

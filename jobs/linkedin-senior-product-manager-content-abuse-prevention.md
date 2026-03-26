@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108443665-senior-product-manager-content-abuse-prevention) |
+| Category | Content Marketing |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115592867-senior-product-manager-content-abuse-prevention) |
 
 ## About This Role
 
-This product manager position at LinkedIn was posted on 2026-02-10.
+This content marketing position at LinkedIn was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

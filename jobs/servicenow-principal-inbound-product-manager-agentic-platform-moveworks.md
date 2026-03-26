@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000107436102-principal-inbound-product-manager-agentic-platform-moveworks) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115518147-principal-inbound-product-manager-agentic-platform-moveworks) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-02-05.
+This product manager position at ServiceNow was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

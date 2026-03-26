@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/1st-to-4th-Floors-Block-D-Embassy-Golf-Links-Business-Park-Bengaluru/Sr-Consultant-I-Product-Owner_JR115780) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Embassy-Park---Bengaluru/Sr-Consultant-I-Product-Owner_JR116056) |
 
 ## About This Role
 
-This product manager position at National Australia Bank (NAB) was posted on 2026-02-17.
+This product manager position at National Australia Bank (NAB) was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

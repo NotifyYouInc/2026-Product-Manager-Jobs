@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Lead-Product-Manager--Open-Banking_R0134944-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/California-Bay-Area-Metro-United-States-of-America-Virtual/Lead-Product-Manager--Open-Banking_R0135835-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-02-17.
+This product manager position at PayPal was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

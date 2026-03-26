@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chengdu, Sichuan, China |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Sichuan-Chengdu-610041/Functional-Product-Manager---Management-Reporting_R175778) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Sichuan-Chengdu-610041/Functional-Product-Manager---Management-Reporting_R175779) |
 
 ## About This Role
 
-This product manager position at A.P. Moller - Maersk was posted on 2026-03-17.
+This product manager position at A.P. Moller - Maersk was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

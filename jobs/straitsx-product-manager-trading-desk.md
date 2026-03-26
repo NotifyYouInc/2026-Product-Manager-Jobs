@@ -5,12 +5,12 @@
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Sales & Trading |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4788679101) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4816047101) |
 
 ## About This Role
 
-This sales & trading position at StraitsX was posted on 2026-03-03.
+This sales & trading position at StraitsX was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

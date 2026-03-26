@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000109890674-technischer-produkt-manager-mwd-traineeprogramm-hamburg) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000115422367-technischer-produkt-manager-mwd-traineeprogramm-hamburg) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-02-18.
+This product manager position at CHECK24 was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

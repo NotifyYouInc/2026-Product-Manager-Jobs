@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Emburse](https://scoutify.ai/companies/emburse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Operations |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.lever.co/emburse/91455ae4-5d78-4e70-bd33-67fcaadceec5) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.lever.co/emburse/0b33c71c-d05e-44b5-a98f-ee5338550994) |
 
 ## About This Role
 
-This operations position at Emburse was posted on 2026-03-16.
+This operations position at Emburse was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
