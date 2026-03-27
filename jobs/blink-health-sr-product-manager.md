@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8463044002) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8465615002) |
 
 ## About This Role
 
-This product manager position at Blink Health was posted on 2026-03-17.
+This product manager position at Blink Health was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

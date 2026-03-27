@@ -1,16 +1,16 @@
-# Sr. Product Manager at Disney
+# Sr Product Manager at Disney
 
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Florida, US |
+| Location | Glendale, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Sr-Product-Manager_10133792) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Sr-Product-Manager_10145182) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-03-03.
+This product manager position at Disney was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager at Playtech
+# Product Manager  at Playtech
 
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Tartu, Tartu, Estonia |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000107277275-product-manager) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000115601908-product-manager) |
 
 ## About This Role
 
-This product manager position at Playtech was posted on 2026-02-04.
+This product manager position at Playtech was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

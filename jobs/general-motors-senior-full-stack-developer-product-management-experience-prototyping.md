@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mountain View, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Senior-Full-Stack-Developer--Product-Management---Experience-Prototyping_JR-202603932) |
+| Location | 2 locations |
+| Category | Mobile Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Full-Stack-Developer--Product-Management---Experience-Prototyping_JR-202605305) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-26.
+This mobile engineer position at General Motors was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

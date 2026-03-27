@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Quebec, CA |
 | Category | Product Manager |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--Risque-de-crdit_R2601819) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--Risque-de-crdit_R2604025) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-02-15.
+This product manager position at Desjardins was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

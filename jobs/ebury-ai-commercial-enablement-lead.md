@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Learning & Development |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4792648101) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4816300101) |
 
 ## About This Role
 
-This learning & development position at Ebury was posted on 2026-02-28.
+This learning & development position at Ebury was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

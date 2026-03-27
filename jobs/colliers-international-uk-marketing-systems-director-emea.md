@@ -5,12 +5,12 @@
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Marketing Operations |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000115275872-marketing-systems-director-emea) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000115406657-marketing-systems-director-emea) |
 
 ## About This Role
 
-This marketing operations position at Colliers International UK was posted on 2026-03-17.
+This marketing operations position at Colliers International UK was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

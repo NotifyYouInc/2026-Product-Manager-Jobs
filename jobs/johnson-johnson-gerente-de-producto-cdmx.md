@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Mexico-City-Mexico/Gerente-de-Producto---CDMX_R-058919-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Mexico-City-Mexico/Gerente-de-Producto---CDMX_R-060051) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-02-18.
+This product manager position at Johnson & Johnson was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

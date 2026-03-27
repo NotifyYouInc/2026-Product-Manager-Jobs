@@ -1,16 +1,16 @@
-# Product Manager,  Fraud Risk / AML, Bridge at Stripe
+# Product Manager - Fraud Risk / AML, Bridge at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
-| Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7599875) |
+| Location | 2 locations |
+| Category | Financial Crimes & AML |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7733239) |
 
 ## About This Role
 
-This product manager position at Stripe was posted on 2026-02-09.
+This financial crimes & aml position at Stripe was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

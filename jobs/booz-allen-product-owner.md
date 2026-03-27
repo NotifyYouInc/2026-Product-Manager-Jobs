@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Product-Owner_R0235165) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Owner_R0236346) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-03-06.
+This product manager position at Booz Allen was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000114088917-digital-experience-lead) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115744537-digital-experience-lead) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-03-11.
+This product manager position at ServiceNow was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

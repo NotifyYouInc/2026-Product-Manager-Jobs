@@ -5,12 +5,12 @@
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Switzerland |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Balance-Sheet-Product-Manager-100---f-m-d-_r-17348-2) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Balance-Sheet-Product-Manager-100---f-m-d-_r-17872-2) |
 
 ## About This Role
 
-This product manager position at Julius Baer was posted on 2026-02-04.
+This product manager position at Julius Baer was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

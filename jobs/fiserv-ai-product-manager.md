@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/AI-Product-Manager_R-10388375-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/AI-Product-Manager_R-10389515) |
 
 ## About This Role
 
-This product manager position at Fiserv was posted on 2026-02-18.
+This product manager position at Fiserv was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
