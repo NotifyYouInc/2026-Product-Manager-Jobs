@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Product-Manager_JR-0104998) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Product-Manager_JR-0105057) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-03-12.
+This product manager position at Workday was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

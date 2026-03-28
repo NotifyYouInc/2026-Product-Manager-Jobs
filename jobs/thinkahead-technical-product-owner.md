@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.lever.co/thinkahead/ec646ee2-926c-4eca-a431-8be513dd944a) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.lever.co/thinkahead/e6ec7f53-612e-42ea-a656-efe1df7ac4f7) |
 
 ## About This Role
 
-This product manager position at Thinkahead was posted on 2026-03-10.
+This product manager position at Thinkahead was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

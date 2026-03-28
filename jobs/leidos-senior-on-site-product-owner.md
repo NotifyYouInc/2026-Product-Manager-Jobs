@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Senior-On-Site-Product-Owner_R-00177012) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Senior-On-Site-Product-Owner_R-00178966) |
 
 ## About This Role
 
-This product manager position at Leidos was posted on 2026-02-26.
+This product manager position at Leidos was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

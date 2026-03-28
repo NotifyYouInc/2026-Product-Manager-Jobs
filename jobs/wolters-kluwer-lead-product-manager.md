@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---New-York-City-NY/Lead-Product-Manager_R0054595-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Coppell-TX/Lead-Product-Manager_R0055938-2) |
 
 ## About This Role
 
-This product manager position at Wolters Kluwer was posted on 2026-02-27.
+This product manager position at Wolters Kluwer was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

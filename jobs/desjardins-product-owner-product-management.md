@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Quebec, CA |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/1-Complexe-Desjardins-Montral/Responsable-de-produit--Microsoft-Copilot-365_R2603675) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Sites-informationnels_R2603938) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-03-18.
+This product manager position at Desjardins was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Product Manager at NBCUniversal
+# Sr Product Manager at NBCUniversal
 
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
-| Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113504921-sr-product-manager) |
+| Location | Universal City, California, United States |
+| Category | Product Manager |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000115874992-sr-product-manager) |
 
 ## About This Role
 
-This security engineer position at NBCUniversal was posted on 2026-03-09.
+This product manager position at NBCUniversal was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

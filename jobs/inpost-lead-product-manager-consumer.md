@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000114095767-lead-product-manager-consumer) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000115812092-lead-product-manager-consumer) |
 
 ## About This Role
 
-This product manager position at INPOST was posted on 2026-03-11.
+This product manager position at INPOST was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

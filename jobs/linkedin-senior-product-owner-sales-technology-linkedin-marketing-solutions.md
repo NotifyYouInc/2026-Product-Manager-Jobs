@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115497337-senior-product-owner-sales-technology-linkedin-marketing-solutions) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115707506-senior-product-owner-sales-technology-linkedin-marketing-solutions) |
 
 ## About This Role
 
-This product manager position at LinkedIn was posted on 2026-03-18.
+This product manager position at LinkedIn was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

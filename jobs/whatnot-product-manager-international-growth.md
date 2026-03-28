@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WhatNot](https://scoutify.ai/companies/whatnot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/785be295-393c-4157-b8d2-cc45100ae566) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whatnot/12d7bd40-96f4-4441-ac2f-68db71bb49ba) |
 
 ## About This Role
 
-This product manager position at WhatNot was posted on 2026-02-25.
+This product manager position at WhatNot was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

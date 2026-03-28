@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000114625841-digital-platform-manager-mwd) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000115861756-digital-platform-manager-mwd) |
 
 ## About This Role
 
-This product manager position at Eurofins Scientific was posted on 2026-03-13.
+This product manager position at Eurofins Scientific was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

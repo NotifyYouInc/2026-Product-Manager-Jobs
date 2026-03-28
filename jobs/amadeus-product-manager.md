@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Manager_R31875-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Salt-Lake-City-Utah/Product-Manager_R34203) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-03-12.
+This product manager position at Amadeus was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
