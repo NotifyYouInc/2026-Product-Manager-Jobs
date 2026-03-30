@@ -1,16 +1,16 @@
-# Global Retail Product Owner at Dyson
+# Senior Product Manager at Vestwell
 
 | Field | Details |
 |-------|---------|
-| Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Vestwell](https://scoutify.ai/companies/vestwell?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Global-Retail-Product-Owner_JR35128) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vestwell/jobs/7674979003) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-03-22.
+This product manager position at Vestwell was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Global Retail Product Owner at Dyson
+# Especialista em Produtos - FPS (GET) at The Weir Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Global-Retail-Product-Owner_JR35128) |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Parauapebas/Especialista-em-Produtos---FPS--GET-_R0036460) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-03-22.
+This product manager position at The Weir Group was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AVENE Product Manager at Pierre Fabre
+# Staff Product Manager, Yield at Airwallex
 
 | Field | Details |
 |-------|---------|
-| Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/South-Korea---Seoul/AVENE-Product-Manager_JR111190) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/a4c847b0-1867-4154-ab61-4dfe9a1ddaec) |
 
 ## About This Role
 
-This product manager position at Pierre Fabre was posted on 2026-03-23.
+This product manager position at Airwallex was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

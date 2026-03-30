@@ -1,16 +1,16 @@
-# AVENE Product Manager at Pierre Fabre
+# Digital Experience Manager at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/South-Korea---Seoul/AVENE-Product-Manager_JR111190) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000116106922-digital-experience-manager) |
 
 ## About This Role
 
-This product manager position at Pierre Fabre was posted on 2026-03-23.
+This product manager position at H&M Group was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

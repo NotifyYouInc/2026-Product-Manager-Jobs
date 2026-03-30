@@ -1,16 +1,16 @@
-# Global Retail Product Owner at Dyson
+# Director of Product Strategy at PVH
 
 | Field | Details |
 |-------|---------|
-| Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Manager |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Global-Retail-Product-Owner_JR35128) |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Amsterdam-NL/Director-of-Product-Strategy_R58276) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-03-22.
+This product manager position at PVH was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

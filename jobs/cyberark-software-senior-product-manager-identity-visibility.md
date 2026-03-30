@@ -1,16 +1,16 @@
-# AVENE Product Manager at Pierre Fabre
+# Senior Product Manager (Identity Visibility) at CyberArk Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Israel |
 | Category | Product Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/South-Korea---Seoul/AVENE-Product-Manager_JR111190) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000116112147-senior-product-manager-identity-visibility) |
 
 ## About This Role
 
-This product manager position at Pierre Fabre was posted on 2026-03-23.
+This product manager position at CyberArk Software was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

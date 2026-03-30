@@ -1,16 +1,16 @@
-# AVENE Product Manager at Pierre Fabre
+# Senior Product Manager - Pricing, Amazon Global Logistics at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/South-Korea---Seoul/AVENE-Product-Manager_JR111190) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373079/senior-product-manager-pricing-amazon-global-logistics) |
 
 ## About This Role
 
-This product manager position at Pierre Fabre was posted on 2026-03-23.
+This product manager position at Amazon was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

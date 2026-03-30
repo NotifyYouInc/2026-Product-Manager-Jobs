@@ -1,16 +1,16 @@
-# AVENE Product Manager at Pierre Fabre
+# Product Owner - Platform workflow at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Karnataka, IN |
 | Category | Product Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/South-Korea---Seoul/AVENE-Product-Manager_JR111190) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Product-Owner---Platform-workflow_578408-1) |
 
 ## About This Role
 
-This product manager position at Pierre Fabre was posted on 2026-03-23.
+This product manager position at Philips was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

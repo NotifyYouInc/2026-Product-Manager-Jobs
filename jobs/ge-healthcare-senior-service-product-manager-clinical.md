@@ -1,16 +1,16 @@
-# Product Manager at Merck
+# Senior Service Product Manager -Clinical at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Product-Manager_R390311-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Senior-Service-Product-Manager--Clinical_R4038402) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-03-20.
+This product manager position at GE HealthCare was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

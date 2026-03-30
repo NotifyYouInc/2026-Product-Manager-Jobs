@@ -1,16 +1,16 @@
-# AVENE Product Manager at Pierre Fabre
+# Digital Delivery Systems Advisor at Beca
 
 | Field | Details |
 |-------|---------|
-| Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Beca](https://scoutify.ai/companies/beca?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Product Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/South-Korea---Seoul/AVENE-Product-Manager_JR111190) |
+| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Auckland-New-Zealand/Digital-Delivery-Systems-Advisor_JR101147) |
 
 ## About This Role
 
-This product manager position at Pierre Fabre was posted on 2026-03-23.
+This product manager position at Beca was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

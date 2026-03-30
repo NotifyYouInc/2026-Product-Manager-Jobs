@@ -1,16 +1,16 @@
-# AVENE Product Manager at Pierre Fabre
+# 区域产品经理RPM,(泌尿)杭州or上海 at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/South-Korea---Seoul/AVENE-Product-Manager_JR111190) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/RPM---or_R-065398) |
 
 ## About This Role
 
-This product manager position at Pierre Fabre was posted on 2026-03-23.
+This product manager position at Johnson & Johnson was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

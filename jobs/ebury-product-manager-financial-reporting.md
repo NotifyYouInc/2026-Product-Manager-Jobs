@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4812362101) |
+| Posted | 2026-03-22 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4819216101) |
 
 ## About This Role
 
-This accounting position at Ebury was posted on 2026-03-16.
+This accounting position at Ebury was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

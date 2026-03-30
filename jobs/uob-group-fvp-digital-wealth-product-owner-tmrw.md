@@ -1,16 +1,16 @@
-# AVENE Product Manager at Pierre Fabre
+# FVP, Digital Wealth Product Owner TMRW at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Pierre Fabre](https://scoutify.ai/companies/pierre-fabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Not specified |
 | Category | Product Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://pierrefabre.wd3.myworkdayjobs.com/external_career_site/job/South-Korea---Seoul/AVENE-Product-Manager_JR111190) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/FVP--Digital-Wealth-Product-Owner-TMRW_JR81473) |
 
 ## About This Role
 
-This product manager position at Pierre Fabre was posted on 2026-03-23.
+This product manager position at UOB Group was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

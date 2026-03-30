@@ -1,16 +1,16 @@
-# Global Retail Product Owner at Dyson
+# Senior Product Manager (Firefly) at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Global-Retail-Product-Owner_JR35128) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Senior-Product-Manager--Firefly-_R166651) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-03-22.
+This product manager position at Adobe was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

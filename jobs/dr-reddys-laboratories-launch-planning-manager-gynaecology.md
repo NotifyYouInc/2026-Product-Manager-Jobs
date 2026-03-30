@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000113085113-launch-planning-manager-gynaecology) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000116104157-launch-planning-manager-gynaecology) |
 
 ## About This Role
 
-This product manager position at Dr. Reddy's Laboratories was posted on 2026-03-06.
+This product manager position at Dr. Reddy's Laboratories was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
