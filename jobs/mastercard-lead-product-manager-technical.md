@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | O'Fallon, Missouri, United States |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Product-Manager---Technical_R-271041) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Product-Manager---Technical_R-273849) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-03.
+This product manager position at Mastercard was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

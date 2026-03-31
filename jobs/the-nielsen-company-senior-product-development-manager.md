@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012197866-senior-product-development-manager) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012260786-senior-product-development-manager) |
 
 ## About This Role
 
-This engineering manager position at The Nielsen Company was posted on 2026-03-18.
+This engineering manager position at The Nielsen Company was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

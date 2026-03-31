@@ -1,16 +1,16 @@
-# Sr. Product Manager at Visa International Service Association
+# Sr. Product Manager  at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Los Angeles, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112509159-sr-product-manager) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116287926-sr-product-manager) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-03-03.
+This product manager position at Visa International Service Association was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

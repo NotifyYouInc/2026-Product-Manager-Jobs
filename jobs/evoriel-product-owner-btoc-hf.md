@@ -5,12 +5,12 @@
 | Company | [Evoriel](https://scoutify.ai/companies/evoriel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | France |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000115374212-product-owner-btoc-hf) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVORIEL/744000116187862-product-owner-btoc-hf) |
 
 ## About This Role
 
-This product manager position at Evoriel was posted on 2026-03-18.
+This product manager position at Evoriel was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

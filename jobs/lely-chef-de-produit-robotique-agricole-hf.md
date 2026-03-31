@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | France |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000113144497-chef-de-produit-robotique-agricole-hf) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000116119507-chef-de-produit-robotique-agricole-hf) |
 
 ## About This Role
 
-This product manager position at Lely was posted on 2026-03-06.
+This product manager position at Lely was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

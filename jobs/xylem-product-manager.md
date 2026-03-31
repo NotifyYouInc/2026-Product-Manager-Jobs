@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Auburn, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Charlotte-North-Carolina/Product-Manager_R47130) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Auburn-New-York/Product-Manager_R47389) |
 
 ## About This Role
 
-This product manager position at Xylem was posted on 2026-03-19.
+This product manager position at Xylem was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

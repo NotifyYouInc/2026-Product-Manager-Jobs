@@ -5,12 +5,12 @@
 | Company | [OpenEye](https://scoutify.ai/companies/openeye?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Washington, US |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8377551002) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8472410002) |
 
 ## About This Role
 
-This product manager position at OpenEye was posted on 2026-03-19.
+This product manager position at OpenEye was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/So-Paulo-Brazil/Senior-Product-Manager_R-060244-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Ho-Chi-Minh-H-Ch-Minh-Vietnam/Senior-Product-Manager_R-065804) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-02-24.
+This product manager position at Johnson & Johnson was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

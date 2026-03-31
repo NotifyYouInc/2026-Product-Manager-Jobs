@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Pennsylvania, US |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Toronto-Canada/Investment-Management-Quantitative-Product-Manager_174883) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Investment-Management-Quantitative-Product-Manager--Senior-Specialist_174881) |
 
 ## About This Role
 
-This asset management / portfolio management position at Vanguard was posted on 2026-03-11.
+This asset management / portfolio management position at Vanguard was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

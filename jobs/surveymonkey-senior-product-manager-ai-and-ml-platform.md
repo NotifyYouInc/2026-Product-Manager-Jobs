@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SurveyMonkey](https://scoutify.ai/companies/surveymonkey?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7700592) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7700594) |
 
 ## About This Role
 
-This product manager position at SurveyMonkey was posted on 2026-03-18.
+This product manager position at SurveyMonkey was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

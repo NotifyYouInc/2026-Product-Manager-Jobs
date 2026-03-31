@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Asurion](https://scoutify.ai/companies/asurion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Nashville, Tennessee, United States |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/San-Mateo---Bovet/Principal-Product-Manager_ASU0019144) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/Principal-Product-Manager_ASU0019264-1) |
 
 ## About This Role
 
-This product manager position at Asurion was posted on 2026-03-19.
+This product manager position at Asurion was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
