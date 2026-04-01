@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore |
 | Category | Operations |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113624057-lead-sales-product-operations) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000116508767-lead-sales-product-operations) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-03-10.
+This operations position at Delivery Hero was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

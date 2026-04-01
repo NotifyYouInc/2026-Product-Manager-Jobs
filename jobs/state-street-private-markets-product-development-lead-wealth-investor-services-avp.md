@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Private-Markets-Product-Development-Lead---Wealth---Investor-Services--AVP_R-783744) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Private-Markets-Product-Development-Lead---Wealth---Investor-Services--AVP_R-786692) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-06.
+This product manager position at State Street was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

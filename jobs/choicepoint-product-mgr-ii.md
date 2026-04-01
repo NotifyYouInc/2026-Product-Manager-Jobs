@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Leeds, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Amsterdam/Product-Mgr-II_R110236) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Leeds/Product-Mgr-II_R110768) |
 
 ## About This Role
 
-This product manager position at ChoicePoint was posted on 2026-03-17.
+This product manager position at ChoicePoint was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

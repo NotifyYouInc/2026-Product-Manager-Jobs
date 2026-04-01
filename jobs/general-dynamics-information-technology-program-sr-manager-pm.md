@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Program-Sr-Manager--PM-_RQ214475) |
+| Location | Washington, District of Columbia, United States |
+| Category | Program Manager |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Program-Sr-Manager--PM-_RQ217132) |
 
 ## About This Role
 
-This operations position at General Dynamics Information Technology was posted on 2026-02-06.
+This program manager position at General Dynamics Information Technology was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

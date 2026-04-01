@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Australia |
 | Category | Product Manager |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000109344275-ai-product-manager-personalisation) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000116542608-ai-product-manager-personalisation) |
 
 ## About This Role
 
-This product manager position at SEEK was posted on 2026-02-14.
+This product manager position at SEEK was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

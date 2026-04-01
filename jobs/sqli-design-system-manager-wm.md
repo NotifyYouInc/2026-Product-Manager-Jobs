@@ -5,12 +5,12 @@
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000114332077-design-system-manager-wm) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000116334629-design-system-manager-wm) |
 
 ## About This Role
 
-This product manager position at SQLI was posted on 2026-03-12.
+This product manager position at SQLI was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

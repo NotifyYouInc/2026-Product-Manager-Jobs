@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108278158-senior-product-manager-new-member-acquisition) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116505957-senior-product-manager-new-member-acquisition) |
 
 ## About This Role
 
-This product manager position at LinkedIn was posted on 2026-02-09.
+This product manager position at LinkedIn was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

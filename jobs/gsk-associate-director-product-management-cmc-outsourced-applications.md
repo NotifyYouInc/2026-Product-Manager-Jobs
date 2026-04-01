@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Product-Management-CMC---Outsourced-Applications_431228) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Associate-Director---Product-Management-CMC---Outsourced-Applications_431230) |
 
 ## About This Role
 
-This product manager position at GSK was posted on 2026-03-06.
+This product manager position at GSK was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

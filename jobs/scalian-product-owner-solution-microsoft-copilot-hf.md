@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000111874661-product-owner-solution-microsoft-copilot-hf) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000116369898-product-owner-solution-microsoft-copilot-hf) |
 
 ## About This Role
 
-This product manager position at Scalian was posted on 2026-02-27.
+This product manager position at Scalian was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

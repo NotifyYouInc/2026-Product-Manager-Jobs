@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/3ca02795-13f7-433d-b05d-baf47da88557) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/3b077600-5a12-4dc5-a619-ffb431c7b544) |
 
 ## About This Role
 
-This product manager position at Jerry.ai was posted on 2026-03-20.
+This product manager position at Jerry.ai was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

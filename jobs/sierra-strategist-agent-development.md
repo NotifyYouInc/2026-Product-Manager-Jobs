@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/ced59158-0c24-44b9-8163-1274f6458cc8) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/99e82c10-977f-4b42-a737-2d9812ce614d) |
 
 ## About This Role
 
-This product manager position at Sierra was posted on 2026-03-01.
+This product manager position at Sierra was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KION Group](https://scoutify.ai/companies/kion-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Lainate, Lombardy, Italy |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Shanghai-China/Product-Manager_JR-0089017-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Lainate-MI-Italy/Product-Manager_JR-0089105-1) |
 
 ## About This Role
 
-This product manager position at KION Group was posted on 2026-03-18.
+This product manager position at KION Group was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

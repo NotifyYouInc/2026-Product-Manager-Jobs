@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10370986/senior-product-manager-tech-cart-building-and-consolidation) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10374405/senior-product-manager-tech-cart-building-and-consolidation) |
 
 ## About This Role
 
-This accounting position at Amazon was posted on 2026-03-19.
+This accounting position at Amazon was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

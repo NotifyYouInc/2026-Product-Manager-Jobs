@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--Product-Development_R-273659) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Manager--Product-Development_R-273724-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-20.
+This product manager position at Mastercard was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

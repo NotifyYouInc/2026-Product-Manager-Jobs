@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000108281236-product-manager-email-content-ai) |
+| Category | Content Marketing |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116505408-product-manager-email-content-ai) |
 
 ## About This Role
 
-This product manager position at LinkedIn was posted on 2026-02-09.
+This content marketing position at LinkedIn was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

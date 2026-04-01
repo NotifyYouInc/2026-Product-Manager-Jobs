@@ -1,16 +1,16 @@
-# Gérant·e de produits at UAP
+# Gérant.e de produits at UAP
 
 | Field | Details |
 |-------|---------|
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Longueuil, Quebec, Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000114366047-gerante-de-produits) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000116436857-gerante-de-produits) |
 
 ## About This Role
 
-This product manager position at UAP was posted on 2026-03-12.
+This product manager position at UAP was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

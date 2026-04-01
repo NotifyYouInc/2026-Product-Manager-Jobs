@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000115373667-product-manager-assistant-stage-6-mois-juillet-2026-fhnb) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000116442757-product-manager-assistant-stage-6-mois-juillet-2026-fhnb) |
 
 ## About This Role
 
-This product manager position at Ubisoft was posted on 2026-03-18.
+This product manager position at Ubisoft was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Mumbai-Maharashtra-India/Product-Manager_WD30262745-2) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bratislava-Bratislava-Slovakia/Product-Manager_WD30263843) |
 
 ## About This Role
 
-This product manager position at Johnson Controls was posted on 2026-02-26.
+This product manager position at Johnson Controls was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

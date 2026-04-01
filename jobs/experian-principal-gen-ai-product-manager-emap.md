@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114000707-principal-gen-ai-product-manager-emap) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116392797-principal-gen-ai-product-manager-emap) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-03-11.
+This product manager position at Experian was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

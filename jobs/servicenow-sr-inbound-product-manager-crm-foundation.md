@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108728895-sr-inbound-product-manager-crm-foundation) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000116400293-sr-inbound-product-manager-crm-foundation) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-02-11.
+This product manager position at ServiceNow was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

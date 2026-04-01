@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montpellier, Occitanie, France |
-| Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000113200457-head-of-product-and-engineering-hf) |
+| Location | 2 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000116377297-head-of-product-and-engineering-hf) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-03-06.
+This frontend engineer position at SEPTEO was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
