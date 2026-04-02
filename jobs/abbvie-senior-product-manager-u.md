@@ -6,7 +6,7 @@
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
 | Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012281676-senior-product-manager-u) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012285386-senior-product-manager-u) |
 
 ## About This Role
 

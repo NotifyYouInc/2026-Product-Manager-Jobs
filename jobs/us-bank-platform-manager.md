@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Platform-Manager_2026-0004908) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Platform-Manager_2026-0006907-1) |
 
 ## About This Role
 
-This product manager position at U.S. Bank was posted on 2026-03-10.
+This product manager position at U.S. Bank was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

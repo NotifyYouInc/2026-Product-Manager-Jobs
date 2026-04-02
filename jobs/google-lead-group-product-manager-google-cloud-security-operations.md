@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
-| Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/90995269272773318-lead-group-product-manager-google-cloud-security-operations?sort_by=date&page=1) |
+| Location | New York City, New York, United States |
+| Category | SOC & Incident Response |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/133382521097200326-lead-group-product-manager-google-cloud-security-operations?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-05.
+This soc & incident response position at Google was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

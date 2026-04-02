@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Aubervilliers, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115863681-product-owner-chef-de-projet-marketing-hf) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000116589407-product-owner-chef-de-projet-marketing-hf) |
 
 ## About This Role
 
-This product manager position at Veolia was posted on 2026-03-20.
+This product manager position at Veolia was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

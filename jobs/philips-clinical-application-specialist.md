@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Haifa, Haifa, Israel |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Haifa/Clinical-Application-Specialist_573187-2) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Haifa/Clinical-Application-Specialist_580236) |
 
 ## About This Role
 
-This product manager position at Philips was posted on 2026-03-12.
+This product manager position at Philips was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

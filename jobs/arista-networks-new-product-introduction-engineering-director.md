@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000115534247-new-product-introduction-engineering-director) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000116720667-new-product-introduction-engineering-director) |
 
 ## About This Role
 
-This engineering manager position at Arista Networks was posted on 2026-03-18.
+This engineering manager position at Arista Networks was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

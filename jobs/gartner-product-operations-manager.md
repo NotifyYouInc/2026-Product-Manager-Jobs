@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Program-Manager---Product_106873-1) |
+| Location | Haryana, IN |
+| Category | Program Manager |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Product-Operations-Manager_109105) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-02-19.
+This program manager position at Gartner was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

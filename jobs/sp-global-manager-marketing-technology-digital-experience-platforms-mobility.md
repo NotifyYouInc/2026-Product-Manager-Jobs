@@ -1,16 +1,16 @@
-# Manager, Marketing Technology  Digital Experience Platforms - Mobility at S&P Global
+# Manager, Marketing Technology Digital Experience Platforms - Mobility at S&P Global
 
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | 2 locations |
 | Category | Marketing Operations |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/MX---MONTERREY-AVENIDA-CONSTITUCION-2050/Manager--Marketing-Technology--Digital-Experience-Platforms---Mobility_326016) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Manager--Marketing-Technology-Digital-Experience-Platforms---Mobility_327313-1) |
 
 ## About This Role
 
-This marketing operations position at S&P Global was posted on 2026-02-26.
+This marketing operations position at S&P Global was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

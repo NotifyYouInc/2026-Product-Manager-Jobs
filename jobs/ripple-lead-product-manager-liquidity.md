@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7660955?gh_jid=7660955) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7660980?gh_jid=7660980) |
 
 ## About This Role
 
-This product manager position at Ripple was posted on 2026-03-04.
+This product manager position at Ripple was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

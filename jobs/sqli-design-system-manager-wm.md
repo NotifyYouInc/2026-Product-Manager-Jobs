@@ -6,7 +6,7 @@
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
 | Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000116334629-design-system-manager-wm) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000116470448-design-system-manager-wm) |
 
 ## About This Role
 

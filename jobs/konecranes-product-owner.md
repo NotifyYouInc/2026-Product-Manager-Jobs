@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Rijswijk, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000116340447-product-owner) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000116563199-product-owner) |
 
 ## About This Role
 
-This product manager position at Konecranes was posted on 2026-03-24.
+This product manager position at Konecranes was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
