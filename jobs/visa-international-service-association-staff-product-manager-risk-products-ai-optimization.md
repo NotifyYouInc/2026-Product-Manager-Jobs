@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Foster City, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107573095-staff-product-manager-risk-products-ai-optimization) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117025286-staff-product-manager-risk-products-ai-optimization) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-02-05.
+This product manager position at Visa International Service Association was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/132066214015836870-product-manager-ii-display-ads-audiences-and-targeting?sort_by=date&page=1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/103085443834094278-product-manager-ii-display-ads-audiences-and-targeting?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-13.
+This product manager position at Google was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

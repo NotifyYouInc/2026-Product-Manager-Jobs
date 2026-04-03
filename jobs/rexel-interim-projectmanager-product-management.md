@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Zoetermeer, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000115382576-interim-projectmanager-product-management) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000116912829-interim-projectmanager-product-management) |
 
 ## About This Role
 
-This product manager position at REXEL was posted on 2026-03-18.
+This product manager position at REXEL was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

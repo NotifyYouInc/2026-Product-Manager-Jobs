@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco BV](https://scoutify.ai/companies/banco-bv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.lever.co/bv/b8431f72-5ba1-41d5-a8a5-7d735c46dea5) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.lever.co/bv/4d73a475-81b3-4ac2-933b-48d998ffee76) |
 
 ## About This Role
 
-This product manager position at Banco BV was posted on 2026-03-04.
+This product manager position at Banco BV was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

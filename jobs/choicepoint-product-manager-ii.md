@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Franklin, Tennessee, United States |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Wales/Product-Manager-2_R109334-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Franklin-TN/Product-Manager-II_R109993) |
 
 ## About This Role
 
-This product manager position at ChoicePoint was posted on 2026-03-10.
+This product manager position at ChoicePoint was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

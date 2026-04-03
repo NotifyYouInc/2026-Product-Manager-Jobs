@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8416306002) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8480604002) |
 
 ## About This Role
 
-This product manager position at GitLab was posted on 2026-02-27.
+This product manager position at GitLab was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Sri Lanka |
 | Category | Product Manager |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Senior-Product-Manager_R236604) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Product-Manager_R244553) |
 
 ## About This Role
 
-This product manager position at Sysco was posted on 2026-02-16.
+This product manager position at Sysco was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

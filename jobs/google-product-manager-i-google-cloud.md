@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/82320112865944262-product-manager-i-google-cloud?sort_by=date&page=1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/87754884488536774-product-manager-i-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-06.
+This product manager position at Google was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

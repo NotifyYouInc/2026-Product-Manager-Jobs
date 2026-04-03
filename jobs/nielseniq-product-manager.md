@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113639378-product-manager) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116939638-product-manager) |
 
 ## About This Role
 
-This product manager position at NielsenIQ was posted on 2026-03-10.
+This product manager position at NielsenIQ was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

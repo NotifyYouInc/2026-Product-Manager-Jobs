@@ -1,16 +1,16 @@
-# Lead Product Manager - Technical at Mastercard
+# Lead Product Manager- Technical at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Product-Manager---Technical_R-273849) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-273195) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-23.
+This product manager position at Mastercard was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

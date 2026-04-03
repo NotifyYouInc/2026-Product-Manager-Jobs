@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7560844?gh_jid=7560844) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7740282?gh_jid=7740282) |
 
 ## About This Role
 
-This product manager position at Flexport was posted on 2026-02-05.
+This product manager position at Flexport was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

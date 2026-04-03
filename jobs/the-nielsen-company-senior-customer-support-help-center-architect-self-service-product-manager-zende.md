@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012183186-senior-customer-support-help-center-architect-self-service-product-manager-zendesk) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012334306-senior-customer-support-help-center-architect-self-service-product-manager-zendesk) |
 
 ## About This Role
 
-This product manager position at The Nielsen Company was posted on 2026-03-17.
+This product manager position at The Nielsen Company was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Specialist Product Operations at Mastercard
+# Specialist, Product Operations at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | India |
 | Category | Customer Success |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist-Product-Operations_R-272713) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Operations_R-272993) |
 
 ## About This Role
 
-This customer success position at Mastercard was posted on 2026-03-23.
+This customer success position at Mastercard was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

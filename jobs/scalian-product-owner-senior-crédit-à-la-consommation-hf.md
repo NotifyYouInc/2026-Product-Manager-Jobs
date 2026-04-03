@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000115907850-product-owner-senior-credit-a-la-consommation-hf) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000116912642-product-owner-senior-credit-a-la-consommation-hf) |
 
 ## About This Role
 
-This product manager position at Scalian was posted on 2026-03-20.
+This product manager position at Scalian was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

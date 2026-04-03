@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--Copilot-et-IA_R2603905) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Systme-de-design_R2604114) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-03-23.
+This product manager position at Desjardins was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
