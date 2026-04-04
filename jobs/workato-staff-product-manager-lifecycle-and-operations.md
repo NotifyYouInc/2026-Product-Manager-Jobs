@@ -5,12 +5,12 @@
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8470665002) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8480090002) |
 
 ## About This Role
 
-This product manager position at Workato was posted on 2026-03-19.
+This product manager position at Workato was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

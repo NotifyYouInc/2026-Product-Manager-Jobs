@@ -6,7 +6,7 @@
 | Location | Haryana, IN |
 | Category | Product Manager |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Analyst_112896-JOB-1) |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Senior-Product-Analyst_112904-JOB) |
 
 ## About This Role
 

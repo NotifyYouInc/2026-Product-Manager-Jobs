@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Lima, Lima Province, Peru |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/GERENTE-DE-PRODUCTO_31135365) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/GERENTE-DE-PRODUCTO_31145914) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-03-04.
+This product manager position at Abbott was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

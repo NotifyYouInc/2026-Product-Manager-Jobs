@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Dublin-IRL/Product-Manager_26WD95347-1) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Product-Manager_26WD96183-1) |
 
 ## About This Role
 
-This product manager position at Autodesk was posted on 2026-02-17.
+This product manager position at Autodesk was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

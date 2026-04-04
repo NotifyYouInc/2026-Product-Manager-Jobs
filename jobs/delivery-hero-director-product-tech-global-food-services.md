@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000108424469-director-product-tech-global-food-services) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000117216578-director-product-tech-global-food-services) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-02-10.
+This product manager position at Delivery Hero was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

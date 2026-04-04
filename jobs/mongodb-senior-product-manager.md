@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7523959) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7650174) |
 
 ## About This Role
 
-This product manager position at MongoDB was posted on 2026-03-12.
+This product manager position at MongoDB was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

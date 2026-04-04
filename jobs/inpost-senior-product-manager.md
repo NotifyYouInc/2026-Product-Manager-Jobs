@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Poland |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000116630527-senior-product-manager) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000116936884-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at INPOST was posted on 2026-03-25.
+This product manager position at INPOST was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

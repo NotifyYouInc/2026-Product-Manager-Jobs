@@ -1,16 +1,16 @@
-# Analista De Produto Pl. at MSX International
+# Analista de Produto Pl at MSX International
 
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Betim, Minas Gerais, Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012284481-analista-de-produto-pl) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012358333-analista-de-produto-pl) |
 
 ## About This Role
 
-This product manager position at MSX International was posted on 2026-03-24.
+This product manager position at MSX International was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

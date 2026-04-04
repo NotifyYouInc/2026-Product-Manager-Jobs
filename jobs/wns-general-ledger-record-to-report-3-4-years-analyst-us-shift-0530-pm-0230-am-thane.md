@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000116613157-general-ledger-record-to-report-3-4-years-analyst-us-shift-0530-pm-0230-am-thane) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000117292937-general-ledger-record-to-report-3-4-years-analyst-us-shift-0530-pm-0230-am-thane) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-03-25.
+This corporate finance position at WNS was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

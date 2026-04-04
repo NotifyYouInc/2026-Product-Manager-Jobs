@@ -5,12 +5,12 @@
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Principal-Technical-Product-Manager_R57464) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Principal-Technical-Product-Manager_R57408) |
 
 ## About This Role
 
-This product manager position at Blue Origin was posted on 2026-02-25.
+This product manager position at Blue Origin was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

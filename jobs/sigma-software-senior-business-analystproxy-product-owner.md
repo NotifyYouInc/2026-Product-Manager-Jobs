@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lviv, Lviv, Ukraine |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000107453895-senior-business-analystproxy-product-owner) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000117251814-senior-business-analystproxy-product-owner) |
 
 ## About This Role
 
-This product manager position at Sigma Software was posted on 2026-02-05.
+This product manager position at Sigma Software was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

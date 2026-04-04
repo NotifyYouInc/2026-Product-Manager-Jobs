@@ -6,7 +6,7 @@
 | Location | Haryana, IN |
 | Category | Product Manager |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Associate-Product-Manager_112916-JOB) |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Associate-Product-Manager_112901-JOB) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000115665673-product-owner-hf) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000117330109-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Scalian was posted on 2026-03-19.
+This product manager position at Scalian was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

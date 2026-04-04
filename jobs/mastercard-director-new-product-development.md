@@ -1,16 +1,16 @@
-# Director - New Product Development at Mastercard
+# Director, New Product Development at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Director---New-Product-Development_R-273817) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Director--New-Product-Development_R-274218) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-25.
+This product manager position at Mastercard was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

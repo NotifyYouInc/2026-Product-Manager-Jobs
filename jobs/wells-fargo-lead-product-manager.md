@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | North Carolina, US |
+| Location | Chandler, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/141278-NC-CIC-Customer-Information-Ctr/Lead-Product-Manager_R-528725) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Lead-Product-Manager_R-532264) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-03-18.
+This product manager position at Wells Fargo was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

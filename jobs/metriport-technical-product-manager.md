@@ -5,12 +5,12 @@
 | Company | [Metriport](https://scoutify.ai/companies/metriport?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/metriport/84efdf8d-d910-48fd-855a-ce76bd0ca1b4) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/metriport/jobs/D9RcbsP-technical-product-manager) |
 
 ## About This Role
 
-This product manager position at Metriport was posted on 2026-03-11.
+This product manager position at Metriport was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
