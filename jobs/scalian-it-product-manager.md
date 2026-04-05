@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Turin, Piedmont, Italy |
 | Category | Product Manager |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000116885174-it-product-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000116987236-it-product-manager) |
 
 ## About This Role
 

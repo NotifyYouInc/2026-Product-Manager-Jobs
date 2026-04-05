@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Product-Owner_108094) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Product-Owner_109244) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-03-05.
+This product manager position at Gartner was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 
