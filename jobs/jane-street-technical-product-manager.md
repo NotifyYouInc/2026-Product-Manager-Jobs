@@ -1,16 +1,16 @@
-# Group Product Manager - API Connectivity at Ebury
+# Technical Product Manager  at Jane Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4825789101) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8476622002) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-03-29.
+This product manager position at Jane Street was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

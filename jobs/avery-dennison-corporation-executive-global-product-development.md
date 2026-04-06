@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dhaka, Dhaka Division, Bangladesh |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000112074819-executive-global-product-development) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000117555542-executive-global-product-development) |
 
 ## About This Role
 
-This product manager position at Avery Dennison Corporation was posted on 2026-03-02.
+This product manager position at Avery Dennison Corporation was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

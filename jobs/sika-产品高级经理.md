@@ -1,16 +1,16 @@
-# Group Product Manager - API Connectivity at Ebury
+# 产品高级经理 at Sika
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4825789101) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000117548150-) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-03-29.
+This product manager position at Sika was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

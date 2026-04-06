@@ -1,16 +1,16 @@
-# Product Manager, Specialist at Vanguard
+# Head of Digital Wealth Solutions, Personal Wealth at Vanguard
 
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Pennsylvania, US |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Product-Manager--Specialist_176326-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Head-of-Digital-Wealth-Solutions--Personal-Wealth_173932-1) |
 
 ## About This Role
 
-This product manager position at Vanguard was posted on 2026-03-27.
+This product manager position at Vanguard was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

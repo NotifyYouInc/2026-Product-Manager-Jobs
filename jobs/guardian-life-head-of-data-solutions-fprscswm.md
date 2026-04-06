@@ -1,16 +1,16 @@
-# Group Product Manager - API Connectivity at Ebury
+# Head of Data Solutions, FPRS/CSWM at Guardian Life
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4825789101) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/Head-of-Data-Solutions--FPRS-CSWM_R000108895) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-03-29.
+This product manager position at Guardian Life was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

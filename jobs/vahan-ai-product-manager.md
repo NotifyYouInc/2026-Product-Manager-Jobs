@@ -1,16 +1,16 @@
-# Group Product Manager - API Connectivity at Ebury
+# AI Product Manager at Vahan
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [Vahan](https://scoutify.ai/companies/vahan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4825789101) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/vahan/jobs/GAjyKM4-ai-product-manager) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-03-29.
+This product manager position at Vahan was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

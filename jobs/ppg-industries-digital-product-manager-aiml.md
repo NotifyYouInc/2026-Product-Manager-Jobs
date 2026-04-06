@@ -1,16 +1,16 @@
-# Group Product Manager - API Connectivity at Ebury
+# Digital Product Manager, AI/ML at PPG Industries
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4825789101) |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/USA---General-Office/Digital-Product-Manager--AI-ML_JR262612-1) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-03-29.
+This product manager position at PPG Industries was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 
