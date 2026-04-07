@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Chef-ou-Cheffe-de-produit--Services-bancaires--pargne-entreprises_R2604309) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Chef-ou-cheffe-de-produits--March-locatif-rsidentiel--SCHL_R2604363) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-03-26.
+This product manager position at Desjardins was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

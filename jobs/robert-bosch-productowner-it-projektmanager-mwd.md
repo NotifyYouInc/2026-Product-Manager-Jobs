@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000116355575-productowner-it-projektmanager-mwd) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117622787-productowner-it-projektmanager-mwd) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-03-24.
+This product manager position at Robert Bosch was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

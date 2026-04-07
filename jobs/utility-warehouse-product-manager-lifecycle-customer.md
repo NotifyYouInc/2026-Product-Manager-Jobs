@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000116342526-product-manager-lifecycle-customer) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117678737-product-manager-lifecycle-customer) |
 
 ## About This Role
 
-This product manager position at Utility Warehouse was posted on 2026-03-24.
+This product manager position at Utility Warehouse was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

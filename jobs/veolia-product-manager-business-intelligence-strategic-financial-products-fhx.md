@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Saint-Gilles, Brussels Capital, Belgium |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110734728-product-manager-business-intelligence-strategic-financial-products-fhx) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117692277-product-manager-business-intelligence-strategic-financial-products-fhx) |
 
 ## About This Role
 
-This product manager position at Veolia was posted on 2026-02-23.
+This product manager position at Veolia was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

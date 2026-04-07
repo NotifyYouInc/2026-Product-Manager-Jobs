@@ -1,16 +1,16 @@
-# Alternant.e Chef.fe de produit at AbbVie
+# Alternant.e - Chef.fe de produit at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012344741-alternante-cheffe-de-produit) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012371936-alternante-cheffe-de-produit) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-03-27.
+This product manager position at AbbVie was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Product Owner (apprentice) at Equativ
+# Associate Product Owner (Apprentice) at Equativ
 
 | Field | Details |
 |-------|---------|
 | Company | [Equativ](https://scoutify.ai/companies/equativ?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.lever.co/equativ/feba036c-eb59-4af8-b933-c331e2abfedd) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.lever.co/equativ/25d29cd8-6ba9-40e7-8ac8-59e5cc702515) |
 
 ## About This Role
 
-This product manager position at Equativ was posted on 2026-03-25.
+This product manager position at Equativ was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

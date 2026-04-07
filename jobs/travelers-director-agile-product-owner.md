@@ -5,12 +5,12 @@
 | Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hartford, Connecticut, United States |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Director--Agile-Product-Owner_R-49569-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Director--Agile-Product-Owner_R-49743) |
 
 ## About This Role
 
-This product manager position at Travelers was posted on 2026-03-09.
+This product manager position at Travelers was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

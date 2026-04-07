@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xendit](https://scoutify.ai/companies/xendit?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.xendit.co/en/careers/job-application/?gh_jid=7545780003) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.xendit.co/en/careers/job-application/?gh_jid=7683298003) |
 
 ## About This Role
 
-This product manager position at Xendit was posted on 2026-03-27.
+This product manager position at Xendit was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

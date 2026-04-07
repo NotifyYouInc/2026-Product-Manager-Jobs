@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ukraine |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/a509e729-45ff-4f1f-8413-89747b2ac25a) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/8f0690e5-8f49-470c-a8b1-f22dc3c1018f) |
 
 ## About This Role
 
-This product manager position at Ruby Labs was posted on 2026-03-11.
+This product manager position at Ruby Labs was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

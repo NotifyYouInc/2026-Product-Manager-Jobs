@@ -1,16 +1,16 @@
-# Senior Product Manager, AI/ML, Google Global Network at Google
+# Senior product Manager, AI/ML, Google Global Network at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/87541541114913478-senior-product-manager-aiml-google-global-network?sort_by=date&page=1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/143225344894083782-senior-product-manager-aiml-google-global-network?sort_by=date&page=1) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-25.
+This product manager position at Google was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

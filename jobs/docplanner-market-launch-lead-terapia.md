@@ -1,16 +1,16 @@
-# Market Launch Lead – Terapia at DocPlanner
+# Market Launch Lead - Terapia at DocPlanner
 
 | Field | Details |
 |-------|---------|
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000115496505-market-launch-lead-terapia) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000117660017-market-launch-lead-terapia) |
 
 ## About This Role
 
-This product manager position at DocPlanner was posted on 2026-03-18.
+This product manager position at DocPlanner was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

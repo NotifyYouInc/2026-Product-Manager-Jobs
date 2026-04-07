@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115212728-product-manager) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117662047-product-manager) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-03-17.
+This product manager position at Visa International Service Association was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

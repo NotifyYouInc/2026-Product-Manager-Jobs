@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/GB---LEEDS-GBGFR/Warehouse-Operative-Leeds----Evenings-_R24050299-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/GB---NORTHAMPTON-GBNHA/Warehouse-Operative-PM_R24050270) |
 
 ## About This Role
 
-This product manager position at United Parcel Service (UPS) was posted on 2026-02-04.
+This product manager position at United Parcel Service (UPS) was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

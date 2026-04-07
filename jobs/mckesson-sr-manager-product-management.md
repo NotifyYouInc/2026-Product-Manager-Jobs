@@ -5,12 +5,12 @@
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Sr-Manager--Product-Management_JR0144443-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Sr-Manager--Product-Management_JR0145048-1) |
 
 ## About This Role
 
-This product manager position at McKesson was posted on 2026-03-20.
+This product manager position at McKesson was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

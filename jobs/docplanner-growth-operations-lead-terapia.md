@@ -5,12 +5,12 @@
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brazil |
 | Category | Growth Marketing |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000112980709-growth-operations-lead-terapia) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000117657328-growth-operations-lead-terapia) |
 
 ## About This Role
 
-This growth marketing position at DocPlanner was posted on 2026-03-05.
+This growth marketing position at DocPlanner was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

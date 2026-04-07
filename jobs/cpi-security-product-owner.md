@@ -5,12 +5,12 @@
 | Company | [CPI Security](https://scoutify.ai/companies/cpi-security?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4655712006) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cpisecurity/jobs/4668461006) |
 
 ## About This Role
 
-This product manager position at CPI Security was posted on 2026-02-18.
+This product manager position at CPI Security was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

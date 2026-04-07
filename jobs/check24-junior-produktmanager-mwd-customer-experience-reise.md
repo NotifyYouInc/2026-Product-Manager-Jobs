@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Leipzig, Saxony, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000111628715-junior-produktmanager-mwd-customer-experience-reise) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000117572507-junior-produktmanager-mwd-customer-experience-reise) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-02-26.
+This product manager position at CHECK24 was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
