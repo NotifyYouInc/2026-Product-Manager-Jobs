@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cheras, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Cheras/Loan-Specialist_JR00005976) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Cheras/Loan-Specialist_JR00006796) |
 
 ## About This Role
 
-This product manager position at OCBC was posted on 2026-03-02.
+This product manager position at OCBC was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Principal-Product-Manager_JR-159453) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Redwood-City/Principal-Product-Manager_JR-159632-1) |
 
 ## About This Role
 
-This product manager position at Equinix was posted on 2026-03-26.
+This product manager position at Equinix was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

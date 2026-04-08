@@ -1,16 +1,16 @@
-# Digital Product Manager, Sales Cloud at PPG Industries
+# Digital Product Manager - Sales Cloud at PPG Industries
 
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/USA---General-Office/Digital-Product-Manager--Sales-Cloud_JR261705) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/USA---General-Office/Digital-Product-Manager---Sales-Cloud_JR263358-1) |
 
 ## About This Role
 
-This product manager position at PPG Industries was posted on 2026-02-18.
+This product manager position at PPG Industries was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

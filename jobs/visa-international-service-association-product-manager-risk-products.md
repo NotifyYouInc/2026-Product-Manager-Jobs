@@ -1,16 +1,16 @@
-# Product Manager - Risk Products at Visa International Service Association
+# Product Manager, Risk Products  at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117210147-product-manager-risk-products) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118026109-product-manager-risk-products) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-03-27.
+This product manager position at Visa International Service Association was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

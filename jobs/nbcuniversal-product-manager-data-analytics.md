@@ -1,16 +1,16 @@
-# Product Manager, Data & Analytics at NBCUniversal
+# Product Manager - Data & Analytics at NBCUniversal
 
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Universal City, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116279987-product-manager-data-analytics) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000117995727-product-manager-data-analytics) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-03-23.
+This product manager position at NBCUniversal was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

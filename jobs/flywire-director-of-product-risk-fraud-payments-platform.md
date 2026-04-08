@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000117355321-director-of-product-risk-fraud-payments-platform) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000117637287-director-of-product-risk-fraud-payments-platform) |
 
 ## About This Role
 
-This product manager position at Flywire was posted on 2026-03-27.
+This product manager position at Flywire was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

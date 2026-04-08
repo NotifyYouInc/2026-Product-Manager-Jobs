@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Product-Owner_JR1080211) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Product-Owner_JR1080405-1) |
 
 ## About This Role
 
-This product manager position at Broadridge was posted on 2026-02-12.
+This product manager position at Broadridge was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
