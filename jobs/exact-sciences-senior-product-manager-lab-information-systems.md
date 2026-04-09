@@ -5,12 +5,12 @@
 | Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Madison, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Senior-Product-Manager--Lab-Information-Systems_R26-12409) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Senior-Product-Manager--Lab-Information-Systems_R26-12524) |
 
 ## About This Role
 
-This product manager position at Exact Sciences was posted on 2026-03-25.
+This product manager position at Exact Sciences was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

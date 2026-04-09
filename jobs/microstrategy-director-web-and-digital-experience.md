@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Virginia, US |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000117402147-director-web-and-digital-experience) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000117742267-director-web-and-digital-experience) |
 
 ## About This Role
 
-This product manager position at MicroStrategy was posted on 2026-03-27.
+This product manager position at MicroStrategy was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

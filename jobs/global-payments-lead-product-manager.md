@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Prague, Prague, Czechia |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Atlanta-Georgia-USA/Lead-Product-Manager_R0070442) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Prague-Czechia/Lead-Product-Manager_R0070572) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-03-19.
+This product manager position at Global Payments was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

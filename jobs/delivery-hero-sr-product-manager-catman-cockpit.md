@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000117286837-sr-product-manager-catman-cockpit) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118178887-sr-product-manager-catman-cockpit) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-03-27.
+This product manager position at Delivery Hero was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

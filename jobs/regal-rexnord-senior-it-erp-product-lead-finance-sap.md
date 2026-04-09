@@ -5,12 +5,12 @@
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Grafton, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Grafton-Wisconsin-United-States/Senior-IT-ERP-Product-Lead--Finance--SAP-_R26_00811) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Grafton-Wisconsin-United-States/Senior-IT-ERP-Product-Lead--Finance--SAP-_R26_00555) |
 
 ## About This Role
 
-This product manager position at Regal Rexnord was posted on 2026-02-18.
+This product manager position at Regal Rexnord was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

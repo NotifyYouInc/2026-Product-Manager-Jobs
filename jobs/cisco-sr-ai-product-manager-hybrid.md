@@ -1,12 +1,12 @@
-# Sr. AI Product Manager - Hybrid at Cisco
+# Sr. AI Product Manager - Hybrid at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Sr-AI-Product-Manager---Hybrid_2010665) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Sr-Technical-Program-Manager_2010696) |
 
 ## About This Role
 

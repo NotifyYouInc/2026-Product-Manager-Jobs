@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Owner_JR333149) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Brazil---Remote/Product-Owner_JR336124) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-03-18.
+This product manager position at Salesforce was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

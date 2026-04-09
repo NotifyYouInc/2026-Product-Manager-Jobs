@@ -1,16 +1,16 @@
-# Product Manager at ABB
+# product manager at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mechanicsville, Virginia, United States |
+| Location | Egypt |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Mechanicsville-Virginia-USA/Product-Manager_JR00027238) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/10th-of-Ramadan-City-Sharkia-Egypt/product-manager_JR00018357) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-03-06.
+This product manager position at ABB was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000116872067-lead-product-manager-search-recommendation) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000118312703-lead-product-manager-search-recommendation) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-03-26.
+This product manager position at Grab was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Skyward](https://scoutify.ai/companies/skyward?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Stevens Point, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Skyward1/744000117684910-product-owner-student-business-suite) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Skyward1/744000118161057-product-owner-student-business-suite) |
 
 ## About This Role
 
-This product manager position at Skyward was posted on 2026-03-30.
+This product manager position at Skyward was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

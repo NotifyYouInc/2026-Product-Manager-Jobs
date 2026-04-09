@@ -1,16 +1,16 @@
-# Senior Manager, Digital Experience Strategy   at ServiceNow
+# Senior Manager, Digital Experience Strategy at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113533187-senior-manager-digital-experience-strategy) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000118255797-senior-manager-digital-experience-strategy) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-03-09.
+This product manager position at ServiceNow was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
