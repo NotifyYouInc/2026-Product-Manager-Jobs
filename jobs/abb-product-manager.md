@@ -1,16 +1,16 @@
-# product manager at ABB
+# Product Manager at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Egypt |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/10th-of-Ramadan-City-Sharkia-Egypt/product-manager_JR00018357) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Warrington-Cheshire-United-Kingdom/Product-Manager_JR00021584) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-04-01.
+This product manager position at ABB was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chile |
+| Location | Alpharetta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Product-Owner_J00174820-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Product-Owner_J00176135) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-03-25.
+This product manager position at Equifax was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

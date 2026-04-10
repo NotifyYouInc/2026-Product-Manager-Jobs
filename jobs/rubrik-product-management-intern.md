@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7765355?gh_jid=7765355) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.7770714?gh_jid=7770714) |
 
 ## About This Role
 
-This product manager position at Rubrik was posted on 2026-03-30.
+This product manager position at Rubrik was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

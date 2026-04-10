@@ -1,16 +1,16 @@
-# Senior Product Manager, EG Advertising at Expedia
+# Senior Product Manager- EG Advertising at Expedia
 
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Product-Manager--EG-Advertising_R-103969) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Product-Manager--EG-Advertising_R-104626) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-03-18.
+This product manager position at Expedia was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# VP, Marketing Technology Solutions, Product Management-Technical at Mastercard
+
+| Field | Details |
+|-------|---------|
+| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
+| Category | Marketing Operations |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/VP--Marketing-Technology-Solutions--Product-Management-Technical_R-274290) |
+
+## About This Role
+
+This marketing operations position at Mastercard was posted on 2026-04-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

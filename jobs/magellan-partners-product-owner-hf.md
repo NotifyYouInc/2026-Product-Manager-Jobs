@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000113448918-product-owner-hf) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000118373758-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Magellan Partners was posted on 2026-03-09.
+This product manager position at Magellan Partners was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

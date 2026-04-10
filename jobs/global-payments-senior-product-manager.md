@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Utah, US |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Charlotte-North-Carolina-USA/Senior-Product-Manager_R0070024) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Lindon-Utah-USA/Senior-Product-Manager_R0070457) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-02-20.
+This product manager position at Global Payments was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

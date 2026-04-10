@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Product-Owner--Agentic-AI_REQ348247-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Product-Owner--Agentic-AI_REQ351123) |
 
 ## About This Role
 
-This product manager position at T-Mobile was posted on 2026-03-06.
+This product manager position at T-Mobile was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

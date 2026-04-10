@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Data-Product-Management-Consultant_R-528894) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Data-Product-Management-Consultant_R-534405-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Wells Fargo was posted on 2026-03-31.
+This strategy / management consulting position at Wells Fargo was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

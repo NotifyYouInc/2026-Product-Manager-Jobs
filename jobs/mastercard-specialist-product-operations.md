@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
-| Category | Customer Success |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Operations_R-272993) |
+| Location | Pune, Maharashtra, India |
+| Category | Product Manager |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Product-Operations_R-274566) |
 
 ## About This Role
 
-This customer success position at Mastercard was posted on 2026-03-26.
+This product manager position at Mastercard was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

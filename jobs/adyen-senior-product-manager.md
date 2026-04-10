@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7610701) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/6571256) |
 
 ## About This Role
 
-This product manager position at Adyen was posted on 2026-02-13.
+This product manager position at Adyen was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

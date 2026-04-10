@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Switzerland |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000117320668-product-owner-data-manufacturing-luxe-retail) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000118335805-product-owner-data-manufacturing-luxe-retail) |
 
 ## About This Role
 
-This product manager position at Magellan Partners was posted on 2026-03-27.
+This product manager position at Magellan Partners was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wisconsin, US |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Waukesha-Ridgeview-Wisconsin/Product-Manager_R46799-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Lubbock-Texas/Product-Manager_R47624) |
 
 ## About This Role
 
-This product manager position at Xylem was posted on 2026-03-23.
+This product manager position at Xylem was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

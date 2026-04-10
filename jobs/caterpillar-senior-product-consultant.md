@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Senior-Product-Consultant_R0000355978-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santiago-Region-Metropolitana-de-Santiago/Senior-Product-Consultant_R0000361239) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-03-30.
+This product manager position at Caterpillar was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

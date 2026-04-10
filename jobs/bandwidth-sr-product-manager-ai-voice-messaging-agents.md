@@ -1,16 +1,16 @@
-# Sr. Product Manager, AI Voice & Messaging Agents at Bandwidth
+# Sr. Product Manager (AI Voice & Messaging Agents) at Bandwidth
 
 | Field | Details |
 |-------|---------|
 | Company | [Bandwidth](https://scoutify.ai/companies/bandwidth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bandwidth/jobs/7613346) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bandwidth/jobs/7775029) |
 
 ## About This Role
 
-This product manager position at Bandwidth was posted on 2026-02-17.
+This product manager position at Bandwidth was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

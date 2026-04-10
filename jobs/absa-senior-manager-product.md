@@ -5,12 +5,12 @@
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Senior-Manager--Product_R-15984497) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Senior-Manager--Product_R-15985718) |
 
 ## About This Role
 
-This product manager position at Absa was posted on 2026-03-05.
+This product manager position at Absa was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Product-Management-Lead_ATCI-5328461-S1945486-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Product-Management-Lead_ATCI-5401435-S1969906-1) |
 
 ## About This Role
 

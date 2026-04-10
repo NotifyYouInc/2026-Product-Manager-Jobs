@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/AI-Product-Manager_R151983) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/AI-Product-Manager_R152619) |
 
 ## About This Role
 
-This product manager position at Intact was posted on 2026-02-27.
+This product manager position at Intact was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
