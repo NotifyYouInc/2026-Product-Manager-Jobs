@@ -1,16 +1,16 @@
-# Director of Product Design  at OpenEye
+#  Director of Product Design  at OpenEye
 
 | Field | Details |
 |-------|---------|
 | Company | [OpenEye](https://scoutify.ai/companies/openeye?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Washington, US |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8332857002) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8493542002) |
 
 ## About This Role
 
-This product manager position at OpenEye was posted on 2026-02-24.
+This product manager position at OpenEye was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

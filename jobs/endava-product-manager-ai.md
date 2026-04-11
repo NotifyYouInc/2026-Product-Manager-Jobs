@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Colorado, US |
 | Category | Product Manager |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000118239557-product-manager-ai) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000118241981-product-manager-ai) |
 
 ## About This Role
 

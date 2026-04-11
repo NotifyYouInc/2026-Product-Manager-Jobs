@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | France |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000118219598-product-owner-hf) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000118616451-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-04-01.
+This product manager position at SEPTEO was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

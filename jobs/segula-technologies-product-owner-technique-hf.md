@@ -5,12 +5,12 @@
 | Company | [SEGULA Technologies](https://scoutify.ai/companies/segulatechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000116201021-product-owner-technique-hf) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000118591902-product-owner-technique-hf) |
 
 ## About This Role
 
-This product manager position at SEGULA Technologies was posted on 2026-03-23.
+This product manager position at SEGULA Technologies was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

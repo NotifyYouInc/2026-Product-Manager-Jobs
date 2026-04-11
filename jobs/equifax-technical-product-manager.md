@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | St. Louis, Missouri, United States |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-KY-Louisville/Technical-Product-Manager_J00174997) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Technical-Product-Manager_J00175215) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-03-24.
+This product manager position at Equifax was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

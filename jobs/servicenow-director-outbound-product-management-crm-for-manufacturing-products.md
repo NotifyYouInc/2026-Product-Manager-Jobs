@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113222152-director-outbound-product-management-crm-for-manufacturing-products) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000118638676-director-outbound-product-management-crm-for-manufacturing-products) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-03-06.
+This product manager position at ServiceNow was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000112245719-alternante-proxy-product-owner-salesforce-fh) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000118604127-alternante-proxy-product-owner-salesforce-fh) |
 
 ## About This Role
 
-This product manager position at Salomon was posted on 2026-03-02.
+This product manager position at Salomon was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Karnataka, IN |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Product-Management_R228416-2) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Manager--Product-Management_R228203) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-04-01.
+This product manager position at Capital One was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
