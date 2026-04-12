@@ -1,16 +1,16 @@
-# Product Director at LSEG
+# Lead Product Manager, Data Platform at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Melbourne-Australia/Product-Director_R0117487-1) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000118699187-lead-product-manager-data-platform) |
 
 ## About This Role
 
-This product manager position at LSEG was posted on 2026-04-05.
+This product manager position at Grab was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 
