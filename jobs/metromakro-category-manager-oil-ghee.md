@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Category Manager Oil & Ghee at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Lahore, Punjab, Pakistan |
 | Category | Product Manager |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690384003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000118830737-category-manager-oil-ghee) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-04-06.
+This product manager position at METRO/MAKRO was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

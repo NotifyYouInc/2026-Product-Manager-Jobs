@@ -1,16 +1,16 @@
-# Director, Product Management at Clarivate
+# Engineering Product Manager - Observability AI at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 4 locations |
 | Category | Product Manager |
 | Posted | 2026-04-05 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/USA---Philadelphia-PA/Director--Product-Management_JREQ135259-1) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Engineering-Product-Manager---Observability-AI_2011349) |
 
 ## About This Role
 
-This product manager position at Clarivate was posted on 2026-04-05.
+This product manager position at Cisco was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

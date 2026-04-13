@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# GLFE Product Management - Sales - AVP at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690384003) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/GLFE-Product-Management---Sales---AVP_JR00006864) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-04-06.
+This product manager position at OCBC was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

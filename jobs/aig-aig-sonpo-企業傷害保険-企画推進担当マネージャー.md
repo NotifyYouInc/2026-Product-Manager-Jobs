@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# (AIG Sonpo)  企業傷害保険　企画推進担当マネージャー at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tokyo, JP |
 | Category | Product Manager |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690384003) |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/Minato-ku-Japan-Tokyo/XMLNAME--AIG-Sonpo----_JR2601530-1) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-04-06.
+This product manager position at AIG was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

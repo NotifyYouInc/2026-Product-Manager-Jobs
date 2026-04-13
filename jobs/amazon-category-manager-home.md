@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Category Manager, Home at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690384003) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383676/category-manager-home) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-04-06.
+This product manager position at Amazon was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
