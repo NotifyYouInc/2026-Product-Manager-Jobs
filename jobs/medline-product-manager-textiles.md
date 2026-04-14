@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Northfield, Minnesota, United States |
-| Category | Marketing |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Product-Manager-Textiles_R2602388-1) |
+| Category | Product Manager |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Product-Manager-Textiles_R2606909) |
 
 ## About This Role
 
-This marketing position at Medline was posted on 2026-02-06.
+This product manager position at Medline was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

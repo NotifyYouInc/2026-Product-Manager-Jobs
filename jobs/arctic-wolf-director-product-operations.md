@@ -1,16 +1,16 @@
-# Director, Product Operations at Arctic Wolf
+# Director Product Operations at Arctic Wolf
 
 | Field | Details |
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Remote-United-States/Director--Product-Operations_R26_174) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Manager |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Director-Product-Operations_R26_346) |
 
 ## About This Role
 
-This operations position at Arctic Wolf was posted on 2026-02-13.
+This product manager position at Arctic Wolf was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

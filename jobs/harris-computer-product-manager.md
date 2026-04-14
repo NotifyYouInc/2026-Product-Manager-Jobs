@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Mumbai-Vikroli/Product-Manager_R0040012-3) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---India/Product-Manager_R0032590-2) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-03-09.
+This product manager position at Harris Computer was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Product-Manager_AP-22788485-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Product-Manager_AP-23973461) |
 
 ## About This Role
 
-This product manager position at Morningstar was posted on 2026-03-04.
+This product manager position at Morningstar was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

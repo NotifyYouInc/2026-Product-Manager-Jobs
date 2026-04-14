@@ -6,7 +6,7 @@
 | Location | San Antonio, Texas, United States |
 | Category | Product Manager |
 | Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000118411841-executive-director-digital) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000118432217-executive-director-digital) |
 
 ## About This Role
 
