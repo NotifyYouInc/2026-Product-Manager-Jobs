@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Product-Manager_R0135662-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Product-Manager_R0135361-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-04-01.
+This product manager position at PayPal was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

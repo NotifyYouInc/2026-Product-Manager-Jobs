@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117989042-pessoa-estagiaria-de-produto) |
+| Category | Marketing |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000119202675-pessoa-estagiaria-de-produto) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-03-31.
+This marketing position at Syngenta was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

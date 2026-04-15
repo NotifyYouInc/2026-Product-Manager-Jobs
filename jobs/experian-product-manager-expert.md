@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000113237358-product-manager-expert) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000119201907-product-manager-expert) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-03-06.
+This product manager position at Experian was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Reston, Virginia, United States |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Senior-Product-Manager_JR-0104930) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Product-Manager_JR-0105909) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-03-24.
+This product manager position at Workday was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
