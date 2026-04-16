@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000116434503-product-manager) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000119463987-product-manager) |
 
 ## About This Role
 
-This product manager position at UAP was posted on 2026-03-24.
+This product manager position at UAP was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

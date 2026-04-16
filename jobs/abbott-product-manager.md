@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New South Wales, AU |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Australia--Macquarie-Park--299-Lane-Cove-Road/Product-Manager_31144180) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ukraine---Kyiv/Product-Manager_31146999) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-03-19.
+This product manager position at Abbott was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

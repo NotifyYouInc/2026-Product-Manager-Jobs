@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Human Agency](https://scoutify.ai/companies/human-agency?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/humanagency/jobs/7646331003) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humanagency/jobs/7581514003) |
 
 ## About This Role
 
-This product manager position at Human Agency was posted on 2026-02-26.
+This product manager position at Human Agency was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

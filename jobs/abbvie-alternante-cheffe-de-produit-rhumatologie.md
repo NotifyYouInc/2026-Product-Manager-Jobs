@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012345087-alternante-cheffe-de-produit-rhumatologie) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012523436-alternante-cheffe-de-produit-rhumatologie) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-03-27.
+This product manager position at AbbVie was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
