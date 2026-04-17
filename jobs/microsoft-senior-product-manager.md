@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556819771) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556857305) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-04-06.
+This product manager position at Microsoft was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

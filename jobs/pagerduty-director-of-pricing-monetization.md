@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PagerDuty](https://scoutify.ai/companies/pagerduty?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/5841387004) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pagerduty/jobs/5893015004) |
 
 ## About This Role
 
-This product manager position at PagerDuty was posted on 2026-04-07.
+This product manager position at PagerDuty was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

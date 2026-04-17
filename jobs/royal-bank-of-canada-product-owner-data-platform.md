@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Product-Owner--Data-Platform_R-0000163080-1) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Product-Owner--Data-Platform_R-0000167305-1) |
 
 ## About This Role
 
-This product manager position at Royal Bank of Canada was posted on 2026-03-09.
+This product manager position at Royal Bank of Canada was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

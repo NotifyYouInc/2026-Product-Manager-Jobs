@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/73097557508530886-director-product-management-safety-abuse-and-ai-risks?sort_by=date&page=1) |
+| Category | Trust & Safety |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfPyw2Fu4Gv5vVW2mxGvH-GrnlPhXWqAxeCOpJqWu9bhEjsACxwdTNq3XwHLP1ATjepHe4eH-j87bTZuo7Fe0YisPyi2QPbBeyMc6hW9mH-uZs3z0sjV9jfP5hkKEw%3D%3D_V2&loc=US&title=Director) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-03.
+This trust & safety position at Google was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
