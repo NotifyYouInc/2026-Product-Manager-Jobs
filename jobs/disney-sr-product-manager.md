@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Florida, US |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Sr-Product-Manager_10145370-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Sr-Product-Manager_10147263-2) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-03-26.
+This product manager position at Disney was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

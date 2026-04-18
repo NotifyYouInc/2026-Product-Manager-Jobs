@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Director--Product-Quality-Lead_R33203) |
+| Location | Basel, Basel-City, Switzerland |
+| Category | Product Manager |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Basel/Director--Product-Quality-Lead_R33357) |
 
 ## About This Role
 
-This operations position at BeOne was posted on 2026-02-05.
+This product manager position at BeOne was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

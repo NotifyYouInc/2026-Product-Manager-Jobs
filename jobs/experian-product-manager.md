@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Nottingham, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000111539120-product-manager) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000119983807-product-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-26.
+This product manager position at Experian was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

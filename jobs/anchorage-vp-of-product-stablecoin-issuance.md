@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anchorage](https://scoutify.ai/companies/anchorage?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Miami, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.lever.co/anchorage/6c5c282a-6aac-4143-abcc-c4f7341e0a60) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.lever.co/anchorage/539a8300-701c-4f45-ae29-277ab98368e2) |
 
 ## About This Role
 
-This product manager position at Anchorage was posted on 2026-04-01.
+This product manager position at Anchorage was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
