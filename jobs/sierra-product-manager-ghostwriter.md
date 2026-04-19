@@ -1,16 +1,16 @@
-# Head of Product, AI at Bjak
+# Product Manager, Ghostwriter at Sierra
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/aedac8fa-f39f-4d0d-8b70-c6bd9d323624) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/22ba107d-de01-4aa3-98fc-838cccad760c) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-11.
+This product manager position at Sierra was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

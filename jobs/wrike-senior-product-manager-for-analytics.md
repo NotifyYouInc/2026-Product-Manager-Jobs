@@ -1,16 +1,16 @@
-# Head of Product, AI at Bjak
+# Senior Product Manager for Analytics at Wrike
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Wrike](https://scoutify.ai/companies/wrike?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Nicosia, Nicosia, Cyprus |
 | Category | Product Manager |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/aedac8fa-f39f-4d0d-8b70-c6bd9d323624) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4683918005) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-11.
+This product manager position at Wrike was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

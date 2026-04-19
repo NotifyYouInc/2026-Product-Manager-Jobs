@@ -1,16 +1,16 @@
-# Head of Product, AI at Bjak
+# Chief Product & Technology Officer - O.R. Trax at Banyan Software
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Banyan Software](https://scoutify.ai/companies/banyan-software?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/aedac8fa-f39f-4d0d-8b70-c6bd9d323624) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/banyansoftware/jobs/5103026007) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-11.
+This product manager position at Banyan Software was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

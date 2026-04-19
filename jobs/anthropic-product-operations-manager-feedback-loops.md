@@ -1,16 +1,16 @@
-# Head of Product, AI at Bjak
+# Product Operations Manager, Feedback Loops at Anthropic
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/aedac8fa-f39f-4d0d-8b70-c6bd9d323624) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5179882008) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-11.
+This product manager position at Anthropic was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

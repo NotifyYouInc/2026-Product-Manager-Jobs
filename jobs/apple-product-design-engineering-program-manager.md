@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Program Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200647205/product-design-engineering-program-manager) |
+| Posted | 2025-11-17 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200632584/product-design-engineering-program-manager) |
 
 ## About This Role
 
-This program manager position at Apple was posted on 2026-02-17.
+This program manager position at Apple was posted on 2025-11-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WILMINGTON-DE/Product-Management-Director_R-525315) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Product-Management-Director_R-532755) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-03-02.
+This product manager position at Wells Fargo was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 
