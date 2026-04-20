@@ -1,16 +1,16 @@
-# Senior Manager, Product, GDI at Coca-Cola
+# Principal Group Product Manager-Platform at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Manager--Product--GDI_R-139410) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556858229) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-13.
+This product manager position at Microsoft was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

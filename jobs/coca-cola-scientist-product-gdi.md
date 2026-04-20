@@ -5,12 +5,12 @@
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Belgium---Brussels/Scientist--Product--GDI_R-138020) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Belgium---Brussels/Scientist--Product--GDI_R-139501) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-06.
+This product manager position at Coca-Cola was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

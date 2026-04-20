@@ -1,16 +1,16 @@
-# Senior Manager, Product, GDI at Coca-Cola
+# Product Manager, Baggage CX at Qantas Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Manager--Product--GDI_R-139410) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000000991657-product-manager-baggage-cx) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-13.
+This product manager position at Qantas Group was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

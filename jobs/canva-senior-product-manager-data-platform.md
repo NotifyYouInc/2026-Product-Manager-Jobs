@@ -1,16 +1,16 @@
-# Senior Manager, Product, GDI at Coca-Cola
+# Senior Product Manager - Data Platform at Canva
 
 | Field | Details |
 |-------|---------|
-| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Manager--Product--GDI_R-139410) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000992303-senior-product-manager-data-platform) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-13.
+This product manager position at Canva was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

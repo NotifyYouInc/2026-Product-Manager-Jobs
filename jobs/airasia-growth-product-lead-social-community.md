@@ -1,16 +1,16 @@
-# Product Owner - Digital Wealth at OCBC
+# Growth Product Lead – Social & Community at Airasia
 
 | Field | Details |
 |-------|---------|
-| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Product-Owner---Digital-Wealth_JR00007023) |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/KL-Sentral---Redstation/Growth-Product-Lead---Social---Community_JR0034150) |
 
 ## About This Role
 
-This product manager position at OCBC was posted on 2026-04-13.
+This product manager position at Airasia was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

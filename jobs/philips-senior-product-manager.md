@@ -1,16 +1,16 @@
-# Senior Manager, Product, GDI at Coca-Cola
+# Senior Product Manager at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Manager--Product--GDI_R-139410) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Taipei/Senior-Product-Manager_580427) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-13.
+This product manager position at Philips was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

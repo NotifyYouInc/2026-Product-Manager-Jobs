@@ -1,16 +1,16 @@
-# Senior Product Manager - API Platform at Ebury
+# Product Manager - Algorithms (Flexible Level) at Canva
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4839093101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000990247-product-manager-algorithms-flexible-level) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-04-12.
+This product manager position at Canva was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

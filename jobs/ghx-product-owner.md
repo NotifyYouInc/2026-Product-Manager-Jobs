@@ -1,16 +1,16 @@
-# Senior Manager, Product, GDI at Coca-Cola
+# Product Owner at GHX
 
 | Field | Details |
 |-------|---------|
-| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [GHX](https://scoutify.ai/companies/ghx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Manager--Product--GDI_R-139410) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4683736005) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-13.
+This product manager position at GHX was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

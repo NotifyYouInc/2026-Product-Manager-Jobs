@@ -1,16 +1,16 @@
-# Senior Manager, Product, GDI at Coca-Cola
+# Tech Product Platform Manager at OakNorth Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [OakNorth Bank](https://scoutify.ai/companies/oaknorth.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Manager--Product--GDI_R-139410) |
+| Apply | [View on company site](https://jobs.lever.co/oaknorth.ai/1244de91-01d8-41bc-bf2e-acdce66058b2) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-13.
+This product manager position at OakNorth Bank was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Manager - API Platform at Ebury
+# Senior Product Manager, Payments at StarRez
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Company | [StarRez](https://scoutify.ai/companies/starrez?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Denver, Colorado, United States |
 | Category | Product Manager |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4839093101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/starrez/jobs/5141766008) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-04-12.
+This product manager position at StarRez was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

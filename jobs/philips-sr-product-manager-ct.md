@@ -1,16 +1,16 @@
-# Senior Product Manager - API Platform at Ebury
+# Sr. Product Manager CT at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Best, North Brabant, The Netherlands |
 | Category | Product Manager |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4839093101) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Sr-Product-Manager-CT_580123-2) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-04-12.
+This product manager position at Philips was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

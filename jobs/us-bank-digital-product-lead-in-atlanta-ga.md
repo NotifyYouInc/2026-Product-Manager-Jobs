@@ -1,16 +1,16 @@
-# Senior Manager, Product, GDI at Coca-Cola
+# Digital Product Lead in Atlanta, GA. at U.S. Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Manager--Product--GDI_R-139410) |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Digital-Product-Lead-in-Atlanta--GA_2026-0009065-1) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-13.
+This product manager position at U.S. Bank was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

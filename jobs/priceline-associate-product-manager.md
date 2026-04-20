@@ -1,16 +1,16 @@
-# Senior Manager, Product, GDI at Coca-Cola
+# Associate Product Manager at Priceline
 
 | Field | Details |
 |-------|---------|
-| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Senior-Manager--Product--GDI_R-139410) |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Associate-Product-Manager_R5581) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-13.
+This product manager position at Priceline was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

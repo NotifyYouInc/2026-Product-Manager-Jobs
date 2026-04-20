@@ -1,16 +1,16 @@
-# Senior Product Manager - API Platform at Ebury
+# Retail Beauty Brand Management L6-I at Coupang Internal
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4839093101) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7361897?gh_jid=7361897) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-04-12.
+This product manager position at Coupang Internal was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

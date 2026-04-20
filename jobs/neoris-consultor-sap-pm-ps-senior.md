@@ -1,16 +1,16 @@
-# Senior Product Manager - API Platform at Ebury
+# Consultor SAP PM - PS Senior at Neoris
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
-| Category | Product Manager |
+| Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Madrid, Madrid, Spain |
+| Category | Technology / IT Consulting |
 | Posted | 2026-04-12 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4839093101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4836279101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-04-12.
+This technology / it consulting position at Neoris was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Product Owner - Digital Wealth at OCBC
+# Internship: Global Consumer Financial Services, Digital Business, Digital Wealth [May - August 2026] at OCBC
 
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Singapore |
 | Category | Product Manager |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Product-Owner---Digital-Wealth_JR00007023) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/Internship--Global-Consumer-Financial-Services--Digital-Business--Digital-Wealth--May---August-2026-_JR00005502) |
 
 ## About This Role
 
