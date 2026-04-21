@@ -5,12 +5,12 @@
 | Company | [Bridgestone](https://scoutify.ai/companies/bridgestone?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brook Park, Ohio, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/CFNA-Brook-Park/Product-Development-Manager_2026_03665-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/CFNA-Brook-Park/Product-Development-Manager_2026_08292) |
 
 ## About This Role
 
-This engineering manager position at Bridgestone was posted on 2026-02-18.
+This engineering manager position at Bridgestone was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

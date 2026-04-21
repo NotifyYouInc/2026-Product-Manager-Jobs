@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/MO-St-Louis-One-Express-Way/Business-Product-Owner-Advisor---Express-Scripts---Hybrid_25016151) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Business-Product-Owner-Advisor---Express-Scripts---Hybrid_26003062) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-03-20.
+This product manager position at Cigna was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

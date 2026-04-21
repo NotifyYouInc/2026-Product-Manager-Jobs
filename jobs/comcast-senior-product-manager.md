@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Senior-Product-Manager_R429401-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Senior-Product-Manager_R430006) |
 
 ## About This Role
 
-This product manager position at Comcast was posted on 2026-03-06.
+This product manager position at Comcast was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

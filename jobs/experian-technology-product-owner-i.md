@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116125682-technology-product-owner-i) |
+| Category | Software Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000120506847-technology-product-owner-i) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-03-23.
+This software engineer position at Experian was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

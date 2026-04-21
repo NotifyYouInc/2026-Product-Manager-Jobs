@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Product-Manager_JREQ199415) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Product-Manager_JREQ199735) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-03-26.
+This product manager position at Thomson Reuters was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

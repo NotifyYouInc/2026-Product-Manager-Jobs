@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Illinois, US |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012400836-business-systems-consultant-epe-product-owner) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012570507-business-systems-consultant-epe-product-owner) |
 
 ## About This Role
 
-This technology / it consulting position at AbbVie was posted on 2026-03-31.
+This technology / it consulting position at AbbVie was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

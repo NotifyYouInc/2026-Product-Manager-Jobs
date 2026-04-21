@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mexico |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Lder-de-Proyectos-Jr_26948143) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Lder-de-Proyectos-Jr_26952254) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-03-27.
+This product manager position at Citigroup was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

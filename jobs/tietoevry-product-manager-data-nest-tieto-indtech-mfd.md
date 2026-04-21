@@ -5,12 +5,12 @@
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Norway |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000118570847-product-manager-data-nest-tieto-indtech-mfd) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000120371433-product-manager-data-nest-tieto-indtech-mfd) |
 
 ## About This Role
 
-This product manager position at Tietoevry was posted on 2026-04-03.
+This product manager position at Tietoevry was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

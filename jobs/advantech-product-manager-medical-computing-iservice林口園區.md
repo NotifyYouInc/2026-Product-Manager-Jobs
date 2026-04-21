@@ -5,12 +5,12 @@
 | Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taiwan |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/Product-Manager--Medical-Computing--iService--_JR202603085) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/Product-Manager--Medical-Computing--iService--_JR202604043) |
 
 ## About This Role
 
-This product manager position at Advantech was posted on 2026-03-27.
+This product manager position at Advantech was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

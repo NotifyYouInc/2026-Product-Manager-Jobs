@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000987082-product-manager-algorithms) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000989968-product-manager-algorithms) |
 
 ## About This Role
 
-This product manager position at Canva was posted on 2026-04-09.
+This product manager position at Canva was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

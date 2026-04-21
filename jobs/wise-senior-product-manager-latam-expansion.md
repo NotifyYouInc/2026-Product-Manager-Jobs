@@ -1,16 +1,16 @@
-# Senior Product Manager - LATAM expansion at WISE
+# Senior Product Manager - LATAM Expansion at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000118661993-senior-product-manager-latam-expansion) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000120543403-senior-product-manager-latam-expansion) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-04-03.
+This product manager position at WISE was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

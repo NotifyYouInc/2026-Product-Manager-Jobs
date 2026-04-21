@@ -5,12 +5,12 @@
 | Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taiwan |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/Product-Manager---SSD--Flash---Embedded---_JR202603077) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/Product-Manager---SSD--Flash---Embedded---_JR202604044) |
 
 ## About This Role
 
-This product manager position at Advantech was posted on 2026-03-25.
+This product manager position at Advantech was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

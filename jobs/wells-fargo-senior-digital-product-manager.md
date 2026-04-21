@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Senior-Digital-Product-Manager_R-531015) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/141278-NC-CIC-Customer-Information-Ctr/Senior-Digital-Product-Manager_R-534839) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-03-25.
+This product manager position at Wells Fargo was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

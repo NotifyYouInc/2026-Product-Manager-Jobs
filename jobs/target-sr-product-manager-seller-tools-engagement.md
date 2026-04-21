@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | India |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Manager---Seller-Tools---Engagement_R0000429084) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Manager---Seller-Tools---Engagement_R0000434201) |
 
 ## About This Role
 
-This product manager position at Target was posted on 2026-02-06.
+This product manager position at Target was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

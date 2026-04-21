@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000115443533-principal-product-manager-ai) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120512587-principal-product-manager-ai) |
 
 ## About This Role
 
-This product manager position at AECOM was posted on 2026-03-18.
+This product manager position at AECOM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

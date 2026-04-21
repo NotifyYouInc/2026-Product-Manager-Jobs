@@ -5,12 +5,12 @@
 | Company | [Bliro](https://scoutify.ai/companies/bliro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2025-12-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bliro/3d471c51-10e6-47ab-b0d2-737b785ef15a) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bliro/1e56dcd9-3233-433d-a147-1c706b0143e8) |
 
 ## About This Role
 
-This product manager position at Bliro was posted on 2025-12-29.
+This product manager position at Bliro was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

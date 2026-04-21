@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000117570667-produktmanager-mwd-sicherheitstechnik) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000120311767-produktmanager-mwd-sicherheitstechnik) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-03-30.
+This product manager position at flash-security was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

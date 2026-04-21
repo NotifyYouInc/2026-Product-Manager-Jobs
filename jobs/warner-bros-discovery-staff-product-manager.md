@@ -1,16 +1,16 @@
-# Staff Product Manager at Warner Bros Discovery
+# Staff, Product Manager at Warner Bros Discovery
 
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Staff-Product-Manager_R000104088) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Staff--Product-Manager_R000104232) |
 
 ## About This Role
 
-This product manager position at Warner Bros Discovery was posted on 2026-03-25.
+This product manager position at Warner Bros Discovery was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

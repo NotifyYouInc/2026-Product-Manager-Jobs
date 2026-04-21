@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Illinois, US |
+| Location | Maidenhead, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012547119-data-product-manager) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012574406-data-product-manager) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-10.
+This product manager position at AbbVie was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
