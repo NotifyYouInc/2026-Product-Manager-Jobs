@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 14 locations |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Product-Owner_R63210) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Product-Owner_R63897) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-03-19.
+This product manager position at Motorola Solutions was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

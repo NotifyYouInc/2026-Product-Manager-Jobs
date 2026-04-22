@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Network-Products_R-268818) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Network-Products_R-273063) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-04.
+This product manager position at Mastercard was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

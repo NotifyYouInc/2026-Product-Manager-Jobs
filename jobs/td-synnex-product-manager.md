@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Malaysia |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Singapore-Singapore/Product-Manager_R48788) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Product-Manager_R49163) |
 
 ## About This Role
 
-This product manager position at TD Synnex was posted on 2026-03-10.
+This product manager position at TD Synnex was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

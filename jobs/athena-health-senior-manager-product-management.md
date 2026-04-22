@@ -1,16 +1,16 @@
-# Senior Manager, Product Management at Athena Health
+# Senior Manager- Product Management at Athena Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Karnataka, IN |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Chennai-India/Senior-Manager--Product-Management_R14432) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Senior-Manager--Product-Management_R14819) |
 
 ## About This Role
 
-This product manager position at Athena Health was posted on 2026-02-17.
+This product manager position at Athena Health was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

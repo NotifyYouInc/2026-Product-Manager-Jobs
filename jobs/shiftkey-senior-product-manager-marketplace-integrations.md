@@ -5,12 +5,12 @@
 | Company | [Shiftkey](https://scoutify.ai/companies/shiftkey?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/shiftkey/548c82d9-33c5-4d2c-abd1-dfef4f3c2088) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/shiftkey/76a009b8-3347-49eb-85a4-8c8aa875a9ae) |
 
 ## About This Role
 
-This product manager position at Shiftkey was posted on 2026-04-10.
+This product manager position at Shiftkey was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Owner – AGENTIC AI, Global Delivery Simplification Vice President at State Street
+# Product Owner– AGENTIC AI, Global Delivery Simplification, Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Product-Owner---AGENTIC-AI--Global-Delivery-Simplification-Vice-President_R-785595-2) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Product-Owner--AGENTIC-AI--Global-Delivery-Simplification--Vice-President_R-785597-2) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-04-08.
+This product manager position at State Street was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

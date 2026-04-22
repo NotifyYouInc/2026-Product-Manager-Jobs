@@ -1,16 +1,16 @@
-# Senior Business Manager, Digital Product Strategy at Capital One
+# Senior Business Manager - Digital Product Strategy at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
-| Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Manager--Digital-Product-Strategy_R237915) |
+| Location | 2 locations |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Manager---Digital-Product-Strategy_R238880) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-03-12.
+This strategy / management consulting position at Capital One was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

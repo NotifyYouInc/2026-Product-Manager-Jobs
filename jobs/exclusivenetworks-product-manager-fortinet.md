@@ -5,12 +5,12 @@
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Jakarta/Product-Manager---Fortinet_JR1560-2) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Jakarta/Product-Manager---Fortinet_JR1727-1) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-03-13.
+This product manager position at Exclusivenetworks was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Betim, Minas Gerais, Brazil |
+| Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012358333-analista-de-produto-pl) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012602816-analista-de-produto-pl) |
 
 ## About This Role
 
-This product manager position at MSX International was posted on 2026-03-27.
+This product manager position at MSX International was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

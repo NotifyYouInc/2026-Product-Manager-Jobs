@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Product Marketing Management |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/109097834870907590-regional-product-lead-diversification-product-and-sales-activation?sort_by=date&page=1) |
+| Category | Product Manager |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRy6Pzb2vjpmwALlCoqmr5mJ3is8IrTndftEzHykTkASEjsACxwdTB709Fwt7ym1txSmYbO0oYmCv8UiLg0JcqZNAv39OUcCa963IcwHtlKK8D3wzQMThqXUDnlyuA%3D%3D_V2&loc=IE&title=Regional+Product+Lead) |
 
 ## About This Role
 
-This product marketing management position at Google was posted on 2026-02-05.
+This product manager position at Google was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

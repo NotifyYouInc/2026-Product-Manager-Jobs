@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000114083514-product-owner-laborsoftware-wmd) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000120603513-product-owner-laborsoftware-wmd) |
 
 ## About This Role
 
-This product manager position at Anton Paar was posted on 2026-03-11.
+This product manager position at Anton Paar was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

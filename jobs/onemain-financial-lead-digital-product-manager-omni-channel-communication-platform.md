@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Baltimore-MD/Lead-Digital-Product-Manager--Omni-Channel-Communication-Platform_R2604-50342) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Wilmington-DE/Lead-Digital-Product-Manager--Omni-Channel-Communication-Platform_R2604-50374) |
 
 ## About This Role
 
-This product manager position at OneMain Financial was posted on 2026-04-09.
+This product manager position at OneMain Financial was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

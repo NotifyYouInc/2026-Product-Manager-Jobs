@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Texas, US |
+| Location | Las Vegas, Nevada, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Home-Office---US-NV/Sr-Product-Manager_272811) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Sr-Product-Manager_274324) |
 
 ## About This Role
 
-This product manager position at MGM Resorts International was posted on 2026-03-04.
+This product manager position at MGM Resorts International was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

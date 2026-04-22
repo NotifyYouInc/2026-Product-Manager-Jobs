@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000117332962-assistant-product-owner-stage-de-fin-detudes-luxe-retail) |
+| Category | Product Manager |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000120651267-assistant-product-owner-stage-de-fin-detudes-luxe-retail) |
 
 ## About This Role
 
-This technology / it consulting position at Magellan Partners was posted on 2026-03-27.
+This product manager position at Magellan Partners was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ERGOMED](https://scoutify.ai/companies/ergomed?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000120343758-pm-assistant-working-european-hours) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ergomed/744000120668157-pm-assistant-working-european-hours) |
 
 ## About This Role
 
-This product manager position at ERGOMED was posted on 2026-04-13.
+This product manager position at ERGOMED was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

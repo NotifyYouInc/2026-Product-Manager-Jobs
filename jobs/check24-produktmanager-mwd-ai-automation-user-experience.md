@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000120440337-produktmanager-mwd-ai-automation-user-experience) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000120624286-produktmanager-mwd-ai-automation-user-experience) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-04-13.
+This product manager position at CHECK24 was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

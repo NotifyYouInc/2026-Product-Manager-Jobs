@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Romania |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114551957-product-owner) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000120865087-product-owner) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-03-13.
+This product manager position at Robert Bosch was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
