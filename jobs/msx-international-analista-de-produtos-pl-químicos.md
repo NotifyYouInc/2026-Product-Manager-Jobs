@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | São Caetano do Sul, São Paulo, Brazil |
+| Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012593295-analista-de-produtos-pl-quimicos) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012621185-analista-de-produtos-pl-quimicos) |
 
 ## About This Role
 
-This product manager position at MSX International was posted on 2026-04-14.
+This product manager position at MSX International was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

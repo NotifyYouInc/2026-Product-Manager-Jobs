@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Product-Owner--VP_R0426218) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Product-Owner--VP_R0432085) |
 
 ## About This Role
 
-This product manager position at Deutsche Bank was posted on 2026-02-26.
+This product manager position at Deutsche Bank was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

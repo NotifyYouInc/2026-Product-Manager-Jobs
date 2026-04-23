@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
-| Category | Marketing |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Finance-Center-Building/Product-Manager_437244) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Product Manager |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Thailand---Bangkok/Product-Manager_438357) |
 
 ## About This Role
 
-This marketing position at GSK was posted on 2026-03-13.
+This product manager position at GSK was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

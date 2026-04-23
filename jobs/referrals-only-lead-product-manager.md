@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7726343) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7494461) |
 
 ## About This Role
 
-This product manager position at Referrals Only was posted on 2026-04-01.
+This product manager position at Referrals Only was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

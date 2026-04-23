@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
+| Location | Fort Worth, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Product-Group-Manager_R0070214) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Fort-Worth-TX/Product-Group-Manager_R0071125) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-03-20.
+This product manager position at Huntington Bancshares was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

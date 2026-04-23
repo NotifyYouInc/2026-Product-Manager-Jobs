@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kepong, Kuala Lumpur, Malaysia |
+| Location | Cheras, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Kepong/Mortgage-Loan-Specialist_JR00006172) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Cheras/Mortgage-Loan-Specialist_JR00007151) |
 
 ## About This Role
 
-This product manager position at OCBC was posted on 2026-03-11.
+This product manager position at OCBC was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

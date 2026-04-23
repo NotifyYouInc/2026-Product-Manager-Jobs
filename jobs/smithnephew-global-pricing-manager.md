@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/UK---Field/Global-Pricing-Manager_R89734) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/DEU---Field/Global-Pricing-Manager_R89789) |
 
 ## About This Role
 
-This product manager position at Smith+Nephew was posted on 2026-04-13.
+This product manager position at Smith+Nephew was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

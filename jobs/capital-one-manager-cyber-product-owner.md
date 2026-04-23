@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Cyber-Product-Owner_R238437-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Cyber-Product-Owner_R240601) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-03-19.
+This product manager position at Capital One was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

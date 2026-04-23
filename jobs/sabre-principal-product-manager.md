@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR107413) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Principal-Product-Manager_JR107651-1) |
 
 ## About This Role
 
-This product manager position at Sabre was posted on 2026-03-24.
+This product manager position at Sabre was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

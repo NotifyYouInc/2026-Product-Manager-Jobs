@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000117311464-duales-studium-ba-bsc-check24-digitales-produktmanagement-mit-ki-fokus-fom-munchen) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000120976396-duales-studium-ba-bsc-check24-digitales-produktmanagement-mit-ki-fokus-fom-munchen) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-03-27.
+This product manager position at CHECK24 was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/2c384432-9f2b-4582-8f8e-285ba21cf51b) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/dcd3889f-9ad0-4ae6-ab32-2b2007b28479) |
 
 ## About This Role
 
-This product manager position at Ciandt was posted on 2026-04-14.
+This product manager position at Ciandt was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

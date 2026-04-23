@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/London-Luke-Street-Eagle-Lab/Product-Owner_JR-0000084897-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/London-One-Canada-Square/Product-Owner_JR-0000093327) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-04-13.
+This product manager position at Barclays was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

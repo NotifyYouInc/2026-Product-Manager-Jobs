@@ -5,12 +5,12 @@
 | Company | [LINQ ](https://scoutify.ai/companies/linq-?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/emslinqinc/jobs/5108554008) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/emslinqinc/jobs/5189766008) |
 
 ## About This Role
 
-This product manager position at LINQ  was posted on 2026-02-06.
+This product manager position at LINQ  was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Indigo Books & Music](https://scoutify.ai/companies/indigobooksmusic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Nanaimo, British Columbia, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000119423593-product-operations-manager) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000120972865-product-operations-manager) |
 
 ## About This Role
 
-This product manager position at Indigo Books & Music was posted on 2026-04-08.
+This product manager position at Indigo Books & Music was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

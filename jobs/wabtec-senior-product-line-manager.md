@@ -6,7 +6,7 @@
 | Location | Cedar Rapids, Iowa, United States |
 | Category | Product Manager |
 | Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012604586-senior-product-line-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012604786-senior-product-line-manager) |
 
 ## About This Role
 

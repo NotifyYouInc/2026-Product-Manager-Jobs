@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Brisbane, Queensland, Australia |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Product-Manager_JR-0105057) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-QLD-Brisbane/Product-Manager_JR-0106009) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-03-20.
+This product manager position at Workday was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Business Consultant – Product Owner AML Til Netcompany Banking services.  at Netcompany
+# Senior Business Consultant – Product Owner AML til Netcompany Banking services at Netcompany
 
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Financial Crimes & AML |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000116121323-senior-business-consultant-product-owner-aml-til-netcompany-banking-services) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000120873427-senior-business-consultant-product-owner-aml-til-netcompany-banking-services) |
 
 ## About This Role
 
-This financial crimes & aml position at Netcompany was posted on 2026-03-23.
+This financial crimes & aml position at Netcompany was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

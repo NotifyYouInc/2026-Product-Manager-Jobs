@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Senior-Product-Manager--Client-Lifecycle---Regulatory-Solutions_322537-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Senior-Product-Manager--Client-Lifecycle---Regulatory-Solutions_322571-2) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-02-13.
+This product manager position at S&P Global was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

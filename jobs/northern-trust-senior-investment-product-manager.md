@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Senior-Investment-Product-Manager_R148129) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Senior-Investment-Product-Manager_R153556) |
 
 ## About This Role
 
-This corporate finance position at Northern Trust was posted on 2026-04-06.
+This asset management / portfolio management position at Northern Trust was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

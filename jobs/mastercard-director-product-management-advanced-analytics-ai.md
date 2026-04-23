@@ -1,16 +1,16 @@
-# Director, Product Management, Advanced Analytics & AI at Mastercard
+# Director, Product Management - Advanced Analytics & AI at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Director--Product-Management--Advanced-Analytics---AI_R-274671) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Director--Product-Management---Advanced-Analytics---AI_R-275364) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-04-06.
+This product manager position at Mastercard was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

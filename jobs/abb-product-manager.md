@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Saint-Jean-sur-Richelieu, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Warrington-Cheshire-United-Kingdom/Product-Manager_JR00021584) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Saint-Jean-sur-Richelieu-Quebec-Canada/Product-Manager_JR00028701-1) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-04-02.
+This product manager position at ABB was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

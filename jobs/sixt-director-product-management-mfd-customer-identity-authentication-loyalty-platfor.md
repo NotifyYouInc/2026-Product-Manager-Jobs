@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000118092001-director-product-management-mfd-customer-identity-authentication-loyalty-platform) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000120923242-director-product-management-mfd-customer-identity-authentication-loyalty-platform) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-04-01.
+This product manager position at Sixt was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Herndon-Area-VA/Product-Manager_JR10401521) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Copenhagen/Product-Manager_JR10388843) |
 
 ## About This Role
 
-This product manager position at Airbus was posted on 2026-04-09.
+This product manager position at Airbus was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
