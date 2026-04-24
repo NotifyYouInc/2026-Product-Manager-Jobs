@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Product-Manager--Specialist_176241-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Product-Manager--Specialist_175566) |
 
 ## About This Role
 
-This product manager position at Vanguard was posted on 2026-04-10.
+This product manager position at Vanguard was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Wilmington, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/London-One-Canada-Square/Product-Owner_JR-0000093327) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/Product-Owner_JR-0000105720) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-04-15.
+This product manager position at Barclays was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

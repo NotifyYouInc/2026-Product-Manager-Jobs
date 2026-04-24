@@ -5,12 +5,12 @@
 | Company | [Clari](https://scoutify.ai/companies/clari?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.lever.co/clari/da7f36ac-4c39-4e2c-97af-ed4ea8293da4) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.lever.co/clari/2109d11d-058b-4cff-9946-3accaaef1f15) |
 
 ## About This Role
 
-This product manager position at Clari was posted on 2026-04-15.
+This product manager position at Clari was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

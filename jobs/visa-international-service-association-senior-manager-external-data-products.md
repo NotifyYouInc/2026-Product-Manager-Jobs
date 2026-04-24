@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Foster City, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118267006-senior-manager-external-data-products) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121254807-senior-manager-external-data-products) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-04-01.
+This product manager position at Visa International Service Association was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

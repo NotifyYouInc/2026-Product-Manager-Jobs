@@ -1,16 +1,16 @@
-# Staff Product Manager at Twilio
+# Staff, Product Manager at Twilio
 
 | Field | Details |
 |-------|---------|
 | Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7593382) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7821526) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-02-21.
+This product manager position at Twilio was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

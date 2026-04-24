@@ -6,7 +6,7 @@
 | Location | Canada |
 | Category | Product Manager |
 | Posted | 2026-04-15 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-Produit-TI--Plateforme-Databricks_R2605159) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Plateforme-d-adoption-numrique_R2605262) |
 
 ## About This Role
 

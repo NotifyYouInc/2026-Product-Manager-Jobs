@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Product-Manager_R26000930) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Product-Manager_R26001855) |
 
 ## About This Role
 
-This product manager position at HD Supply was posted on 2026-02-25.
+This product manager position at HD Supply was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

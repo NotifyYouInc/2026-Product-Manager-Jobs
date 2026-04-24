@@ -5,12 +5,12 @@
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/c8d7e4a1-c124-475e-a38c-a530ca1f0ae8) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/c41a54de-50f4-4705-9419-cec616b50f89) |
 
 ## About This Role
 
-This product manager position at SpotOn: Sales (Career Site) was posted on 2026-04-01.
+This product manager position at SpotOn: Sales (Career Site) was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

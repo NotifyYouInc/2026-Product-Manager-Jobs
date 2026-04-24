@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Trondheim, Trøndelag, Norway |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000120877877-product-manager-nett-og-mobilbank-tietoevry-banking-mfd) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000121206130-product-manager-nett-og-mobilbank-tietoevry-banking-mfd) |
 
 ## About This Role
 
-This product manager position at Tietoevry was posted on 2026-04-15.
+This product manager position at Tietoevry was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

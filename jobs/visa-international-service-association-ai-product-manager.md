@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108795825-ai-product-manager) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121221417-ai-product-manager) |
 
 ## About This Role
 
-This product manager position at Visa International Service Association was posted on 2026-02-11.
+This product manager position at Visa International Service Association was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

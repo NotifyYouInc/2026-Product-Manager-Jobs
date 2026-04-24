@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000120846366-) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000121163992-) |
 
 ## About This Role
 
-This product manager position at Sika was posted on 2026-04-15.
+This product manager position at Sika was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

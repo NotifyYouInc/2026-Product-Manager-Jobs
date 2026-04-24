@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Espoo, Uusimaa, Finland |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000116187422-service-manager-tieto-caretech-mfd) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000121122967-service-manager-tieto-caretech-mfd) |
 
 ## About This Role
 
-This product manager position at Tietoevry was posted on 2026-03-23.
+This product manager position at Tietoevry was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

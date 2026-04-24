@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000120862157-associate-product-management) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000121181826-associate-product-management) |
 
 ## About This Role
 
-This product manager position at Dr. Reddy's Laboratories was posted on 2026-04-15.
+This product manager position at Dr. Reddy's Laboratories was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

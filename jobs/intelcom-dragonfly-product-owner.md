@@ -5,12 +5,12 @@
 | Company | [Intelcom | Dragonfly](https://scoutify.ai/companies/intelcomgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Product-Owner_JR110393) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Product-Owner_JR110675) |
 
 ## About This Role
 
-This product manager position at Intelcom | Dragonfly was posted on 2026-02-24.
+This product manager position at Intelcom | Dragonfly was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

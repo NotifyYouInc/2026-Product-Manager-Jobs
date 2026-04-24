@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Principal-Product-Manager_R-00180160) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/8996-Oklahoma-City-Home-Office/Principal-Product-Manager_R-00181021) |
 
 ## About This Role
 
-This product manager position at Leidos was posted on 2026-04-07.
+This product manager position at Leidos was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

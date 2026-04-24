@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product---Proposition-Manager---Business-Banking-Portfolio-Management_JR-0000095602) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product---Proposition-Manager---Business-Banking-Portfolio-Management_JR-0000102170) |
 
 ## About This Role
 
-This asset management / portfolio management position at Barclays was posted on 2026-03-13.
+This asset management / portfolio management position at Barclays was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
