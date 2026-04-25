@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Minnesota, US |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---St-Cloud-MN/Senior-Technology-Product-Manager_R0056073) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/CAN---North-York/Senior-Technology-Product-Manager_R0056800) |
 
 ## About This Role
 
-This product manager position at Wolters Kluwer was posted on 2026-04-01.
+This product manager position at Wolters Kluwer was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

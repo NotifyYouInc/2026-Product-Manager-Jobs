@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Plateforme-d-adoption-numrique_R2605262) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--pargne-retraite-et-Assurances-collectives_R2605268) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-04-15.
+This product manager position at Desjardins was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4838858101) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4844879101) |
 
 ## About This Role
 
-This financial crimes & aml position at Ebury was posted on 2026-04-11.
+This financial crimes & aml position at Ebury was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

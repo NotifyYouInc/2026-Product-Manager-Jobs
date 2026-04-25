@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 7 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Digital-Technical-Product-Management---Transformation---Ventures_R0115320) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Digital-Technical-Product-Management---Transformation---Ventures_R0117024) |
 
 ## About This Role
 
-This product manager position at USAA was posted on 2026-02-12.
+This product manager position at USAA was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

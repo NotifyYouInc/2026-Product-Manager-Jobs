@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000117676472-product-manager-telco-customer-experience) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000121409508-product-manager-telco-customer-experience) |
 
 ## About This Role
 
-This product manager position at Utility Warehouse was posted on 2026-03-30.
+This product manager position at Utility Warehouse was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

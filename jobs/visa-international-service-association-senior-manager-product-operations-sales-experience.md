@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107335742-senior-manager-product-operations-sales-experience) |
+| Location | Austin, Texas, United States |
+| Category | Product Manager |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121467350-senior-manager-product-operations-sales-experience) |
 
 ## About This Role
 
-This operations position at Visa International Service Association was posted on 2026-02-04.
+This product manager position at Visa International Service Association was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

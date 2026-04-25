@@ -5,12 +5,12 @@
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York, US |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Product-Owner_326228-2) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Product-Owner_328125) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-03-25.
+This product manager position at S&P Global was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

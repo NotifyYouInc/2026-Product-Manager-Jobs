@@ -1,16 +1,16 @@
-# Pricing/ Premium Services Manager at AXS
+# Pricing / Premium Services Manager at AXS
 
 | Field | Details |
 |-------|---------|
 | Company | [AXS](https://scoutify.ai/companies/axs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8440639002) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axs/jobs/8512214002) |
 
 ## About This Role
 
-This product manager position at AXS was posted on 2026-02-26.
+This product manager position at AXS was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
