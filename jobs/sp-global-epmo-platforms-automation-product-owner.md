@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# EPMO Platforms & Automation – Product Owner at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5fce9118-df42-4b3e-87dd-e6ba0df5b499) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Amsterdam-NLD/EPMO-Platforms---Automation---Product-Owner_327686-1) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-18.
+This product manager position at S&P Global was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

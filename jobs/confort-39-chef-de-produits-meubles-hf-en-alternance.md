@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# Chef de produits meubles (H/F) en alternance at Confort 39
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [Confort 39](https://scoutify.ai/companies/confort39?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Lognes, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5fce9118-df42-4b3e-87dd-e6ba0df5b499) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Conforama/744000121575766-chef-de-produits-meubles-hf-en-alternance) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-18.
+This product manager position at Confort 39 was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

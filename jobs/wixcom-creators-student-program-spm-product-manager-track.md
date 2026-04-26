@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# Creators Student Program- SPM (Product Manager Track) at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/5fce9118-df42-4b3e-87dd-e6ba0df5b499) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000121587917-creators-student-program-spm-product-manager-track) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-18.
+This product manager position at Wix.com was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
