@@ -1,16 +1,16 @@
-# Senior/Staff Product Manager at Saviynt
+# 市场准入经理 at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
-| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Beijing, Beijing, China |
 | Category | Product Manager |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beijing-China/_R-070057) |
 
 ## About This Role
 
-This product manager position at Saviynt was posted on 2026-04-20.
+This product manager position at Johnson & Johnson was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

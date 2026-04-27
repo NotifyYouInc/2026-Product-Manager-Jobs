@@ -1,16 +1,16 @@
-# Senior Product Manager at Morningstar
+# Sr Director, US Credit Exist Customer Management at PayPal
 
 | Field | Details |
 |-------|---------|
-| Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Chicago/Senior-Product-Manager_AP-23655229) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Director--US-Credit-Exist-Customer-Mktg_R0134957) |
 
 ## About This Role
 
-This product manager position at Morningstar was posted on 2026-04-20.
+This product manager position at PayPal was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

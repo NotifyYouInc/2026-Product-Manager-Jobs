@@ -1,16 +1,16 @@
-# Senior/Staff Product Manager at Saviynt
+# Principal Product Manager at Cymulate
 
 | Field | Details |
 |-------|---------|
-| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Cymulate](https://scoutify.ai/companies/cymulate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Israel |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/cymulate/jobs/4843081101) |
 
 ## About This Role
 
-This product manager position at Saviynt was posted on 2026-04-20.
+This product manager position at Cymulate was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

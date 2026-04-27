@@ -1,16 +1,16 @@
-# Senior/Staff Product Manager at Saviynt
+# Product Operations Analyst at Agoda
 
 | Field | Details |
 |-------|---------|
-| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Product Manager |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/6354870) |
 
 ## About This Role
 
-This product manager position at Saviynt was posted on 2026-04-20.
+This product manager position at Agoda was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

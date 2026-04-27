@@ -1,16 +1,16 @@
-# Sr. Product Manager – Tech, Alexa Daily Essentials at Amazon
+# Ecommerce Operation Manager, Amazon Private Brands Global Sourcing at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Product Manager |
+| Location | Shenzhen, Guangdong, China |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10395476/sr-product-manager-tech-alexa-daily-essentials) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10395794/ecommerce-operation-manager-amazon-private-brands-global-sourcing) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-04-20.
+This talent acquisition / recruiting position at Amazon was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

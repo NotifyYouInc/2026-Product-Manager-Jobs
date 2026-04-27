@@ -1,16 +1,16 @@
-# Senior/Staff Product Manager at Saviynt
+# [AI Frontier] Product Owner (7년 이상) at KRAFTON
 
 | Field | Details |
 |-------|---------|
-| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [KRAFTON](https://scoutify.ai/companies/krafton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/krafton/jobs/8465450002) |
 
 ## About This Role
 
-This product manager position at Saviynt was posted on 2026-04-20.
+This product manager position at KRAFTON was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

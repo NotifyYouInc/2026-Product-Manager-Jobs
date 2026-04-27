@@ -1,16 +1,16 @@
-# Senior/Staff Product Manager at Saviynt
+# Associate Product Owner - Digital Channels at Absa
 
 | Field | Details |
 |-------|---------|
-| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Mauritius |
 | Category | Product Manager |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf) |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Ebene/Associate-Product-Owner---Digital-Channels_R-15985507) |
 
 ## About This Role
 
-This product manager position at Saviynt was posted on 2026-04-20.
+This product manager position at Absa was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

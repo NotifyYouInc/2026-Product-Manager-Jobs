@@ -1,16 +1,16 @@
-# Senior/Staff Product Manager at Saviynt
+# AI Product Manager at Unframe
 
 | Field | Details |
 |-------|---------|
-| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Israel |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf) |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4845129101) |
 
 ## About This Role
 
-This product manager position at Saviynt was posted on 2026-04-20.
+This product manager position at Unframe was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

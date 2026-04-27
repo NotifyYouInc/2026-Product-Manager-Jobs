@@ -1,16 +1,16 @@
-# Senior/Staff Product Manager at Saviynt
+# Product Manager at NETWEALTH
 
 | Field | Details |
 |-------|---------|
-| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [NETWEALTH](https://scoutify.ai/companies/netwealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/netwealth/3a855636-3ccb-41ad-821c-abdff58fe2b9) |
 
 ## About This Role
 
-This product manager position at Saviynt was posted on 2026-04-20.
+This product manager position at NETWEALTH was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

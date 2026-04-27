@@ -1,16 +1,16 @@
-# Senior/Staff Product Manager at Saviynt
+# Product Owner - Data Delivery at TAL
 
 | Field | Details |
 |-------|---------|
-| Company | [Saviynt](https://scoutify.ai/companies/saviynt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/saviynt/38105965-8093-440e-acd7-1e1e334758cf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000121672857-product-owner-data-delivery) |
 
 ## About This Role
 
-This product manager position at Saviynt was posted on 2026-04-20.
+This product manager position at TAL was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
