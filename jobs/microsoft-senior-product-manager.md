@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Redmond, Washington, United States |
 | Category | Product Manager |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556856196) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556859702) |
 
 ## About This Role
 

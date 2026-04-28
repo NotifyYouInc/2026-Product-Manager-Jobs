@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [alchemy](https://scoutify.ai/companies/alchemy-alchemy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alchemy/e25f2923-33ce-45cb-a967-0cdb53b2c8b8) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alchemy/b8488269-f317-469b-8bf7-95bc5aa54521) |
 
 ## About This Role
 
-This product manager position at alchemy was posted on 2026-04-07.
+This product manager position at alchemy was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

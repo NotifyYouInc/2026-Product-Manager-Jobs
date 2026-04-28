@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--pargne-retraite-et-Assurances-collectives_R2605268) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--Scurit-des-infrastructures_R2605464) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-04-17.
+This product manager position at Desjardins was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Poland/Senior-Business-Analyst---Product-Management--FinTech_R0025473) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India-Pune/Senior-Business-Analyst---Product-Management--FinTech_R0025685) |
 
 ## About This Role
 
-This product manager position at Nasdaq was posted on 2026-03-18.
+This product manager position at Nasdaq was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

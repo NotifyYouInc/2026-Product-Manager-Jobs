@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012570196-responsable-innovation-en-pharmacie-et-relations-commerciales) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012675001-responsable-innovation-en-pharmacie-et-relations-commerciales) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-13.
+This product manager position at AbbVie was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

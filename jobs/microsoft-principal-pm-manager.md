@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556850557) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556860713) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-03-19.
+This product manager position at Microsoft was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

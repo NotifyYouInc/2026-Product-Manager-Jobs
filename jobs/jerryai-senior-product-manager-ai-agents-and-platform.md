@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/3d6e7d72-1c4a-465d-a64d-ea9d6fa2cf0e) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/3c03e1b0-3c4d-4e91-a434-40d2b8122937) |
 
 ## About This Role
 
-This product manager position at Jerry.ai was posted on 2026-04-13.
+This product manager position at Jerry.ai was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

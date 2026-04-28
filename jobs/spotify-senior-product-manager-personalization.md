@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Spotify](https://scoutify.ai/companies/spotify?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Manager |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/spotify/57378ce5-298e-40bc-aa2f-454962d093fc) |
+| Apply | [View on company site](https://jobs.lever.co/spotify/8208be35-eadf-4035-ab0b-650c73d5bd03) |
 
 ## About This Role
 

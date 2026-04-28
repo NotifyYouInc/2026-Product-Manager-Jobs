@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Manchester, New Hampshire, United States |
+| Location | Vaughan, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000121013587-product-manager-npd-product-lifecycle-management) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000121818147-product-manager-npd-product-lifecycle-management) |
 
 ## About This Role
 
-This product manager position at LGC was posted on 2026-04-15.
+This product manager position at LGC was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

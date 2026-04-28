@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Nottingham, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000119986347-data-product-owner) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121815557-data-product-owner) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-04-10.
+This product manager position at Experian was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

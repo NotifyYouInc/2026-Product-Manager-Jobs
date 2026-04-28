@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Deventer, Overijssel, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000120693657-assistent-productmanager-wasco-interim) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000121697979-assistent-productmanager-wasco-interim) |
 
 ## About This Role
 
-This product manager position at REXEL was posted on 2026-04-14.
+This product manager position at REXEL was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

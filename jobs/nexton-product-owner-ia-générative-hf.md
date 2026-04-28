@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000117328264-product-owner-ia-generative-hf) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000121711853-product-owner-ia-generative-hf) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-03-27.
+This product manager position at Nexton was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Product Manager - Customer Experience and AI at Constant Contact
+# Principal Product Manager -  Customer Experience and AI at Constant Contact
 
 | Field | Details |
 |-------|---------|
 | Company | [Constant Contact](https://scoutify.ai/companies/constantcontact?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/constantcontact/jobs/7569332) |
+| Location | Canada |
+| Category | Product Manager |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/constantcontact/jobs/7826950) |
 
 ## About This Role
 
-This customer success position at Constant Contact was posted on 2026-02-03.
+This product manager position at Constant Contact was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

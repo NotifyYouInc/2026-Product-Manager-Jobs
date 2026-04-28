@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7613377203417483573/detail) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7630838458010241333/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-03-04.
+This product manager position at TikTok was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Senior-Product-Manager_R167420) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167941) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-04-15.
+This product manager position at Adobe was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

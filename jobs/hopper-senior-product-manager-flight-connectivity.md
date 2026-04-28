@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hopper](https://scoutify.ai/companies/hopper?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Spain |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hopper/3437e03a-9b21-4b04-b3e3-ef94cccaed55) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hopper/ba40ab6d-ea13-4cf7-868c-e0a37726a461) |
 
 ## About This Role
 
