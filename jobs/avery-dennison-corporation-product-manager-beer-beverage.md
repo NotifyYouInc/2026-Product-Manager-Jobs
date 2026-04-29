@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mentor, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000119432046-product-manager-beer-beverage) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000122091007-product-manager-beer-beverage) |
 
 ## About This Role
 
-This product manager position at Avery Dennison Corporation was posted on 2026-04-08.
+This product manager position at Avery Dennison Corporation was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

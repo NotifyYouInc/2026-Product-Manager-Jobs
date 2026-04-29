@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000117249867-product-owner-hf) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000121949787-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Meritis was posted on 2026-03-27.
+This product manager position at Meritis was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

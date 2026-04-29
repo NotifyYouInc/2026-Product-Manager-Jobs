@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pennsylvania, US |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Senior-Manager--Product-Manager_175877) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Senior-Manager--Product-Manager_174406-1) |
 
 ## About This Role
 
-This product manager position at Vanguard was posted on 2026-04-17.
+This product manager position at Vanguard was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

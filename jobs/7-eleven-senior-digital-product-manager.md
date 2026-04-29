@@ -5,12 +5,12 @@
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Senior-Digital-Product-Manager_R25_0000006631) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Senior-Digital-Product-Manager_R26_2323-1) |
 
 ## About This Role
 
-This product manager position at 7-Eleven was posted on 2026-02-04.
+This product manager position at 7-Eleven was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Manager--Product-Management_JR338347) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Australia---Melbourne/Senior-Manager--Product-Management_JR338352) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-04-19.
+This product manager position at Salesforce was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Brand Marketing |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000120875268-group-brand-manager-immunotherapy) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000122167882-group-brand-manager-immunotherapy) |
 
 ## About This Role
 
-This brand marketing position at Dr. Reddy's Laboratories was posted on 2026-04-15.
+This brand marketing position at Dr. Reddy's Laboratories was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

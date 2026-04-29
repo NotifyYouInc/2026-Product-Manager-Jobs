@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Chisinau, Chișinău Municipality, Moldova |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4676173005) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4676686005) |
 
 ## About This Role
 
-This product manager position at INFUSE was posted on 2026-04-13.
+This product manager position at INFUSE was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

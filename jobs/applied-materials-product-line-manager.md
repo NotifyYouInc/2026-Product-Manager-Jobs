@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Manager_R2615896) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Manager_R2617892) |
 
 ## About This Role
 
-This product manager position at Applied Materials was posted on 2026-04-09.
+This product manager position at Applied Materials was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

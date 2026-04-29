@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Australia |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Product-Manager_REQ255640) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Eveleigh-NSW---5-7-Central-Ave/Senior-Product-Manager_REQ256409) |
 
 ## About This Role
 
-This product manager position at Commonwealth Bank of Australia was posted on 2026-04-14.
+This product manager position at Commonwealth Bank of Australia was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

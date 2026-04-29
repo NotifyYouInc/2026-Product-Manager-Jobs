@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Peru |
+| Location | Mexico |
 | Category | Product Manager |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Ingram-Micro-Office--San-Borja/Product-Manager-Zebra_R-113766) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mexico-DF-Mexico/Product-Manager-Zebra_R-114685) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-03-28.
+This product manager position at Ingram Micro was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

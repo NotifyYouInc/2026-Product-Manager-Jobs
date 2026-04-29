@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000111117713-chief-product-technology-officer-pole-hospitality-hf) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000122040360-chief-product-technology-officer-pole-hospitality-hf) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-02-24.
+This product manager position at SEPTEO was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

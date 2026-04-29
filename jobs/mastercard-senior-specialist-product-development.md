@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist--Product-Development_R-272517) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist--Product-Development_R-276026) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-04-17.
+This product manager position at Mastercard was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

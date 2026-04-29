@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114004303-manager-application-cybersecurite-toulouse) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121968406-manager-application-cybersecurite-toulouse) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-03-11.
+This product manager position at Sopra Steria was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

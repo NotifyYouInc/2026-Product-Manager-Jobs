@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Quartermaster](https://scoutify.ai/companies/quartermaster?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | California, US |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/quartermaster/83dee5ab-1cbf-401e-980c-801f9d3a7889) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/quartermaster/68bf5a17-a598-4a8e-bf4d-c7f64dc1465d) |
 
 ## About This Role
 
-This product manager position at Quartermaster was posted on 2026-03-09.
+This product manager position at Quartermaster was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

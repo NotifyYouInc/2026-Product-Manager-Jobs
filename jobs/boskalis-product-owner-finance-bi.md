@@ -5,12 +5,12 @@
 | Company | [Boskalis](https://scoutify.ai/companies/boskalis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Papendrecht, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000121122959-product-owner-finance-bi) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boskalis/744000122026276-product-owner-finance-bi) |
 
 ## About This Role
 
-This product manager position at Boskalis was posted on 2026-04-16.
+This product manager position at Boskalis was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

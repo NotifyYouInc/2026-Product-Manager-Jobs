@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fireblocks](https://scoutify.ai/companies/fireblocks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.fireblocks.com/careers/position/4674062006?gh_jid=4674062006) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.fireblocks.com/careers/position/4674061006?gh_jid=4674061006) |
 
 ## About This Role
 
-This product manager position at Fireblocks was posted on 2026-04-16.
+This product manager position at Fireblocks was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

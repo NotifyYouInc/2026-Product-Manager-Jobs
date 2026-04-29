@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Senior-Product-Manager_R-2462228) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-PTPP1/Senior-Product-Manager_R-2466125) |
 
 ## About This Role
 
-This product manager position at Walmart was posted on 2026-04-17.
+This product manager position at Walmart was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

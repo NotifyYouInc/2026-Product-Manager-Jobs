@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000117310257-product-manager) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000122016594-product-manager) |
 
 ## About This Role
 
-This product manager position at Xplor Technologies was posted on 2026-03-27.
+This product manager position at Xplor Technologies was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

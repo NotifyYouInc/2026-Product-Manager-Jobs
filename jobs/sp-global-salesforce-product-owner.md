@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Singapore-SG/Salesforce-Product-Owner_327040-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Salesforce-Product-Owner_328048-2) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-03-29.
+This product manager position at S&P Global was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

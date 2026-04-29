@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Solna, Stockholm, Sweden |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000118173967-product-business-developer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000121984177-product-business-developer) |
 
 ## About This Role
 
-This product manager position at Vattenfall was posted on 2026-04-01.
+This product manager position at Vattenfall was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
