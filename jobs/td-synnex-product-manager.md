@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Product-Manager_R45896) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Jakarta-Indonesia/Product-Manager_R50297) |
 
 ## About This Role
 
-This product manager position at TD Synnex was posted on 2026-04-17.
+This product manager position at TD Synnex was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

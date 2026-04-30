@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4656018005&gh_jid=4656018005) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4580777005&gh_jid=4580777005) |
 
 ## About This Role
 
-This product manager position at SolarWinds was posted on 2026-02-08.
+This product manager position at SolarWinds was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

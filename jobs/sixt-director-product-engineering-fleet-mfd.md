@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000107054185-director-product-engineering-fleet-mfd) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000122285179-director-product-engineering-fleet-mfd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-02-03.
+This product manager position at Sixt was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

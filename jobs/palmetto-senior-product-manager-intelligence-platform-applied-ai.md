@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5145462008) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5196844008) |
 
 ## About This Role
 
-This product manager position at Palmetto was posted on 2026-03-06.
+This product manager position at Palmetto was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

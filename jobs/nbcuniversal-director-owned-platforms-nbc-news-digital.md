@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000114733981-director-owned-platforms-nbc-news-digital) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000122298278-director-owned-platforms-nbc-news-digital) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-03-13.
+This product manager position at NBCUniversal was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

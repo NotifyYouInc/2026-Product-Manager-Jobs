@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vetcove](https://scoutify.ai/companies/vetcove?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Colorado, US |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vetcove/09bf709e-93e8-4486-8363-9c1b9388f184) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vetcove/26b0f19c-a62d-4e71-92e1-99f57a1513ec) |
 
 ## About This Role
 
-This product manager position at Vetcove was posted on 2026-03-02.
+This product manager position at Vetcove was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

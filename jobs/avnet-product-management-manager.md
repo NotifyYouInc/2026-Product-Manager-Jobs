@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taiwan |
-| Category | Program Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Manager_JR-022260) |
+| Category | Product Manager |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Manager_JR-022529) |
 
 ## About This Role
 
-This program manager position at Avnet was posted on 2026-04-02.
+This product manager position at Avnet was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

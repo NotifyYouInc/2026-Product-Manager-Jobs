@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eliseai](https://scoutify.ai/companies/eliseai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/eliseai/b6cc0e6c-9476-4b4e-8d4f-68e0255e05d4) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/eliseai/0f2eee16-f2c8-44fd-80b6-2fcf43ec876b) |
 
 ## About This Role
 
-This product manager position at Eliseai was posted on 2026-04-20.
+This product manager position at Eliseai was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7651697) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7486955) |
 
 ## About This Role
 
-This product manager position at Stripe was posted on 2026-02-24.
+This product manager position at Stripe was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4797825101?gh_jid=4797825101) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4845995101?gh_jid=4845995101) |
 
 ## About This Role
 
-This product manager position at NiCE was posted on 2026-03-09.
+This product manager position at NiCE was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

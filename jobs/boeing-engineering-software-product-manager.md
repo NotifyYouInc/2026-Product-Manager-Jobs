@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Everett, Washington, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Engineering-Software-Product-Manager_JR2026505706-1) |
+| Category | Product Manager |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Engineering-Software-Product-Manager_JR2026506970-1) |
 
 ## About This Role
 
-This engineering manager position at Boeing was posted on 2026-04-21.
+This product manager position at Boeing was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Lake Forest, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Hong-Kong/Product-Manager_31148266) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Product-Manager_31147643) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-04-21.
+This product manager position at Abbott was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

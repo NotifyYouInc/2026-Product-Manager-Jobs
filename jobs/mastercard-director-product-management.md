@@ -1,16 +1,16 @@
-# Director - Product Management at Mastercard
+# Director, Product Management at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director---Product-Management_R-275353) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Product-Management_R-275769) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-04-15.
+This product manager position at Mastercard was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

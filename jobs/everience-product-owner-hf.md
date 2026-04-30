@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000118623418-product-owner-hf) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000122288846-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Everience was posted on 2026-04-03.
+This product manager position at Everience was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

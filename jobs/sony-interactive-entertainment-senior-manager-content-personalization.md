@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | San Mateo, California, United States |
 | Category | Content Marketing |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5833599004) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5557591004) |
 
 ## About This Role
 
-This content marketing position at Sony Interactive Entertainment was posted on 2026-03-20.
+This content marketing position at Sony Interactive Entertainment was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

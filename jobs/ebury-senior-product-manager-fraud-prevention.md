@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Spain |
+| Location | Málaga, Andalusia, Spain |
 | Category | Trust & Safety |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4844883101) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4847981101) |
 
 ## About This Role
 
-This trust & safety position at Ebury was posted on 2026-04-17.
+This trust & safety position at Ebury was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

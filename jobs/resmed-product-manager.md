@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Bloomington-MN-USA/Product-Manager_JR_048568-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Sydney-NSW-Australia/Product-Manager_JR_050433-1) |
 
 ## About This Role
 
-This product manager position at ResMed was posted on 2026-02-10.
+This product manager position at ResMed was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

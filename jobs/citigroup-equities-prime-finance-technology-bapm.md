@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Equities-Prime-Finance-Technology-BA-PM_26956521) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Equities-Prime-Finance-Technology-BA-PM_26956514-1) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-04-19.
+This product manager position at Citigroup was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

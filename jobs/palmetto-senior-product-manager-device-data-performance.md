@@ -1,16 +1,16 @@
-# Senior Product Manager, Device Data & Performance at Palmetto
+# Senior Product Manager - Device Data & Performance at Palmetto
 
 | Field | Details |
 |-------|---------|
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5165415008) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5196839008) |
 
 ## About This Role
 
-This product manager position at Palmetto was posted on 2026-03-25.
+This product manager position at Palmetto was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

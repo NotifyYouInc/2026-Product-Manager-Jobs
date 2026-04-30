@@ -6,7 +6,7 @@
 | Location | Redmond, Washington, United States |
 | Category | Product Manager |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556859707) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556861039) |
 
 ## About This Role
 
