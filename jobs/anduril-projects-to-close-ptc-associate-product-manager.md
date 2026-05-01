@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5065746007?gh_jid=5065746007) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5119382007?gh_jid=5119382007) |
 
 ## About This Role
 
-This product manager position at Anduril was posted on 2026-03-02.
+This product manager position at Anduril was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

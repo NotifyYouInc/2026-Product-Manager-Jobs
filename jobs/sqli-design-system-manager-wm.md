@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Switzerland |
+| Location | Carouge, Geneva, Switzerland |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000117685053-design-system-manager-wm) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000122442199-design-system-manager-wm) |
 
 ## About This Role
 
-This product manager position at SQLI was posted on 2026-03-30.
+This product manager position at SQLI was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

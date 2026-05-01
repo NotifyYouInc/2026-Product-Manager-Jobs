@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | Skien, Telemark, Norway |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Brno-Jihomoravsk-kraj-Czechia/Product-Specialist_JR00027372) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Skien-Telemark-Norway/Product-Specialist_JR00026252) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-03-17.
+This product manager position at ABB was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

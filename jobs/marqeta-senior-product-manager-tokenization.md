@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marqeta](https://scoutify.ai/companies/marqeta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/marqeta/jobs/7711098) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/marqeta/jobs/7711102) |
 
 ## About This Role
 
-This product manager position at Marqeta was posted on 2026-03-17.
+This product manager position at Marqeta was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

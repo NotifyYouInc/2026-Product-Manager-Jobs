@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Business-Product-Owner-Advisor--PBM-Operations---Express-Scripts---Hybrid_26003306) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Business-Product-Owner-Advisor--PBM-Operations---Express-Scripts---Hybrid_26004700-1) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-03-20.
+This product manager position at Cigna was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

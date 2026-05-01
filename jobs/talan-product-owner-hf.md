@@ -1,16 +1,16 @@
-# Product Owner H/F at Talan
+# Product Owner - H/F at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120739487-product-owner-hf) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000122461977-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Talan was posted on 2026-04-14.
+This product manager position at Talan was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

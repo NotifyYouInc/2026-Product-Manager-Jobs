@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bursa, Bursa Province, Turkey |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122248297-fleet-concept-manager) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122468091-fleet-concept-manager) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-04-22.
+This product manager position at Robert Bosch was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

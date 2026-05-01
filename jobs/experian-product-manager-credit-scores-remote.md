@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000118595257-product-manager-credit-scores-remote) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122511030-product-manager-credit-scores-remote) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-04-03.
+This product manager position at Experian was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Product-Owner_ATCI-5536571-S2017253-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Product-Owner_ATCI-5533468-S2018209) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-04-22.
+This product manager position at Accenture was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

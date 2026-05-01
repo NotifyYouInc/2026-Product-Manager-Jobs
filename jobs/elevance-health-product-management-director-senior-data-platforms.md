@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/DE-WILMINGTON-123-S-JUSTISON-ST-STE-200/Product-Management-Director-Senior---Data-Platforms_JR186759) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/DE-WILMINGTON-123-S-JUSTISON-ST-STE-200/Product-Management-Director-Senior---Data-Platforms_JR190606) |
 
 ## About This Role
 
-This product manager position at Elevance Health was posted on 2026-03-19.
+This product manager position at Elevance Health was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

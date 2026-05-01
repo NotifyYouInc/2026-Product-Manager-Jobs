@@ -5,12 +5,12 @@
 | Company | [Bandwidth](https://scoutify.ai/companies/bandwidth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bandwidth/jobs/7802827) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bandwidth/jobs/7846565) |
 
 ## About This Role
 
-This product manager position at Bandwidth was posted on 2026-04-10.
+This product manager position at Bandwidth was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

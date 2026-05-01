@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Customer Success Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ebury.com/job?gh_jid=4785085101) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4849278101) |
 
 ## About This Role
 
-This customer success manager position at Ebury was posted on 2026-02-18.
+This customer success manager position at Ebury was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

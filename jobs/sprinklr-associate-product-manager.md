@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Haryana, IN |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Associate-Product-Manager_113001-JOB) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Associate-Product-Manager_112928-JOB) |
 
 ## About This Role
 
-This product manager position at Sprinklr was posted on 2026-04-20.
+This product manager position at Sprinklr was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

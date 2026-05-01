@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | Shirebrook, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000121354308-product-and-trading-manager) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000122427945-product-and-trading-manager) |
 
 ## About This Role
 
-This product manager position at SportsDirect.com Retail was posted on 2026-04-17.
+This product manager position at SportsDirect.com Retail was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

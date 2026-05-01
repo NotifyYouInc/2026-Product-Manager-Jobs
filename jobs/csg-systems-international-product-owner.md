@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Portugal |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Portugal-Remote/Product-Owner_31653-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Product-Owner_31638) |
 
 ## About This Role
 
-This product manager position at CSG Systems International was posted on 2026-03-27.
+This product manager position at CSG Systems International was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

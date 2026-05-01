@@ -5,12 +5,12 @@
 | Company | [Knobelsdorff Enterprises](https://scoutify.ai/companies/knobelsdorff-enterprises?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Eagan, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/knobelsdorffenterprises/744000121023697-product-manager) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/knobelsdorffenterprises/744000122476612-product-manager) |
 
 ## About This Role
 
-This product manager position at Knobelsdorff Enterprises was posted on 2026-04-15.
+This product manager position at Knobelsdorff Enterprises was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

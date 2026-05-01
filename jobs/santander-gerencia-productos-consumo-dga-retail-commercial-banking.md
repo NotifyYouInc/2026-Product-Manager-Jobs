@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, MX |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-BANCO-PATIO-STA-FE-CDMX/Gerencia-Productos-Consumo---DGA-Retail---Commercial-Banking_Req1554661) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-BANCO-PATIO-STA-FE-CDMX/Gerencia-Productos-Consumo---DGA-Retail---Commercial-Banking_Req1566259) |
 
 ## About This Role
 
-This product manager position at Santander was posted on 2026-03-18.
+This product manager position at Santander was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

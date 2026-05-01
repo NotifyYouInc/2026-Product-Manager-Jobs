@@ -5,12 +5,12 @@
 | Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Wilmington-NC/Senior-Product-Manager_R6168) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Wilmington-NC/Senior-Product-Manager_R6177) |
 
 ## About This Role
 
-This product manager position at nCino was posted on 2026-04-21.
+This product manager position at nCino was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

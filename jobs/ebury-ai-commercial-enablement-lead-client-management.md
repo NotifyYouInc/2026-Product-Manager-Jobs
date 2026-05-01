@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Learning & Development |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4776209101) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4849272101) |
 
 ## About This Role
 
-This learning & development position at Ebury was posted on 2026-02-18.
+This learning & development position at Ebury was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

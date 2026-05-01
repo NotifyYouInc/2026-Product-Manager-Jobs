@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tennessee, US |
+| Location | Fairview, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Mt-Juliet-TN/Product-Manager_JR0000042482) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Fairview-TN/Product-Manager_JR0000042630) |
 
 ## About This Role
 
-This product manager position at Marmon Holdings was posted on 2026-04-17.
+This product manager position at Marmon Holdings was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

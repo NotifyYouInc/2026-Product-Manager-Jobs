@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Shanghai, Shanghai, China |
 | Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Product-Development-Manager_R178212) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Product-Development-Manager_R179119) |
 
 ## About This Role
 
-This engineering manager position at A.P. Moller - Maersk was posted on 2026-04-13.
+This engineering manager position at A.P. Moller - Maersk was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

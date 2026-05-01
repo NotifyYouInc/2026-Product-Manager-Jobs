@@ -1,16 +1,16 @@
-# Senior Product Manager / Lead (Builders) at Relevanceai
+#  Senior Product Manager / Lead (Builders) at Relevanceai
 
 | Field | Details |
 |-------|---------|
 | Company | [Relevanceai](https://scoutify.ai/companies/relevanceai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/relevanceai/b5fbf7d9-174e-4ec5-9f34-246790f10aed) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/relevanceai/f7b2a84b-1443-4667-b20e-60d30bd5b06c) |
 
 ## About This Role
 
-This product manager position at Relevanceai was posted on 2026-03-31.
+This product manager position at Relevanceai was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

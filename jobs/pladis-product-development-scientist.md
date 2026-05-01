@@ -5,12 +5,12 @@
 | Company | [Pladis](https://scoutify.ai/companies/pladis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | High Wycombe, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://pladis.wd3.myworkdayjobs.com/pladis_careers/job/High-Wycombe/Product-Development-Scientist_JR29730-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://pladis.wd3.myworkdayjobs.com/pladis_careers/job/High-Wycombe/Product-Development-Scientist_JR29909-1) |
 
 ## About This Role
 
-This product manager position at Pladis was posted on 2026-04-21.
+This product manager position at Pladis was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

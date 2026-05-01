@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Senior-Principal-Integrated-Flight-Termination-System--IFTS--Product-Owner--PO-_01840195) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Senior-Principal-Integrated-Flight-Termination-System--IFTS--Product-Owner--PO-_01840590) |
 
 ## About This Role
 
-This product manager position at RTX was posted on 2026-04-22.
+This electrical / hardware engineer position at RTX was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

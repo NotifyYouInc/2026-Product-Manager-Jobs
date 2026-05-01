@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Belgium---Brussels/Manager--Product--GDI_R-138324) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Japan---Tokyo/Manager--Product--GDI_R-140091) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-04-06.
+This product manager position at Coca-Cola was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

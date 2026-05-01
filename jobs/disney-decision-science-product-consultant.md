@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Florida, US |
+| Location | Burbank, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Decision-Science-Product-Consultant_10143050) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Decision-Science-Product-Consultant_10148444-1) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-02-18.
+This product manager position at Disney was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

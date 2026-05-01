@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Product-Management_R240682) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Mexico-City-Mexico/Senior-Manager--Product-Management_R221799) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-04-16.
+This product manager position at Capital One was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

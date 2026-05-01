@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---India/Product-Manager_R0032590-2) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Toronto-Ontario/Product-Owner_R0032728-2) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-04-06.
+This product manager position at Harris Computer was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

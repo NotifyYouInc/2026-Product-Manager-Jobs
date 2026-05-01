@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000122063666-product-manager-for-t-cloud-public-with-german-language) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000122387849-product-manager-for-t-cloud-public-with-german-language) |
 
 ## About This Role
 
-This product manager position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-04-21.
+This product manager position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
