@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Florida, US |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/FL006---Florida-United-State-FL006/Risk---Compliance-Product-Manager---Cybersecurity_51578877) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---FL---ANY-CITY/Risk---Compliance-Product-Manager---Cybersecurity_51577497) |
 
 ## About This Role
 
-This compliance & risk management position at DXC Technology was posted on 2026-04-22.
+This compliance & risk management position at DXC Technology was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

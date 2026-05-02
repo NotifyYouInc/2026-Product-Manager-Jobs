@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager_R0135990-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Dublin-County-Dublin-Ireland/Sr-Lead-Product-Manager_R0136169-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-04-10.
+This product manager position at PayPal was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

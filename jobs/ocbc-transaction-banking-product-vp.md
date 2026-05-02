@@ -1,16 +1,16 @@
-# Transaction Banking Product  - VP at OCBC
+# Transaction Banking Product - VP at OCBC
 
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Transaction-Banking-Product----VP_JR00004523) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Transaction-Banking-Product---VP_JR00007401-1) |
 
 ## About This Role
 
-This product manager position at OCBC was posted on 2026-04-02.
+This product manager position at OCBC was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

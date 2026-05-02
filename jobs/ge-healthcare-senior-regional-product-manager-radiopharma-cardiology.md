@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Senior-Regional-Product-Manager--Radiopharma-Cardiology_R4035901-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Senior-Regional-Product-Manager--Radiopharma-Cardiology_R4040301-2) |
 
 ## About This Role
 
-This product manager position at GE HealthCare was posted on 2026-02-05.
+This product manager position at GE HealthCare was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

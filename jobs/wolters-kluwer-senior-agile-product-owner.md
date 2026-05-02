@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-IndiQube-Orchid/Senior-Agile-Product-Owner_R0055424) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Agile-Product-Owner_R0056599-1) |
 
 ## About This Role
 
-This product manager position at Wolters Kluwer was posted on 2026-03-20.
+This product manager position at Wolters Kluwer was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

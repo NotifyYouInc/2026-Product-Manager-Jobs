@@ -1,16 +1,16 @@
-# Lead Product Manager - Technical at Mastercard
+# Lead Product Manager- Technical at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Product-Manager---Technical_R-275767) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-Product-Manager--Technical_R-276317) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-04-17.
+This product manager position at Mastercard was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

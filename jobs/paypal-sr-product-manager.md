@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Product-Manager_R0136109-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Dublin-County-Dublin-Ireland/Sr-Product-Manager_R0136412-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-04-22.
+This product manager position at PayPal was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

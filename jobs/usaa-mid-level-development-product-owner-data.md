@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Phoenix-Campus-Main/Mid-Level-Development-Product-Owner-Data_R0115361) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Mid-Level-Development-Product-Owner-Data_R0116364) |
 
 ## About This Role
 
-This product manager position at USAA was posted on 2026-03-10.
+This product manager position at USAA was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

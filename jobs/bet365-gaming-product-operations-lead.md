@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sliema, Tas-Sliema, Malta |
-| Category | Program Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000114082484-gaming-product-operations-lead) |
+| Category | Product Manager |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000122710910-gaming-product-operations-lead) |
 
 ## About This Role
 
-This program manager position at bet365 was posted on 2026-03-11.
+This product manager position at bet365 was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

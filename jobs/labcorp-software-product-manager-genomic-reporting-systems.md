@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | California, US |
 | Category | Product Manager |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---Remote---California/Software-Product-Manager---Genomic-Reporting-Systems_265463) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---Remote---California/Software-Product-Manager---Genomic-Reporting-Systems_2614262) |
 
 ## About This Role
 
-This product manager position at Labcorp was posted on 2026-02-16.
+This product manager position at Labcorp was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

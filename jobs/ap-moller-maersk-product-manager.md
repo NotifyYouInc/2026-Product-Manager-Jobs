@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Denmark-Copenhagen-1098/Product-Manager_R176060-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Denmark-Copenhagen-1098/Product-Manager_R179310-2) |
 
 ## About This Role
 
-This product manager position at A.P. Moller - Maersk was posted on 2026-03-20.
+This product manager position at A.P. Moller - Maersk was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

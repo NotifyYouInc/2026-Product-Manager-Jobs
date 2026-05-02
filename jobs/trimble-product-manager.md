@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Westminster, Colorado, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Manager_R55757) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Estonia---Tallinn/Product-Manager_R55566-1) |
 
 ## About This Role
 
-This product manager position at Trimble was posted on 2026-04-17.
+This product manager position at Trimble was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

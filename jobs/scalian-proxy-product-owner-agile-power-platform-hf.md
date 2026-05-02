@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000122203768-proxy-product-owner-agile-power-platform-hf) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000122672908-proxy-product-owner-agile-power-platform-hf) |
 
 ## About This Role
 
-This product manager position at Scalian was posted on 2026-04-22.
+This product manager position at Scalian was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

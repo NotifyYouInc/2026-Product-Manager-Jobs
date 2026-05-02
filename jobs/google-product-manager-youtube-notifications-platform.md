@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Bruno, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/137055629205217990-product-manager-youtube-notifications-platform?sort_by=date&page=1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ2dqFR9G5bZBtsuXwMZCRI1MNa8XxObYJa2gW8PnFFNEjoACxwdTJRVVKxltYcAF_4k8PW2al88xG7-dCEIjxB3jhCKU23KsXX-AbkCGBaKVlr3gzC3mtQOtub2_V2&loc=US&title=Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-24.
+This product manager position at Google was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

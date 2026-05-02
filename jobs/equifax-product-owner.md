@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Product-Owner_J00175245-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Atlanta---One-Atlantic-Center/Product-Owner_J00176714) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-04-23.
+This product manager position at Equifax was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 
