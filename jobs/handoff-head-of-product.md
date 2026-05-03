@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# Head of Product at Handoff
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [Handoff](https://scoutify.ai/companies/handoff?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e36d4b83-df01-4a73-abf2-eedb6a344da7) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.lever.co/handoff/0086130d-8bf8-48dd-a265-0e323aefe0fc) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-25.
+This product manager position at Handoff was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Owner at CyberArk Software
+# Product Director, Digital Consumer Engagement at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Billund, South Denmark, Denmark |
 | Category | Product Manager |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000122918869-senior-product-owner) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Product-Director--Digital-Consumer-Engagement_0000033410) |
 
 ## About This Role
 
-This product manager position at CyberArk Software was posted on 2026-04-25.
+This product manager position at LEGO was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

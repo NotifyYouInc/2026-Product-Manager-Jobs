@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# Sr. Staff Product Manager-Arc Graph at Typeface
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [Typeface](https://scoutify.ai/companies/typeface?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e36d4b83-df01-4a73-abf2-eedb6a344da7) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/typeface/jobs/5070187007) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-25.
+This product manager position at Typeface was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

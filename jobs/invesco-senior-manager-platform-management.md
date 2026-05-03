@@ -1,16 +1,16 @@
-# Senior Product Owner at CyberArk Software
+# Senior Manager - Platform Management at Invesco
 
 | Field | Details |
 |-------|---------|
-| Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000122918869-senior-product-owner) |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dublin-Leinster/Senior-Manager---Platform-Management_R-13598-2) |
 
 ## About This Role
 
-This product manager position at CyberArk Software was posted on 2026-04-25.
+This product manager position at Invesco was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

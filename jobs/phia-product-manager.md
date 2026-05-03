@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# Product Manager at Phia
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [Phia](https://scoutify.ai/companies/phia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e36d4b83-df01-4a73-abf2-eedb6a344da7) |
+| Posted | 2026-01-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/phia/8a9d7284-02c1-4542-a039-f6727975df94) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-25.
+This product manager position at Phia was posted on 2026-01-27.
 
 ## Get Real-Time Alerts
 

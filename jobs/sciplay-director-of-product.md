@@ -1,4 +1,4 @@
-# Director of Monetization at SciPlay
+# Director of Product at SciPlay
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Cedar Falls, Iowa, United States |
 | Category | Product Manager |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Senior-Director--Monetization_R321354) |
+| Apply | [View on company site](https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Director-of-Product_R321285) |
 
 ## About This Role
 

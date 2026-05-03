@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# Senior Product Operations Manager at Hackerone
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [Hackerone](https://scoutify.ai/companies/hackerone?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e36d4b83-df01-4a73-abf2-eedb6a344da7) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hackerone/f12ba5c2-815d-4f3a-9aef-5443373d56f5) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-25.
+This product manager position at Hackerone was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

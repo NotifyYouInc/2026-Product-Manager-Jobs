@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# Principal Product Manager, Growth at Inkitt
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [Inkitt](https://scoutify.ai/companies/inkitt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e36d4b83-df01-4a73-abf2-eedb6a344da7) |
+| Posted | 2024-11-22 |
+| Apply | [View on company site](https://jobs.lever.co/inkitt/bec8ce24-3fc1-4caa-8f25-eb1a36027ff2) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-25.
+This product manager position at Inkitt was posted on 2024-11-22.
 
 ## Get Real-Time Alerts
 

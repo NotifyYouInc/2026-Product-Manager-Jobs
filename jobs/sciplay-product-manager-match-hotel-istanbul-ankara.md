@@ -1,12 +1,12 @@
-# Director of Monetization at SciPlay
+# Product Manager - Match Hotel (Istanbul & Ankara) at SciPlay
 
 | Field | Details |
 |-------|---------|
 | Company | [SciPlay](https://scoutify.ai/companies/lnw?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cedar Falls, Iowa, United States |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Senior-Director--Monetization_R321354) |
+| Apply | [View on company site](https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Istanbul-Turkey/Senior-Product-Specialist---Match-Hotel--Istanbul---Ankara-_R320576) |
 
 ## About This Role
 

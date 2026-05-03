@@ -1,16 +1,16 @@
-# Product Manager at Bjak
+# Product Lead, Explore at Stellic
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Company | [Stellic](https://scoutify.ai/companies/stellic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Mateo, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e36d4b83-df01-4a73-abf2-eedb6a344da7) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/stellic/05f2bb97-f2d6-4828-8895-8d6e8145aad2) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-04-25.
+This product manager position at Stellic was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

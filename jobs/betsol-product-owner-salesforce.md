@@ -1,16 +1,16 @@
-# Senior Product Owner at CyberArk Software
+# Product Owner – Salesforce at BETSOL
 
 | Field | Details |
 |-------|---------|
-| Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Manager |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000122918869-senior-product-owner) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000122923669-product-owner-salesforce) |
 
 ## About This Role
 
-This product manager position at CyberArk Software was posted on 2026-04-25.
+This product manager position at BETSOL was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

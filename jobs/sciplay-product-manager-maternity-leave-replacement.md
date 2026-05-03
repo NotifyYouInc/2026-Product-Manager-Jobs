@@ -1,12 +1,12 @@
-# Director of Monetization at SciPlay
+# Product Manager - Maternity Leave Replacement at SciPlay
 
 | Field | Details |
 |-------|---------|
 | Company | [SciPlay](https://scoutify.ai/companies/lnw?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cedar Falls, Iowa, United States |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/Cedar-Falls-IA/Senior-Director--Monetization_R321354) |
+| Apply | [View on company site](https://lnw.wd5.myworkdayjobs.com/SciPlayExternalCareersSite/job/ISRAEL-Tel-Aviv-2A-Jabotinsky/Product-Manager---Maternity-Leave-Replacement_R321714) |
 
 ## About This Role
 
