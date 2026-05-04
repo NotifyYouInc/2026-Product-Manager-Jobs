@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# ^Product Owner 6279591 at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/NC---Charlotte/XMLNAME--Product-Owner-6279591_14337555) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Accenture was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

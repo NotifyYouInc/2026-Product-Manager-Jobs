@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Senior Product Manager at Controlup
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Controlup](https://scoutify.ai/companies/controlup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Apply | [View on company site](https://jobs.lever.co/controlup/92f9dec8-e649-46b9-bd26-a8438b8bcd75) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Controlup was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Product Manager at Twilio
+# Creative Product Operations Project Intern (Monetization Product) - 2026 Start (BS/MS) at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7851194) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7632363492922034485/detail) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-04-27.
+This product manager position at TikTok was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

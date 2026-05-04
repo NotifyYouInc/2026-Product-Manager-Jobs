@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Product Owner - Subscriptions at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune---Tower-6/Product-Owner---Subscriptions_R-056005-1) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Red Hat was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

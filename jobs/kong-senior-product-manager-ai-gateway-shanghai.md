@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Senior Product Manager, AI Gateway - Shanghai at Kong
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Kong](https://scoutify.ai/companies/kong?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kong/f6fc85f1-ab8b-4e7c-ac7d-e93a70ec0630) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Kong was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

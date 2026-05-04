@@ -1,16 +1,16 @@
-# Principal Product Manager at Twilio
+# アニメ製作プロデューサー Anime Producer, Japan at NBCUniversal
 
 | Field | Details |
 |-------|---------|
-| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7851194) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000123106487-anime-producer-japan) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-04-27.
+This product manager position at NBCUniversal was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

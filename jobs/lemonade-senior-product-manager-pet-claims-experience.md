@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Senior Product Manager, Pet Claims Experience at Lemonade
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Lemonade](https://scoutify.ai/companies/lemonade?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lemonade/48624439-f146-49dc-bb57-05b7d7731c03) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Lemonade was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

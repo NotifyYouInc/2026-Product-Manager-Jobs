@@ -1,16 +1,16 @@
-# Principal Product Manager at Twilio
+# Prime Product Manager / Structurer at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7851194) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Prime-Product-Manager---Structurer_26959081) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-04-27.
+This product manager position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

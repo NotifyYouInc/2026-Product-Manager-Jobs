@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Product Operations Administrator (Product Operations) (3 months contract) at Agoda
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/7253460) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Agoda was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

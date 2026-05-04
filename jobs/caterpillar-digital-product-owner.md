@@ -1,16 +1,16 @@
-# Principal Product Manager at Twilio
+# Digital Product Owner at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7851194) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Digital-Product-Owner_R0000364923) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-04-27.
+This product manager position at Caterpillar was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

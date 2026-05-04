@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Senior Product Manager at Popl
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Popl](https://scoutify.ai/companies/popl-popl?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/popl/6aa94ad1-3d57-4bcb-9e04-2de5f1672849) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Popl was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

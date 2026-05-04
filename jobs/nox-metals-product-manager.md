@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Product Manager at Nox Metals
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Nox Metals](https://scoutify.ai/companies/nox-metals?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Detroit, Michigan, United States |
 | Category | Product Manager |
 | Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nox-metals/ba802b61-1c70-485d-9f44-ba07c1beea30) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Nox Metals was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Product-Management---Enterprise-Document-Management-Platform_R235244-1) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management---Enterprise-Document-Management-Platform_R241326-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-04-05.
+This product manager position at Capital One was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

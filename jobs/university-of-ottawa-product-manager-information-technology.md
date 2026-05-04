@@ -5,12 +5,12 @@
 | Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Product-Manager--Information-Technology_JR30365) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Product-Manager--Information-Technology_JR33679) |
 
 ## About This Role
 
-This product manager position at University of Ottawa was posted on 2026-02-26.
+This product manager position at University of Ottawa was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

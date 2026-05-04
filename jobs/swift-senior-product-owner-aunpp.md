@@ -1,16 +1,16 @@
-# Principal Product Manager at Twilio
+# Senior Product Owner (AU‑NPP) at Swift
 
 | Field | Details |
 |-------|---------|
-| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7851194) |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Senior-Product-Owner--AU-NPP-_2026-15779) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-04-27.
+This product manager position at Swift was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

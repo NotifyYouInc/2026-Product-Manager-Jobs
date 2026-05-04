@@ -1,16 +1,16 @@
-# Principal Product Manager at Twilio
+# Manager, International Repertoire  at Sony Music Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [Sony Music Global](https://scoutify.ai/companies/sony-music-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7851194) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8522205002) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-04-27.
+This product manager position at Sony Music Global was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

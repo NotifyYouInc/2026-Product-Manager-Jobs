@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Midrand, Gauteng, South Africa |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Midrand-Sandoz/Product-Manager_REQ-10028388) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Hong-Kong-Sandoz/Product-Manager_REQ-10028544) |
 
 ## About This Role
 
-This product manager position at Sandoz was posted on 2026-04-20.
+This product manager position at Sandoz was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

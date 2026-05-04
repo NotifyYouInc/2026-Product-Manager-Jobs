@@ -1,16 +1,16 @@
-# Sr. Product Manager at Merck
+# APAC Marketing Excellence & PM at Solventum
 
 | Field | Details |
 |-------|---------|
-| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Product Manager |
+| Category | Marketing |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Sr-Product-Manager_R394361-1) |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/CN-Shanghai/APAC-Marketing-Excellence---PM_R01129533) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-04-27.
+This marketing position at Solventum was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

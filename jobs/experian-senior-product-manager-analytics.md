@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Nottingham, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000109286535-senior-product-manager-analytics) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123073279-senior-product-manager-analytics) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-13.
+This product manager position at Experian was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

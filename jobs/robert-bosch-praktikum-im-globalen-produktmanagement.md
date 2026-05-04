@@ -1,16 +1,16 @@
-# Principal Product Manager at Twilio
+# Praktikum im globalen Produktmanagement at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Plochingen, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7851194) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123119199-praktikum-im-globalen-produktmanagement) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-04-27.
+This product manager position at Robert Bosch was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

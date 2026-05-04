@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Product Owner at Tactacam
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Tactacam](https://scoutify.ai/companies/tactacam?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Billings, Montana, United States |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tactacam/jobs/4231137009) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Tactacam was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

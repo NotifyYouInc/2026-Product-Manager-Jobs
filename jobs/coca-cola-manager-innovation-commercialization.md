@@ -1,16 +1,16 @@
-# Principal Product Manager at Twilio
+# Manager, Innovation & Commercialization at Coca-Cola
 
 | Field | Details |
 |-------|---------|
-| Company | [Twilio](https://scoutify.ai/companies/twilio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twilio/jobs/7851194) |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Gurgaon/Manager--Innovation---Commercialization_R-139458) |
 
 ## About This Role
 
-This product manager position at Twilio was posted on 2026-04-27.
+This product manager position at Coca-Cola was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

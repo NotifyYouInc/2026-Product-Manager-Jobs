@@ -1,16 +1,16 @@
-# Lead Product Manager – AI Platform at Unframe
+# Product Lead at Wispr Flow
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Wispr Flow](https://scoutify.ai/companies/wispr-flow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4850468101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/wispr-flow/c9c547f6-c093-492f-8e40-3fd8066dfd04) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-26.
+This product manager position at Wispr Flow was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
