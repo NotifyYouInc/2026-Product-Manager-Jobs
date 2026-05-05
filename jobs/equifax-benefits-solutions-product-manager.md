@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-Missouri---St-Louis---Clayton/Benefits-Solutions-Product-Manager_J00174736) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-Missouri---St-Louis---Clayton/Benefits-Solutions-Product-Manager_J00176776) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-02-12.
+This product manager position at Equifax was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

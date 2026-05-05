@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/UK--London--New-Oxford-Street/Director--Product-Strategy---Innovation_437899) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/UK--London--New-Oxford-Street/Director--Product-Strategy---Innovation_439945-1) |
 
 ## About This Role
 
-This product manager position at GSK was posted on 2026-03-25.
+This product manager position at GSK was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

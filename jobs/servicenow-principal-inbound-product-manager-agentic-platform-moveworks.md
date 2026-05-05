@@ -1,16 +1,16 @@
-# Principal Inbound Product Manager,  Agentic Platform - MoveWorks at ServiceNow
+# Principal Inbound Product Manager, Agentic Platform - MoveWorks at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000115518147-principal-inbound-product-manager-agentic-platform-moveworks) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123272157-principal-inbound-product-manager-agentic-platform-moveworks) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-03-18.
+This product manager position at ServiceNow was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

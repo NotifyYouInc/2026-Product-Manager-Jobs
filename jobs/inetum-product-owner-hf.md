@@ -1,16 +1,16 @@
-# PRODUCT OWNER H/F at Inetum
+# Product Owner H/F at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Tunis, Tunis Governorate, Tunisia |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116416370-product-owner-hf) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000123238204-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Inetum was posted on 2026-03-24.
+This product manager position at Inetum was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

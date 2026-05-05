@@ -5,12 +5,12 @@
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Norderstedt, Schleswig-Holstein, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000112240701-produktmanager-mwd-fluid-connectors-chemieolgas-food) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000123198152-produktmanager-mwd-fluid-connectors-chemieolgas-food) |
 
 ## About This Role
 
-This product manager position at Stäubli was posted on 2026-03-02.
+This product manager position at Stäubli was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

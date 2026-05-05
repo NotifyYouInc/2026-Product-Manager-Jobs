@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenEye](https://scoutify.ai/companies/openeye?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Washington, US |
+| Location | Liberty Lake, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8472410002) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8525042002) |
 
 ## About This Role
 
-This product manager position at OpenEye was posted on 2026-03-20.
+This product manager position at OpenEye was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000121717397-front-x-pat) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000123353589-front-x-pat) |
 
 ## About This Role
 
-This product manager position at TBC Bank was posted on 2026-04-20.
+This product manager position at TBC Bank was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

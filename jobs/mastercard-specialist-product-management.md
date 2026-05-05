@@ -1,16 +1,16 @@
-# Specialist, Product management at Mastercard
+# Specialist, Product Management at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Product-management_R-275633) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Specialist--Product-Management_R-272651) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-04-24.
+This product manager position at Mastercard was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

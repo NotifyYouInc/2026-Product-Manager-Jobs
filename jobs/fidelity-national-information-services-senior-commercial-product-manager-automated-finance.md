@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/GBR-LNDN-25-Walbrook-FL56/Senior-Commercial-Product-Manager---Automated-Finance_JR0306285) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/GBR-LNDN-25-Walbrook-FL56/Senior-Commercial-Product-Manager---Automated-Finance_JR0306501) |
 
 ## About This Role
 
-This product manager position at Fidelity National Information Services was posted on 2026-04-22.
+This product manager position at Fidelity National Information Services was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

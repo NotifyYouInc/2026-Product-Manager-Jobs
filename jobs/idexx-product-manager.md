@@ -5,12 +5,12 @@
 | Company | [IDEXX](https://scoutify.ai/companies/idexx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Auckland-New-Zealand/Product-Manager_J-052015) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Auckland-New-Zealand/Product-Manager_J-052834) |
 
 ## About This Role
 
-This product manager position at IDEXX was posted on 2026-03-11.
+This product manager position at IDEXX was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

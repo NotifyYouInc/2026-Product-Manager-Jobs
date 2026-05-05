@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Lead-Digital-Product-Manager--Platform-integration-_R26129-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Lead-Digital-Product-Manager--Platform-integration-_R29735) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-02-19.
+This product manager position at Allstate was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Associate, Product Management-CAPS at Capital One
+# Senior Associate, Product Management- CAPS at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Management-CAPS_R237446-2) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Management--CAPS_R241422-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-03-12.
+This product manager position at Capital One was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

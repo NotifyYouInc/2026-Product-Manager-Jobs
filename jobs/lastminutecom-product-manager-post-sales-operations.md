@@ -5,12 +5,12 @@
 | Company | [lastminute.com](https://scoutify.ai/companies/lastminutecom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/lastminutecom/744000122660091-product-manager-post-sales-operations) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/lastminutecom/744000123122869-product-manager-post-sales-operations) |
 
 ## About This Role
 
-This revenue / sales operations position at lastminute.com was posted on 2026-04-24.
+This revenue / sales operations position at lastminute.com was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

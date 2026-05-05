@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Towson, Maryland, United States |
+| Location | Dublin, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Product-Manager_REQ-1000046750) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Dublin-OH-United-States/Product-Manager_REQ-1000046704) |
 
 ## About This Role
 
-This product manager position at Stanley Black & Decker was posted on 2026-03-18.
+This product manager position at Stanley Black & Decker was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Owner-Advisor---HIH---Evernorth_26001931) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Owner-Advisor---HIH---Evernorth_26004559) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-03-04.
+This product manager position at Cigna was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

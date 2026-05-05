@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Spain |
+| Location | Málaga, Andalusia, Spain |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4840779101) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4851615101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-04-14.
+This product manager position at Ebury was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

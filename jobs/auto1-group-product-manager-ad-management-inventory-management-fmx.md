@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000109926006-product-manager-ad-management-inventory-management-fmx) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000123235261-product-manager-ad-management-inventory-management-fmx) |
 
 ## About This Role
 
-This product manager position at AUTO1 Group was posted on 2026-02-18.
+This product manager position at AUTO1 Group was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Director-of-Product-Engineering--Optics_2601155) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Director-of-Product-Engineering--Optics_2601304) |
 
 ## About This Role
 
-This engineering manager position at Marvell was posted on 2026-04-09.
+This engineering manager position at Marvell was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

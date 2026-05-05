@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Atlanta-GA/Senior-Digital-Product-Manager_2026-0010145) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Senior-Digital-Product-Manager_2026-0009992-1) |
 
 ## About This Role
 
-This product manager position at U.S. Bank was posted on 2026-04-22.
+This product manager position at U.S. Bank was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

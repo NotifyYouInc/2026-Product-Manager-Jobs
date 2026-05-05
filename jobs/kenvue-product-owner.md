@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Product-Owner_2607042727W) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Product-Owner_2607044443W) |
 
 ## About This Role
 
-This product manager position at Kenvue was posted on 2026-03-19.
+This product manager position at Kenvue was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
