@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Remote-Poland/Senior-Product-Manager_R34738) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/San-Francisco-California-United-States-of-America/Senior-Product-Manager_R34753) |
 
 ## About This Role
 
-This product manager position at Zendesk was posted on 2026-04-22.
+This product manager position at Zendesk was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000123192000-product-owner-business-analyst-plm-hf) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000123461509-product-owner-business-analyst-plm-hf) |
 
 ## About This Role
 
-This product manager position at Scalian was posted on 2026-04-27.
+This product manager position at Scalian was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

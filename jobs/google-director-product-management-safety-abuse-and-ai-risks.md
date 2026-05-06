@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Trust & Safety |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfPyw2Fu4Gv5vVW2mxGvH-GrnlPhXWqAxeCOpJqWu9bhEjsACxwdTNq3XwHLP1ATjepHe4eH-j87bTZuo7Fe0YisPyi2QPbBeyMc6hW9mH-uZs3z0sjV9jfP5hkKEw%3D%3D_V2&loc=US&title=Director) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka0NnKSGmMzoHY1nJKQsZzXMp1053hQDKK1kfjz1O87oEjsACxwdTJPXidc1dTH_JaxtkyasmOROxuDxltvPthY-ZamAcfb1V-fAo7TQly3-lRjf1lkzpmT5MWLyow%3D%3D_V2&loc=US&title=Director) |
 
 ## About This Role
 
-This trust & safety position at Google was posted on 2026-04-09.
+This trust & safety position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

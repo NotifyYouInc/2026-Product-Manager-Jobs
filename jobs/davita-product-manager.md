@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Product-Manager_R0449166) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01887---DaVita-Village-Health-Colorado/Product-Manager_R0455636) |
 
 ## About This Role
 
-This product manager position at DaVita was posted on 2026-04-16.
+This product manager position at DaVita was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

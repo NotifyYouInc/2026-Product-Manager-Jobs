@@ -1,16 +1,16 @@
-# Infrastructure Product Owner (DevOps) – level 5 at Northrop Grumman
+# Infrastructure Product Owner (DevOps) – Level 5 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Morrisville, North Carolina, United States |
+| Location | Aurora, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Infrastructure-Product-Owner--DevOps----level-5_R10230817) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Infrastructure-Product-Owner--DevOps----Level-5_R10231191) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-04-23.
+This devops engineer position at Northrop Grumman was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

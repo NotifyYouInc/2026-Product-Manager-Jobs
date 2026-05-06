@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Bentonville, Arkansas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-10927-OTHER/Senior-Manager--Product-Management_R-2476736-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Manager--Product-Management_R-2438233-1) |
 
 ## About This Role
 
-This product manager position at Walmart was posted on 2026-04-22.
+This product manager position at Walmart was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

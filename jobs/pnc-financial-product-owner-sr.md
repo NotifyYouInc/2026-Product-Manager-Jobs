@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Denver---12345-W-Colfax-CO147/Product-Owner-Sr_R216965-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Owner-Sr_R219478-1) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-03-30.
+This product manager position at PNC Financial was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

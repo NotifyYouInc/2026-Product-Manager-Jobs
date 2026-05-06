@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Mission-Data-Product-Owner_R0236334) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Mission-Data-Product-Owner_R0238894) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-03-19.
+This product manager position at Booz Allen was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

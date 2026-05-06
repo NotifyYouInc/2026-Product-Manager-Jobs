@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyft](https://scoutify.ai/companies/lyft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8514395002?gh_jid=8514395002) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://app.careerpuck.com/job-board/lyft/job/8525086002?gh_jid=8525086002) |
 
 ## About This Role
 
-This product manager position at Lyft was posted on 2026-04-20.
+This product manager position at Lyft was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

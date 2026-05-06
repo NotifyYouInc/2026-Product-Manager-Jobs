@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8444254002) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8525842002) |
 
 ## About This Role
 
-This product manager position at Anaplan was posted on 2026-03-10.
+This product manager position at Anaplan was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

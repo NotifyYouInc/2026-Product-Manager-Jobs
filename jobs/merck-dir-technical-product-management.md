@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Rahway, New Jersey, United States |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Dir---Technical-Product-Management_R395486-1) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Dir---Technical-Product-Management_R394449-1) |
 
 ## About This Role
 

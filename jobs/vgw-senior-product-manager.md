@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [VGW](https://scoutify.ai/companies/vgw?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Product Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vgw/jobs/8464467002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vgw/jobs/8464468002) |
 
 ## About This Role
 

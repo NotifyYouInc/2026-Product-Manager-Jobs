@@ -1,16 +1,16 @@
-# Sr Product Manager. Technical at T-Mobile
+# Sr Product Manager, Technical at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Product-Manager-Technical_REQ350379) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Product-Manager--Technical_REQ350358-1) |
 
 ## About This Role
 
-This product manager position at T-Mobile was posted on 2026-04-25.
+This product manager position at T-Mobile was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

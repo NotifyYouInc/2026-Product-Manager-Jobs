@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Associate-Product-Manager_JREQ197834-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Associate-Product-Manager_JREQ200222) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-03-02.
+This product manager position at Thomson Reuters was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

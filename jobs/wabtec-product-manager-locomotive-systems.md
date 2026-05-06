@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012595066-product-manager-locomotive-systems) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012858836-product-manager-locomotive-systems) |
 
 ## About This Role
 
-This product manager position at Wabtec was posted on 2026-04-14.
+This product manager position at Wabtec was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

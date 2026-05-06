@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000120642297-product-owner-omnicanal-luxe-retail) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000123381934-product-owner-omnicanal-luxe-retail) |
 
 ## About This Role
 
-This product manager position at Magellan Partners was posted on 2026-04-14.
+This product manager position at Magellan Partners was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

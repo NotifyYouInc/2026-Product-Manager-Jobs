@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Virginia, US |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000122711469-product-manager-ecosystems) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000123542069-product-manager-ecosystems) |
 
 ## About This Role
 
-This product manager position at MicroStrategy was posted on 2026-04-24.
+This product manager position at MicroStrategy was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

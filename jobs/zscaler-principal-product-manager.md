@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5065974007) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5093654007) |
 
 ## About This Role
 
-This product manager position at Zscaler was posted on 2026-03-17.
+This product manager position at Zscaler was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

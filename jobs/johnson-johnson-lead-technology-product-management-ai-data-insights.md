@@ -1,16 +1,16 @@
-# Lead, Technology Product Management - AI, Data & Insights at Johnson & Johnson
+# Lead, Technology Product Management – AI, Data & Insights at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Titusville, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Lead--Technology-Product-Management---AI--Data---Insights_R-067891-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Lead--Technology-Product-Management---AI--Data---Insights_R-072073-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-04-06.
+This product manager position at Johnson & Johnson was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

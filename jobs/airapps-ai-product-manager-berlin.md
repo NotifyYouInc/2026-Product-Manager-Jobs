@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/836c83c7-b20a-486e-885d-a1725f550a3e) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/fd99ce78-46b6-4e3d-a1bb-870684b3e6fb) |
 
 ## About This Role
 
-This product manager position at Airapps was posted on 2026-04-16.
+This product manager position at Airapps was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

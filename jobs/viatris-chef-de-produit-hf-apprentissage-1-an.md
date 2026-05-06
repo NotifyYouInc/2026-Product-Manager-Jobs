@@ -1,16 +1,16 @@
-# Chef de produit H/F – Apprentissage 1 an at Viatris
+# Chef de produit H/F – Apprentissage (1 an) at Viatris
 
 | Field | Details |
 |-------|---------|
 | Company | [Viatris](https://scoutify.ai/companies/viatris?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://viatris.wd5.myworkdayjobs.com/external/job/Paris-Paris-France/Chef-de-produit-H-F---Apprentissage-1-an_R5668866) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://viatris.wd5.myworkdayjobs.com/external/job/Paris-Paris-France/Chef-de-produit-H-F---Apprentissage--1-an-_R5668894) |
 
 ## About This Role
 
-This product manager position at Viatris was posted on 2026-04-27.
+This product manager position at Viatris was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Product-Manager_JR336692) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Product-Manager_JR336691) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-04-14.
+This product manager position at Salesforce was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

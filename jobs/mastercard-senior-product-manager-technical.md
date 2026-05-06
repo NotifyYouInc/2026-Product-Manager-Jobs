@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vadodara, Gujarat, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Senior-Product-Manager---Technical_R-274944-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Product-Manager---Technical_R-275942) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-04-27.
+This product manager position at Mastercard was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

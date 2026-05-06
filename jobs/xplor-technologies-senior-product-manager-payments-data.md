@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000122665057-senior-product-manager-payments-data) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000123611540-senior-product-manager-payments-data) |
 
 ## About This Role
 
-This product manager position at Xplor Technologies was posted on 2026-04-24.
+This product manager position at Xplor Technologies was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Corporate Finance |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000107750540-senior-product-manager-treasury) |
+| Category | Product Manager |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000123483305-senior-product-manager-treasury) |
 
 ## About This Role
 
-This corporate finance position at WISE was posted on 2026-02-06.
+This product manager position at WISE was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

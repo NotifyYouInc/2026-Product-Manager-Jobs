@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Product-Manager_JR114521) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Toronto-ON/Senior-Product-Manager_JR114659) |
 
 ## About This Role
 
-This product manager position at ServiceTitan was posted on 2026-04-20.
+This product manager position at ServiceTitan was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

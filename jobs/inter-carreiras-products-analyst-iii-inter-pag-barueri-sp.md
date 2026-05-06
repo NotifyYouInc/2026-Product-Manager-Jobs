@@ -5,12 +5,12 @@
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barueri, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4660033005?gh_jid=4660033005) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4685864005?gh_jid=4685864005) |
 
 ## About This Role
 
-This product manager position at Inter Carreiras was posted on 2026-03-03.
+This product manager position at Inter Carreiras was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000116462317-product-owner-paiement-digital-hf) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000123420588-product-owner-paiement-digital-hf) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-03-24.
+This product manager position at Nexton was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
