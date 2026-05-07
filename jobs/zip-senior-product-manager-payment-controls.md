@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zip](https://scoutify.ai/companies/zip?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/zip/b9a66bf7-d4f0-4522-9ad2-67c00060090e) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/zip/e183b27b-fbc3-4baf-8d27-f994c7b74cbd) |
 
 ## About This Role
 
-This product manager position at Zip was posted on 2026-04-14.
+This product manager position at Zip was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

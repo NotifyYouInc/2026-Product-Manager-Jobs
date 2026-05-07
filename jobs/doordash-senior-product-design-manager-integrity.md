@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DoorDash](https://scoutify.ai/companies/doordashusa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7782900) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/doordashusa/jobs/7863636) |
 
 ## About This Role
 
-This product manager position at DoorDash was posted on 2026-04-09.
+This product manager position at DoorDash was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

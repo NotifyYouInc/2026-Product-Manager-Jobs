@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
+| Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000119160337-senior-principal-product-manager-search-experience-mfd) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000123686306-senior-principal-product-manager-search-experience-mfd) |
 
 ## About This Role
 
-This product manager position at Redcare Pharmacy was posted on 2026-04-07.
+This product manager position at Redcare Pharmacy was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

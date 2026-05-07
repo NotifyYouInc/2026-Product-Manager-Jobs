@@ -5,12 +5,12 @@
 | Company | [Chime](https://scoutify.ai/companies/chime?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/chime/jobs/8478204002?gh_jid=8478204002) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/chime/jobs/8530421002?gh_jid=8530421002) |
 
 ## About This Role
 
-This product manager position at Chime was posted on 2026-04-15.
+This product manager position at Chime was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

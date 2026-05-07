@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000117340208-product-manager-fintech-payments) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000123631858-product-manager-fintech-payments) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-03-27.
+This product manager position at Delivery Hero was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

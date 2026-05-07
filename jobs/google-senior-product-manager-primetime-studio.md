@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/125027341364536006-senior-product-manager-primetime-studio?sort_by=date&page=1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYTdH5g0f5LD3J1ZRimKCVaicyYbMlWuqhjl4p5hBzO2EjsACxwdTExTszC3DL2um4LkfGafsJo1HbiLSbKDUh9p7PnOGlTop01_CYW0Rvt8G_joyovReCinbmHeyg%3D%3D_V2&loc=IN&title=Senior+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-20.
+This product manager position at Google was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

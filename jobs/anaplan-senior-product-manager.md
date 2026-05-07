@@ -5,12 +5,12 @@
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8525842002) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8525847002) |
 
 ## About This Role
 
-This product manager position at Anaplan was posted on 2026-04-28.
+This product manager position at Anaplan was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

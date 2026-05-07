@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/105563725863232198-product-manager-ii-easysaas?sort_by=date&page=1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV_ipzgMhjdDyYMDkCgm3PC2EUw45Xg4kFBMhC24f31pEjsACxwdTCu8JDXbl4pbwhSlIwBU05PrZOWWbUxYKmEo9VCfw4cbnM0SdX-O_lw0arMgehb_IV9XX07PXQ%3D%3D_V2&loc=PL&title=Product+Manager+II) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-27.
+This product manager position at Google was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

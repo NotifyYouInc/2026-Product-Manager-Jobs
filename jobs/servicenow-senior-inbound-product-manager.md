@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000117246816-senior-inbound-product-manager) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123845019-senior-inbound-product-manager) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-03-27.
+This product manager position at ServiceNow was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

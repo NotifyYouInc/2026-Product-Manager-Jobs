@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Product-Owner_R1535954) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Product-Owner_R1535509-1) |
 
 ## About This Role
 
-This product manager position at IQVIA was posted on 2026-04-10.
+This product manager position at IQVIA was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

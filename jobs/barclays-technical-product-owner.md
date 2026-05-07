@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Whippany, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Product-Owner_JR-0000099669) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Technical-Product-Owner_JR-0000097393-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-04-23.
+This product manager position at Barclays was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

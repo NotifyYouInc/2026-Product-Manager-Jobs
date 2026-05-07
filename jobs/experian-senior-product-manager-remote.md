@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000120786118-senior-product-manager-remote) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123712649-senior-product-manager-remote) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-04-14.
+This product manager position at Experian was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

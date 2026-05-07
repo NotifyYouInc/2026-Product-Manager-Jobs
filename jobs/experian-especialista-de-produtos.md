@@ -1,16 +1,16 @@
-# Especialista de Produtos at Experian
+# Especialista de produtos at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000115542797-especialista-de-produtos) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123753570-especialista-de-produtos) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-03-18.
+This product manager position at Experian was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

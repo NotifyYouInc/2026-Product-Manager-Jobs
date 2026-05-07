@@ -1,16 +1,16 @@
-# Product Manager at Avaloq
+# Product Manager  at Avaloq
 
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000107508565-product-manager) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000123620659-product-manager) |
 
 ## About This Role
 
-This product manager position at Avaloq was posted on 2026-02-05.
+This product manager position at Avaloq was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

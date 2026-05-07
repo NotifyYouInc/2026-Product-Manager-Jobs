@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | North Sydney, New South Wales, Australia |
+| Location | Southbank, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122385689-senior-product-owner-commercial-bureau-hybrid) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123626140-senior-product-owner-commercial-bureau-hybrid) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-04-23.
+This product manager position at Experian was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

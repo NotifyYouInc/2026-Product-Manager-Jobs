@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Barcelona/Product-Owner-for-AI---Molecular-Modeling_R2852342) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Product-Owner-for-AI---Molecular-Modeling_R2852343-1) |
 
 ## About This Role
 
-This product manager position at Sanofi was posted on 2026-04-23.
+This product manager position at Sanofi was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

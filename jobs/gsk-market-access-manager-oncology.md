@@ -1,16 +1,16 @@
-# Market Access Manager – Oncology at GSK
+# Market Access Manager Oncology at GSK
 
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Verona, Veneto, Italy |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Mississauga-Milverton-Drive/Market-Access-Manager---Oncology_439477-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Italy---Verona/Market-Access-Manager-Oncology_440046-1) |
 
 ## About This Role
 
-This product manager position at GSK was posted on 2026-04-21.
+This product manager position at GSK was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

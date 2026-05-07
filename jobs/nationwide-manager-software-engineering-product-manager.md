@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager_097542-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager_097301-1) |
 
 ## About This Role
 
-This product manager position at Nationwide was posted on 2026-04-16.
+This product manager position at Nationwide was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

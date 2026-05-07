@@ -1,16 +1,16 @@
-# Product Manager Sr. at Huntington Bancshares
+# Product Manager - Sr. at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | Columbus, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Product-Manager-Sr_R0070213) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Product-Manager---Sr_R0071000) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-03-24.
+This product manager position at Huntington Bancshares was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

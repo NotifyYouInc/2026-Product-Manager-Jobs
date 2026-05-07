@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Armenia |
-| Category | Technology / IT Consulting |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/c8c484c4-20aa-4456-bb3c-a73656f5c496) |
+| Location | Germany |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/72d0e1b2-8bb7-4a80-a98f-256a2eed62d6) |
 
 ## About This Role
 
-This technology / it consulting position at Provectus was posted on 2026-04-06.
+This technical & solutions architect position at Provectus was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
