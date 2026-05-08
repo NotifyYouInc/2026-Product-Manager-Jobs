@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000122421652-head-product-structured-trade-commodity-finance) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000123955023-head-product-structured-trade-commodity-finance) |
 
 ## About This Role
 
-This product manager position at Standard Bank was posted on 2026-04-23.
+This product manager position at Standard Bank was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

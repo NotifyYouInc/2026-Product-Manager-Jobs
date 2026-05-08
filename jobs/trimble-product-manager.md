@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Estonia---Tallinn/Product-Manager_R55566-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Australia---Sydney-NSW/Product-Manager_R55047) |
 
 ## About This Role
 
-This product manager position at Trimble was posted on 2026-04-24.
+This product manager position at Trimble was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

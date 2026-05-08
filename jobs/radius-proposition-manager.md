@@ -5,12 +5,12 @@
 | Company | [Radius](https://scoutify.ai/companies/radius?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000118131397-proposition-manager) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000123861429-proposition-manager) |
 
 ## About This Role
 
-This product manager position at Radius was posted on 2026-04-01.
+This product manager position at Radius was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

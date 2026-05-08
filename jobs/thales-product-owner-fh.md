@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vélizy-Villacoublay, Île-de-France, France |
+| Location | Gémenos, Provence-Alpes-Côte d'Azur, France |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Product-Owner--F-H-_R0326118) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gmenos/Product-Owner--F-H-_R0326796) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-04-24.
+This product manager position at Thales was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

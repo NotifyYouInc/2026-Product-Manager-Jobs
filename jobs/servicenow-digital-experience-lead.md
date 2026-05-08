@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123754149-digital-experience-lead) |
+| Location | Orlando, Florida, United States |
+| Category | Marketing |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123960404-digital-experience-lead) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-04-29.
+This marketing position at ServiceNow was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

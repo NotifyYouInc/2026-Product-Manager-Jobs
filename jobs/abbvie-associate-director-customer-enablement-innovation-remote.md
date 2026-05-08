@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012874392-associate-director-customer-enablement-innovation-remote) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012919832-associate-director-customer-enablement-innovation-remote) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-29.
+This product manager position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

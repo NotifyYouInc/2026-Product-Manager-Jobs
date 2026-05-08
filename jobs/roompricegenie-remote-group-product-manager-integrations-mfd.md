@@ -5,12 +5,12 @@
 | Company | [Roompricegenie](https://scoutify.ai/companies/roompricegenie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/roompricegenie/ca402ea5-5717-46ba-af69-e23b934fd552) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/roompricegenie/014abb22-5c0e-4fb4-b665-8f991c1d4fca) |
 
 ## About This Role
 
-This product manager position at Roompricegenie was posted on 2026-04-27.
+This product manager position at Roompricegenie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

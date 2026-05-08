@@ -1,16 +1,16 @@
-# Associate Director,  Aesthetics Clinical Development at AbbVie
+# Associate Director, Aesthetics Clinical Development at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irvine, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012800302-associate-director-aesthetics-clinical-development) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012914656-associate-director-aesthetics-clinical-development) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-23.
+This product manager position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

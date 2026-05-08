@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000122710480-product-portfolio-manager) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000123956672-product-portfolio-manager) |
 
 ## About This Role
 
-This asset management / portfolio management position at Avaloq was posted on 2026-04-24.
+This asset management / portfolio management position at Avaloq was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

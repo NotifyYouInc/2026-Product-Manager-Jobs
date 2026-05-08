@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irvine, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012750828-head-of-global-fillers-and-regenerative-injectables-pcs) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012917495-head-of-global-fillers-and-regenerative-injectables-pcs) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-21.
+This product manager position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

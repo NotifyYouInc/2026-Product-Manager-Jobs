@@ -1,16 +1,16 @@
-# Director, HEOR Strategy - Neuroscience at AbbVie
+# Director, HEOR Strategy, Neuroscience at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irvine, California, United States |
+| Location | Florham Park, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012829598-director-heor-strategy-neuroscience) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012907019-director-heor-strategy-neuroscience) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-27.
+This product manager position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

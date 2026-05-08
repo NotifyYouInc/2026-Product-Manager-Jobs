@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000120326582-associate-product-manager-settlement-services-mfx) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000123899330-associate-product-manager-settlement-services-mfx) |
 
 ## About This Role
 
-This product manager position at Scalable Capital was posted on 2026-04-13.
+This product manager position at Scalable Capital was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Lindon-Utah-USA/Product-Manager_R0070069) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/WARSAW--POLAND/Product-Manager_R0069408-1) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-02-25.
+This product manager position at Global Payments was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

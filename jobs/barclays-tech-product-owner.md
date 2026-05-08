@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Tech-Product-Owner_JR-0000098444-2) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Tech-Product-Owner_JR-0000106135-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-03-20.
+This product manager position at Barclays was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000123742488-vp-product-management) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000123957510-vp-product-management) |
 
 ## About This Role
 
-This product manager position at IFS was posted on 2026-04-29.
+This product manager position at IFS was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

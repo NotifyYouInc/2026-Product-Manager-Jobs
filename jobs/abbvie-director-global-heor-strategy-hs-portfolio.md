@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Illinois, US |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012829736-director-global-heor-strategy-hs-portfolio) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012910700-director-global-heor-strategy-hs-portfolio) |
 
 ## About This Role
 
-This asset management / portfolio management position at AbbVie was posted on 2026-04-27.
+This asset management / portfolio management position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

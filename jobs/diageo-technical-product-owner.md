@@ -5,12 +5,12 @@
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Technical-Product-Owner_JR1125416-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bangalore-India/Technical-Product-Owner_JR1125553-1) |
 
 ## About This Role
 
-This product manager position at Diageo was posted on 2026-04-23.
+This product manager position at Diageo was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

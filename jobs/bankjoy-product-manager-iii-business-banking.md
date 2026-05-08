@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bankjoy](https://scoutify.ai/companies/bankjoy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bankjoy/4e3f4098-e1d7-4683-b8f3-919685e0b04d) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bankjoy/18aa5960-d804-4699-a61d-68c2f75646a9) |
 
 ## About This Role
 
-This product manager position at Bankjoy was posted on 2026-04-15.
+This product manager position at Bankjoy was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

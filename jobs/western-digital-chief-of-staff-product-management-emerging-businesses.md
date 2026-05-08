@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Jose, California, United States |
-| Category | Operations |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000115950538-chief-of-staff-product-management-emerging-businesses) |
+| Category | Product Manager |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000124002665-chief-of-staff-product-management-emerging-businesses) |
 
 ## About This Role
 
-This operations position at Western Digital was posted on 2026-03-20.
+This product manager position at Western Digital was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

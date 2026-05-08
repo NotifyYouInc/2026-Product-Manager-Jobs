@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012205955-strategic-product-manager-knowledge-integration-articulation-hybrid) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012925490-strategic-product-manager-knowledge-integration-articulation-hybrid) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-03-18.
+This product manager position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

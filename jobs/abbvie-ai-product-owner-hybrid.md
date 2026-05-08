@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011599576-ai-product-owner-hybrid) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012907240-ai-product-owner-hybrid) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-02-09.
+This product manager position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

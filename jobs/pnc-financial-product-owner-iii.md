@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Product-Owner-III_R219644) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NY---New-York/Product-Owner-III_R221320-1) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-04-23.
+This product manager position at PNC Financial was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

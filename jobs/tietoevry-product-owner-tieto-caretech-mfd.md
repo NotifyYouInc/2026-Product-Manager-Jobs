@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Trondheim, Trøndelag, Norway |
+| Location | Molde, Møre og Romsdal, Norway |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000121369827-product-owner-tieto-caretech-mfd) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000123865014-product-owner-tieto-caretech-mfd) |
 
 ## About This Role
 
-This product manager position at Tietoevry was posted on 2026-04-17.
+This product manager position at Tietoevry was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

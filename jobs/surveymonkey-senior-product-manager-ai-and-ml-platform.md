@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SurveyMonkey](https://scoutify.ai/companies/surveymonkey?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Ottawa, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7700594) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/surveymonkey/jobs/7870870) |
 
 ## About This Role
 
-This product manager position at SurveyMonkey was posted on 2026-03-23.
+This product manager position at SurveyMonkey was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

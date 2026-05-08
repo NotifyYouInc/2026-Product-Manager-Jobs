@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/Product-Owner_R2831624) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Product-Owner_R2855711) |
 
 ## About This Role
 
-This product manager position at Sanofi was posted on 2026-02-24.
+This product manager position at Sanofi was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

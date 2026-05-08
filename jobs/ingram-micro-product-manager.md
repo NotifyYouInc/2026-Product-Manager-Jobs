@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Product-Manager_R-114319) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Jakarta-Indonesia/Product-Manager_R-114885) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-04-28.
+This product manager position at Ingram Micro was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

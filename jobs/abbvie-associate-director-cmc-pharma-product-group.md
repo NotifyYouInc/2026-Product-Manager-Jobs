@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012641911-associate-director-cmc-pharma-product-group) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012922331-associate-director-cmc-pharma-product-group) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-16.
+This product manager position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

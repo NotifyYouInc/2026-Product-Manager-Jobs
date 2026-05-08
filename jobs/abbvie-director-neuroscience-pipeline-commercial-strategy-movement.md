@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Florham Park, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012793566-director-neuroscience-pipeline-commercial-strategy-movement) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012909213-director-neuroscience-pipeline-commercial-strategy-movement) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-23.
+This product manager position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

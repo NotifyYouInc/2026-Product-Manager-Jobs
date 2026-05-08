@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bracknell, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110215935-senior-product-manager-data-platforms) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000123932852-senior-product-manager-data-platforms) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-02-19.
+This product manager position at Syngenta was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

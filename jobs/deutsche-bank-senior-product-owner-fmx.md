@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-Ion-Mihalache-Blvd/Senior-Product-Owner--f-m-x-_R0415740) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-6A-Dimitrie-Pompeiu-Blvd/Senior-Product-Owner--f-m-x-_R0430546) |
 
 ## About This Role
 
-This product manager position at Deutsche Bank was posted on 2026-02-09.
+This product manager position at Deutsche Bank was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
