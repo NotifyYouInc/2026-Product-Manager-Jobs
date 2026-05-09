@@ -6,7 +6,7 @@
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000123861429-proposition-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RadiusLimited/744000123952810-proposition-manager) |
 
 ## About This Role
 

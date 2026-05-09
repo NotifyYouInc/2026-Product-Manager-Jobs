@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Malvern, Arkansas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Melbourne-Australia/Product-Manager--Specialist_177241) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Product-Manager--Specialist_177780) |
 
 ## About This Role
 
-This product manager position at Vanguard was posted on 2026-04-29.
+This product manager position at Vanguard was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

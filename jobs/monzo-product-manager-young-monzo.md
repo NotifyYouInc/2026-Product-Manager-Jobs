@@ -5,12 +5,12 @@
 | Company | [Monzo](https://scoutify.ai/companies/monzo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/7850448) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/7871165) |
 
 ## About This Role
 
-This product manager position at Monzo was posted on 2026-04-27.
+This product manager position at Monzo was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEGULA Technologies](https://scoutify.ai/companies/segulatechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Betim, Minas Gerais, Brazil |
 | Category | Product Manager |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000123927614-analista-de-produto-setor-automotivo) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000123993236-analista-de-produto-setor-automotivo) |
 
 ## About This Role
 

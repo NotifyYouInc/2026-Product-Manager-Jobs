@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000119205886-lead-product-manager) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000124147076-lead-product-manager) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-04-07.
+This product manager position at NBCUniversal was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

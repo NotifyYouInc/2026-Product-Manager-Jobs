@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zone & Co](https://scoutify.ai/companies/zone--co?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Czechia |
+| Location | Philippines |
 | Category | Product Manager |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zonecompanysoftwareconsultingllc/jobs/5206238008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zonecompanysoftwareconsultingllc/jobs/5206211008) |
 
 ## About This Role
 

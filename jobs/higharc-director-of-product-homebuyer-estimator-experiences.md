@@ -5,12 +5,12 @@
 | Company | [Higharc](https://scoutify.ai/companies/higharc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/higharc/b1ed0091-4b1e-4a0b-ae21-3ec7e1578e69) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/higharc/eaa5ab7a-0e1d-4fcb-9987-11caf092157a) |
 
 ## About This Role
 
-This product manager position at Higharc was posted on 2026-04-29.
+This product manager position at Higharc was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
