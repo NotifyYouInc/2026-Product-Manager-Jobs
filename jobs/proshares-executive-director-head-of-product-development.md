@@ -1,16 +1,16 @@
-# Product Management Manager at Avnet
+# Executive Director, Head of Product Development at ProShares
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Company | [ProShares](https://scoutify.ai/companies/proshares?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Manager_JR-022665) |
+| Posted | 2026-01-02 |
+| Apply | [View on company site](https://boards.greenhouse.io/proshares/jobs/4938204004?gh_jid=4938204004) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-05-05.
+This product manager position at ProShares was posted on 2026-01-02.
 
 ## Get Real-Time Alerts
 

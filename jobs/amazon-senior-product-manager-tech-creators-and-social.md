@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Senior Product Manager - Tech, Creators and Social at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seattle, Washington, United States |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410806/senior-product-manager-tech-creators-and-social) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

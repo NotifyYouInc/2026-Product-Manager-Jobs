@@ -1,16 +1,16 @@
-# Product Management Manager at Avnet
+# Director of Product, Credit at Brigit
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Company | [Brigit](https://scoutify.ai/companies/brigit?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Manager_JR-022665) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/brigit/86d4788a-d67c-45db-998b-95b93b21fb58) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-05-05.
+This product manager position at Brigit was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

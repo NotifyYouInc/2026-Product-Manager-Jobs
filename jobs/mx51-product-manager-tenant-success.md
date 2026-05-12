@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Product Manager, Tenant Success at mx51
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [mx51](https://scoutify.ai/companies/mx51?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Australia |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mx51/jobs/5988190004) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at mx51 was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

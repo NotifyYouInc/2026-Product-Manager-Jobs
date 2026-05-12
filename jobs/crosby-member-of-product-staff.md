@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Member of Product Staff at Crosby
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Crosby](https://scoutify.ai/companies/crosby?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/crosby/f96ace03-6f46-4df7-8176-932ac4369a28) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at Crosby was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

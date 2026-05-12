@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Senior Product Manager, Field Delivery at Autodesk
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---British-Columbia---Remote/Senior-Product-Manager--Field-Delivery_26WD97680) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at Autodesk was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

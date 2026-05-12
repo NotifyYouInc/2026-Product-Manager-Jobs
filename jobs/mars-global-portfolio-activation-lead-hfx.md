@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Global Portfolio & Activation Lead (H/F/X) at Mars
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 3 locations |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/FRA-Gard-Aimargues/Global-Portfolio---Activation-Lead--H-F-X-_R149010) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at Mars was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

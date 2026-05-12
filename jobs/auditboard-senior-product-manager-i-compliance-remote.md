@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Senior Product Manager I, Compliance (Remote) at AuditBoard
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [AuditBoard](https://scoutify.ai/companies/auditboard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/optro/d8a54bbd-17cf-43e1-b943-8a1f8cb729e7) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at AuditBoard was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Management Manager at Avnet
+# Senior Product Owner at Kogan
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Company | [Kogan](https://scoutify.ai/companies/kogan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | South Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Manager_JR-022665) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.lever.co/kogan/626f274f-1968-41d7-8784-8fa0d97c5bac) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-05-05.
+This product manager position at Kogan was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

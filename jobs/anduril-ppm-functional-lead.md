@@ -1,16 +1,16 @@
-# Product Management Manager at Avnet
+# PPM Functional Lead at Anduril
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Costa Mesa, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Manager_JR-022665) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5128327007?gh_jid=5128327007) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-05-05.
+This product manager position at Anduril was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

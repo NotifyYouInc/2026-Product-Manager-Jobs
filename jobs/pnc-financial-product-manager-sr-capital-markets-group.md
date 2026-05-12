@@ -1,12 +1,12 @@
-# Product Owner II at PNC Financial
+# Product Manager Sr - Capital Markets Group at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Owner-II_R221520-2) |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/The-Tower-at-PNC-Plaza-PAA86/Product-Manager-Sr---Capital-Markets-Group_R221504) |
 
 ## About This Role
 

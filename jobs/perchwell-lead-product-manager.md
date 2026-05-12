@@ -1,16 +1,16 @@
-# Product Management Manager at Avnet
+# Lead Product Manager at Perchwell
 
 | Field | Details |
 |-------|---------|
-| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Company | [Perchwell](https://scoutify.ai/companies/perchwell?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Manager_JR-022665) |
+| Posted | 2026-01-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/perchwell/3caf549a-b64c-49f3-8bb0-84db73b17d42) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-05-05.
+This product manager position at Perchwell was posted on 2026-01-23.
 
 ## Get Real-Time Alerts
 

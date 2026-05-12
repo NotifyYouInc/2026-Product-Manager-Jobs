@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Head of Product Design - Growth at Canva
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001045483-head-of-product-design-growth) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at Canva was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

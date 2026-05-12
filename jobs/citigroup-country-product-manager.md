@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Country Product Manager at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dubai-United-Arab-Emirates/Payment-Product-Manager_26960876) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

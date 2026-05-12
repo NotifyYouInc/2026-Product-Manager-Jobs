@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Associate Director, Hematology at CSL
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [CSL](https://scoutify.ai/companies/csl?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | King of Prussia, Pennsylvania, United States |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Associate-Director--Hematology_R-278203) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at CSL was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

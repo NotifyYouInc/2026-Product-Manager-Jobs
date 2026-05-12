@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Senior Product Manager II at Coupang Internal
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7882916?gh_jid=7882916) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at Coupang Internal was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

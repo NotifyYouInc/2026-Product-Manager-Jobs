@@ -1,16 +1,16 @@
-# Product Owner at Accenture
+# Principal, Product Management at Fidelity
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Jersey City, New Jersey, United States |
 | Category | Product Manager |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Coimbatore/Product-Owner_ATCI-5218308-S1914762-1) |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/Principal--Product-Management_2128257) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-05-05.
+This product manager position at Fidelity was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
