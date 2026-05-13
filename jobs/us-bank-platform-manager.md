@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Saint Paul, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Platform-Manager_2026-0006907-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Platform-Manager_2026-0010071) |
 
 ## About This Role
 
-This product manager position at U.S. Bank was posted on 2026-03-25.
+This product manager position at U.S. Bank was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

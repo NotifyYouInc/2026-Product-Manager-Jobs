@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Product-Owner_JR10393758) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Product-Owner_JR10410483) |
 
 ## About This Role
 
-This product manager position at Airbus was posted on 2026-03-03.
+This product manager position at Airbus was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

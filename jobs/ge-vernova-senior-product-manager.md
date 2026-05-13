@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Senior-Product-Manager_R5033254) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/Senior-Product-Manager_R5040818-3) |
 
 ## About This Role
 
-This product manager position at GE Vernova was posted on 2026-02-23.
+This product manager position at GE Vernova was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

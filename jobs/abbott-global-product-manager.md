@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Global-Product-Manager_31146543-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Santa-Clara/Global-Product-Manager_31149257-1) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-04-03.
+This product manager position at Abbott was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

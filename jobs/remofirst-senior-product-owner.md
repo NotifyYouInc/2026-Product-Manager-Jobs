@@ -5,12 +5,12 @@
 | Company | [Remofirst](https://scoutify.ai/companies/remofirst?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Spain |
 | Category | Product Manager |
-| Posted | 2025-10-14 |
-| Apply | [View on company site](https://jobs.lever.co/remofirst/539640b5-96b1-4823-9185-89802fba5555) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.lever.co/remofirst/e2c74b50-75de-4cd1-8ec8-246b362ab5d1) |
 
 ## About This Role
 
-This product manager position at Remofirst was posted on 2025-10-14.
+This product manager position at Remofirst was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

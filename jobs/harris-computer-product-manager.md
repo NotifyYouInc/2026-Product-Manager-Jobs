@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Vermont, US |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Toronto-Ontario/Product-Owner_R0032728-2) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Vermont-United-States/Product-Manager_R0043496-1) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-04-23.
+This product manager position at Harris Computer was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

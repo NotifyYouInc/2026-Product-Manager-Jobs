@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New South Wales, AU |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000118558132-senior-product-manager-loyalty) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000124559259-senior-product-manager-loyalty) |
 
 ## About This Role
 
-This product manager position at SEEK was posted on 2026-04-03.
+This product manager position at SEEK was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

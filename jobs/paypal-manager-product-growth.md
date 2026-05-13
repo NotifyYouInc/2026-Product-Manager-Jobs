@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Milan, Lombardy, Italy |
 | Category | Growth Marketing |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Product-Growth_R0136291-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Milan-Milano-Italy/Manager--Product-Growth_R0136444) |
 
 ## About This Role
 
-This growth marketing position at PayPal was posted on 2026-04-27.
+This growth marketing position at PayPal was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

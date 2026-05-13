@@ -1,16 +1,16 @@
-# Product Manager Sênior  at Experian
+# Product manager Sênior at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114060107-product-manager-senior) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000124701290-product-manager-senior) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-03-11.
+This product manager position at Experian was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

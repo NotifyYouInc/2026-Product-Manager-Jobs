@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
-| Category | Program Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7645812?gh_jid=7645812) |
+| Location | San Francisco, California, United States |
+| Category | Product Manager |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7872404?gh_jid=7872404) |
 
 ## About This Role
 
-This program manager position at Ripple was posted on 2026-02-25.
+This product manager position at Ripple was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

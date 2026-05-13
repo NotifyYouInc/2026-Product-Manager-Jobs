@@ -5,12 +5,12 @@
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7783251?gh_jid=7783251) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7896431?gh_jid=7896431) |
 
 ## About This Role
 
-This product manager position at HelloFresh was posted on 2026-04-07.
+This product manager position at HelloFresh was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

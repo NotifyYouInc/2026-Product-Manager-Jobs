@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Marketing |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000117223907-korea-product-manager-marketing-gla) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000124651844-korea-product-manager-marketing-gla) |
 
 ## About This Role
 
-This marketing position at Santen Pharmaceutical Co. was posted on 2026-03-27.
+This marketing position at Santen Pharmaceutical Co. was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

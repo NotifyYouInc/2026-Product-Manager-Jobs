@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Mississauga-Canada/Senior-Product-Manager_R41194) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Hyderabad-India/Senior-Product-Manager_R43111) |
 
 ## About This Role
 
-This product manager position at SS&C Technologies was posted on 2026-02-20.
+This product manager position at SS&C Technologies was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

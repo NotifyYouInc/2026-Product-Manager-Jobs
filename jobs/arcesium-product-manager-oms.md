@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arcesium](https://scoutify.ai/companies/arcesiumllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/arcesiumllc/jobs/5104600007) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arcesiumllc/jobs/5128823007) |
 
 ## About This Role
 
-This product manager position at Arcesium was posted on 2026-04-20.
+This product manager position at Arcesium was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

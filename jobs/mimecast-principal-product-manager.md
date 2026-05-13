@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | New Jersey, US |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---New-Jersey---Remote/Principal-Product-Manager_R6260-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America---New-Jersey---Remote/Principal-Product-Manager_R6388-1) |
 
 ## About This Role
 
-This product manager position at Mimecast was posted on 2026-03-13.
+This product manager position at Mimecast was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

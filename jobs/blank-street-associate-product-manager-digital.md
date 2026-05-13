@@ -5,12 +5,12 @@
 | Company | [Blank Street](https://scoutify.ai/companies/blank-street?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/blankstreet/jobs/7711896003) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blankstreet/jobs/7724511003) |
 
 ## About This Role
 
-This product manager position at Blank Street was posted on 2026-04-29.
+This product manager position at Blank Street was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

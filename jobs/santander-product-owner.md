@@ -1,16 +1,16 @@
-# PRODUCT OWNER at Santander
+# Product Owner at Santander
 
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/PRODUCT-OWNER_Req1537208) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Wrocaw/Product-Owner_Req1574767-1) |
 
 ## About This Role
 
-This product manager position at Santander was posted on 2026-02-18.
+This product manager position at Santander was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

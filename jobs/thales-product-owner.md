@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Quebec, CA |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Quebec-City/Product-Owner_R0324918-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Montreal/Product-Owner_R0326655-2) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-04-22.
+This product manager position at Thales was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/8e6e7a5a-71f3-4866-9ef8-41dcc6367564) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/986f45cb-5009-4a68-a605-75f1abf45ead) |
 
 ## About This Role
 
-This product manager position at Alan was posted on 2026-04-10.
+This product manager position at Alan was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
