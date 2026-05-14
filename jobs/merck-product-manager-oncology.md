@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | National Capital Region, PH |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/PHL---National-Capital-Region---Makati/Product-Manager-Oncology_R387199-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHL---Santiago---Santiago-Calle-Mariano/Product-Manager-Oncology_R392461) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-04-23.
+This product manager position at Merck was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

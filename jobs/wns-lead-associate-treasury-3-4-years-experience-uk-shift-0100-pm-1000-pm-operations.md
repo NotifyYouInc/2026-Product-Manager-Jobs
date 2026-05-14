@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Corporate Finance |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000123167594-lead-associate-treasury-3-4-years-experience-uk-shift-0100-pm-1000-pm-operations-location-gurgaon) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000124884340-lead-associate-treasury-3-4-years-experience-uk-shift-0100-pm-1000-pm-operations-location-gurgaon) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-04-27.
+This corporate finance position at WNS was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

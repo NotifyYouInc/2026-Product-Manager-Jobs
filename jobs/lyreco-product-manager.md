@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyreco](https://scoutify.ai/companies/lyreco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Roskilde, Zealand, Denmark |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://lyreco.wd3.myworkdayjobs.com/lyreco_careers/job/Sliedrecht-39/Product-manager_JR-1000026896) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://lyreco.wd3.myworkdayjobs.com/lyreco_careers/job/Roskilde/Product-Manager_JR-1000029447) |
 
 ## About This Role
 
-This product manager position at Lyreco was posted on 2026-03-27.
+This product manager position at Lyreco was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

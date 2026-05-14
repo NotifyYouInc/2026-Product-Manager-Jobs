@@ -1,16 +1,16 @@
-# Sr Manager Product Management at PayPal
+# Sr Manager, Product Management at PayPal
 
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager-Product-Management_R0136031) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Stockholm-Stockholm-County-Sweden/Sr-Manager--Product-Management_R0135805-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-03-26.
+This product manager position at PayPal was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

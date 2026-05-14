@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Irving, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Product-Manager_R-537301-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Product-Manager_R-543811) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-04-21.
+This product manager position at Wells Fargo was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

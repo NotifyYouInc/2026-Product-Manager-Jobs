@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Neenah, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-WI-Neenah/Lead-Product-Scientist_884663-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-WI-Neenah/Lead-Product-Scientist_885191-2) |
 
 ## About This Role
 
-This product manager position at Kimberly-Clark was posted on 2026-04-15.
+This product manager position at Kimberly-Clark was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

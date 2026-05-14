@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000122178158-rpg-product-owner) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000124896993-rpg-product-owner) |
 
 ## About This Role
 
-This product manager position at Software Mind was posted on 2026-04-22.
+This product manager position at Software Mind was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

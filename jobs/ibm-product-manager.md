@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111642) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113869) |
 
 ## About This Role
 
-This product manager position at IBM was posted on 2026-04-22.
+This product manager position at IBM was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

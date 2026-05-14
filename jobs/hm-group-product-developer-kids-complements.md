@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000123201569-product-developer-kids-complements) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000125035592-product-developer-kids-complements) |
 
 ## About This Role
 
-This product manager position at H&M Group was posted on 2026-04-27.
+This product manager position at H&M Group was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

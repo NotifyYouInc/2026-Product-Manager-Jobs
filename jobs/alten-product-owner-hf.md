@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118552917-product-owner-hf) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124819159-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at ALTEN was posted on 2026-04-03.
+This product manager position at ALTEN was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

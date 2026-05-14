@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Spain |
+| Location | Not specified |
 | Category | Compliance & Risk Management |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7725133003) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7725139003) |
 
 ## About This Role
 
-This compliance & risk management position at Remote was posted on 2026-05-05.
+This compliance & risk management position at Remote was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

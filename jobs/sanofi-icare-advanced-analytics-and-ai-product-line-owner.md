@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/iCare-Advanced-Analytics-and-AI--Product-Line-Owner_R2845404) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/iCare-Advanced-Analytics-and-AI--Product-Line-Owner_R2855283) |
 
 ## About This Role
 
-This product manager position at Sanofi was posted on 2026-03-11.
+This product manager position at Sanofi was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

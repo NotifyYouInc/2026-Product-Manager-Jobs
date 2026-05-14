@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Bethesda/Product-Owner_323848) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/BKO-GERMANY-STUTTGART-70569/Product-Owner_325761) |
 
 ## About This Role
 
-This product manager position at CACI was posted on 2026-03-26.
+This product manager position at CACI was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

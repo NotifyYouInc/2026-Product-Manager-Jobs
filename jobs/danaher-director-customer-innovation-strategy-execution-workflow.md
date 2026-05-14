@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Uppsala, Uppsala, Sweden |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Marlborough-Massachusetts-United-States/Director--Customer-Innovation-Strategy--Execution---Workflow_R1308837) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Director--Customer-Innovation-Strategy--Execution---Workflow_R1310968) |
 
 ## About This Role
 
-This product manager position at Danaher was posted on 2026-05-01.
+This product manager position at Danaher was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

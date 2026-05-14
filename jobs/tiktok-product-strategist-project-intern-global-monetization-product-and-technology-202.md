@@ -1,16 +1,16 @@
-# Product Strategist Project Intern [Global Monetization Product and Technology]-2026 Start (BS/MS) at TikTok
+# Product Strategist Project Intern (Global Monetization Product and Technology) - 2026 Start (MBA) at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Operations |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7553882083882797330/detail) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7603516766509713717/detail) |
 
 ## About This Role
 
-This operations position at TikTok was posted on 2026-04-22.
+This operations position at TikTok was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

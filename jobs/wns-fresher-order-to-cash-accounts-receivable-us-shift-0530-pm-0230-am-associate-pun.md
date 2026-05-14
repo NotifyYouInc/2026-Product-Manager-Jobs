@@ -1,0 +1,22 @@
+# Fresher - Order to Cash - Accounts Receivable - US Shift ( 05:30 PM - 02:30 AM )- Associate - PUN - REF101233C_2026251159 at WNS
+
+| Field | Details |
+|-------|---------|
+| Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Pune, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000124856930-fresher-order-to-cash-accounts-receivable-us-shift-0530-pm-0230-am-associate-pun-ref101233c-2026251159) |
+
+## About This Role
+
+This corporate finance position at WNS was posted on 2026-05-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
