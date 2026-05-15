@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/TWN---Taipei---Taipei-City/Associate-Product-Manager_R396164) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/TWN---Taipei---Taipei-City/Associate-Product-Manager_R397401-2) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-05-06.
+This product manager position at Merck was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

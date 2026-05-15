@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Alameda, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Consumer-Product-Manager--Biowearables_31146200) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Consumer-Product-Manager--Biowearables_31149284-1) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-03-31.
+This product manager position at Abbott was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

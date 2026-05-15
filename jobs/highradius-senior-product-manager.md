@@ -5,12 +5,12 @@
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7676825003) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7707536003) |
 
 ## About This Role
 
-This product manager position at HighRadius was posted on 2026-03-24.
+This product manager position at HighRadius was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

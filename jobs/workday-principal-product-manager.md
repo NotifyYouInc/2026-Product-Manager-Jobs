@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Principal-Product-Manager_JR-0105911) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Principal-Product-Manager_JR-0106524) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-04-07.
+This product manager position at Workday was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

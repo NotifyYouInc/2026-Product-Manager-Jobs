@@ -1,16 +1,16 @@
-# Product Owner DATA H/F at Nexton
+# Product Owner Data - H/F at Nexton
 
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000122287987-product-owner-data-hf) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000125051333-product-owner-data-hf) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-04-22.
+This product manager position at Nexton was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

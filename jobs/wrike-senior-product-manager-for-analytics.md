@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wrike](https://scoutify.ai/companies/wrike?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nicosia, Nicosia, Cyprus |
+| Location | Cyprus |
 | Category | Product Manager |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4683918005) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4693167005) |
 
 ## About This Role
 
-This product manager position at Wrike was posted on 2026-04-11.
+This product manager position at Wrike was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

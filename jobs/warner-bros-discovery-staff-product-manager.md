@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Hyderabad-Office-Level-3--4-Block-A---East-Wing/Staff--Product-Manager_R000104232) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Staff--Product-Manager_R000105029) |
 
 ## About This Role
 
-This product manager position at Warner Bros Discovery was posted on 2026-04-14.
+This product manager position at Warner Bros Discovery was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

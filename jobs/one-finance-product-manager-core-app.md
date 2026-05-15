@@ -5,12 +5,12 @@
 | Company | [ONE Finance](https://scoutify.ai/companies/oneapp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/oneapp/e981f891-0a54-43ed-9dcd-37e131b71524) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/oneapp/e1cbef4b-0435-490d-a289-9f79b67f792a) |
 
 ## About This Role
 
-This product manager position at ONE Finance was posted on 2026-02-05.
+This product manager position at ONE Finance was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Betty ](https://scoutify.ai/companies/betty-?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bettyjobboard/jobs/5125021007) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bettyjobboard/jobs/5131385007) |
 
 ## About This Role
 
-This product manager position at Betty  was posted on 2026-04-30.
+This product manager position at Betty  was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

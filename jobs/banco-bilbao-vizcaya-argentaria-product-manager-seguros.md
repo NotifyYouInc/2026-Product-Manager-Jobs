@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chile |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Las-Condes-Region-Metropolitana-de-Santiago/PRODUCT-MANAGER-SEGUROS_JR00098328) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Las-Condes-Region-Metropolitana-de-Santiago/PRODUCT-MANAGER-SEGUROS_JR00103200) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-12.
+This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

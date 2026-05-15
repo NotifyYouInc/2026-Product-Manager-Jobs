@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Product-Management---Open-Finance--Lending---Credit-Risk-Solutions-_R-274151-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Product-Management---Open-Finance--Lending---Credit-Risk-Solutions-_R-277336) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-25.
+This product manager position at Mastercard was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sheffield, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Sheffield/Product-Owner_R07915) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/London-The-Point---Cross-Border/Product-Owner_R08147) |
 
 ## About This Role
 
-This product manager position at Corpay was posted on 2026-03-16.
+This product manager position at Corpay was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

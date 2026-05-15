@@ -1,16 +1,16 @@
-# Senior Product Manager - Platform Engineering & Toolchain at AbbVie
+# Senior Product Manager, Platform Engineering & Toolchain  at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012683046-senior-product-manager-platform-engineering-toolchain) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013029586-senior-product-manager-platform-engineering-toolchain) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-20.
+This product manager position at AbbVie was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

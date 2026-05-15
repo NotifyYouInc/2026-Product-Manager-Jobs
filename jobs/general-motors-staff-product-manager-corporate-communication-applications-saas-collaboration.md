@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Product-Manager---Corporate-Communication-Applications--SaaS-Collaboration_JR-202601400) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Product-Manager---Corporate-Communication-Applications--SaaS-Collaboration_JR-202610326) |
 
 ## About This Role
 
-This product manager position at General Motors was posted on 2026-02-11.
+This product manager position at General Motors was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

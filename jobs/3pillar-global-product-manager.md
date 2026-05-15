@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [3Pillar Global](https://scoutify.ai/companies/3pillar-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Stamford, Connecticut, United States |
 | Category | Product Manager |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.lever.co/3pillarglobal/56f70b02-edc9-46e5-8930-0e010634e9b8) |
+| Apply | [View on company site](https://jobs.lever.co/3pillarglobal/ecabb8ad-6d3f-435d-a747-4e81d9f2b77d) |
 
 ## About This Role
 

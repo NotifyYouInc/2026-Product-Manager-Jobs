@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000123878508-associate-product-owner-mwd-apo-summer-internship) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000125068938-associate-product-owner-mwd-apo-summer-internship) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-04-30.
+This product manager position at CHECK24 was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

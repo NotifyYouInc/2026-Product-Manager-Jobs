@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Product-Owner---Sailpoint-IdentityIQ_R0000362664) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Product-Owner---Sailpoint-IdentityIQ_R0000368807) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-04-17.
+This product manager position at Caterpillar was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

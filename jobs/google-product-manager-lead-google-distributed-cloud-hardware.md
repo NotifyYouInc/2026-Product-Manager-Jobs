@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/137632694568657606-product-manager-lead-google-distributed-cloud-hardware?sort_by=date&page=1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX42FpPv1WgirdFJyUIJ0_Ghk94rW60QqN2R9CfsMZJPEjsACxwdTMuz8sGe0mIhTjIakXL70XYlZX1OZhSamtjyDN0ZKplzF-PUWDraGXI-7JetSHE2ziaIgqc30w%3D%3D_V2&loc=US&title=Product+Manager+Lead) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-06.
+This product manager position at Google was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
