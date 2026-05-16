@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Lima, Lima Province, Peru |
 | Category | Product Manager |
 | Posted | 2026-05-07 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/HKG---Hong-Kong-Island---Hong-Kong-Lee-Garden-Two/Product-Manager_R396559-1) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/PER---Lima---Lima-Andres-Reyes-WeWork/Product-Manager_R396687) |
 
 ## About This Role
 

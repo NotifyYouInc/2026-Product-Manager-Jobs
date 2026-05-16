@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Kochi, Kerala, India |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Gurgaon-India/Product-Manager_R09664) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Kochi-India/Product-Manager_R09992-1) |
 
 ## About This Role
 
-This product manager position at SOTI was posted on 2026-03-13.
+This product manager position at SOTI was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

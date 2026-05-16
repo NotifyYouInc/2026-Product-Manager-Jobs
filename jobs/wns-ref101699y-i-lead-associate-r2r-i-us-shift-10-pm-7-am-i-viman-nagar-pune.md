@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Corporate Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125027499-ref101699y-i-lead-associate-r2r-i-us-shift-10-pm-7-am-i-viman-nagar-pune) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125338379-ref101699y-i-lead-associate-r2r-i-us-shift-10-pm-7-am-i-viman-nagar-pune) |
 
 ## About This Role
 
-This corporate finance position at WNS was posted on 2026-05-07.
+This corporate finance position at WNS was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

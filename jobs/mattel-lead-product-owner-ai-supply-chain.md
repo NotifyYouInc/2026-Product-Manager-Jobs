@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000122612099-lead-product-owner-ai-supply-chain) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000125446539-lead-product-owner-ai-supply-chain) |
 
 ## About This Role
 
-This product manager position at Mattel was posted on 2026-04-24.
+This product manager position at Mattel was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

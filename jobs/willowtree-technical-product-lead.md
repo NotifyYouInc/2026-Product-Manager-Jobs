@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/8f532a58-7ae2-42cb-8269-24d337508804) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/16c203f4-08bc-45ed-91c8-0cc22fc3eb25) |
 
 ## About This Role
 
-This product manager position at WillowTree was posted on 2026-04-02.
+This product manager position at WillowTree was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

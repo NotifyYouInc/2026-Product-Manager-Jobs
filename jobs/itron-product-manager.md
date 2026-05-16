@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Cikarang, West Java, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Texas-Austin/Product-Manager_JR102366) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/Indonesia-Cikarang/Product-Manager_JR102454-1) |
 
 ## About This Role
 
-This product manager position at Itron was posted on 2026-04-15.
+This product manager position at Itron was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

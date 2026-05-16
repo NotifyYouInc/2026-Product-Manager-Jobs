@@ -5,12 +5,12 @@
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Product-Management---Develop_R-108128-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Product-Management---Develop_R-109426) |
 
 ## About This Role
 
-This product manager position at AT&T was posted on 2026-04-27.
+This product manager position at AT&T was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

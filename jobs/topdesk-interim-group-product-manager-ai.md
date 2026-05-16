@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Delft, South Holland, The Netherlands |
+| Location | Budapest, Budapest, Hungary |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000125068239-interim-group-product-manager-ai) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000125343439-interim-group-product-manager-ai) |
 
 ## About This Role
 
-This product manager position at TOPdesk was posted on 2026-05-07.
+This product manager position at TOPdesk was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

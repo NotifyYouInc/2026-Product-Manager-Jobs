@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mountain View, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/72164420028900038-group-product-manager-complex-journeys-search?sort_by=date&page=1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdU-NEFlchsm8FIAYR_k949hPM2cXbyEipwZg_0k6kOjEjsACxwdTJWekCCIDDxM7utGOmZbuP-_OzasCVziBfuTSJCRQf4zB_TxcCyXveByrrqxKajDxtLzXmzhnA%3D%3D_V2&loc=US&title=Group+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-19.
+This product manager position at Google was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

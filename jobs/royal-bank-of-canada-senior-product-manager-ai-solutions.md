@@ -1,16 +1,16 @@
-# Senior Product Manager – AI Solutions at Royal Bank of Canada
+# Senior Product Manager, AI Solutions at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Product-Manager---AI-Solutions_R-0000165586) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Product-Manager--AI-Solutions_R-0000171866) |
 
 ## About This Role
 
-This product manager position at Royal Bank of Canada was posted on 2026-04-01.
+This product manager position at Royal Bank of Canada was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

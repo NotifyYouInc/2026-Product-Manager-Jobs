@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 5 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckaww03C_FAsr-uVljM1McfkTXLldD04iMeTDiD2SumpWEjoACxwdTFcoun8XXFZLi8gvKprYgHNCSJb3d2IlJAli5DiipZlbw7LJUdEiTOYLMMmEtkM5bjRhz91o_V2&loc=US&title=Product+Launch+Manager) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaVRxbhorSqi4100uwBYsJbwHmuem_yHRrVTXEH3V3HREjoACxwdTDxvsmoki60rklkeSD92YuTDl0M3sPPoNDLL-nBXpTDVjvp1AE-rCMRuN0ODOFy9db9dRAUV_V2&loc=US&title=Product+Launch+Manager) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-04-27.
+This implementation / professional services position at Google was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

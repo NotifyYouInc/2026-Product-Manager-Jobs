@@ -5,12 +5,12 @@
 | Company | [Whoop](https://scoutify.ai/companies/whoop?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.lever.co/whoop/a868f96b-ea6f-48ee-a6cf-f17e1c125f18) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.lever.co/whoop/578b5255-2a20-4396-8cda-6d1a68253246) |
 
 ## About This Role
 
-This product manager position at Whoop was posted on 2026-04-30.
+This product manager position at Whoop was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

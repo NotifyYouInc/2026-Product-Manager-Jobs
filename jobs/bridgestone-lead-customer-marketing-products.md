@@ -5,12 +5,12 @@
 | Company | [Bridgestone](https://scoutify.ai/companies/bridgestone?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Growth Marketing |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/Bridgestone-Tower/Lead--Customer-Marketing-Products_2026_04423) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://bridgestone.wd5.myworkdayjobs.com/external/job/Bridgestone-Tower/Lead--Customer-Marketing-Products_2026_10816) |
 
 ## About This Role
 
-This growth marketing position at Bridgestone was posted on 2026-03-02.
+This growth marketing position at Bridgestone was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

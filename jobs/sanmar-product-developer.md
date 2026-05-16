@@ -5,12 +5,12 @@
 | Company | [SanMar](https://scoutify.ai/companies/sanmar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Issaquah, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://boards.greenhouse.io/sanmar/jobs/5101166007?gh_jid=5101166007) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://boards.greenhouse.io/sanmar/jobs/5133371007?gh_jid=5133371007) |
 
 ## About This Role
 
-This product manager position at SanMar was posted on 2026-04-07.
+This product manager position at SanMar was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

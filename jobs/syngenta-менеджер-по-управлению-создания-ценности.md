@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Moscow, Moscow, Russia |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000125159983-) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000125326329-) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-05-07.
+This product manager position at Syngenta was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

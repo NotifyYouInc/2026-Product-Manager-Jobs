@@ -5,12 +5,12 @@
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Category-Manager_R26_0000011844-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Category-Manager_R26_0000014992) |
 
 ## About This Role
 
-This product manager position at Genuine Parts Company was posted on 2026-04-16.
+This product manager position at Genuine Parts Company was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Green Thumb](https://scoutify.ai/companies/green-thumb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/greenthumbindustries/jobs/7761306) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/greenthumbindustries/jobs/7909127) |
 
 ## About This Role
 
-This product manager position at Green Thumb was posted on 2026-03-27.
+This product manager position at Green Thumb was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

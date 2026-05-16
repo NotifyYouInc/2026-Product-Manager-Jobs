@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Internal-Product-Manager_R166397) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Internal-Product-Manager_R167547) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-03-11.
+This product manager position at Adobe was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
