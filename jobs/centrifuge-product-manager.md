@@ -1,16 +1,16 @@
-# Senior Product Manager - FX Pricing at Ebury
+# Product Manager at Centrifuge
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [Centrifuge](https://scoutify.ai/companies/centrifuge?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4862966101) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.lever.co/centrifuge/2b95ac1f-e1e3-4e56-a73b-8f084263cb08) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-05-09.
+This product manager position at Centrifuge was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

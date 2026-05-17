@@ -1,16 +1,16 @@
-# Senior Product Manager - FX Pricing at Ebury
+# Product Manager at Zippi
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [Zippi](https://scoutify.ai/companies/zippi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4862966101) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.lever.co/zippi/a81577a5-fd59-4b8f-883f-7e693b09f057) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-05-09.
+This product manager position at Zippi was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

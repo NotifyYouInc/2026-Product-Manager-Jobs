@@ -1,16 +1,16 @@
-# Senior Product Manager - FX Pricing at Ebury
+# Staff Product Manager, Enterprise at Livekit
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [Livekit](https://scoutify.ai/companies/livekit?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4862966101) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/livekit/6f6ece65-40f0-4f90-aa09-dd282ffb5c22) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-05-09.
+This product manager position at Livekit was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Manager - FX Pricing at Ebury
+# Product Owner, Billing & Settlement at Xplor Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4862966101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000125455594-product-owner-billing-settlement) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-05-09.
+This product manager position at Xplor Technologies was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

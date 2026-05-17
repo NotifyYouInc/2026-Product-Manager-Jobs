@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4854843101) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4862968101) |
 
 ## About This Role
 
-This financial crimes & aml position at Ebury was posted on 2026-04-29.
+This financial crimes & aml position at Ebury was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 
