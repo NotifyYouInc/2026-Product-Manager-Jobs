@@ -1,16 +1,16 @@
-# Principal Product Manager - AI & Intelligent Manufacturing Systems at Fictiv
+# 產品企劃實習生 at CTBC Financial Holding
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8542439002) |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/_JR6664) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-05-11.
+This product manager position at CTBC Financial Holding was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

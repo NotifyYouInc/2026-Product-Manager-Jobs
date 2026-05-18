@@ -1,16 +1,16 @@
-# Product Owner_ RBLC at Robert Bosch
+# Global Solutions Owner, AI and Virtual Assistant at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125514509-product-owner-rblc) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Global-Solutions-Owner--AI-and-Virtual-Assistant_RQ110201) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-05-10.
+This product manager position at BP was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

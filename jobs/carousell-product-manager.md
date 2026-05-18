@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000117550368-product-manager) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000125748979-product-manager) |
 
 ## About This Role
 
-This product manager position at Carousell was posted on 2026-03-30.
+This product manager position at Carousell was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Product Manager - AI & Intelligent Manufacturing Systems at Fictiv
+# Founder's Office (New Products) at Gushwork
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [Gushwork](https://scoutify.ai/companies/gushwork?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8542439002) |
+| Apply | [View on company site](https://jobs.lever.co/gushwork/bdcb4767-be80-428a-8455-b9eddc0008c4) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-05-11.
+This product manager position at Gushwork was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

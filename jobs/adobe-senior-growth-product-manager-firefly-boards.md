@@ -1,16 +1,16 @@
-# Senior Product Manager, Platform Performance & Infrastructure at Sigma Computing
+# Senior Growth Product Manager | Firefly Boards at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7729894003) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Growth-Product-Manager---Firefly-Boards_R167399-1) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-11.
+This product manager position at Adobe was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

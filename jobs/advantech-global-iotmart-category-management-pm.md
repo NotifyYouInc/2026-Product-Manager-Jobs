@@ -1,16 +1,16 @@
-# Principal Product Manager - AI & Intelligent Manufacturing Systems at Fictiv
+# Global IoTMart Category Management PM at Advantech
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taiwan |
 | Category | Product Manager |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8542439002) |
+| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/Global-IoTMart-Category-Management-PM_JR202605017) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-05-11.
+This product manager position at Advantech was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

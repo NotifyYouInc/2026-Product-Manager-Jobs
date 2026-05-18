@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Kuala-Lumpur/Product-Manager_JR1797-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Singapore/Product-Manager_JR1884-1) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-04-24.
+This product manager position at Exclusivenetworks was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

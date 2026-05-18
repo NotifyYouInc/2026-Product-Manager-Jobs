@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Paya-Lebar-Quarter-2-SSG/Manager-Senior-Manager--Digital-Platform-Optimisation--PED-_JR-10000040624) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Paya-Lebar-Quarter-2-SSG/Manager-Senior-Manager--Digital-Platform-Optimisation--PED-_JR-10000050640) |
 
 ## About This Role
 
-This product manager position at Economic Development Board was posted on 2026-04-30.
+This product manager position at Economic Development Board was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Product Manager - AI & Intelligent Manufacturing Systems at Fictiv
+# Product Disposition Manager at Avnet
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Ġwann, Saint John, Malta |
 | Category | Product Manager |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8542439002) |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/San-Gwann-Malta/Product-Disposition-Manager_JR-022750) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-05-11.
+This product manager position at Avnet was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

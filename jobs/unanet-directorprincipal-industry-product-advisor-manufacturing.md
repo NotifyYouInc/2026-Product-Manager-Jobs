@@ -1,16 +1,16 @@
-# Product Manager - Payments at Adyen
+# Director/Principal Industry Product Advisor, Manufacturing at Unanet
 
 | Field | Details |
 |-------|---------|
-| Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Unanet](https://scoutify.ai/companies/unanet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7894955) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/unanet/jobs/7726418003) |
 
 ## About This Role
 
-This product manager position at Adyen was posted on 2026-05-11.
+This product manager position at Unanet was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

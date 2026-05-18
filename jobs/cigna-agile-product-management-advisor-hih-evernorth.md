@@ -1,16 +1,16 @@
-# Agile Product Management Advisor - HIH - Evernorth at Cigna
+# Agile Product Management Advisor - HIH -Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Management-Advisor---HIH---Evernorth_26003233) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Management-Advisor---HIH--Evernorth_26005326) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-04-06.
+This product manager position at Cigna was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

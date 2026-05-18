@@ -1,16 +1,16 @@
-# Product Manager - Payments at Adyen
+# AI Product Owner at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Israel |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7894955) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4857760101?gh_jid=4857760101) |
 
 ## About This Role
 
-This product manager position at Adyen was posted on 2026-05-11.
+This product manager position at NiCE was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

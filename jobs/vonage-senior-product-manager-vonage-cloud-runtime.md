@@ -1,16 +1,16 @@
-# Product Manager - Payments at Adyen
+# Senior Product Manager - Vonage Cloud Runtime at Vonage
 
 | Field | Details |
 |-------|---------|
-| Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Vonage](https://scoutify.ai/companies/vonage?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7894955) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vonage/jobs/8532845002) |
 
 ## About This Role
 
-This product manager position at Adyen was posted on 2026-05-11.
+This product manager position at Vonage was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

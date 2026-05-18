@@ -1,16 +1,16 @@
-# Product Owner_ RBLC at Robert Bosch
+# Hema Project Lead at Bristol-Myers Squibb
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125514509-product-owner-rblc) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Shanghai---CN/XMLNAME--Sr-Marketing-Manager_R1597409) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-05-10.
+This product manager position at Bristol-Myers Squibb was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

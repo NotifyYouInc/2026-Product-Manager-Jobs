@@ -1,16 +1,16 @@
-# Principal Product Manager - AI & Intelligent Manufacturing Systems at Fictiv
+# Product Manager I - Financial Service at Meesho
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [Meesho](https://scoutify.ai/companies/meesho?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8542439002) |
+| Apply | [View on company site](https://jobs.lever.co/meesho/3b6ea0f7-cde7-4034-a862-232a177a4c95) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-05-11.
+This product manager position at Meesho was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

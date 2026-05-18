@@ -1,16 +1,16 @@
-# Product Owner_ RBLC at Robert Bosch
+# [대웅바이오] Clinical PM 채용 at Daewoong
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Daewoong](https://scoutify.ai/companies/daewoong?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125514509-product-owner-rblc) |
+| Apply | [View on company site](https://daewoong.wd102.myworkdayjobs.com/external/job/KOR-Seoul/XMLNAME----Clinical-PM-_R-26-1619) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-05-10.
+This product manager position at Daewoong was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

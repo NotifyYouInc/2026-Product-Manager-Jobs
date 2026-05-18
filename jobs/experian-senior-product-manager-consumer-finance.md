@@ -1,16 +1,16 @@
-# Product Owner_ RBLC at Robert Bosch
+# Senior Product Manager - Consumer Finance at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000125514509-product-owner-rblc) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125613009-senior-product-manager-consumer-finance) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-05-10.
+This product manager position at Experian was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager - Payments at Adyen
+# Product Manager, Physical AI Agents at Dexmate
 
 | Field | Details |
 |-------|---------|
-| Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Dexmate](https://scoutify.ai/companies/dexmate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7894955) |
+| Posted | 2026-05-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/dexmate/d82445ef-6e56-4ae3-b969-2c41a914c1b1) |
 
 ## About This Role
 
-This product manager position at Adyen was posted on 2026-05-11.
+This product manager position at Dexmate was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 
