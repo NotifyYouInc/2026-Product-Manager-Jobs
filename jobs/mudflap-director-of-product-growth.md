@@ -5,12 +5,12 @@
 | Company | [Mudflap](https://scoutify.ai/companies/mudflap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Product Manager |
-| Posted | 2025-09-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mudflap/7a919515-153b-4b69-8cd4-3c3f0d370ef4) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mudflap/b7b7c398-b795-4c58-9fc3-ea119fa9bf7f) |
 
 ## About This Role
 
-This product manager position at Mudflap was posted on 2025-09-08.
+This product manager position at Mudflap was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

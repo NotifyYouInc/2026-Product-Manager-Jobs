@@ -1,16 +1,16 @@
-# Staff Inbound Product Manager - CRM Contact Center Omni-Channel - Workforce Engagement Management at ServiceNow
+# Staff Inbound Product Manager - CRM Contact Center Omni-Channel - Workforce Engagement Management(WEM) at ServiceNow
 
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000124880219-staff-inbound-product-manager-crm-contact-center-omni-channel-workforce-engagement-management) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000125806590-staff-inbound-product-manager-crm-contact-center-omni-channel-workforce-engagement-managementwem) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-05-06.
+This product manager position at ServiceNow was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

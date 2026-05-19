@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000123897936-senior-product-manager-mobile-apps-mfx) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000125771559-senior-product-manager-mobile-apps-mfx) |
 
 ## About This Role
 
-This product manager position at Scalable Capital was posted on 2026-04-30.
+This product manager position at Scalable Capital was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

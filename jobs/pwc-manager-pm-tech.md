@@ -1,16 +1,16 @@
-# Manager PM tech at PwC
+# Manager PM TECH at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Manager-PM-tech_722446WD-2) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Montevideo/Manager-PM-TECH_726338WD) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-05-05.
+This technology / it consulting position at PwC was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

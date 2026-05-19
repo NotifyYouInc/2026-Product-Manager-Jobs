@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10374427/senior-product-manager-row-upb-supplychain) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10415737/senior-product-manager-row-upb-supplychain) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-03-24.
+This product manager position at Amazon was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

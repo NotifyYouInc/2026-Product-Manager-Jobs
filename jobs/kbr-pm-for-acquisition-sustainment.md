@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | Warner Robins, Georgia, United States |
 | Category | Program Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dayton-Ohio/PM-for-Acquisition---Sustainment_R2123366) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Warner-Robins-Georgia/PM-for-Acquisition---Sustainment_R2123392) |
 
 ## About This Role
 
-This program manager position at KBR was posted on 2026-05-08.
+This program manager position at KBR was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

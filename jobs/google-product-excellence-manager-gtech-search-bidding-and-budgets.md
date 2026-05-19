@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/134350636790489798-product-excellence-manager-gtech-search-bidding-and-budgets?sort_by=date&page=1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeqYry58Ytgt2P8dMN3CuB9U6TDB0Yj_jZdnJblxKt5yEjsACxwdTHRtNKp6x7rMGNhd9Y2Ti4--eXBa9shnE8huwLC6OcrLjUYUq577RrP4VNent9k9DtZQS93UJA%3D%3D_V2&loc=US&title=Product+Excellence+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-30.
+This product manager position at Google was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

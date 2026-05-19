@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4676688005) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4694099005) |
 
 ## About This Role
 
-This product manager position at INFUSE was posted on 2026-04-23.
+This product manager position at INFUSE was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

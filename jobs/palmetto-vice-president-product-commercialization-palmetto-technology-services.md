@@ -5,12 +5,12 @@
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5201644008) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5216151008) |
 
 ## About This Role
 
-This product manager position at Palmetto was posted on 2026-04-27.
+This product manager position at Palmetto was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

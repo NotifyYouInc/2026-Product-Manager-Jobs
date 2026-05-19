@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Solutions-Product-Manager_JR331919) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Solutions-Product-Manager_JR339624) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-03-12.
+This product manager position at Salesforce was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

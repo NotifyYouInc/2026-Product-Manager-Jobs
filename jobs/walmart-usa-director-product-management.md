@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/XMLNAME--USA--Director--Product-Management_R-2494327) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Director--Product-Management_R-2503622) |
 
 ## About This Role
 
-This product manager position at Walmart was posted on 2026-04-30.
+This product manager position at Walmart was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

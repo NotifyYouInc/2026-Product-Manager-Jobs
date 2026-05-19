@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | South Africa |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Wilmington-NC/Product-Manager_R6174) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/ZA---Remote---South-Africa/Product-Manager_R6209) |
 
 ## About This Role
 
-This product manager position at nCino was posted on 2026-04-23.
+This product manager position at nCino was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

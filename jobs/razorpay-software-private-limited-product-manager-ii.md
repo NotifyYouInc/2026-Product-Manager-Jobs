@@ -1,16 +1,16 @@
-# Product Manager II  at Razorpay Software Private Limited
+# Product Manager II at Razorpay Software Private Limited
 
 | Field | Details |
 |-------|---------|
 | Company | [Razorpay Software Private Limited](https://scoutify.ai/companies/razorpay-software-private-limited?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4688612005) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4688605005) |
 
 ## About This Role
 
-This product manager position at Razorpay Software Private Limited was posted on 2026-04-24.
+This product manager position at Razorpay Software Private Limited was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Italy |
+| Location | Dalmine, Lombardy, Italy |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Tremezzina-Como-Italy/Internship---Product-Management_JR00023809) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dalmine-Bergamo-Italy/Internship---Product-Management_JR00034025) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-03-12.
+This product manager position at ABB was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

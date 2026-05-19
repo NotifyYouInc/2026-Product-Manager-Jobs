@@ -1,16 +1,16 @@
-# Product Manager at Experian
+# PRODUCT MANAGER at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000119983807-product-manager) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125871409-product-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-04-10.
+This product manager position at Experian was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

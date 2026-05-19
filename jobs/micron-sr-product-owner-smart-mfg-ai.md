@@ -1,16 +1,16 @@
-# SR PRODUCT OWNER SMART MFG & AI at Micron
+# Sr Product Owner, SMART MFG & AI at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hiroshima, Hiroshima, Japan |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/SR-PRODUCT-OWNER-SMART-MFG---AI_JR96867) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hiroshima---Fab-15-Japan/Sr-Product-Owner--SMART-MFG---AI_JR96930-1) |
 
 ## About This Role
 
-This product manager position at Micron was posted on 2026-04-10.
+This product manager position at Micron was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

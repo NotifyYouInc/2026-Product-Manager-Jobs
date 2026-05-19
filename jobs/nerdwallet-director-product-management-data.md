@@ -5,12 +5,12 @@
 | Company | [Nerdwallet](https://scoutify.ai/companies/nerdwallet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nerdwallet/0bb0c344-547c-4eee-81dd-ad6af5314732) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nerdwallet/cfacef96-19db-4bf7-98ba-d76dfd5c0d7d) |
 
 ## About This Role
 
-This product manager position at Nerdwallet was posted on 2026-04-13.
+This product manager position at Nerdwallet was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

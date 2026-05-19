@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7863460) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7913056) |
 
 ## About This Role
 
-This human resources / people ops position at Toast was posted on 2026-04-30.
+This human resources / people ops position at Toast was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

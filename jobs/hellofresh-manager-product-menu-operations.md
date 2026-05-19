@@ -5,12 +5,12 @@
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7811842?gh_jid=7811842) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7915632?gh_jid=7915632) |
 
 ## About This Role
 
-This product manager position at HelloFresh was posted on 2026-04-15.
+This product manager position at HelloFresh was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

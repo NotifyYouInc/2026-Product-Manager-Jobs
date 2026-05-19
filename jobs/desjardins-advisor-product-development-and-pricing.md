@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Oprations-des-fonds_R2603608) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-actuariat_R2606539-2) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-03-12.
+This product manager position at Desjardins was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

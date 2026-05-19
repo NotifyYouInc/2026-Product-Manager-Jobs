@@ -5,12 +5,12 @@
 | Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Amsterdam-NL/Product-Manager--Digital-Technologies_R58198) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Amsterdam-NL/Product-Manager--Digital-Technologies_R59086) |
 
 ## About This Role
 
-This product manager position at PVH was posted on 2026-03-20.
+This product manager position at PVH was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

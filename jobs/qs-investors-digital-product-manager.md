@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Calgary, Alberta, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/FTS-Hyderabad-F3354/Digital-Product-Manager_865078) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Calgary-Alberta-Canada/Digital-Product-Manager_867350) |
 
 ## About This Role
 
-This product manager position at QS Investors was posted on 2026-02-11.
+This product manager position at QS Investors was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

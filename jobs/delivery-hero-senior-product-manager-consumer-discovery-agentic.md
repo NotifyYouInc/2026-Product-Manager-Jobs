@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000125311469-senior-product-manager-consumer-discovery-agentic) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000125884731-senior-product-manager-consumer-discovery-agentic) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-05-08.
+This product manager position at Delivery Hero was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

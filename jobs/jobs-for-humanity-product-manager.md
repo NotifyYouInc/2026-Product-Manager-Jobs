@@ -1,16 +1,16 @@
-# product manager at Jobs for Humanity
+# Product Manager at Jobs for Humanity
 
 | Field | Details |
 |-------|---------|
 | Company | [Jobs for Humanity](https://scoutify.ai/companies/jobs-for-humanity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000124944264-product-manager) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jobsforhumanity/744000125906869-product-manager) |
 
 ## About This Role
 
-This product manager position at Jobs for Humanity was posted on 2026-05-06.
+This product manager position at Jobs for Humanity was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

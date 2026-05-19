@@ -1,16 +1,16 @@
-# Senior Associate, Product Management – GPN Core Data Platform Services at Capital One
+# Senior Associate , Product Management –GPN Core Data Platform Services at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate--Product-Management---GPN-Core-Data-Platform-Services_R239955-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Senior-Associate---Product-Management--GPN-Core-Data-Platform-Services_R235044-2) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-04-07.
+This product manager position at Capital One was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

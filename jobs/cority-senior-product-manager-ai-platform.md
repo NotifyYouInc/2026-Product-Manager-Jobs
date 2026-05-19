@@ -5,12 +5,12 @@
 | Company | [Cority](https://scoutify.ai/companies/cority?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.lever.co/cority/371e1537-8814-40f4-bede-87220b4c52c7) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.lever.co/cority/b8b8e941-8b52-4ea7-a428-26a6ee955336) |
 
 ## About This Role
 
-This product manager position at Cority was posted on 2026-04-16.
+This product manager position at Cority was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

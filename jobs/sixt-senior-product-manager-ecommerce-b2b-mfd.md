@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000108781235-senior-product-manager-ecommerce-b2b-mfd) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000125831940-senior-product-manager-ecommerce-b2b-mfd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-02-11.
+This product manager position at Sixt was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WIN Home Inspection](https://scoutify.ai/companies/win-home-inspection?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Product Manager |
-| Posted | 2025-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/winhomeinspection/jobs/4265945006) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/winhomeinspection/jobs/4680488006) |
 
 ## About This Role
 
-This product manager position at WIN Home Inspection was posted on 2025-06-10.
+This product manager position at WIN Home Inspection was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

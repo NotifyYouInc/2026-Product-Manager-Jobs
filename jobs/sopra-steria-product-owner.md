@@ -1,16 +1,16 @@
-# Product Owner at Sopra Steria
+# Product Owner  at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nieuwegein, Utrecht, The Netherlands |
+| Location | Tunis, Tunis Governorate, Tunisia |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000116557235-product-owner) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125794158-product-owner) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-03-25.
+This product manager position at Sopra Steria was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

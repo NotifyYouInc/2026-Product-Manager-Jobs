@@ -1,16 +1,16 @@
-# Product Manager 2 at Zynga
+# Product  Manager 2 at Zynga
 
 | Field | Details |
 |-------|---------|
 | Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5819562004) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5990192004) |
 
 ## About This Role
 
-This product manager position at Zynga was posted on 2026-04-29.
+This product manager position at Zynga was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

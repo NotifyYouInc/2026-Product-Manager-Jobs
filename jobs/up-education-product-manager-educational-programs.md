@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Up Education](https://scoutify.ai/companies/up-education?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Fortitude Valley, Queensland, Australia |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001048510-product-manager-educational-programs) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/upeducation/6000000001060266-product-manager-educational-programs) |
 
 ## About This Role
 
-This product manager position at Up Education was posted on 2026-05-06.
+This product manager position at Up Education was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

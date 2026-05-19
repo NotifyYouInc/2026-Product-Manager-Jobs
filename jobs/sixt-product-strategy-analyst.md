@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000124188679-product-strategy-analyst) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000125813771-product-strategy-analyst) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-05-01.
+This product manager position at Sixt was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
