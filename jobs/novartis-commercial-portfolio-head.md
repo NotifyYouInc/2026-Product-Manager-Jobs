@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Romania |
+| Location | Turkey |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Bucuresti/Commercial-Portfolio-Head_REQ-10077299) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Istanbul-Ataehir/Commercial-Portfolio-Head_REQ-10078021) |
 
 ## About This Role
 
-This product manager position at Novartis was posted on 2026-05-05.
+This product manager position at Novartis was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

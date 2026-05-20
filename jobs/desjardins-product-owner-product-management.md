@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Responsable-de-produit--Distribution-par-courtage_R2606194) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit-IA--Produits-et-Adoption_R2606407) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-05-07.
+This product manager position at Desjardins was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

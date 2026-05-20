@@ -5,12 +5,12 @@
 | Company | [Soff](https://scoutify.ai/companies/soff?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/soff/jobs/NZNlfoU-founding-ai-product-manager) |
 
 ## About This Role
 
-This product manager position at Soff was posted on 2026-03-31.
+This product manager position at Soff was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

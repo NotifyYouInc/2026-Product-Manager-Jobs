@@ -5,12 +5,12 @@
 | Company | [StarRez](https://scoutify.ai/companies/starrez?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/starrez/jobs/5159697008) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/starrez/jobs/5217518008) |
 
 ## About This Role
 
-This product manager position at StarRez was posted on 2026-04-12.
+This product manager position at StarRez was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

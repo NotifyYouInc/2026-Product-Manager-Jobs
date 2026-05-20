@@ -1,16 +1,16 @@
-# Sr Product Owner at Southwest Airlines
+# Sr. Product Owner at Southwest Airlines
 
 | Field | Details |
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Product-Owner_R-2026-66927) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Product-Owner_R-2026-66093-1) |
 
 ## About This Role
 
-This product manager position at Southwest Airlines was posted on 2026-04-13.
+This product manager position at Southwest Airlines was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

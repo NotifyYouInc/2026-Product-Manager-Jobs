@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Senior-Technical-Product-Owner_J27260-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Hong-Kong-Hong-Kong/Senior-Technical-Product-Owner_J27290) |
 
 ## About This Role
 
-This product manager position at RGA Reinsurance Company was posted on 2026-04-29.
+This product manager position at RGA Reinsurance Company was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

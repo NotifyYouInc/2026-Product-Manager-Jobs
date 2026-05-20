@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001054446-growth-product-lead-indonesia) |
+| Category | Growth Marketing |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001068241-growth-product-lead-indonesia) |
 
 ## About This Role
 
-This product manager position at Canva was posted on 2026-05-07.
+This growth marketing position at Canva was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

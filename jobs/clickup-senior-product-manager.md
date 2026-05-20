@@ -5,12 +5,12 @@
 | Company | [ClickUp](https://scoutify.ai/companies/clickup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/411ab752-6cb3-461a-ba45-76a60818356c) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clickup/37c53272-fb9e-4a01-8f1a-8395b922f28c) |
 
 ## About This Role
 
-This product manager position at ClickUp was posted on 2026-05-01.
+This product manager position at ClickUp was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

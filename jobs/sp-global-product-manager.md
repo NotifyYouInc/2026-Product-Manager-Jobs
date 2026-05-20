@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Product-Manager_325151-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---HYDERABAD-SKYVIEW/Product-Manager_328344-1) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-02-08.
+This product manager position at S&P Global was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

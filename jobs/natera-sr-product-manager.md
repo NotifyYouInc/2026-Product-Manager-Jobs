@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5848697004) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5994524004) |
 
 ## About This Role
 
-This product manager position at Natera was posted on 2026-04-09.
+This product manager position at Natera was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

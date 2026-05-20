@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Product-Owner---Agile_R0110499) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Product-Owner---Agile_R0114487) |
 
 ## About This Role
 
-This product manager position at Truist was posted on 2026-02-03.
+This product manager position at Truist was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

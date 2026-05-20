@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vahan](https://scoutify.ai/companies/vahan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/vahan/jobs/GAjyKM4-ai-product-manager) |
 
 ## About This Role
 
-This product manager position at Vahan was posted on 2026-03-30.
+This product manager position at Vahan was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

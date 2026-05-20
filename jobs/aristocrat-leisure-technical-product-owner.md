@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Noida-UP-IN/Technical-Product-Owner_R0021078) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Krakow-Poland/Technical-Product-Owner_R0021188) |
 
 ## About This Role
 
-This product manager position at Aristocrat Leisure was posted on 2026-04-29.
+This product manager position at Aristocrat Leisure was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

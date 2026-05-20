@@ -5,12 +5,12 @@
 | Company | [Scispot](https://scoutify.ai/companies/scispot-io?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ontario, CA |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/scispot-io/jobs/ISpaEFi-senior-ai-product-designer-manager) |
 
 ## About This Role
 
-This product manager position at Scispot was posted on 2026-02-24.
+This product manager position at Scispot was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

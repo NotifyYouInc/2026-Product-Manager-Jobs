@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000123761145-product-manager) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000126014759-product-manager) |
 
 ## About This Role
 
-This product manager position at NielsenIQ was posted on 2026-04-29.
+This product manager position at NielsenIQ was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

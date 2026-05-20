@@ -1,16 +1,16 @@
-# Team Lead Product ops at Gartner
+# Team Lead, Product Ops at Gartner
 
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Team-Lead-Product-ops_109803) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Team-Lead--Product-Ops_110348) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-04-16.
+This product manager position at Gartner was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dynamo AI](https://scoutify.ai/companies/dynamo-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-21 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/dynamo-ai/jobs/tt5OVwf-product-manager-ai) |
 
 ## About This Role
 
-This product manager position at Dynamo AI was posted on 2026-02-21.
+This product manager position at Dynamo AI was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

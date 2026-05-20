@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Product-Manager-Senior-Lead--Commercial_JR0306057) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-NY-NYC-OVA-FLR62/Product-Manager-Senior-Lead--Commercial_JR0306804) |
 
 ## About This Role
 
-This product manager position at Fidelity National Information Services was posted on 2026-04-29.
+This product manager position at Fidelity National Information Services was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

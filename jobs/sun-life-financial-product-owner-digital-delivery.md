@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Hunghom-Kowloon-Hong-Kong/Product-Owner--Digital-Delivery_JR00122108-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Hunghom-Kowloon-Hong-Kong/Product-Owner--Digital-Delivery_JR00123839-1) |
 
 ## About This Role
 
-This product manager position at Sun Life Financial was posted on 2026-04-15.
+This product manager position at Sun Life Financial was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

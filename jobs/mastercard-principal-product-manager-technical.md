@@ -1,16 +1,16 @@
-# Principal Product Manager – Technical at Mastercard
+# Principal Product Manager - Technical at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | O'Fallon, Missouri, United States |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Principal-Product-Manager---Technical_R-270292-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Principal-Product-Manager---Technical_R-276567) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-02-12.
+This product manager position at Mastercard was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

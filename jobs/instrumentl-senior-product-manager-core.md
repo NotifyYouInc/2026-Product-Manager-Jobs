@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Instrumentl](https://scoutify.ai/companies/instrumentl?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Oakland, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
+| Posted | 2026-05-12 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/instrumentl/jobs/Ig3dZDe-senior-product-manager-core) |
 
 ## About This Role
 
-This product manager position at Instrumentl was posted on 2026-02-18.
+This product manager position at Instrumentl was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

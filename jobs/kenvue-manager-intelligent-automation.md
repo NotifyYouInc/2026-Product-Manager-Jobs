@@ -5,12 +5,12 @@
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Manager--Intelligent-Automation_2607044777W) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-India-Karnataka-Bangalore/Manager--Intelligent-Automation_2607044726W-1) |
 
 ## About This Role
 
-This product manager position at Kenvue was posted on 2026-05-11.
+This product manager position at Kenvue was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
