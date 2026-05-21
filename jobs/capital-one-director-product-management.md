@@ -1,16 +1,16 @@
-# Director, Product Management at Capital One
+# Director - Product Management at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director--Product-Management_R240836) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Director---Product-Management_R241442-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-04-25.
+This product manager position at Capital One was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

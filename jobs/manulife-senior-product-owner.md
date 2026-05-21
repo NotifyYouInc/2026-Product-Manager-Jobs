@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Waterloo-Ontario/Senior-Product-Owner_JR26041830-3) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Boston-Massachusetts/Senior-Product-Owner_JR26021455-2) |
 
 ## About This Role
 
-This product manager position at Manulife was posted on 2026-05-06.
+This product manager position at Manulife was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

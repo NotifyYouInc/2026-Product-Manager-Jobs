@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1267352085374420) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1759909331661321) |
 
 ## About This Role
 
-This product manager position at Meta was posted on 2026-02-27.
+This product manager position at Meta was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

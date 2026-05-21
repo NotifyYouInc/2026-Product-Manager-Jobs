@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Philippines |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Philippines---Taguig-City/Associate-Product-Manager_31146749) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Shanghai/Associate-Product-Manager_31147540) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-04-14.
+This product manager position at Abbott was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

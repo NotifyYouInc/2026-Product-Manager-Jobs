@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Product-Operations-Intern_R107141) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Product-Operations-Intern_R107447) |
 
 ## About This Role
 
-This product manager position at Tencent was posted on 2026-03-19.
+This product manager position at Tencent was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

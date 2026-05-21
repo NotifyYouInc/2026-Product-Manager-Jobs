@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000120621132-associate-product-owner-mwd-traineeprogramm-dusseldorf) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000126299953-associate-product-owner-mwd-traineeprogramm-dusseldorf) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-04-14.
+This product manager position at CHECK24 was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

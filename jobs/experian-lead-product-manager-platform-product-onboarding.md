@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000124691661-lead-product-manager-platform-product-onboarding) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126338139-lead-product-manager-platform-product-onboarding) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-05-05.
+This product manager position at Experian was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

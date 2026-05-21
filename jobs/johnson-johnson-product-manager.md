@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Danvers, Massachusetts, United States |
+| Location | Israel |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Manager_R-057295-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Kibbutz-Shefayim-Center-District-Israel/Product-Manager_R-075832) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-03-03.
+This product manager position at Johnson & Johnson was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

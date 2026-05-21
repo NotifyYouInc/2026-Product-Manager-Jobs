@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Marketing Operations |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/MarTech-Enablement-Senior_R0115309) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/MarTech-Enablement-Senior_R0117729) |
 
 ## About This Role
 
-This marketing operations position at USAA was posted on 2026-02-18.
+This marketing operations position at USAA was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

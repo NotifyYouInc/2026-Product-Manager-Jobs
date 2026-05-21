@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000125774049-product-manager-senior-assurance-vie-epargne-hf) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000126357013-product-manager-senior-assurance-vie-epargne-hf) |
 
 ## About This Role
 
-This product manager position at Talan was posted on 2026-05-11.
+This product manager position at Talan was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

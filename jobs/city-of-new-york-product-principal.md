@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012928901-product-principal) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013105666-product-principal) |
 
 ## About This Role
 
-This product manager position at City of New York was posted on 2026-05-01.
+This product manager position at City of New York was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

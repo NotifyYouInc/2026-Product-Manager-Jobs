@@ -1,16 +1,16 @@
-# Product Intern  at Sezzle
+# Product Intern at Sezzle
 
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7537957003) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) |
 
 ## About This Role
 
-This product manager position at Sezzle was posted on 2026-02-25.
+This product manager position at Sezzle was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

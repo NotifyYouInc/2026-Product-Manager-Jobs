@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012903963-director-heor-strategy-aesthetics) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013115777-director-heor-strategy-aesthetics) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-30.
+This product manager position at AbbVie was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

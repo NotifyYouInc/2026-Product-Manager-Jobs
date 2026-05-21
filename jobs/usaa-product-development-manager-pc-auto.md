@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Development-Manager--P-C-Auto-_R0117097) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Development-Manager--P-C-Auto-_R0117065) |
 
 ## About This Role
 
-This engineering manager position at USAA was posted on 2026-05-05.
+This engineering manager position at USAA was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

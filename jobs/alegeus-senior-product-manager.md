@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alegeus](https://scoutify.ai/companies/alegeus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://alegeus.wd1.myworkdayjobs.com/alegeus_external_careers/job/Bangalore---India/Senior-Product-Manager_R-101114) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://alegeus.wd1.myworkdayjobs.com/alegeus_external_careers/job/Boston/Senior-Product-Manager_R-101201) |
 
 ## About This Role
 
-This product manager position at Alegeus was posted on 2026-04-20.
+This product manager position at Alegeus was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

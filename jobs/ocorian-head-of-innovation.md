@@ -5,12 +5,12 @@
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000125836370-head-of-innovation) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000126358416-head-of-innovation) |
 
 ## About This Role
 
-This product manager position at Ocorian was posted on 2026-05-11.
+This product manager position at Ocorian was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

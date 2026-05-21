@@ -1,16 +1,16 @@
-# Executive Director, Product Development Team Leader, Clinical Research, Hematology at Merck
+# Executive Director, Product Development Team Leader, Clinical Research, Hematology - Lymphoma at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | North Wales, Pennsylvania, United States |
+| Location | Rahway, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Executive-Director--Product-Development-Team-Leader--Clinical-Research--Hematology_R396541) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Executive-Director--Product-Development-Team-Leader--Clinical-Research--Hematology---Lymphoma_R397253) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-04-30.
+This product manager position at Merck was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/New-Delhi-South-Delhi-India/Assistant-Product-Manager_R-114307) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Assistant-Product-Manager_R-114252) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-05-05.
+This product manager position at Ingram Micro was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
