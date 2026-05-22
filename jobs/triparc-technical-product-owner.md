@@ -5,12 +5,12 @@
 | Company | [TripArc](https://scoutify.ai/companies/triparc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/triparc/jobs/5126181007) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/triparc/jobs/5137560007) |
 
 ## About This Role
 
-This product manager position at TripArc was posted on 2026-05-05.
+This product manager position at TripArc was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

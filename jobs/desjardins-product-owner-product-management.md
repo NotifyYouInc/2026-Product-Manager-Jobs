@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits--Paiements-internationnaux_R2606547-2) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Amlioration-continue_R2606579-2) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-05-13.
+This product manager position at Desjardins was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

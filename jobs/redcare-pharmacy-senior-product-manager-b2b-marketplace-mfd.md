@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000123180409-senior-product-manager-b2b-marketplace-mfd) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126478419-senior-product-manager-b2b-marketplace-mfd) |
 
 ## About This Role
 
-This product manager position at Redcare Pharmacy was posted on 2026-04-27.
+This product manager position at Redcare Pharmacy was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

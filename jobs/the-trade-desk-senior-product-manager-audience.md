@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5117931007) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5137436007) |
 
 ## About This Role
 
-This product manager position at The Trade Desk was posted on 2026-04-22.
+This product manager position at The Trade Desk was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

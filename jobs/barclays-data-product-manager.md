@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Data-Product-Manager_JR-0000102499) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Product-Manager_JR-0000104638) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-03-16.
+This product manager position at Barclays was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

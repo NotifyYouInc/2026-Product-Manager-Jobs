@@ -1,16 +1,16 @@
-# Manager, Product Management - Developer Experience at Capital One
+# Manager, Product Management- Developer Experience at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Developer Relations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management---Developer-Experience_R238694-2) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management--Developer-Experience_R242646) |
 
 ## About This Role
 
-This developer relations position at Capital One was posted on 2026-03-24.
+This developer relations position at Capital One was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

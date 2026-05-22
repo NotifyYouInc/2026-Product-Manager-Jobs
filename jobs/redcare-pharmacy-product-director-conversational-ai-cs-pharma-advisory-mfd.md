@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000119161645-product-director-conversational-ai-cs-pharma-advisory-mfd) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126481499-product-director-conversational-ai-cs-pharma-advisory-mfd) |
 
 ## About This Role
 
-This product manager position at Redcare Pharmacy was posted on 2026-04-07.
+This product manager position at Redcare Pharmacy was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

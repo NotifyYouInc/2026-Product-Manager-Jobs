@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 7 locations |
+| Location | 5 locations |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Development-Product-Owner-I---Life-Company--Actuary-DPO-_R0115283-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Development-Product-Owner-I---Life-Company--Actuary-DPO-_R0117744) |
 
 ## About This Role
 
-This actuary / insurance analytics position at USAA was posted on 2026-03-11.
+This actuary / insurance analytics position at USAA was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Twitch](https://scoutify.ai/companies/twitch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8440985002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twitch/jobs/8551033002) |
 
 ## About This Role
 
-This product manager position at Twitch was posted on 2026-02-27.
+This product manager position at Twitch was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

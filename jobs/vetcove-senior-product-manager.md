@@ -5,12 +5,12 @@
 | Company | [Vetcove](https://scoutify.ai/companies/vetcove?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vetcove/26b0f19c-a62d-4e71-92e1-99f57a1513ec) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vetcove/27974b9b-dd28-431a-b649-f72f47161fcd) |
 
 ## About This Role
 
-This product manager position at Vetcove was posted on 2026-04-22.
+This product manager position at Vetcove was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

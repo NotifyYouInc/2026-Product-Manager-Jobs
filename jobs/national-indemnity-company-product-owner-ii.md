@@ -5,12 +5,12 @@
 | Company | [National Indemnity Company](https://scoutify.ai/companies/nationalindemnity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://nationalindemnity.wd5.myworkdayjobs.com/NICO/job/Omaha-NE/Product-Owner-II_R14677) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://nationalindemnity.wd5.myworkdayjobs.com/NICO/job/Omaha-NE/Product-Owner-II_R14786) |
 
 ## About This Role
 
-This product manager position at National Indemnity Company was posted on 2026-03-06.
+This product manager position at National Indemnity Company was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

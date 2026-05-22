@@ -6,7 +6,7 @@
 | Location | Seelze, Lower Saxony, Germany |
 | Category | Product Manager |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000126318089-produktmanager-fur-labormessgerate-wmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000126322089-produktmanager-fur-labormessgerate-wmd) |
 
 ## About This Role
 

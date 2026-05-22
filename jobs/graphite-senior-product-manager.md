@@ -5,12 +5,12 @@
 | Company | [Graphite](https://scoutify.ai/companies/graphite?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2024-12-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/graphite/14dcf1bc-2012-4b4a-9664-820ff6986873) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/graphite/e4d8ed50-5e2e-4c5f-b74e-64d27dc6da2d) |
 
 ## About This Role
 
-This product manager position at Graphite was posted on 2024-12-02.
+This product manager position at Graphite was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

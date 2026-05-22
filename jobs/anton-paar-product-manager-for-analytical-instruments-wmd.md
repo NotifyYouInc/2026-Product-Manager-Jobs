@@ -6,7 +6,7 @@
 | Location | Seelze, Lower Saxony, Germany |
 | Category | Product Manager |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000126312358-product-manager-for-analytical-instruments-wmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000126321211-product-manager-for-analytical-instruments-wmd) |
 
 ## About This Role
 

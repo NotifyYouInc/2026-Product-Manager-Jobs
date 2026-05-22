@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New Jersey, US |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Pennsylvania/Sr-Product-Mgr-I_R111016) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Shanghai/Sr-Product-Mgr-I_R112829) |
 
 ## About This Role
 
-This product manager position at LexisNexis Risk Solutions was posted on 2026-03-23.
+This product manager position at LexisNexis Risk Solutions was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

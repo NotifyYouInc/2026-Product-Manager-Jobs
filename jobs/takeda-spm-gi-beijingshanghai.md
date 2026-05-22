@@ -5,12 +5,12 @@
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Shanghai-China/SPM--GI--Beijing-Shanghai_R0179689-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Shanghai-China/SPM--GI--Beijing-Shanghai_R0180311) |
 
 ## About This Role
 
-This product manager position at Takeda was posted on 2026-05-06.
+This product manager position at Takeda was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

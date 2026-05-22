@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/New-York/AVP--Product-Owner_R-048779) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/San-Diego-CA/AVP--Product-Owner_R-050516) |
 
 ## About This Role
 
-This product manager position at LPL Financial Holdings was posted on 2026-02-11.
+This product manager position at LPL Financial Holdings was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Axiado](https://scoutify.ai/companies/axiado?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000123303729-senior-product-manager) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/axiado/744000123801608-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Axiado was posted on 2026-04-27.
+This product manager position at Axiado was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

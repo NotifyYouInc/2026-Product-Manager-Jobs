@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Product-Manager---Inventory-Purchasing---Positioning_R0000431372) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Product-Manager---Inventory-Purchasing---Positioning_R0000438932) |
 
 ## About This Role
 
-This product manager position at Target was posted on 2026-03-04.
+This product manager position at Target was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

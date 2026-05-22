@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000123127089-senior-product-manager-dach) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000126507249-senior-product-manager-dach) |
 
 ## About This Role
 
-This product manager position at Santen Pharmaceutical Co. was posted on 2026-04-27.
+This product manager position at Santen Pharmaceutical Co. was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

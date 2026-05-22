@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Southfield, Michigan, United States |
+| Location | Dearborn, Michigan, United States |
 | Category | Product Manager |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013117116-product-owner) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013117216-product-owner) |
 
 ## About This Role
 

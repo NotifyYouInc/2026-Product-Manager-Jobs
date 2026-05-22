@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Cambridge-MA/Senior-Product-Manager_327322-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Senior-Product-Manager_328325-1) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-04-06.
+This product manager position at S&P Global was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

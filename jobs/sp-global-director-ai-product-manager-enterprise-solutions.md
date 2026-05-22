@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Director---AI-Product-Manager-Enterprise-Solutions_326825-2) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Director---AI-Product-Manager-Enterprise-Solutions_328900-1) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-05-06.
+This product manager position at S&P Global was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

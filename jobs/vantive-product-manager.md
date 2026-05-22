@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Mexico-City-DF/Product-Manager_JR-193020-2) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Petaling-Jaya-Selangor/Product-Manager_JR-194721) |
 
 ## About This Role
 
-This product manager position at Vantive was posted on 2026-04-27.
+This product manager position at Vantive was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

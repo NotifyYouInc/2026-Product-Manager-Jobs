@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Lead-Product-Advisor_32617R) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Lead-Product-Advisor_33437R) |
 
 ## About This Role
 
-This product manager position at Vizient was posted on 2026-02-27.
+This product manager position at Vizient was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

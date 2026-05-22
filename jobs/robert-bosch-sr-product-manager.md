@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Illinois, US |
+| Location | Oakbrook Terrace, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121022397-sr-product-manager) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126581149-sr-product-manager) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-04-15.
+This product manager position at Robert Bosch was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
