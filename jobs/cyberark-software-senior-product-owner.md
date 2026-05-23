@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000122918869-senior-product-owner) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000126714026-senior-product-owner) |
 
 ## About This Role
 
-This product manager position at CyberArk Software was posted on 2026-04-25.
+This product manager position at CyberArk Software was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

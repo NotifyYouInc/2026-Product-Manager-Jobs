@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dearborn, Michigan, United States |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013117216-product-owner) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013152486-product-owner) |
 
 ## About This Role
 
-This product manager position at MSX International was posted on 2026-05-13.
+This product manager position at MSX International was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Digital-R-D-Decision-Fabric-Product-Owner_R2831956) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Digital-RnD-Decision-Fabric--Agentic-Workflows--Product-Owner_R2857060-1) |
 
 ## About This Role
 
-This product manager position at Sanofi was posted on 2026-05-08.
+This product manager position at Sanofi was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

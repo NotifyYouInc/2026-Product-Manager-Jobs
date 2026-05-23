@@ -1,16 +1,16 @@
-# Product Manager  at BrainRocket
+# Product Manager at BrainRocket
 
 | Field | Details |
 |-------|---------|
 | Company | [BrainRocket](https://scoutify.ai/companies/brainrocket?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Yerevan, Yerevan, Armenia |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4865539101) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4866631101) |
 
 ## About This Role
 
-This product manager position at BrainRocket was posted on 2026-05-13.
+This product manager position at BrainRocket was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

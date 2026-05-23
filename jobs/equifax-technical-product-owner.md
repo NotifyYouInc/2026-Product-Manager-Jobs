@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Santiago-Technology-Center/Technical-Product-Owner_J00175281) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Mumbai-Equifax-Credit-Information-Services/Technical-Product-Owner_J00176765) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-03-30.
+This product manager position at Equifax was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

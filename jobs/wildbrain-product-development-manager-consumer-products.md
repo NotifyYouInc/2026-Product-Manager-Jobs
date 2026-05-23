@@ -5,12 +5,12 @@
 | Company | [WildBrain](https://scoutify.ai/companies/wildbrain?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/wildbrain/3743990012302456-product-development-manager-consumer-products) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/wildbrain/3743990012973036-product-development-manager-consumer-products) |
 
 ## About This Role
 
-This engineering manager position at WildBrain was posted on 2026-03-25.
+This engineering manager position at WildBrain was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

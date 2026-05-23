@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116202249-consultora-sap-pmqm-senior) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126738753-consultora-sap-pmqm-senior) |
 
 ## About This Role
 
-This technology / it consulting position at Inetum was posted on 2026-03-23.
+This technology / it consulting position at Inetum was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

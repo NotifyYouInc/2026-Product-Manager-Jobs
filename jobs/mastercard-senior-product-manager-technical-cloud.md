@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Senior-Product-Manager-Technical--Cloud-_R-276712) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager-Technical--Cloud-_R-277926) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-01.
+This product manager position at Mastercard was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

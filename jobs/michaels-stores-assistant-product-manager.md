@@ -5,12 +5,12 @@
 | Company | [Michaels Stores](https://scoutify.ai/companies/michaels?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Assistant-Product-Manager_R00307912) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Assistant-Product-Manager_R00309700) |
 
 ## About This Role
 
-This product manager position at Michaels Stores was posted on 2026-04-13.
+This product manager position at Michaels Stores was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Christchurch, Canterbury, New Zealand |
+| Location | Austria |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/New-Zealand---Christchurch/Senior-Product-Manager_R55311) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Germany---Remote/Senior-Product-Manager_R55800) |
 
 ## About This Role
 
-This product manager position at Trimble was posted on 2026-03-20.
+This product manager position at Trimble was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

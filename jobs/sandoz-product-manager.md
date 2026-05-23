@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Hong-Kong-Sandoz/Product-Manager_REQ-10028544) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Warsaw-Sandoz/Product-Manager_REQ-10028826) |
 
 ## About This Role
 
-This product manager position at Sandoz was posted on 2026-04-26.
+This product manager position at Sandoz was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

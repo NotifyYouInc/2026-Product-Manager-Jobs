@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Markham, Ontario, Canada |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/CAN-ON-MARKHAM-03053-WM-SUPERCENTER/People-Lead--Current-PM-only-_R-2500333-1) |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/CAN-ON-MARKHAM-03053-WM-SUPERCENTER/People-Lead--Current-PM-only-_R-2500104) |
 
 ## About This Role
 
-This human resources / people ops position at Walmart was posted on 2026-05-05.
+This human resources / people ops position at Walmart was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

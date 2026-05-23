@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Operations |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/102476387943621318-product-strategy-and-operations-principal-ai2-consulting-function?sort_by=date&page=1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc9BhJBjl1jaW64vHmsJB1BDnrqQNPHOOo2I5fNKPo2eEjsACxwdTOTQt30LZfCaSrB-uOnPQlRMbyU74y2yBwyG3KIrax68gUSwo7Q_d9wcVDqPW7jbNx-1_a7WQg%3D%3D_V2&loc=US&title=Product+Strategy+and+Operations+Principal) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-03-02.
+This operations position at Google was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

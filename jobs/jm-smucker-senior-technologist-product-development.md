@@ -5,12 +5,12 @@
 | Company | [J.M. Smucker](https://scoutify.ai/companies/smucker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Orrville, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Senior-Technologist--Product-Development_115174) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Senior-Technologist--Product-Development_115291) |
 
 ## About This Role
 
-This product manager position at J.M. Smucker was posted on 2026-04-20.
+This product manager position at J.M. Smucker was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

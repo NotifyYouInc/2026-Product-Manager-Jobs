@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lenexa, Kansas, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lenexa-Kansas-USA/Product-Manager_R-01347664-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Product-Manager_R-01353270) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-04-15.
+This product manager position at Thermo Fisher Scientific was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

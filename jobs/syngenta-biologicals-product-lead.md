@@ -6,7 +6,7 @@
 | Location | Calgary, Alberta, Canada |
 | Category | Marketing |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126545669-biologicals-product-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126557939-biologicals-product-lead) |
 
 ## About This Role
 

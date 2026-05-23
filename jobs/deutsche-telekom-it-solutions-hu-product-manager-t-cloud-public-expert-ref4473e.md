@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000113992777-product-manager-t-cloud-public-expert-ref4473e) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000126678809-product-manager-t-cloud-public-expert-ref4473e) |
 
 ## About This Role
 
-This product manager position at Deutsche Telekom IT Solutions HU was posted on 2026-03-11.
+This product manager position at Deutsche Telekom IT Solutions HU was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
