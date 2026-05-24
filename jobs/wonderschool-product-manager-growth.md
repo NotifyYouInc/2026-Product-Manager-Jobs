@@ -1,16 +1,16 @@
-# Product Owner at Southwest Airlines
+# Product Manager, Growth at Wonderschool
 
 | Field | Details |
 |-------|---------|
-| Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Wonderschool](https://scoutify.ai/companies/wonderschool?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Product-Owner_R-2026-68049) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wonderschool/jobs/6489133003) |
 
 ## About This Role
 
-This product manager position at Southwest Airlines was posted on 2026-05-16.
+This product manager position at Wonderschool was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Owner at Southwest Airlines
+# Product Manager at Radical Numerics
 
 | Field | Details |
 |-------|---------|
-| Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Radical Numerics](https://scoutify.ai/companies/radical-numerics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-05-16 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Product-Owner_R-2026-68049) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/radicalnumerics/jobs/4250611009) |
 
 ## About This Role
 
-This product manager position at Southwest Airlines was posted on 2026-05-16.
+This product manager position at Radical Numerics was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 
