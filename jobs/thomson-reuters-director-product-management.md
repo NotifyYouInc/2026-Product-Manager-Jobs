@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | Pyrmont, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Washington-District-of-Columbia/Director--Product-Management_JREQ197982) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Australia-Pyrmont-New-South-Wales/Director--Product-Management_JREQ200394) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-02-04.
+This product manager position at Thomson Reuters was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

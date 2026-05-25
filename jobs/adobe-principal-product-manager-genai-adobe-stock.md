@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# Principal Product Manager GenAI, Adobe Stock at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 3 locations |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Product-Manager_R168510) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at Adobe was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

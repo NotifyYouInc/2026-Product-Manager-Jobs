@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# Product Manager - Nationwide Pet (REMOTE) at Nationwide
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | North Carolina, US |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/North-Carolina/Product-Manager---Nationwide-Pet--REMOTE-_098225) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at Nationwide was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

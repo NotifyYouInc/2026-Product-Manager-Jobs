@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# (Sr) Manager-AEM at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | China |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/China-Ji-Nan-/XMLNAME--Sr--Manager-AEM_R-105638) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at Eli Lilly was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

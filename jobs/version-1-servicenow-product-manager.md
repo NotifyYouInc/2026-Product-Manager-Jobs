@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# ServiceNow Product Manager at Version 1
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000126916595-servicenow-product-manager) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at Version 1 was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

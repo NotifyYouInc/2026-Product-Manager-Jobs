@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# Senior Product Manager - Embedded Finance Payables at MYOB
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [MYOB](https://scoutify.ai/companies/myob?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://jobs.lever.co/myob-2/5b93262e-0703-487a-8d79-684de12f8217) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at MYOB was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

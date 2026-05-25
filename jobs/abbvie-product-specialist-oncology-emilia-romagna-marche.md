@@ -1,16 +1,16 @@
-# Lead Product Manager at Thoughtworks
+# Product Specialist Oncology - Emilia Romagna, Marche at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Parma, Emilia-Romagna, Italy |
 | Category | Product Manager |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7912554?gh_jid=7912554) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013172346-product-specialist-oncology-emilia-romagna-marche) |
 
 ## About This Role
 
-This product manager position at Thoughtworks was posted on 2026-05-17.
+This product manager position at AbbVie was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# Specialist Product Manager at Nasdaq
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Mumbai---Maharashtra/Specialist-Product-Manager_R0025942-1) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at Nasdaq was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

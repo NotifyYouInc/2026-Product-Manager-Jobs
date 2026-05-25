@@ -1,12 +1,12 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# Intern [GIP] - Product Management & Product Design at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126902728-intern-gip-product-management-product-design) |
 
 ## About This Role
 

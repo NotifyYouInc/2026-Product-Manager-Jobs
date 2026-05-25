@@ -5,12 +5,12 @@
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Associate-Product-Manager_R31033) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/India-Hyderabad-DVS-SEZ-1--Orion-B4-FL-78911-Hyderabad---Divyasree-3/Associate-Product-Manager_R31906) |
 
 ## About This Role
 
-This product manager position at FactSet was posted on 2026-02-05.
+This product manager position at FactSet was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

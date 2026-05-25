@@ -5,12 +5,12 @@
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Product-Manager_R432023) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Product-Manager_R437235) |
 
 ## About This Role
 
-This product manager position at Comcast was posted on 2026-03-06.
+This product manager position at Comcast was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager at Ayvens
+# Senior Product Manager, DSX Software - Networking at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Paris/Product-Manager_JR_10039225-2) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--DSX-Software---Networking_JR2018250) |
 
 ## About This Role
 
-This product manager position at Ayvens was posted on 2026-05-18.
+This product manager position at Nvidia was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

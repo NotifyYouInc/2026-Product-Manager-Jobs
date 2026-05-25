@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# Product Manager, Payments - VP - HONG KONG at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Hong-Kong--Hong-Kong/Product-Manager--Payments---VP---HONG-KONG_26963640) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at Citigroup was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

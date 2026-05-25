@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# Senior Product Manager I at Sumo Logic
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Sumo Logic](https://scoutify.ai/companies/sumo-logic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sumologic/jobs/7927074) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at Sumo Logic was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

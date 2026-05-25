@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kowloon, Hong Kong |
-| Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Assistant-Vice-President--Digital-Wealth-Portfolio_26938601) |
+| Category | Corporate Finance |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Kowloon--Hong-Kong/Assistant-Vice-President--Digital-Wealth-Portfolio_26959970-1) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-02-24.
+This corporate finance position at Citigroup was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

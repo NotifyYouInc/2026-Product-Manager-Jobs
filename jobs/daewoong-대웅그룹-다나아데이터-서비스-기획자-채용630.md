@@ -1,16 +1,16 @@
-# Lead Product Manager, Food - Search and Personalization at Grab
+# [대웅그룹] 다나아데이터 서비스 기획자 채용(~6/30) at Daewoong
 
 | Field | Details |
 |-------|---------|
-| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Company | [Daewoong](https://scoutify.ai/companies/daewoong?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903084-lead-product-manager-food-search-and-personalization) |
+| Apply | [View on company site](https://daewoong.wd102.myworkdayjobs.com/external/job/KOR-Seoul/XMLNAME---------6-30-_R-26-1638-5) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-05-18.
+This product manager position at Daewoong was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
