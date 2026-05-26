@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000125331849-senior-product-manager-autohero-fmx) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000126968450-senior-product-manager-autohero-fmx) |
 
 ## About This Role
 
-This product manager position at AUTO1 Group was posted on 2026-05-08.
+This product manager position at AUTO1 Group was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

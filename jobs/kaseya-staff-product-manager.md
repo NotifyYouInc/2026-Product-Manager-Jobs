@@ -5,12 +5,12 @@
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5906028004/?gh_jid=5906028004) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5989277004/?gh_jid=5989277004) |
 
 ## About This Role
 
-This product manager position at Kaseya was posted on 2026-04-23.
+This product manager position at Kaseya was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bringg](https://scoutify.ai/companies/bringg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bringg/jobs/8549732002) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bringg/jobs/8553628002) |
 
 ## About This Role
 
-This product manager position at Bringg was posted on 2026-05-14.
+This product manager position at Bringg was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

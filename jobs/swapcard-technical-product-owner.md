@@ -1,0 +1,22 @@
+# Technical Product Owner at Swapcard
+
+| Field | Details |
+|-------|---------|
+| Company | [Swapcard](https://scoutify.ai/companies/swapcard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | Product Manager |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.lever.co/swapcard/2a6ab96e-1978-47a2-aa56-aa8bbc3da563) |
+
+## About This Role
+
+This product manager position at Swapcard was posted on 2026-04-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

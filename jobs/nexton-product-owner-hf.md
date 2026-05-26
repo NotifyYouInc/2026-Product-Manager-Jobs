@@ -1,16 +1,16 @@
-# Product owner H/F at Nexton
+# Product Owner H/F at Nexton
 
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000125837419-product-owner-hf) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000127036734-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-05-11.
+This product manager position at Nexton was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

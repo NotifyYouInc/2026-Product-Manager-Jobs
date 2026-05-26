@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107282311-power-semiconductor-product-manager-rbcnme) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126925137-power-semiconductor-product-manager-rbcnme) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-02-04.
+This product manager position at Robert Bosch was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

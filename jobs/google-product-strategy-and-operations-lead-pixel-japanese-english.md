@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Operations |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRztDFY_wFQ93WMokUNBMLkfObFwpI2UvCkwWyVlGYpMEjsACxwdTEk64R7LF0EW0WyMIiXwI5TejzraUHoDUjeF8qho6e0KbtDKABRJSBWdpSFv9UJgZqHt04j7JA%3D%3D_V2&loc=JP&title=Product+Strategy+and+Operations+Lead) |
+| Category | Product Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU0Yb8Zh8Co8DrlmzJOQAVviluDAz1y9CyFH-OBThh-dEjsACxwdTPlG-TrZPGPvdgjsDBTIzZA_VyofF4Az6REKls9n8K2PUz4ntB-KPt00UtC-yEMs4NW2nsGZOw%3D%3D_V2&loc=JP&title=Product+Strategy+and+Operations+Lead) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-04-07.
+This product manager position at Google was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

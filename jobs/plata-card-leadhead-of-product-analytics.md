@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plata Card](https://scoutify.ai/companies/plata-card?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://careers.bancoplata.mx/vacancy/details?id=5141426008&gh_jid=5141426008) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://careers.bancoplata.mx/vacancy/details?id=5141431008&gh_jid=5141431008) |
 
 ## About This Role
 
-This product manager position at Plata Card was posted on 2026-04-15.
+This product manager position at Plata Card was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Slough, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126646559-assoc-manager-consumer-product) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126947260-assoc-manager-consumer-product) |
 
 ## About This Role
 
-This product manager position at Mattel was posted on 2026-05-15.
+This product manager position at Mattel was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | O'Fallon, Missouri, United States |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Taipei-Taiwan/Manager--Product-Management_R-277376) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--Product-Management_R-277015) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-13.
+This product manager position at Mastercard was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

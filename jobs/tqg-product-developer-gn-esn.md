@@ -5,12 +5,12 @@
 | Company | [TQG](https://scoutify.ai/companies/tqg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4867637101) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4869000101) |
 
 ## About This Role
 
-This product manager position at TQG was posted on 2026-05-15.
+This product manager position at TQG was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

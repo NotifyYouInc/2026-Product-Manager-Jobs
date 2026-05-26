@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | Coppell, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/CAN---North-York/Director--Product-Management_R0055537) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Coppell-TX/Director--Product-Management_R0057089) |
 
 ## About This Role
 
-This product manager position at Wolters Kluwer was posted on 2026-03-13.
+This product manager position at Wolters Kluwer was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

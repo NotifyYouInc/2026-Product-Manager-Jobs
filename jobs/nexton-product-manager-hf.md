@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000122278939-product-manager-hf) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000127038619-product-manager-hf) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-04-22.
+This product manager position at Nexton was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

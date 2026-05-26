@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager_JR342739-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager_JR342622) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-05-15.
+This product manager position at Salesforce was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

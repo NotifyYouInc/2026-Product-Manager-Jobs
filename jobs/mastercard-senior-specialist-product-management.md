@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Istanbul, TR |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Manager--Network-Services--Analytics_R-265213-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Besiktas-Istanbul-Turkey/Senior-Specialist--Product-Management_R-277645) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-15.
+This product manager position at Mastercard was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

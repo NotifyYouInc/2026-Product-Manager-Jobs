@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Titusville, Florida, United States |
+| Location | Allschwil, Basel-Landschaft, Switzerland |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Manager-Technical-Product-Management_R-019247-2) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Allschwil-Basel-Country-Switzerland/Manager-Technical-Product-Management_R-050824-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-02-25.
+This product manager position at Johnson & Johnson was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

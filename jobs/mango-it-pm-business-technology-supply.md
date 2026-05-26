@@ -1,0 +1,22 @@
+# IT PM Business & Technology Supply at Mango
+
+| Field | Details |
+|-------|---------|
+| Company | [Mango](https://scoutify.ai/companies/mango?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Lliçà d'Amunt, Catalonia, Spain |
+| Category | Product Manager |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://mango.wd3.myworkdayjobs.com/mango_work_your_passion/job/Llia-dAmunt-Barcelona-Spain/IT-PM-Business---Technology-Supply_JR134132) |
+
+## About This Role
+
+This product manager position at Mango was posted on 2026-05-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

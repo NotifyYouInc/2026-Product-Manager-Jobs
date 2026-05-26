@@ -5,12 +5,12 @@
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Neenah, Wisconsin, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Neenah-Innovation-Center-WI/Product-Development-Engineer_REQ_87437-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Neenah-Innovation-Center-WI/Product-Development-Engineer_REQ_90838) |
 
 ## About This Role
 
-This software engineer position at Amcor was posted on 2026-04-23.
+This software engineer position at Amcor was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

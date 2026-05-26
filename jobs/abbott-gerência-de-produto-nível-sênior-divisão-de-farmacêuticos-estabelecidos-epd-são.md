@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Brazil---So-Paulo/Gerncia-de-Produto-Snior---Diviso-de-Farmacuticos-Estabelecidos--EPD----So-Paulo_31145648) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Brazil---So-Paulo/Gerncia-de-Produto-nvel-Snior---Diviso-de-Farmacuticos-Estabelecidos--EPD----So-Paulo_31149880) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-04-01.
+This product manager position at Abbott was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

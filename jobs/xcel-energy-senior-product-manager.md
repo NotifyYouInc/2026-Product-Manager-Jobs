@@ -5,12 +5,12 @@
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Senior-Product-Manager_JR113289-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Senior-Product-Manager_JR114394) |
 
 ## About This Role
 
-This product manager position at Xcel Energy was posted on 2026-04-03.
+This product manager position at Xcel Energy was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Orchard](https://scoutify.ai/companies/orchard-orchard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Orchard](https://scoutify.ai/companies/orchard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/orchard/jobs/8521772002) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/orchard/jobs/8555643002) |
 
 ## About This Role
 
-This product manager position at Orchard was posted on 2026-04-27.
+This product manager position at Orchard was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

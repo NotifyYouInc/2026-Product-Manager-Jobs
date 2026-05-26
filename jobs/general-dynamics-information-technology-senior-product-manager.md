@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Product-Manager_RQ218261-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Product-Manager_RQ219985-1) |
 
 ## About This Role
 
-This product manager position at General Dynamics Information Technology was posted on 2026-04-10.
+This product manager position at General Dynamics Information Technology was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7849323) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7883254) |
 
 ## About This Role
 
-This product manager position at Toast was posted on 2026-05-06.
+This product manager position at Toast was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

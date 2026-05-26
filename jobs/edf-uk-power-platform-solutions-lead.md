@@ -5,12 +5,12 @@
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000121367908-power-platform-solutions-lead) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000126998715-power-platform-solutions-lead) |
 
 ## About This Role
 
-This product manager position at EDF UK was posted on 2026-04-17.
+This product manager position at EDF UK was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

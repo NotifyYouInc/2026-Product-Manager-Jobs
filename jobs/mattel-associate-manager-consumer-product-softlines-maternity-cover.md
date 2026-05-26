@@ -1,16 +1,16 @@
-# Associate Manager Consumer Product - Softline's (Maternity cover) at Mattel
+# Associate Manager Consumer Product - Softlines (Maternity cover) at Mattel
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Slough, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126645804-associate-manager-consumer-product-softlines-maternity-cover) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126984689-associate-manager-consumer-product-softlines-maternity-cover) |
 
 ## About This Role
 
-This product manager position at Mattel was posted on 2026-05-15.
+This product manager position at Mattel was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

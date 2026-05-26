@@ -5,12 +5,12 @@
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/d022efd3-c3cc-459c-9925-ba5dbc8558b9) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/ae305f26-bbe0-4db1-a816-b912503ad6b4) |
 
 ## About This Role
 
-This product manager position at Harvey was posted on 2026-04-29.
+This product manager position at Harvey was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
