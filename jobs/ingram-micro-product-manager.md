@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Jakarta-Indonesia/Product-Manager_R-114885) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Warszawa-Poland/Product-Manager_R-113453) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-05-01.
+This product manager position at Ingram Micro was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Director--Product-Management_R-277707) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Director--Product-Management_R-278415-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-18.
+This product manager position at Mastercard was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

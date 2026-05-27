@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Product-Management-Director_JR180988-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Product-Management-Director_JR193660) |
 
 ## About This Role
 
-This product manager position at Elevance Health was posted on 2026-03-18.
+This product manager position at Elevance Health was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

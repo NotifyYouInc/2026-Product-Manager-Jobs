@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000108570125-product-manager-saas-b2b-hf-full-remote) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000127155146-product-manager-saas-b2b-hf-full-remote) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-02-10.
+This product manager position at SEPTEO was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

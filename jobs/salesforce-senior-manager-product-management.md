@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Manager--Product-Management_JR337049) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta/Senior-Manager--Product-Management_JR343158) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-05-01.
+This product manager position at Salesforce was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

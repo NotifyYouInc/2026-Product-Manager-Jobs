@@ -5,12 +5,12 @@
 | Company | [Hootsuite](https://scoutify.ai/companies/hootsuite?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://careers.hootsuite.com/job/?gh_jid=7769506) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://careers.hootsuite.com/job/?gh_jid=7942387) |
 
 ## About This Role
 
-This product manager position at Hootsuite was posted on 2026-04-01.
+This product manager position at Hootsuite was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

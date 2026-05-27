@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Greenbelt, Maryland, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Greenbelt-Maryland/GPM-Flight-Operations-Team--FOT--Intern_R2122842-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Greenbelt-Maryland/GPM-Flight-Operations-Team--FOT--Intern_R2123954) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-04-29.
+This software engineer position at KBR was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

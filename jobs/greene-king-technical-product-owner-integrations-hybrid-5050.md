@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | Birmingham, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000125348029-technical-product-owner-integrations-hybrid-5050) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000127238345-technical-product-owner-integrations-hybrid-5050) |
 
 ## About This Role
 
-This product manager position at Greene King was posted on 2026-05-08.
+This product manager position at Greene King was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

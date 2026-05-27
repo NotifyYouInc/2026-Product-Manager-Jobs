@@ -5,12 +5,12 @@
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Florence, Tuscany, Italy |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Senior-AI-Technical-Product-Owner_R163802) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Senior-AI-Technical-Product-Owner_R163586-1) |
 
 ## About This Role
 
-This product manager position at Baker Hughes was posted on 2026-04-30.
+This product manager position at Baker Hughes was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

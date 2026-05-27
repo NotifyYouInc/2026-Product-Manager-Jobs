@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Danvers, Massachusetts, United States |
+| Location | West Chester, Pennsylvania, United States |
 | Category | Software Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Development-Engineer_R-070428-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Product-Development-Engineer_R-076719-1) |
 
 ## About This Role
 
-This software engineer position at Johnson & Johnson was posted on 2026-04-16.
+This software engineer position at Johnson & Johnson was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | North Wales, Pennsylvania, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Sr-Spclst---Technical-Product-Management_R396293-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Sr-Spclst---Technical-Product-Management_R397827-2) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-05-12.
+This product manager position at Merck was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

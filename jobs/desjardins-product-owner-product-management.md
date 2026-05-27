@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Amlioration-continue_R2606579-2) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Product-Manager--Plateforme-de-protection-des-donnes_R2606862) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-05-14.
+This product manager position at Desjardins was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

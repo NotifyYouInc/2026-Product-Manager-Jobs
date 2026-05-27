@@ -5,12 +5,12 @@
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7919080?gh_jid=7919080) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7941745?gh_jid=7941745) |
 
 ## About This Role
 
-This product manager position at Coupang Internal was posted on 2026-05-14.
+This product manager position at Coupang Internal was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

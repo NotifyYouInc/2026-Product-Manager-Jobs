@@ -5,12 +5,12 @@
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Birmingham, England, United Kingdom |
 | Category | Marketing Operations |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000125342939-digital-product-owner-martech-hybrid-5050) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000127239260-digital-product-owner-martech-hybrid-5050) |
 
 ## About This Role
 
-This marketing operations position at Greene King was posted on 2026-05-08.
+This marketing operations position at Greene King was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

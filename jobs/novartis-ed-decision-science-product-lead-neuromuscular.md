@@ -1,0 +1,22 @@
+# ED, Decision Science Product Lead - Neuromuscular at Novartis
+
+| Field | Details |
+|-------|---------|
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
+| Category | Product Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/ED--Decision-Science-Product-Lead---Neuromuscular_REQ-10078301-1) |
+
+## About This Role
+
+This product manager position at Novartis was posted on 2026-05-19.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

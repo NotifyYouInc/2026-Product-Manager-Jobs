@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Spec-Prod-Dev-Mgt_R-1092783-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Spec-Prod-Dev-Mgt_R-1094358) |
 
 ## About This Role
 
-This product manager position at Verizon was posted on 2026-04-13.
+This product manager position at Verizon was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

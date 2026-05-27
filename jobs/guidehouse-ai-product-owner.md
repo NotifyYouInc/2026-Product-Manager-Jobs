@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/AI-Product-Owner_38522) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/AI-Product-Owner_39551) |
 
 ## About This Role
 
-This product manager position at Guidehouse was posted on 2026-04-29.
+This product manager position at Guidehouse was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

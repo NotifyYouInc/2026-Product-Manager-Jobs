@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Italy |
+| Location | Czechia |
 | Category | Product Manager |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4696620005) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4696582005) |
 
 ## About This Role
 

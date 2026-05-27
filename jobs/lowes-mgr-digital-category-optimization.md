@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mooresville, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Mgr-Digital-Category-Optimization_JR-02503472) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Mgr-Digital-Category-Optimization_JR-02524682) |
 
 ## About This Role
 
-This product manager position at Lowe's was posted on 2026-05-15.
+This product manager position at Lowe's was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
