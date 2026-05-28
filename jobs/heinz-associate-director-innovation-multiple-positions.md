@@ -5,12 +5,12 @@
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Associate-Director---Innovation--Multiple-Positions-_R-102104-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Associate-Director---Innovation--Multiple-Positions-_R-102927) |
 
 ## About This Role
 
-This product manager position at Heinz was posted on 2026-04-17.
+This product manager position at Heinz was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

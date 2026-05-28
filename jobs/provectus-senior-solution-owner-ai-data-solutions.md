@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Colombia |
-| Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/5742bccd-159f-4ea1-b2c1-6d7b84b7a571) |
+| Location | New York City, New York, United States |
+| Category | Technical & Solutions Architect |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/c28a4381-9a4e-4a1b-b531-b308694654b3) |
 
 ## About This Role
 
-This product manager position at Provectus was posted on 2026-04-07.
+This technical & solutions architect position at Provectus was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

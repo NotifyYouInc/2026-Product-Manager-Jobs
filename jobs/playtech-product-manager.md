@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tartu, Tartu, Estonia |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000115601908-product-manager) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000127391844-product-manager) |
 
 ## About This Role
 
-This product manager position at Playtech was posted on 2026-03-19.
+This product manager position at Playtech was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

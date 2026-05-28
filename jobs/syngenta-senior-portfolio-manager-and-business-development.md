@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vietnam |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126275774-senior-portfolio-manager-and-business-development) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127388339-senior-portfolio-manager-and-business-development) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Syngenta was posted on 2026-05-13.
+This sales development (sdr / bdr) position at Syngenta was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

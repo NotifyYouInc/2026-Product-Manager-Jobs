@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Product-Manager--Agent-Platform_JR-0106670) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Product-Manager--Agent-Platform_JR-0107282) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-05-11.
+This product manager position at Workday was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Operations Leader at Indigo Books & Music
+#  Product Operations Leader at Indigo Books & Music
 
 | Field | Details |
 |-------|---------|
 | Company | [Indigo Books & Music](https://scoutify.ai/companies/indigobooksmusic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Windsor, Connecticut, United States |
 | Category | Product Manager |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000120214017-product-operations-leader) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000127485549-product-operations-leader) |
 
 ## About This Role
 
-This product manager position at Indigo Books & Music was posted on 2026-04-11.
+This product manager position at Indigo Books & Music was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

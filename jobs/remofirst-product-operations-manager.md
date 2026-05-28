@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remofirst](https://scoutify.ai/companies/remofirst?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bulgaria |
+| Location | Argentina |
 | Category | Product Manager |
-| Posted | 2025-11-26 |
-| Apply | [View on company site](https://jobs.lever.co/remofirst/970bc85e-5544-456b-b9dc-feb00b424231) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.lever.co/remofirst/11a29e18-3516-4b87-b0ab-32b679e14dde) |
 
 ## About This Role
 
-This product manager position at Remofirst was posted on 2025-11-26.
+This product manager position at Remofirst was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

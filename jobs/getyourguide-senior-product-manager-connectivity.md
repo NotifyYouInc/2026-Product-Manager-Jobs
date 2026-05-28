@@ -5,12 +5,12 @@
 | Company | [GetYourGuide](https://scoutify.ai/companies/getyourguide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://getyourguide.careers/jobs/7556882?gh_jid=7556882) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://getyourguide.careers/jobs/7552392?gh_jid=7552392) |
 
 ## About This Role
 
-This product manager position at GetYourGuide was posted on 2026-02-18.
+This product manager position at GetYourGuide was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

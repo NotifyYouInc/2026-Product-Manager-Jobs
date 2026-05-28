@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Director--Product-Management_R-278415-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Commercialisation-Director---Mastercard-Move_R-270120) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-19.
+This product manager position at Mastercard was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/US---AZ---Camelback-Office/Principal-Digital-Product-Manager--Rental-Management-Systems_R0000371121-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/US---AZ---Camelback-Office/Principal-Digital-Product-Manager--Rental-Management-Systems_R0000371554) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-05-19.
+This product manager position at Caterpillar was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

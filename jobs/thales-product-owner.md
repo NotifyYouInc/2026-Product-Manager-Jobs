@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Orlando, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Montreal/Product-Owner_R0326655-2) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/Product-Owner_R0323098-1) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-05-05.
+This product manager position at Thales was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

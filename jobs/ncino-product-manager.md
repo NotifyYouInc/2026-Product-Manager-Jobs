@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nCino](https://scoutify.ai/companies/ncino?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Wilmington, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/AU---Melbourne/Product-Manager_R6205-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ncino.wd5.myworkdayjobs.com/nCinoCareers/job/Wilmington-NC/Product-Manager_R6206) |
 
 ## About This Role
 
-This product manager position at nCino was posted on 2026-05-19.
+This product manager position at nCino was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

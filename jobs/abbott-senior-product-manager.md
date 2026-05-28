@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Alameda, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Egypt---Cairo/Senior-Product-Manager_31147861) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Senior-Product-Manager_31150442-1) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-04-19.
+This product manager position at Abbott was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

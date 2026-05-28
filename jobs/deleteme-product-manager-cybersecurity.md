@@ -5,12 +5,12 @@
 | Company | [DeleteMe](https://scoutify.ai/companies/deleteme?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.lever.co/deleteme/cf5c438c-24c3-4e62-ad67-c51657e47fc2) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.lever.co/deleteme/1ad06f05-8ca1-4025-9fcc-0df6e514f84a) |
 
 ## About This Role
 
-This product manager position at DeleteMe was posted on 2026-03-26.
+This product manager position at DeleteMe was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

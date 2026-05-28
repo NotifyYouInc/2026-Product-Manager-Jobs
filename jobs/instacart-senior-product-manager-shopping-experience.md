@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7904851) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7904853) |
 
 ## About This Role
 
-This product manager position at Instacart was posted on 2026-05-07.
+This product manager position at Instacart was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

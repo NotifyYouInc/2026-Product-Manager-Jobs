@@ -1,16 +1,16 @@
-# Director, Product Management at Harris Computer
+# Director Product Management at Harris Computer
 
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | California, US |
+| Location | North Carolina, US |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/California-United-States/Director--Product-Management_R0041004-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/North-Carolina-United-States/Director-Product-Management_R0043893-1) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-04-20.
+This product manager position at Harris Computer was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

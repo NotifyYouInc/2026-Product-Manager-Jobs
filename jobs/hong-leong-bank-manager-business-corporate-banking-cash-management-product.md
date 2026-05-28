@@ -5,12 +5,12 @@
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Treasury & Capital Markets |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Executive---Graduate-Trainee--Cash-Management-_JR0000022576) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Business---Corporate-Banking--Cash-Management-Product-_JR0000024841) |
 
 ## About This Role
 
-This treasury & capital markets position at Hong Leong Bank was posted on 2026-05-05.
+This treasury & capital markets position at Hong Leong Bank was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

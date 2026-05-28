@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000123435119-pflichtpraktikum-produktmanagement-automotive-aftermarket-emea-ref96584a) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000127392790-pflichtpraktikum-produktmanagement-automotive-aftermarket-emea-ref96584a) |
 
 ## About This Role
 
-This product manager position at Continental was posted on 2026-04-28.
+This product manager position at Continental was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

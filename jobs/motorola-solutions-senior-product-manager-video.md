@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/UK-London-Area-OFFSITE/Senior-Product-Manager--Video_R64562) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Senior-Product-Manager--Video_R64402) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-05-08.
+This product manager position at Motorola Solutions was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

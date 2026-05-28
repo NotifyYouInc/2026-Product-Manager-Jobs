@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GR8 Tech](https://scoutify.ai/companies/gr8-tech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4836959101) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4871699101) |
 
 ## About This Role
 
-This product manager position at GR8 Tech was posted on 2026-04-14.
+This product manager position at GR8 Tech was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

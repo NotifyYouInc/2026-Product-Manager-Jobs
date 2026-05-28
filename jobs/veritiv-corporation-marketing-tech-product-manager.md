@@ -5,12 +5,12 @@
 | Company | [Veritiv Corporation](https://scoutify.ai/companies/veritiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sandy Springs, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Marketing-Tech-Product-Manager_R30811) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---GA---Sandy-Springs/Marketing-Tech-Product-Manager_R31267) |
 
 ## About This Role
 
-This product manager position at Veritiv Corporation was posted on 2026-03-19.
+This product manager position at Veritiv Corporation was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

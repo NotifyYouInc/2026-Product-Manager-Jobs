@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127177410-senior-product-manager) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127391230-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Renesas Electronics was posted on 2026-05-19.
+This product manager position at Renesas Electronics was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
