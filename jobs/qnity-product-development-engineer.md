@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | China |
-| Category | Software Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Minhang-Shanghai/Product-Development-Engineer_250870W) |
+| Location | Newark, New Jersey, United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Newark-Delaware/Product-Development-Engineer_251368W) |
 
 ## About This Role
 
-This software engineer position at Qnity was posted on 2026-04-09.
+This engineering manager position at Qnity was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

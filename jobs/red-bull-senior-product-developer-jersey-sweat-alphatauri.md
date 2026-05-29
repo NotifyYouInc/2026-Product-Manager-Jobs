@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000127469745-senior-product-developer-jersey-sweat-alphatauri) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000127657465-senior-product-developer-jersey-sweat-alphatauri) |
 
 ## About This Role
 
-This product manager position at Red Bull was posted on 2026-05-20.
+This product manager position at Red Bull was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

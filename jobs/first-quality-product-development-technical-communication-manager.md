@@ -5,12 +5,12 @@
 | Company | [First Quality](https://scoutify.ai/companies/firstquality?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Trumbull, Connecticut, United States |
 | Category | Technical Writer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/FQHCP-Connecticut/Product-Development-Technical-Communication-Manager_R11320) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://firstquality.wd5.myworkdayjobs.com/firstquality/job/FQHCP-Connecticut/Product-Development-Technical-Communication-Manager_R11327) |
 
 ## About This Role
 
-This technical writer position at First Quality was posted on 2026-05-20.
+This technical writer position at First Quality was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

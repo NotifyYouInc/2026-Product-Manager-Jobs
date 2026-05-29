@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeta Global](https://scoutify.ai/companies/zeta-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/5972919004) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zetaglobal/jobs/6002653004) |
 
 ## About This Role
 
-This product manager position at Zeta Global was posted on 2026-04-21.
+This product manager position at Zeta Global was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

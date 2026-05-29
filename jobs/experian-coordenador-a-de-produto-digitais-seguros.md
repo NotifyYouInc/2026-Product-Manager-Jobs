@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000122526763-coordenador-a-de-produto-digitais-seguros) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127745601-coordenador-a-de-produto-digitais-seguros) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-04-23.
+This product manager position at Experian was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

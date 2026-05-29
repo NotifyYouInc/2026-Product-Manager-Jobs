@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000123216059-senior-product-owner-proxy-po) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000127626179-senior-product-owner-proxy-po) |
 
 ## About This Role
 
-This product manager position at Talan was posted on 2026-04-27.
+This product manager position at Talan was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

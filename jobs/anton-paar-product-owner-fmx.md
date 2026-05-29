@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000116186456-product-owner-fmx) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000127642300-product-owner-fmx) |
 
 ## About This Role
 
-This product manager position at Anton Paar was posted on 2026-03-23.
+This product manager position at Anton Paar was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

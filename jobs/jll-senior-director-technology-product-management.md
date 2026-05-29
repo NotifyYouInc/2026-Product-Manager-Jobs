@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Senior-Director--Technology-Product-Management_REQ489127) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Senior-Director--Technology-Product-Management_REQ500663) |
 
 ## About This Role
 
-This product manager position at JLL was posted on 2026-02-27.
+This product manager position at JLL was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

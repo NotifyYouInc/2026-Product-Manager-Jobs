@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Tokyo-Japan/Product-Manager_R1309039) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Product-Manager_R1311569) |
 
 ## About This Role
 
-This product manager position at Danaher was posted on 2026-04-13.
+This product manager position at Danaher was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

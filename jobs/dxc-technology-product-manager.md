@@ -1,16 +1,16 @@
-# Product manager at DXC Technology
+# Product Manager at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Product-manager_51572240) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Product-Manager_51581061) |
 
 ## About This Role
 
-This product manager position at DXC Technology was posted on 2026-02-06.
+This product manager position at DXC Technology was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

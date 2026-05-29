@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Product-Owner_R-00182514) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Product-Owner_R-00183748) |
 
 ## About This Role
 
-This product manager position at Leidos was posted on 2026-05-05.
+This product manager position at Leidos was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

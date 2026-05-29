@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Northampton, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Product-Manager_JR-0000104638) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Data-Product-Manager_JR-0000100210-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-05-14.
+This product manager position at Barclays was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

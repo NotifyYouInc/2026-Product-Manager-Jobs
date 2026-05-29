@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | France |
+| Location | La Ciotat, Provence-Alpes-Côte d'Azur, France |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Limours/Product-Manager--H-F-_R0317825-2) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/La-Ciotat/Product-Manager--H-F-_R0317614-2) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-02-20.
+This product manager position at Thales was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

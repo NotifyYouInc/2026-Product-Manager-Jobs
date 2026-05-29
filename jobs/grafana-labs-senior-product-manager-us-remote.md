@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grafana Labs](https://scoutify.ai/companies/grafana-labs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/5816900004) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/6001524004) |
 
 ## About This Role
 
-This product manager position at Grafana Labs was posted on 2026-03-03.
+This product manager position at Grafana Labs was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

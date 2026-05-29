@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Digital-Product-Manager--Strategy-and-Innovation_R-245291) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Digital-Product-Manager--Strategy-and-Innovation_R-245293) |
 
 ## About This Role
 
-This product manager position at Amgen was posted on 2026-05-18.
+This product manager position at Amgen was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

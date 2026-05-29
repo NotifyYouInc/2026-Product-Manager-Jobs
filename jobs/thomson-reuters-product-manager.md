@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Product-Manager_JREQ199813) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Product-Manager_JREQ200141) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-04-16.
+This product manager position at Thomson Reuters was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Electronic-Trading-Product-Manager--Equities--Vice-President_26961323-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Electronic-Trading-Product-Manager--Equities--Vice-President_26962762) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-05-05.
+This product manager position at Citigroup was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ipsen](https://scoutify.ai/companies/ipsen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Melbourne/Senior-Product-Manager_R-21490) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Shanghai/Senior-Product-Manager_R-21559) |
 
 ## About This Role
 
-This product manager position at Ipsen was posted on 2026-05-18.
+This product manager position at Ipsen was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

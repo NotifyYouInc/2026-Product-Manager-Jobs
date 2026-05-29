@@ -5,12 +5,12 @@
 | Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cyprus |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000125071731-senior-product-manager-fastedge) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000127585399-senior-product-manager-fastedge) |
 
 ## About This Role
 
-This product manager position at Gcore was posted on 2026-05-07.
+This product manager position at Gcore was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

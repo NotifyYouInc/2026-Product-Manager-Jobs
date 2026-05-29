@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Leeds, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-05-20 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Singapore-Singapore/Data-Products-Manager_R-074559) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leeds-West-Yorkshire-United-Kingdom/Data-Products-Manager_R-074345-1) |
 
 ## About This Role
 

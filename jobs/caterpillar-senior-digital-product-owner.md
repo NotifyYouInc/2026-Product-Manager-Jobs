@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Senior-Digital-Product-Owner_R0000369532) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Senior-Digital-Product-Owner_R0000371925-1) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-05-18.
+This product manager position at Caterpillar was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

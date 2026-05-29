@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000126926129-trainee-global-operations-products-processes-mwd) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127724939-trainee-global-operations-products-processes-mwd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-05-18.
+This product manager position at Sixt was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4680516006) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4683350006) |
 
 ## About This Role
 
-This product manager position at SharkNinja was posted on 2026-05-11.
+This product manager position at SharkNinja was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

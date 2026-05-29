@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vcluster](https://scoutify.ai/companies/vcluster?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/2fbb8529-f3b6-4165-8b1c-0eb733b519f9) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/dabb16ce-74af-42f1-8cfd-6a7f879180d9) |
 
 ## About This Role
 
-This product manager position at Vcluster was posted on 2026-04-30.
+This product manager position at Vcluster was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

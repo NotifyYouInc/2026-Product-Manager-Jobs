@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Versaterm](https://scoutify.ai/companies/versaterm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | Mesa, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/versaterm/jobs/5221469008) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/versaterm/jobs/5228424008) |
 
 ## About This Role
 
-This product manager position at Versaterm was posted on 2026-05-15.
+This product manager position at Versaterm was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

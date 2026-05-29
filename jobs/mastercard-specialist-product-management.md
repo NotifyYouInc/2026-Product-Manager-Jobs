@@ -1,16 +1,16 @@
-# Specialist, Product Management at Mastercard
+# Specialist - Product Management at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-277913) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist---Product-Management_R-278027) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-19.
+This product manager position at Mastercard was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
