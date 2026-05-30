@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Springer Nature](https://scoutify.ai/companies/springer-nature?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://springernature.wd3.myworkdayjobs.com/springernaturecareers/job/Shanghai/Senior-Product-Manager_JR105802) |
+| Location | 4 locations |
+| Category | Marketing |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://springernature.wd3.myworkdayjobs.com/springernaturecareers/job/London-Crinan/Senior-Product-Manager_JR106183) |
 
 ## About This Role
 
-This product manager position at Springer Nature was posted on 2026-03-20.
+This marketing position at Springer Nature was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

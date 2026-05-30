@@ -1,16 +1,16 @@
-# Sr Principal Product Manager, Unified Support & AI Experience at Ingram Micro
+# Sr Principal, Product Manager - Unified Support & AI Experience at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Irvine, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mississauga-Canada/Sr-Principal-Product-Manager--Unified-Support---AI-Experience_R-115284) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Irvine-CA-United-States-of-America/Sr-Principal--Product-Manager---Unified-Support---AI-Experience_R-115595) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-05-14.
+This product manager position at Ingram Micro was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

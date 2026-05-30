@@ -5,12 +5,12 @@
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/HR-Technology-Product-Manager_R60598) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/HR-Technology-Product-Manager_R65260) |
 
 ## About This Role
 
-This human resources / people ops position at Blue Origin was posted on 2026-02-19.
+This human resources / people ops position at Blue Origin was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

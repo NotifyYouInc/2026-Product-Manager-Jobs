@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gdynia, Pomerania, Poland |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Product-Manager---Time-Series-Analytics_R0119942-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Product-Manager---Time-Series-Analytics_R0118679-1) |
 
 ## About This Role
 
-This product manager position at LSEG was posted on 2026-05-21.
+This product manager position at LSEG was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

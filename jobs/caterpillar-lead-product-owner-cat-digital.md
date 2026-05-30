@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Lead-Product-Owner--Cat-Digital_R0000357617) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Lead-Product-Owner--Cat-Digital_R0000371952-1) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-03-23.
+This product manager position at Caterpillar was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

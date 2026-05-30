@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Jersey City, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director--Product-Management_R-0000165811) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/Director--Product-Management_R-0000173134-2) |
 
 ## About This Role
 
-This product manager position at Royal Bank of Canada was posted on 2026-03-31.
+This product manager position at Royal Bank of Canada was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

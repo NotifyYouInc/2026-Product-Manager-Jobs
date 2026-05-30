@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001090200-senior-manager-holidays-and-experiences) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001098202-senior-manager-holidays-and-experiences) |
 
 ## About This Role
 
-This product manager position at Qantas Group was posted on 2026-05-20.
+This product manager position at Qantas Group was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-#  Product Owner at BrainRocket
+# Product Owner at BrainRocket
 
 | Field | Details |
 |-------|---------|
 | Company | [BrainRocket](https://scoutify.ai/companies/brainrocket?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4867873101) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brainrocketltd/jobs/4873875101) |
 
 ## About This Role
 
-This product manager position at BrainRocket was posted on 2026-05-15.
+This product manager position at BrainRocket was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

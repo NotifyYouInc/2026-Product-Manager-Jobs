@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Product-Owner--Digital-Portfolio_R2847479-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Product-Owner--Digital-Portfolio_R2857961-1) |
 
 ## About This Role
 
-This product manager position at Sanofi was posted on 2026-03-24.
+This product manager position at Sanofi was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

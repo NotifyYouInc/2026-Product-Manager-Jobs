@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Malaysia |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/660f5068-0c26-45b9-b439-142958c085b1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f336dd63-4fcf-4e12-bc4b-3164ad5a59d8) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-05-15.
+This product manager position at Bjak was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

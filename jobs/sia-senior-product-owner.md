@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000113173278-senior-product-owner) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000127913915-senior-product-owner) |
 
 ## About This Role
 
-This product manager position at SIA was posted on 2026-03-06.
+This product manager position at SIA was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

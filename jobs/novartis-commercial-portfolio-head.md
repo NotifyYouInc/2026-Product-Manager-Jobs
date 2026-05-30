@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Turkey |
+| Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Istanbul-Ataehir/Commercial-Portfolio-Head_REQ-10078021) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Riyadh/Commercial-Portfolio-Head_REQ-10078849) |
 
 ## About This Role
 
-This product manager position at Novartis was posted on 2026-05-12.
+This product manager position at Novartis was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Software Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127157799-senior-staff-product-engineer-fleet-mfd) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127863444-senior-staff-product-engineer-fleet-mfd) |
 
 ## About This Role
 
-This software engineer position at Sixt was posted on 2026-05-19.
+This software engineer position at Sixt was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

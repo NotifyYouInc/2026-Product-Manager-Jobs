@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Product-Owner-Senior---Client-Solutions_JR00101130) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Product-Owner-Senior---Client-Solutions_JR00104586) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-14.
+This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

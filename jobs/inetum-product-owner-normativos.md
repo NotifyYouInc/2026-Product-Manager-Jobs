@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000117965858-product-owner-normativos) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000127975450-product-owner-normativos) |
 
 ## About This Role
 
-This product manager position at Inetum was posted on 2026-03-31.
+This product manager position at Inetum was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

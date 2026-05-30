@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Longueuil, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000124170054-product-manager) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000127970009-product-manager) |
 
 ## About This Role
 
-This product manager position at UAP was posted on 2026-05-01.
+This product manager position at UAP was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

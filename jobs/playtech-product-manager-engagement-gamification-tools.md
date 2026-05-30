@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gibraltar, Gibraltar |
+| Location | Valletta, Valletta, Malta |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000121813989-product-manager-engagement-gamification-tools) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000127894055-product-manager-engagement-gamification-tools) |
 
 ## About This Role
 
-This product manager position at Playtech was posted on 2026-04-20.
+This product manager position at Playtech was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Potvorice/Product-Development-Engineer_R_00101244) |
+| Location | Durham, North Carolina, United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Durham-NC/Product-Development-Engineer_R_00102082) |
 
 ## About This Role
 
-This software engineer position at Freudenberg Group was posted on 2026-05-18.
+This engineering manager position at Freudenberg Group was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

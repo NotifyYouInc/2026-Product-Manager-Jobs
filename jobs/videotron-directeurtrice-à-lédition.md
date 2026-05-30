@@ -5,12 +5,12 @@
 | Company | [Videotron](https://scoutify.ai/companies/videotron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000126344991-directeurtrice-a-ledition) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000127949839-directeurtrice-a-ledition) |
 
 ## About This Role
 
-This product manager position at Videotron was posted on 2026-05-13.
+This product manager position at Videotron was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

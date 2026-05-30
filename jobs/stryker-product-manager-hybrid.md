@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irvine, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Product-Manager--Hybrid-_R565347) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Product-Manager--Hybrid-_R565440-1) |
 
 ## About This Role
 
-This product manager position at Stryker was posted on 2026-05-13.
+This product manager position at Stryker was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

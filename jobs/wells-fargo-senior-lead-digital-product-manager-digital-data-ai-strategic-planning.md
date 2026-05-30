@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Digital-Product-Manager---Digital--Data----AI-Strategic-Planning_R-527523-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Digital-Product-Manager---Digital--Data----AI-Strategic-Planning_R-547662) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-03-12.
+This product manager position at Wells Fargo was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

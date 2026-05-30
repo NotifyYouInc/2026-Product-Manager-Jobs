@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Egypt |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127657509-assistant-category-manager-ultra-fresh) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127831519-assistant-category-manager-ultra-fresh) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-05-21.
+This product manager position at Delivery Hero was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kodiak Robotics](https://scoutify.ai/companies/kodiak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Lancaster, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4146502009) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4258116009) |
 
 ## About This Role
 
-This product manager position at Kodiak Robotics was posted on 2026-02-24.
+This product manager position at Kodiak Robotics was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
