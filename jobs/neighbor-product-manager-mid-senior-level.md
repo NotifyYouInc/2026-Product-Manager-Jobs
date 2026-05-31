@@ -1,16 +1,16 @@
-# Sr. Product Manager at Robert Bosch
+# Product Manager (Mid-Senior Level) at Neighbor
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakbrook Terrace, Illinois, United States |
+| Company | [Neighbor](https://scoutify.ai/companies/neighbor?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Lehi, Utah, United States |
 | Category | Product Manager |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127747749-sr-product-manager) |
+| Apply | [View on company site](https://jobs.lever.co/neighbor/aa8a58c7-9a82-4127-b060-28d168bcd3fc) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-05-21.
+This product manager position at Neighbor was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

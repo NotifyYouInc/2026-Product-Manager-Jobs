@@ -1,16 +1,16 @@
-# Product Manager III - Business Banking at Bankjoy
+# Senior Product Analyst - Invoicing at WISE
 
 | Field | Details |
 |-------|---------|
-| Company | [Bankjoy](https://scoutify.ai/companies/bankjoy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bankjoy/fc66f059-3968-4861-b11d-a5e771c8c7da) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127992619-senior-product-analyst-invoicing) |
 
 ## About This Role
 
-This product manager position at Bankjoy was posted on 2026-05-22.
+This product manager position at WISE was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 
