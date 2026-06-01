@@ -1,16 +1,16 @@
-# Group Product Manager, AI Builder at Sigma Computing
+# Senior Manager Equipment Product at Boq
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Boq](https://scoutify.ai/companies/boq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Product Manager |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747561003) |
+| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/210-George-St/Senior-Manager-Equipment-Product_JR101453) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-25.
+This product manager position at Boq was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

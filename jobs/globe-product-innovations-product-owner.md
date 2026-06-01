@@ -1,16 +1,16 @@
-# Group Product Manager, AI Builder at Sigma Computing
+# Product Innovations - Product Owner at GLOBE
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Philippines |
 | Category | Product Manager |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747561003) |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Product-Innovations---Product-Owner_R0000020347) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-25.
+This product manager position at GLOBE was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

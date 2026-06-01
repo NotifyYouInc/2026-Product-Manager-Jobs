@@ -1,16 +1,16 @@
-# Group Product Manager, AI Builder at Sigma Computing
+# Head of Amazon and Marketplaces at Burga
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Burga](https://scoutify.ai/companies/burga?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747561003) |
+| Apply | [View on company site](https://jobs.lever.co/burga/8427705d-102d-461f-b4b9-a8103fba54a6) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-25.
+This product manager position at Burga was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

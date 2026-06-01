@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vcluster](https://scoutify.ai/companies/vcluster?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Not specified |
 | Category | Product Manager |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/dabb16ce-74af-42f1-8cfd-6a7f879180d9) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/74c226ec-ba02-426a-8869-632fb5399cb7) |
 
 ## About This Role
 

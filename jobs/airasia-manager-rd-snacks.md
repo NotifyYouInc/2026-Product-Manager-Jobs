@@ -1,16 +1,16 @@
-# Group Product Manager, AI Builder at Sigma Computing
+# Manager, R&D Snacks at Airasia
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Manager |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747561003) |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Manager--R-D-Snacks_JR0034727) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-25.
+This product manager position at Airasia was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

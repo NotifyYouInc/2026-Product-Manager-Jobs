@@ -1,16 +1,16 @@
-# Product Manager at Johnson & Johnson
+# Global Web Experience Lead at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
-| Category | Product Manager |
+| Location | West Chester, Pennsylvania, United States |
+| Category | Digital / Performance Marketing |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Kibbutz-Shefayim-Center-District-Israel/Product-Manager_R-076890) |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/West-Chester-Pennsylvania-United-States-of-America/Global-Web-Experience-Lead_R-076204-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-05-25.
+This digital / performance marketing position at Johnson & Johnson was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

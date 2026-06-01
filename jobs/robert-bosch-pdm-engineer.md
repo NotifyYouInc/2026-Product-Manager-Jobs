@@ -1,16 +1,16 @@
-# Group Product Manager, AI Builder at Sigma Computing
+# PDM Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Rayong, Rayong, Thailand |
 | Category | Product Manager |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747561003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128187850-pdm-engineer) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-25.
+This product manager position at Robert Bosch was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

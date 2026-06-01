@@ -1,16 +1,16 @@
-# Product Manager at Thomson Reuters
+# Product Manager – Private Funds at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Product-Manager_JREQ200574) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Private-Funds/19482) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-05-21.
+This product manager position at Bloomberg was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Manager at Philips
+# Product Manager II, Growth at Whoop
 
 | Field | Details |
 |-------|---------|
-| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Company | [Whoop](https://scoutify.ai/companies/whoop?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Senior-Product-Manager_583820) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whoop/3410d9d6-37c1-4a34-9651-29fb645dd88a) |
 
 ## About This Role
 
-This product manager position at Philips was posted on 2026-05-25.
+This product manager position at Whoop was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

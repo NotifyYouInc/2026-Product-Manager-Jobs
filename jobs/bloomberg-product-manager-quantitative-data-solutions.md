@@ -1,16 +1,16 @@
-# Product Manager at ABB
+# Product Manager - Quantitative Data Solutions at Bloomberg
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Product-Manager_JR00035670) |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Quantitative-Data-Solutions/18642) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-05-24.
+This product manager position at Bloomberg was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

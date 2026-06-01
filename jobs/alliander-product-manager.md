@@ -1,16 +1,16 @@
-# Senior Product Manager at Philips
+# Product Manager at Alliander
 
 | Field | Details |
 |-------|---------|
-| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Company | [Alliander](https://scoutify.ai/companies/alliander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Duiven, Gelderland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Senior-Product-Manager_583820) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/DUIVEN/Product-Manager_JR18598) |
 
 ## About This Role
 
-This product manager position at Philips was posted on 2026-05-25.
+This product manager position at Alliander was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

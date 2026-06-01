@@ -1,16 +1,16 @@
-# Product Manager at ABB
+# Oracle Fusion UX - Redwood Manager at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Product Manager |
 | Posted | 2026-05-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Product-Manager_JR00035670) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cairo-CO55-Uvenues/Oracle-Technical-Track-Manager_14171414) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-05-24.
+This product manager position at Accenture was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Group Product Manager, AI Builder at Sigma Computing
+# Technical Product Director at Amanotes
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Amanotes](https://scoutify.ai/companies/amanotes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Manager |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747561003) |
+| Apply | [View on company site](https://jobs.lever.co/amanotes/34ec48d4-4197-4aea-9946-19cecb50bec7) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-25.
+This product manager position at Amanotes was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

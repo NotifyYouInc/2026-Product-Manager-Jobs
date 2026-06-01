@@ -1,16 +1,16 @@
-# Group Product Manager, AI Builder at Sigma Computing
+# Technical Product Owner - Collaboration  at Qantas Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747561003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001102226-technical-product-owner-collaboration) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-25.
+This product manager position at Qantas Group was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
