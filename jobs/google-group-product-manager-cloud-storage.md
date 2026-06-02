@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kirkland, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdsN2_ucMJkwDHLyLHBimEV8iIoUfwvUjEC0zX9BGcjkEjsACxwdTB-JROrEiLTIhxR3_L2t-cJEoGZcBCbxb7TPy8V0VqE1kZLQy6H34rnQFIA6SYTPrn9KfhonOA%3D%3D_V2&loc=US&title=Group+Product+Manager) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckStodk3fVGNkxiiefgi96LkD9ReXO79mn-XMdFWDYSP5EjsACxwdTIPH60m8J45zulJiVqj3GTmDkchO1xC52clSnvxagPT8z0v1X8mf7TPXbhrpbFni-CKLwPVFkg%3D%3D_V2&loc=US&title=Group+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-04-29.
+This product manager position at Google was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

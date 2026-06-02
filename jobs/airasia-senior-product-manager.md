@@ -5,12 +5,12 @@
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Senior-Product-Manager_JR0034129) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Senior-Product-Manager_JR0034710) |
 
 ## About This Role
 
-This product manager position at Airasia was posted on 2026-02-26.
+This product manager position at Airasia was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

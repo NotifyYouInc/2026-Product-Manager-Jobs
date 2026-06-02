@@ -1,16 +1,16 @@
-# Drug Product Lead (all genders) - permanent fulltime at AbbVie
+# Drug Product Lead (all genders) - permanent, fulltime at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012671385-drug-product-lead-all-genders-permanent-fulltime) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013290095-drug-product-lead-all-genders-permanent-fulltime) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-20.
+This product manager position at AbbVie was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

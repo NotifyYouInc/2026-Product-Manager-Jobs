@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Product-Owner---Career_J00175717-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Product-Owner---Career_J00176447-1) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-04-27.
+This product manager position at Equifax was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

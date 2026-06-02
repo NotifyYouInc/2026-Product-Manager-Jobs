@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cikarang, West Java, Indonesia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/Indonesia-Cikarang/Product-Manager_JR102454-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/India-Bangalore/Product-Manager_JR102520) |
 
 ## About This Role
 
-This product manager position at Itron was posted on 2026-05-08.
+This product manager position at Itron was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Location | Shenzhen, Guangdong, China |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Engineer_JR-022497) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shenzhen-Guangdong-China/Product-Management-Engineer_JR-023006) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-05-05.
+This product manager position at Avnet was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

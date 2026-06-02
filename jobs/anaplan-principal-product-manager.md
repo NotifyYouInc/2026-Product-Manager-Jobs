@@ -1,16 +1,16 @@
-# Principal Product Manager at Anaplan
+# Principal Product Manager  at Anaplan
 
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8548011002) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8559312002) |
 
 ## About This Role
 
-This product manager position at Anaplan was posted on 2026-05-20.
+This product manager position at Anaplan was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

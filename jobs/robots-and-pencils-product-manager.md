@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robots and Pencils](https://scoutify.ai/companies/robots-and-pencils?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5219841008) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/robotsandpencils/jobs/5230422008) |
 
 ## About This Role
 
-This product manager position at Robots and Pencils was posted on 2026-05-14.
+This product manager position at Robots and Pencils was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

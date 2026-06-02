@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Senior-Product-Manager_R-0000168310-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Product-Manager_R-0000173705-1) |
 
 ## About This Role
 
-This product manager position at Royal Bank of Canada was posted on 2026-04-22.
+This product manager position at Royal Bank of Canada was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

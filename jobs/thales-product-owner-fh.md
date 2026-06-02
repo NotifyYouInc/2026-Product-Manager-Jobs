@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gémenos, Provence-Alpes-Côte d'Azur, France |
+| Location | La Ciotat, Provence-Alpes-Côte d'Azur, France |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gmenos/Product-Owner--F-H-_R0326796) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/La-Ciotat/Product-Owner--F-H-_R0327052) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-04-30.
+This product manager position at Thales was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

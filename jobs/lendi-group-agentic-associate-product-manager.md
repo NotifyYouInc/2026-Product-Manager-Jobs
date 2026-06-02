@@ -5,12 +5,12 @@
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000127352389-agentic-associate-product-manager) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000128394229-agentic-associate-product-manager) |
 
 ## About This Role
 
-This product manager position at Lendi Group was posted on 2026-05-20.
+This product manager position at Lendi Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

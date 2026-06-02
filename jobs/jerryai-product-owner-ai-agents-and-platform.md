@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/e88a6c46-aba1-4bb3-add0-4909c77ce4f5) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/f0a3fcd6-e69a-42b3-9b48-191f353ba7dd) |
 
 ## About This Role
 
-This product manager position at Jerry.ai was posted on 2026-05-22.
+This ai / llm engineer position at Jerry.ai was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

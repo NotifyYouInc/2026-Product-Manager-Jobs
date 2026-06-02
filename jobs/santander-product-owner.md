@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Wrocaw/Product-Owner_Req1574767-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-BANCO-CONTAC-CENTER-QUERETARO/Product-Owner_Req1578968-2) |
 
 ## About This Role
 
-This product manager position at Santander was posted on 2026-05-05.
+This product manager position at Santander was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

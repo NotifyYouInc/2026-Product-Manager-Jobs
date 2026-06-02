@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7783308?gh_jid=7783308) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7919228?gh_jid=7919228) |
 
 ## About This Role
 
-This product manager position at Coupang Internal was posted on 2026-04-15.
+This product manager position at Coupang Internal was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

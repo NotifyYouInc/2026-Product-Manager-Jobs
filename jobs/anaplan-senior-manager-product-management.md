@@ -1,16 +1,16 @@
-# Senior Manager-Product Management at Anaplan
+# Senior Manager, Product Management  at Anaplan
 
 | Field | Details |
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8538804002) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8559313002) |
 
 ## About This Role
 
-This product manager position at Anaplan was posted on 2026-05-19.
+This product manager position at Anaplan was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taikoo Shing, Eastern District, Hong Kong |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Taikoo-Shing-12-Taikoo-Wan-Road/Product-Manager_R564041) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Taipei-Taiwan/Product-Manager_R566110) |
 
 ## About This Role
 
-This product manager position at Stryker was posted on 2026-04-23.
+This product manager position at Stryker was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

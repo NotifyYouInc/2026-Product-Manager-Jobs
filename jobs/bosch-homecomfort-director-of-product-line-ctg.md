@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bosch-HomeComfort](https://scoutify.ai/companies/bosch-homecomfort?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Dallas, Texas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000126409099-director-of-product-line-ctg) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000128270269-director-of-product-line-ctg) |
 
 ## About This Role
 
-This corporate finance position at Bosch-HomeComfort was posted on 2026-05-13.
+This corporate finance position at Bosch-HomeComfort was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

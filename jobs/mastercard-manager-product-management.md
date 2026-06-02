@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Turkey |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--Product-Management_R-277015) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Besiktas-Istanbul-Turkey/Manager--Product-Management_R-276677) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-18.
+This product manager position at Mastercard was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

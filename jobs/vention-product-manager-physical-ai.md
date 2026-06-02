@@ -5,12 +5,12 @@
 | Company | [Vention](https://scoutify.ai/companies/vention?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vention/744000124180969-product-manager-physical-ai) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vention/744000128259669-product-manager-physical-ai) |
 
 ## About This Role
 
-This product manager position at Vention was posted on 2026-05-01.
+This product manager position at Vention was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

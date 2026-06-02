@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Orlando/Product-Owner_R0323098-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Product-Owner_R0326850-1) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-05-21.
+This product manager position at Thales was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

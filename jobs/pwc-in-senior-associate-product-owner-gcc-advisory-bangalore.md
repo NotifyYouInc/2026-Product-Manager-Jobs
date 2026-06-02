@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps--SRE-GCC-Advisory-Bangalore_694388WD-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-SRE-GCC-Advisory-Bangalore_709799WD-1) |
 
 ## About This Role
 
-This product manager position at PwC was posted on 2026-02-12.
+This product manager position at PwC was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
-| Category | Marketing |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Mumbai-Maharashtra-India/Product-Manager---Clinical-Chemistry-ImmunoAssay---HGM_R1301825-1) |
+| Location | 4 locations |
+| Category | Product Manager |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Mumbai-Maharashtra-India/Product-Manager---Clinical-Chemistry-ImmunoAssay---HGM_R1310663-1) |
 
 ## About This Role
 
-This marketing position at Danaher was posted on 2026-02-05.
+This product manager position at Danaher was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
