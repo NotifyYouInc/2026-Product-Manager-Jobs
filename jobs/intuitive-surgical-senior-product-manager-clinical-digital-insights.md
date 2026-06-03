@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Peachtree Corners, Georgia, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127728390-senior-product-manager-clinical-digital-insights) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000128600119-senior-product-manager-clinical-digital-insights) |
 
 ## About This Role
 
-This product manager position at Intuitive Surgical was posted on 2026-05-21.
+This product manager position at Intuitive Surgical was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

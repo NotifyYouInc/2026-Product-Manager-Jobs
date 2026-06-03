@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conga](https://scoutify.ai/companies/conga?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5063675007) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5134598007) |
 
 ## About This Role
 
-This product manager position at Conga was posted on 2026-04-14.
+This product manager position at Conga was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

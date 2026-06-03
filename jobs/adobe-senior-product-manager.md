@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R168580) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product-Manager_R167217-1) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-05-18.
+This product manager position at Adobe was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

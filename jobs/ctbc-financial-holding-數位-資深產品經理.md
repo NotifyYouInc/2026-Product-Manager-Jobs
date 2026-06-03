@@ -5,12 +5,12 @@
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR7294) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR7928) |
 
 ## About This Role
 
-This product manager position at CTBC Financial Holding was posted on 2026-04-21.
+This product manager position at CTBC Financial Holding was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Accra, Greater Accra, Ghana |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000126128529-manager-data-product) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000128444330-manager-data-product) |
 
 ## About This Role
 
-This product manager position at Standard Bank was posted on 2026-05-12.
+This product manager position at Standard Bank was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

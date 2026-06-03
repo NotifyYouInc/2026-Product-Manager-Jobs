@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000126109961-product-manager) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000128413165-product-manager) |
 
 ## About This Role
 
-This product manager position at Vattenfall was posted on 2026-05-12.
+This product manager position at Vattenfall was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

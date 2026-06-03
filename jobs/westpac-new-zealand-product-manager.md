@@ -5,12 +5,12 @@
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Product-Manager_JR107274) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Product-Manager_JR107060-1) |
 
 ## About This Role
 
-This product manager position at Westpac New Zealand was posted on 2026-05-18.
+This product manager position at Westpac New Zealand was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Product Owner - Test & Measurement SaaS Platform at EXFO
+
+| Field | Details |
+|-------|---------|
+| Company | [EXFO](https://scoutify.ai/companies/exfo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Montréal, Quebec, Canada |
+| Category | Product Manager |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://exfo.wd10.myworkdayjobs.com/EXFO_Careers/job/Quebec-City-QC-Canada/Product-Owner---Test---Measurement-SaaS-Platform_R-100156) |
+
+## About This Role
+
+This product manager position at EXFO was posted on 2026-04-27.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
