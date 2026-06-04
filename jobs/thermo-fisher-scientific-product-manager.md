@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Sweden |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Shanghai-China/Product-Manager_R-01353270) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Sweden/Product-Manager_R-01354202) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-05-15.
+This product manager position at Thermo Fisher Scientific was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

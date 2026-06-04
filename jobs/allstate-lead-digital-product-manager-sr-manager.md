@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Lead-Digital-Product-Manager--Sr-Manager-_R30706) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Belfast-10-Mays-Meadow/Lead-Digital-Product-Manager--Sr-Manager-_R30851) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-05-21.
+This product manager position at Allstate was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

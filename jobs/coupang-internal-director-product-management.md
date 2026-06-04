@@ -6,7 +6,7 @@
 | Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
 | Posted | 2026-05-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7919228?gh_jid=7919228) |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7919601?gh_jid=7919601) |
 
 ## About This Role
 

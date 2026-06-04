@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000122021167-senior-product-manager) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000128691439-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Xplor Technologies was posted on 2026-04-21.
+This product manager position at Xplor Technologies was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127204644-product-management-director) |
+| Category | Product Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000128795140-product-management-director) |
 
 ## About This Role
 
-This engineering manager position at Renesas Electronics was posted on 2026-05-19.
+This product manager position at Renesas Electronics was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

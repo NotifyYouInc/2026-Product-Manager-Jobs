@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012928631-director-of-data-communication) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013316076-director-of-data-communication) |
 
 ## About This Role
 
-This product manager position at City of New York was posted on 2026-05-01.
+This product manager position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Neuron7](https://scoutify.ai/companies/neuron7?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2025-03-30 |
-| Apply | [View on company site](https://jobs.lever.co/neuron7/ffc99ef3-8c9c-4545-98c6-be9c2c9b7802) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.lever.co/neuron7/e9d47d0d-6f19-4a59-8bf9-561d721b9efe) |
 
 ## About This Role
 
-This product manager position at Neuron7 was posted on 2025-03-30.
+This product manager position at Neuron7 was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

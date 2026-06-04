@@ -5,12 +5,12 @@
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000127510080-product-manager-ai-inference-model-serving) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000128696297-product-manager-ai-inference-model-serving) |
 
 ## About This Role
 
-This product manager position at Mirantis was posted on 2026-05-20.
+This product manager position at Mirantis was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

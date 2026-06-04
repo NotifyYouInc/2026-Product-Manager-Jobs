@@ -5,12 +5,12 @@
 | Company | [Commonroom](https://scoutify.ai/companies/commonroom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2025-12-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/commonroom/57c29474-353c-46f9-95be-13e8d3e170e2) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/commonroom/f8a19e88-30cd-4da8-be61-d21a59a46917) |
 
 ## About This Role
 
-This product manager position at Commonroom was posted on 2025-12-16.
+This product manager position at Commonroom was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000126925361-product-manager-payments-mfx) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000128705259-product-manager-payments-mfx) |
 
 ## About This Role
 
-This product manager position at Tipico was posted on 2026-05-18.
+This product manager position at Tipico was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

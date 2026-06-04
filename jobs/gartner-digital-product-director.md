@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Haryana, IN |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Digital-Product-Director_109112-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Digital-Product-Director_109989) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-03-26.
+This product manager position at Gartner was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

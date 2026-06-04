@@ -6,7 +6,7 @@
 | Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
 | Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7919227) |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7919600) |
 
 ## About This Role
 

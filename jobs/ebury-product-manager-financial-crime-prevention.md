@@ -1,16 +1,16 @@
-#  Product Manager- Financial Crime Prevention at Ebury
+# Product Manager- Financial Crime Prevention at Ebury
 
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
-| Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4816403101) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Financial Crimes & AML |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4876055101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-03-19.
+This financial crimes & aml position at Ebury was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012610686-associate-director-of-product-design) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013318505-associate-director-of-product-design) |
 
 ## About This Role
 
-This product manager position at City of New York was posted on 2026-04-15.
+This product manager position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

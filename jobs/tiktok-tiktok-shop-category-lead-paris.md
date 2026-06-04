@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7546149762140211474/detail) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7644575321106876677/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-05-07.
+This product manager position at TikTok was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

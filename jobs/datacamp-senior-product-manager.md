@@ -6,7 +6,7 @@
 | Location | United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-01-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/datacamp/jobs/7541295) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/datacamp/jobs/7541294) |
 
 ## About This Role
 

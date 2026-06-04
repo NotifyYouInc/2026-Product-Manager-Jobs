@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013148811-chief-product-development-officer-deputy-commissioner-for-product-development) |
+| Category | Leadership Development Program |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013321181-chief-product-development-officer-deputy-commissioner-for-product-development) |
 
 ## About This Role
 
-This product manager position at City of New York was posted on 2026-05-15.
+This leadership development program position at City of New York was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

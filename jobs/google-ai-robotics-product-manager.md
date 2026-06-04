@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/99389807548867270-ai-robotics-product-manager?sort_by=date&page=1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ-e-Yfx1YCEFxWbs8lMGQCSNSSd2VeFnjwrzZ8wPDn7EjsACxwdTIhXC7GK670BGbBGPxiUaV7k7_xN8gXniMkzi-_2kSgQZ9ORJLJ-y7f9F2e8FzZxK14Uz4fSKw%3D%3D_V2&loc=US&title=AI+Robotics+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-04.
+This product manager position at Google was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

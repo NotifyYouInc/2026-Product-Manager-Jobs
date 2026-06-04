@@ -1,16 +1,16 @@
-# Technical Product Owner, AVP at Barclays
+# Technical Product Owner - AVP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New Jersey, US |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Technical-Product-Owner--AVP_JR-0000108032) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Product-Owner---AVP_JR-0000109834) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-04-16.
+This product manager position at Barclays was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

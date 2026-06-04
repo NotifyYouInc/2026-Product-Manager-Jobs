@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Marketing |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Beijing-Beijing/Product---Services-Solutions-Manager_R0000370294) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Product---Services-Solutions-Manager_R0000372514) |
 
 ## About This Role
 
-This marketing position at Caterpillar was posted on 2026-05-25.
+This marketing position at Caterpillar was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

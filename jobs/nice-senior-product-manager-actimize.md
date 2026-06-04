@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hoboken, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4828278101?gh_jid=4828278101) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4870222101?gh_jid=4870222101) |
 
 ## About This Role
 
-This product manager position at NiCE was posted on 2026-05-07.
+This product manager position at NiCE was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

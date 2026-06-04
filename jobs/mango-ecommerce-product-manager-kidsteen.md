@@ -1,16 +1,16 @@
-# ECOMMERCE PRODUCT MANAGER (KIDS&TEEN) at Mango
+# ECOMMERCE PRODUCT MANAGER - KIDS&TEEN at Mango
 
 | Field | Details |
 |-------|---------|
 | Company | [Mango](https://scoutify.ai/companies/mango?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Catalonia, ES |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://mango.wd3.myworkdayjobs.com/mango_work_your_passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/ECOMMERCE-PRODUCT-MANAGER--KIDS-TEEN-_JR131727) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://mango.wd3.myworkdayjobs.com/mango_work_your_passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/ECOMMERCE-PRODUCT-MANAGER---KIDS-TEEN_JR134385) |
 
 ## About This Role
 
-This product manager position at Mango was posted on 2026-03-18.
+This product manager position at Mango was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

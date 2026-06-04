@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LendingTree](https://scoutify.ai/companies/lendingtree?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lendingtree/jobs/7460163) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lendingtree/jobs/7961146) |
 
 ## About This Role
 
-This product manager position at LendingTree was posted on 2026-03-02.
+This product manager position at LendingTree was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
