@@ -1,16 +1,16 @@
-# Sr Product Manager at The Home Depot
+# SR PRODUCT MANAGER at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Georgia, US |
+| Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/Sr-Product-Manager_Req171113) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/SR-PRODUCT-MANAGER_Req181683) |
 
 ## About This Role
 
-This product manager position at The Home Depot was posted on 2026-03-17.
+This product manager position at The Home Depot was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

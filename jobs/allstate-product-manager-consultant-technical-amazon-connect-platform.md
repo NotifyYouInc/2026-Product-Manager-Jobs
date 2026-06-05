@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Illinois, US |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Remote---Remote/Product-Manager---Consultant--Technical----Amazon-Connect-Platform_R27469) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Product-Manager---Consultant--Technical----Amazon-Connect-Platform_R30882) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-03-12.
+This product manager position at Allstate was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

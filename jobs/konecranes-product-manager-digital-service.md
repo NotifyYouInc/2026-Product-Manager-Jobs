@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Espoo, Uusimaa, Finland |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000128754989-product-manager-digital-service) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000128949404-product-manager-digital-service) |
 
 ## About This Role
 
-This product manager position at Konecranes was posted on 2026-05-27.
+This product manager position at Konecranes was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

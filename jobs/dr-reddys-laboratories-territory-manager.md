@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Visakhapatnam, Andhra Pradesh, India |
+| Location | Meerut, Uttar Pradesh, India |
 | Category | Account Executive |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000116877926-territory-manager) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000128907109-territory-manager) |
 
 ## About This Role
 
-This account executive position at Dr. Reddy's Laboratories was posted on 2026-03-26.
+This account executive position at Dr. Reddy's Laboratories was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

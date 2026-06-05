@@ -5,12 +5,12 @@
 | Company | [Affinity.co](https://scoutify.ai/companies/affinity-co?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7692718003) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinity/jobs/7751694003) |
 
 ## About This Role
 
-This product manager position at Affinity.co was posted on 2026-04-09.
+This product manager position at Affinity.co was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

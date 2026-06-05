@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nitra](https://scoutify.ai/companies/nitra?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.lever.co/nitra/f2ba54f0-fab6-4090-9a3b-d9a9d16eba29) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.lever.co/nitra/0684181b-4860-482e-b03c-4cfa2c3298cf) |
 
 ## About This Role
 
-This product manager position at Nitra was posted on 2026-05-05.
+This product manager position at Nitra was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Marketing |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000123194969-lead-product-product-marketing-solution-b2b-cse-comptabilite-hf) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000128982030-lead-product-product-marketing-solution-b2b-cse-comptabilite-hf) |
 
 ## About This Role
 
-This marketing position at Nexton was posted on 2026-04-27.
+This marketing position at Nexton was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

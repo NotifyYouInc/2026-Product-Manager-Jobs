@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kirkland, Washington, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/96811893015880390-launch-manager-trust-and-safety-chrome-extensions-security?sort_by=date&page=1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRIcugcSfSVZveegOW5zXaXziSXs-rcYQIms3EnDIHasEjsACxwdTO_o3YZPcTYuOvZJ8kNWd4eyQfCVw4zJlDtSyrwgqcJg7MFMCneAVfI96oe2SGPm6hudhPC35w%3D%3D_V2&loc=US&title=Launch+Manager) |
 
 ## About This Role
 
-This implementation / professional services position at Google was posted on 2026-03-03.
+This implementation / professional services position at Google was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

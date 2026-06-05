@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000128755319-product-manager) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000128901271-product-manager) |
 
 ## About This Role
 
-This product manager position at Konecranes was posted on 2026-05-27.
+This product manager position at Konecranes was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

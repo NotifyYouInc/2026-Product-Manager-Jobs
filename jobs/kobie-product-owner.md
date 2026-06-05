@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kobie](https://scoutify.ai/companies/kobie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | St. Petersburg, Florida, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.lever.co/kobie/be34034e-72b6-41e1-9d9e-e9abde61f46f) |
+| Posted | 2025-11-12 |
+| Apply | [View on company site](https://jobs.lever.co/kobie/ae307bae-dd2b-4873-99b4-66373dc349a5) |
 
 ## About This Role
 
-This product manager position at Kobie was posted on 2026-05-05.
+This product manager position at Kobie was posted on 2025-11-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Marlborough, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Cardiff-United-Kingdom/Global-Product-Manager--Lab-Filtration-Microbiology_R1310305) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Marlborough-Massachusetts-United-States/Global-Product-Manager--Lab-Filtration-Microbiology_R1311495) |
 
 ## About This Role
 
-This product manager position at Danaher was posted on 2026-05-18.
+This product manager position at Danaher was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | California, US |
+| Location | Washington, US |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CA---Virtual---D/Group-Product-Manager--Universal-Ads_R433948) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/WA---Virtual---E/Group-Product-Manager--Universal-Ads_R438262) |
 
 ## About This Role
 
-This product manager position at Comcast was posted on 2026-03-27.
+This product manager position at Comcast was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Product-Owner_R-00279144-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Product-Owner_R-00274726-1) |
 
 ## About This Role
 
-This product manager position at NatWest Group was posted on 2026-05-22.
+This product manager position at NatWest Group was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012464345-allergan-aesthetics-urun-uzman) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013343886-allergan-aesthetics-urun-uzman) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-06.
+This product manager position at AbbVie was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

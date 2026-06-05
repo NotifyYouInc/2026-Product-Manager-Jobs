@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | California, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Senior-Product-Manager_26WD97342-2) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager_26WD98021-2) |
 
 ## About This Role
 
-This product manager position at Autodesk was posted on 2026-04-20.
+This product manager position at Autodesk was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

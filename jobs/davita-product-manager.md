@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Middleburg Heights, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01887---DaVita-Village-Health-Colorado/Product-Manager_R0455636) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09539---Ohio-Remote/Product-Manager_R0461032) |
 
 ## About This Role
 
-This product manager position at DaVita was posted on 2026-04-28.
+This product manager position at DaVita was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
