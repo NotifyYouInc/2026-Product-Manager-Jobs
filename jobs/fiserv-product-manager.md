@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Toronto---200-Bay-Street/Product-Manager_R-10393823) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Buenos-Aires---Retiro/Product-Manager_R-10392577) |
 
 ## About This Role
 
-This product manager position at Fiserv was posted on 2026-05-01.
+This product manager position at Fiserv was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

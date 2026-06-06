@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Lead-Business-Functional-Analyst--VP_R0425859) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Lead-Business-Functional-Analyst--VP_R0437825) |
 
 ## About This Role
 
-This product manager position at Deutsche Bank was posted on 2026-02-19.
+This product manager position at Deutsche Bank was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

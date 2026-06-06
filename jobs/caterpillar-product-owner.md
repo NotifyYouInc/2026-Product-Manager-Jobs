@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Košice, Košice Region, Slovakia |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Product-Owner_R0000369567) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Product-Owner_R0000373184) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-05-19.
+This product manager position at Caterpillar was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

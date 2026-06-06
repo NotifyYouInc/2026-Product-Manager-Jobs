@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ESP---Barcelona/Technology-Product-Manager_R0057469) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/ESP---Barcelona/Technology-Product-Manager_R0057537) |
 
 ## About This Role
 
-This product manager position at Wolters Kluwer was posted on 2026-05-28.
+This product manager position at Wolters Kluwer was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

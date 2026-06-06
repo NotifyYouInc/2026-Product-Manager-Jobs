@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Mexico |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Director--Technology-Product-Management_REQ509066) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Distrito-FederalMEX/Director--Technology-Product-Management_REQ509562-1) |
 
 ## About This Role
 
-This product manager position at JLL was posted on 2026-05-28.
+This product manager position at JLL was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

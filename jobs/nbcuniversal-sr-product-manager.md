@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Centennial, Colorado, United States |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000128803057-sr-product-manager) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000129195089-sr-product-manager) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-05-27.
+This product manager position at NBCUniversal was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 42 locations |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/Banking-Product-Owner-Senior-Manager_R00322967) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/San-Francisco-415-Mission-Street-Corp/Banking-Product-Owner-Senior-Manager_R00333202) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-03-31.
+This product manager position at Accenture was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

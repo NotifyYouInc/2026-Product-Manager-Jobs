@@ -5,12 +5,12 @@
 | Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.lever.co/plaid/6ce66588-0d49-42be-bcdd-724425d02b8b) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/aef4ef62-ea67-4c9c-98f4-6a81a4dc1f09) |
 
 ## About This Role
 
-This product manager position at Plaid was posted on 2026-02-10.
+This product manager position at Plaid was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

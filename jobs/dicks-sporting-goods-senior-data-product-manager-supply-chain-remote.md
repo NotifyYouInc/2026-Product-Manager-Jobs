@@ -5,12 +5,12 @@
 | Company | [Dick's Sporting Goods](https://scoutify.ai/companies/dickssportinggoods?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Remote---US/Senior-Data-Product-Manager---Supply-Chain---REMOTE-_202601880) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Remote---US/Senior-Data-Product-Manager---Supply-Chain---REMOTE-_202608049) |
 
 ## About This Role
 
-This product manager position at Dick's Sporting Goods was posted on 2026-03-04.
+This product manager position at Dick's Sporting Goods was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

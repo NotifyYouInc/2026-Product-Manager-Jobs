@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hawkeyeinnovations](https://scoutify.ai/companies/hawkeyeinnovations?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Budapest, Budapest, Hungary |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hawkeyeinnovations/85447de2-f152-421b-a94a-00a430241161) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hawkeyeinnovations/ddd9e2a9-8668-469d-8619-8f05b9a984fe) |
 
 ## About This Role
 
-This product manager position at Hawkeyeinnovations was posted on 2026-05-28.
+This product manager position at Hawkeyeinnovations was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

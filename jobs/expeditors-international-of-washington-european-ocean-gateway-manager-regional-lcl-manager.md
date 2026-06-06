@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000127876820-european-ocean-gateway-manager-regional-lcl-manager) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000129186649-european-ocean-gateway-manager-regional-lcl-manager) |
 
 ## About This Role
 
-This product manager position at Expeditors International of Washington was posted on 2026-05-22.
+This product manager position at Expeditors International of Washington was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

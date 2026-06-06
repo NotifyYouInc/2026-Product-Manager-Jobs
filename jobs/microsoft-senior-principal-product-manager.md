@@ -1,16 +1,16 @@
-# Senior / Principal Product Manager at Microsoft
+# Senior Principal Product Manager at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556825473) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556867980) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-03-04.
+This product manager position at Microsoft was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

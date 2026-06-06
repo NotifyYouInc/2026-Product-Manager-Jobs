@@ -5,12 +5,12 @@
 | Company | [Path Robotics](https://scoutify.ai/companies/path-robotics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://boards.greenhouse.io/pathrobotics/jobs/8347403002?gh_jid=8347403002) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/pathrobotics/jobs/8571279002?gh_jid=8571279002) |
 
 ## About This Role
 
-This product manager position at Path Robotics was posted on 2026-02-03.
+This product manager position at Path Robotics was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Mumbai-Equifax-Credit-Information-Services/Technical-Product-Owner_J00176765) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Technical-Product-Owner_J00175990-1) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-05-15.
+This product manager position at Equifax was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

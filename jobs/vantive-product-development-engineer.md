@@ -5,12 +5,12 @@
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Castlebar, Connacht, Ireland |
 | Category | Software Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Castlebar-Mayo/Product-Development-Engineer_JR-193956) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Castlebar-Mayo/Product-Development-Engineer_JR-183733) |
 
 ## About This Role
 
-This software engineer position at Vantive was posted on 2026-04-22.
+This software engineer position at Vantive was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

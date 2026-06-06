@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000128891807-product-manager-data-hub-tech-foundations) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129127518-product-manager-data-hub-tech-foundations) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-05-28.
+This product manager position at Delivery Hero was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

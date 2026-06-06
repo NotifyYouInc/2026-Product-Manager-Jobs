@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Birmingham, England, United Kingdom |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000118159337-senior-product-manager) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000129206263-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Netcompany was posted on 2026-04-01.
+This product manager position at Netcompany was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

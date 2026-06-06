@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Morlaix, Brittany, France |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000123892169-product-owner-hf) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000129138206-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Everience was posted on 2026-04-30.
+This product manager position at Everience was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

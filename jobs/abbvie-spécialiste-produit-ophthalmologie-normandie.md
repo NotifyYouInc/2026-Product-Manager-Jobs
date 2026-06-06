@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | France |
+| Location | Merville-Franceville-Plage, Normandy, France |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013346197-specialiste-produit-ophthalmologie-normandie) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013372314-specialiste-produit-ophthalmologie-normandie) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-05-28.
+This product manager position at AbbVie was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

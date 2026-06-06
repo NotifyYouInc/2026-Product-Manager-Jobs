@@ -1,16 +1,16 @@
-# Principal Product Manager, Loyalty & Referrals at HelloFresh
+# Principal Product Manager, Loyalty & Referrals  at HelloFresh
 
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Poland |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7916926?gh_jid=7916926) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7916922?gh_jid=7916922) |
 
 ## About This Role
 
-This product manager position at HelloFresh was posted on 2026-05-27.
+This product manager position at HelloFresh was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

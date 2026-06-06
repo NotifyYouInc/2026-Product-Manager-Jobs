@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Argentina |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127917271-campaign-manager-fv-frutas-vegetales-crop-protection) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000129193058-campaign-manager-fv-frutas-vegetales-crop-protection) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-05-22.
+This product manager position at Syngenta was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

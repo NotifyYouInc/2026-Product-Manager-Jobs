@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | La Ciotat, Provence-Alpes-Côte d'Azur, France |
+| Location | Rungis, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/La-Ciotat/Product-Owner--F-H-_R0327052) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Product-Owner--F-H-_R0329133-1) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-05-25.
+This product manager position at Thales was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

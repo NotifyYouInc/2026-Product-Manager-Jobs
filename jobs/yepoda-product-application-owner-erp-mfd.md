@@ -5,12 +5,12 @@
 | Company | [Yepoda](https://scoutify.ai/companies/yepoda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/yepoda/8a7b025b-3144-4614-8549-9b2d2dbefd54) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/yepoda/1486ef17-b25f-47c4-ac25-bd5c5e101231) |
 
 ## About This Role
 
-This product manager position at Yepoda was posted on 2026-05-21.
+This product manager position at Yepoda was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

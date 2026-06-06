@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Associate-Director---Product-Owner_JR00120507-2) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Gurugram-Haryana/Associate-Director---Product-Owner_JR00122706-2) |
 
 ## About This Role
 
-This product manager position at Sun Life Financial was posted on 2026-03-10.
+This product manager position at Sun Life Financial was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
