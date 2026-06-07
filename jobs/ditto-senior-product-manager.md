@@ -1,16 +1,16 @@
-# Principal Product Manager at Achieve
+# Senior Product Manager at Ditto
 
 | Field | Details |
 |-------|---------|
-| Company | [Achieve](https://scoutify.ai/companies/achieve?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tempe, Arizona, United States |
+| Company | [Ditto](https://scoutify.ai/companies/ditto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Achieve1/3743990013355866-principal-product-manager) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ditto/e0d1382e-cce4-4ea8-a7ba-84218e0e9361) |
 
 ## About This Role
 
-This product manager position at Achieve was posted on 2026-05-28.
+This product manager position at Ditto was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 
