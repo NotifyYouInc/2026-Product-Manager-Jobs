@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Unsecured Lending Product Manager at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Vietnam |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Ho-Chi-Minh-City-Area/Unsecured-Lending-Product-Manager_JR87006) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at UOB Group was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

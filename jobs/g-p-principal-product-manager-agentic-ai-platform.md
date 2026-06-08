@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Principal Product Manager – Agentic AI Platform at G-P
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7749444003) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at G-P was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

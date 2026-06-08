@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | AI / ML Research |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1007230415130218) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082565018957406) |
 
 ## About This Role
 

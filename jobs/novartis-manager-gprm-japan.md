@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Manager, GPRM Japan at Novartis
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Toranomon, Tokyo, Japan |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Toranomon-NPKK-Head-Office/Manager--GPRM-Japan_REQ-10079675-6) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at Novartis was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

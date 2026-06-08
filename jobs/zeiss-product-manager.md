@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Shanghai/Product-Manager_JR_1048525-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Guangzhou/Product-Manager_JR_1049076) |
 
 ## About This Role
 
-This product manager position at Zeiss was posted on 2026-04-02.
+This product manager position at Zeiss was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# SIPP & ISA Product Specialist at Vanguard
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/London-United-Kingdom/SIPP---ISA-Product-Specialist_177899-2) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at Vanguard was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

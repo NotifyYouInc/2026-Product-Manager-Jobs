@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# 個金_信託投資產品行銷企劃 at CTBC Financial Holding
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-_JR7993) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at CTBC Financial Holding was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

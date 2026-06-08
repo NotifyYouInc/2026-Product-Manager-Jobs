@@ -1,16 +1,16 @@
-# Senior Product Manager at S&P Global
+# Display Manager (gn) at The Quality Group GmbH
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [The Quality Group GmbH](https://scoutify.ai/companies/the-quality-group-gmbh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Product Manager |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Senior-Product-Manager_328992) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4878981101) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-05-31.
+This product manager position at The Quality Group GmbH was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

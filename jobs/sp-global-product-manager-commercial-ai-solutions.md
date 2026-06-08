@@ -1,16 +1,16 @@
-# Senior Product Manager at S&P Global
+# Product Manager, Commercial AI Solutions at S&P Global
 
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Senior-Product-Manager_328992) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---NC---RALEIGH-421-FAYETTEVILLE-STREET/Product-Manager--Commercial-AI-Solutions_328962-1) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-05-31.
+This product manager position at S&P Global was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

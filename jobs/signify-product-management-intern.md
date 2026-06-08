@@ -1,16 +1,16 @@
-# Senior Product Manager at S&P Global
+# Product Management Intern at Signify
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Senior-Product-Manager_328992) |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Product-Management-Intern_364412) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-05-31.
+This product manager position at Signify was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

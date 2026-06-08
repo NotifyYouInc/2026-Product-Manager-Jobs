@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Product Monetisation & Pricing Lead at Mistral AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Mistral AI](https://scoutify.ai/companies/mistral?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://jobs.lever.co/mistral/5719bb00-13d0-4bac-ad9d-ad974f84f959) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at Mistral AI was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

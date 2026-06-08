@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Associate Product Manager (m/w/d) at TAKKT
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [TAKKT](https://scoutify.ai/companies/takkt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://takkt.wd3.myworkdayjobs.com/takkt/job/Stuttgart-Germany/Associate-Product-Manager--m-w-d-_JR100807) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at TAKKT was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

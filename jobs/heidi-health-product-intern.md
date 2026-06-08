@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Product Intern at Heidi Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/bb6c9b32-8a5f-4c10-819c-2f685d1c7f86) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at Heidi Health was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

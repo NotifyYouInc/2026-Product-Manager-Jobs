@@ -5,12 +5,12 @@
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Costa Rica |
 | Category | Data Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/La-Aurora-Heredia/Technical-Data-Product-Owner-for-Finance_JR-195020-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/La-Aurora-Heredia/Technical-Data-Product-Owner-for-Finance_JR-194975) |
 
 ## About This Role
 
-This data engineer position at Vantive was posted on 2026-05-25.
+This data engineer position at Vantive was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

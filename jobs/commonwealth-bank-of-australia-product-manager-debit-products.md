@@ -1,16 +1,16 @@
-# Associate Product Manager at Luxury Escapes
+# Product Manager, Debit Products at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Luxury Escapes](https://scoutify.ai/companies/luxuryescapes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LuxuryEscapes/6000000001120913-associate-product-manager) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Product-Manager--Debit-Products_REQ259391) |
 
 ## About This Role
 
-This product manager position at Luxury Escapes was posted on 2026-06-01.
+This product manager position at Commonwealth Bank of Australia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

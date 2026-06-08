@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Product Manager II at Abnormal
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Abnormal](https://scoutify.ai/companies/abnormal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7957032) |
+| Apply | [View on company site](https://abnormal.ai/careers/jobs/7750987003?gh_jid=7750987003) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-01.
+This product manager position at Abnormal was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
