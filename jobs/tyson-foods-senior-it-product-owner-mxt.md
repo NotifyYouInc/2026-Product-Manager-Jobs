@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Coahuila, MX |
+| Location | Torreón, Coahuila, Mexico |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-IT-Product-Owner-MXT_R0452944-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/TRC-IT-HUB---Torreon-El-Fresno-Coahuila-Mexico/Senior-IT-Product-Owner-MXT_R0464457-1) |
 
 ## About This Role
 
-This product manager position at Tyson Foods was posted on 2026-03-31.
+This product manager position at Tyson Foods was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

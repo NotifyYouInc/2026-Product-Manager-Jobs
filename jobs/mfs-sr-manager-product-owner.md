@@ -5,12 +5,12 @@
 | Company | [MFS](https://scoutify.ai/companies/mfs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Sr-Manager--Product-Owner_MFS-231765) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://mfs.wd1.myworkdayjobs.com/MFS-Careers/job/Boston/Sr-Manager--Product-Owner_MFS-231786) |
 
 ## About This Role
 
-This product manager position at MFS was posted on 2026-05-14.
+This product manager position at MFS was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

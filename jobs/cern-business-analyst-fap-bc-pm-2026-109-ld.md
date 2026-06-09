@@ -5,12 +5,12 @@
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Switzerland |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000127816689-business-analyst-fap-bc-pm-2026-109-ld) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000129427824-business-analyst-fap-bc-pm-2026-109-ld) |
 
 ## About This Role
 
-This product manager position at CERN was posted on 2026-05-22.
+This product manager position at CERN was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

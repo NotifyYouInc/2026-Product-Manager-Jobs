@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Marketing |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Science-Hub-Tower-4-Manila-Philippines/Product-Manager_R117208) |
+| Category | Product Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Science-Hub-Tower-4-Manila-Philippines/Product-Manager_R116700-1) |
 
 ## About This Role
 
-This marketing position at Samsung was posted on 2026-05-20.
+This product manager position at Samsung was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

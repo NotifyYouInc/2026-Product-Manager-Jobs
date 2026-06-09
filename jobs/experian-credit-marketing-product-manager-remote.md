@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126138474-credit-marketing-product-manager-remote) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129542844-credit-marketing-product-manager-remote) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-05-12.
+This product manager position at Experian was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

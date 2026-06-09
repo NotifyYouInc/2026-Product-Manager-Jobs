@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Senior-Product-Manager---Fulfillment_R-2514770-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Senior-Product-Manager---Fulfillment_R-2517010-2) |
 
 ## About This Role
 
-This product manager position at Walmart was posted on 2026-05-29.
+This product manager position at Walmart was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

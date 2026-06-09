@@ -1,16 +1,16 @@
-# PRODUCT MANAGER at Experian
+# Product Manager at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125871409-product-manager) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129464286-product-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-05-11.
+This product manager position at Experian was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

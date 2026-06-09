@@ -1,16 +1,16 @@
-# Responsable produit série F/H at Thales
+# Responsable Produit Série (F/H) at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Rouen, Normandy, France |
+| Location | Brive-la-Gaillarde, Nouvelle-Aquitaine, France |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rouen/Responsable-produit-srie-F-H_R0322813-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Brive-la-Gaillarde/Responsable-Produit-Srie--F-H-_R0327681-1) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-03-25.
+This product manager position at Thales was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

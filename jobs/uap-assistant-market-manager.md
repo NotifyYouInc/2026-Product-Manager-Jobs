@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000124170816-assistant-market-manager) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000129589950-assistant-market-manager) |
 
 ## About This Role
 
-This product manager position at UAP was posted on 2026-05-01.
+This product manager position at UAP was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

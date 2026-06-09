@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Peterborough, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Devonshire-Square/Senior-Specialist--Product-Management_R-277895) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Peterborough-England/Senior-Specialist--Product-Management_R-278443-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-20.
+This product manager position at Mastercard was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

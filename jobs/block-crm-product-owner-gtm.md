@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | California, US |
 | Category | Product Manager |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5235961008?gh_jid=5235961008) |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5183774008?gh_jid=5183774008) |
 
 ## About This Role
 

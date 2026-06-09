@@ -5,12 +5,12 @@
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TX-Austin/Sr-Product-Manager_R56411) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---TX-Austin/Sr-Product-Manager_R56473) |
 
 ## About This Role
 
-This product manager position at Trimble was posted on 2026-05-28.
+This product manager position at Trimble was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

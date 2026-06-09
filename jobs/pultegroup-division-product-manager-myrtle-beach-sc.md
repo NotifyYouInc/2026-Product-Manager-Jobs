@@ -5,12 +5,12 @@
 | Company | [PulteGroup](https://scoutify.ai/companies/pultegroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Myrtle Beach, South Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Myrtle-Beach-SC/Division-Product-Manager---Myrtle-Beach--SC_JR8891) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Myrtle-Beach-SC/Division-Product-Manager---Myrtle-Beach--SC_JR9146) |
 
 ## About This Role
 
-This product manager position at PulteGroup was posted on 2026-04-16.
+This product manager position at PulteGroup was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

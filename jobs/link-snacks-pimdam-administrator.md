@@ -5,12 +5,12 @@
 | Company | [Link Snacks](https://scoutify.ai/companies/linksnacks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000129183043-pimdam-administrator) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000129586099-pimdam-administrator) |
 
 ## About This Role
 
-This product manager position at Link Snacks was posted on 2026-05-29.
+This product manager position at Link Snacks was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

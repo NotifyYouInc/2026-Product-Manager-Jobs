@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/114214628052869830-lead-group-product-manager-procurement-engineering?sort_by=date&page=1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRVjVHOrC3uanROJiNbNwtluC1D_doT4hgGYmn0wP3KYEjsACxwdTEXPkKCmQGJvEvL6YxOfWk0xzHDlhJgM4c8Si92ER36G62rkc4jpVSK4qc3kZnUg4yrwnmxqJA%3D%3D_V2&loc=US&title=Lead+Group+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-26.
+This product manager position at Google was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

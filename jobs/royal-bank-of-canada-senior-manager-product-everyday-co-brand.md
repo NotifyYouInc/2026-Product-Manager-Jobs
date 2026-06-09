@@ -1,16 +1,16 @@
-# Senior Manager, Product, Everyday Co-Brand at Royal Bank of Canada
+# Senior Manager,  Product , Everyday Co Brand at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Brand Marketing |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Manager--Product--Everyday-Co-Brand_R-0000168169) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Manager---Product---Everyday-Co-Brand_R-0000174448) |
 
 ## About This Role
 
-This brand marketing position at Royal Bank of Canada was posted on 2026-04-17.
+This brand marketing position at Royal Bank of Canada was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

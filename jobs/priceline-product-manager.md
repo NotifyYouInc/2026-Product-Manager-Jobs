@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Product-Manager_R5629) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Product-Manager_R5680) |
 
 ## About This Role
 
-This product manager position at Priceline was posted on 2026-05-06.
+This product manager position at Priceline was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

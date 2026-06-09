@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jonas Software](https://scoutify.ai/companies/talentmanagementsolution?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ontario, CA |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote-Canada-ON/Product-Manager_R49625-2) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Product-Manager_R52382-1) |
 
 ## About This Role
 
-This product manager position at Jonas Software was posted on 2026-02-10.
+This product manager position at Jonas Software was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Nantes, Pays de la Loire, France |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000129164479-product-owner-data-alteryx-hf) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000129531139-product-owner-data-alteryx-hf) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-05-29.
+This product manager position at Nexton was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
