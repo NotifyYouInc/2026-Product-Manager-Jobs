@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000128691609-senior-product-manager) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000129798622-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Xplor Technologies was posted on 2026-05-27.
+This product manager position at Xplor Technologies was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HALA](https://scoutify.ai/companies/hala?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hala/jobs/4975560008) |
+| Posted | 2025-12-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hala/jobs/4960149008) |
 
 ## About This Role
 
-This product manager position at HALA was posted on 2026-03-11.
+This product manager position at HALA was posted on 2025-12-30.
 
 ## Get Real-Time Alerts
 

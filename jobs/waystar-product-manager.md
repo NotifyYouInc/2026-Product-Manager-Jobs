@@ -5,12 +5,12 @@
 | Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Product-Manager_R3199) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Senior-Product-Manager_R3249) |
 
 ## About This Role
 
-This product manager position at Waystar was posted on 2026-05-11.
+This product manager position at Waystar was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

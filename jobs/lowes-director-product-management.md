@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/IND-LBT/Director--Product-Management_JR-02489901) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Director--Product-Management_JR-02542180) |
 
 ## About This Role
 
-This product manager position at Lowe's was posted on 2026-04-23.
+This product manager position at Lowe's was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

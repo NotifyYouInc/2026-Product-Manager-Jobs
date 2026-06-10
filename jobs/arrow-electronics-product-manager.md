@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Product-Manager_R244312) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Warsaw-Poland-Krakowiakw/Product-Manager_R242805) |
 
 ## About This Role
 
-This product manager position at Arrow Electronics was posted on 2026-05-27.
+This product manager position at Arrow Electronics was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

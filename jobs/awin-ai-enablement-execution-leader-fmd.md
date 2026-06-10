@@ -5,12 +5,12 @@
 | Company | [Awin](https://scoutify.ai/companies/awin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7749237003) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/awin/jobs/7758359003) |
 
 ## About This Role
 
-This product manager position at Awin was posted on 2026-05-27.
+This product manager position at Awin was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

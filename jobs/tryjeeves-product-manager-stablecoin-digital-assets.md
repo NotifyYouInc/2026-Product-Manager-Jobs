@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tryjeeves](https://scoutify.ai/companies/tryjeeves?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.lever.co/tryjeeves/78749d93-424e-4ad3-bc16-b0e8dd25ae0c) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.lever.co/tryjeeves/e1f64ae7-253f-4670-93aa-8a84abd0959c) |
 
 ## About This Role
 
-This product manager position at Tryjeeves was posted on 2026-05-20.
+This product manager position at Tryjeeves was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

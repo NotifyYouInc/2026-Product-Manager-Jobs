@@ -1,16 +1,16 @@
-# Product Manager / Sr. Product Manager  at Robert Bosch
+# Product Manager / Sr. Product Manager at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Plymouth, Minnesota, United States |
+| Location | Oak Brook, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127277449-product-manager-sr-product-manager) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129780423-product-manager-sr-product-manager) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-05-19.
+This product manager position at Robert Bosch was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

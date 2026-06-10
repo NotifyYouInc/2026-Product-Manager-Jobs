@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Leeds-United-Kingdom/Product-Manager_19039715) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Johannesburg/Product-Manager_19040809) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-03-20.
+This product manager position at TransUnion was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

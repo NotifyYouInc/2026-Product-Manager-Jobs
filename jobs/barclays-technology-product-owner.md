@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Knutsford, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Technology-Product-Owner_JR-0000096665-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Technology-Product-Owner_JR-0000108558) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-04-27.
+This product manager position at Barclays was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

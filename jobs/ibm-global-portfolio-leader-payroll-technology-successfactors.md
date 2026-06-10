@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | Armonk, New York, United States |
 | Category | Accounting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107776) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117515) |
 
 ## About This Role
 
-This accounting position at IBM was posted on 2026-04-13.
+This accounting position at IBM was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

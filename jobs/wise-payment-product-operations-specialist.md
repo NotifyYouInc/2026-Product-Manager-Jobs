@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127713460-payment-product-operations-specialist) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000129787995-payment-product-operations-specialist) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-05-21.
+This product manager position at WISE was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

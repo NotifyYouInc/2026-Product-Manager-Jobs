@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [G-P](https://scoutify.ai/companies/g-p?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7704202003) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalizationpartners/jobs/7752849003) |
 
 ## About This Role
 
-This product manager position at G-P was posted on 2026-04-21.
+This product manager position at G-P was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

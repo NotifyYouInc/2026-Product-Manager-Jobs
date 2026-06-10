@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 8 locations |
+| Location | Alpharetta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/VP--PRISM-Product-Manager_2600409) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Hub/VP--PRISM-Product-Manager_2601591) |
 
 ## About This Role
 
-This product manager position at Synchrony Financial was posted on 2026-02-25.
+This product manager position at Synchrony Financial was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

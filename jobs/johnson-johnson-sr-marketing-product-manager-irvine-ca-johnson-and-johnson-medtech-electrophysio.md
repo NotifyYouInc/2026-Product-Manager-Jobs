@@ -1,16 +1,16 @@
-# Sr. Marketing - Product Manager (Irvine, CA) Johnson and Johnson, MedTech Electrophysiology at Johnson & Johnson
+# Sr. Marketing, Product Manager (Irvine, CA) Johnson and Johnson MedTech, Electrophysiology at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irvine, California, United States |
 | Category | Marketing |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Sr-Marketing---Product-Manager--Irvine--CA--Johnson-and-Johnson--MedTech-Electrophysiology_R-062350-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Irvine-California-United-States-of-America/Sr-Marketing--Product-Manager--Irvine--CA--Johnson-and-Johnson-MedTech--Electrophysiology_R-078859-1) |
 
 ## About This Role
 
-This marketing position at Johnson & Johnson was posted on 2026-04-13.
+This marketing position at Johnson & Johnson was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

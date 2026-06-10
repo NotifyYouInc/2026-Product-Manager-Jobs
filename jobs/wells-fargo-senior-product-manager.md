@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WILMINGTON-DE/Senior-Product-Manager_R-546789) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Product-Manager_R-549735) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-06-01.
+This product manager position at Wells Fargo was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

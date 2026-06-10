@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Oslo, Oslo, Norway |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Oslo/Product-Manager_R576478) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Oslo/Product-Manager_R593855-1) |
 
 ## About This Role
 
-This product manager position at Alimentation Couche-Tard was posted on 2026-04-01.
+This product manager position at Alimentation Couche-Tard was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000115921807-sr-director-data-product-strategy) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000129830319-sr-director-data-product-strategy) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-03-20.
+This product manager position at NBCUniversal was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

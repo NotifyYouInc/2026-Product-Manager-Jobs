@@ -5,12 +5,12 @@
 | Company | [Wrike](https://scoutify.ai/companies/wrike?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4700667005) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4701772005) |
 
 ## About This Role
 
-This product manager position at Wrike was posted on 2026-05-29.
+This product manager position at Wrike was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

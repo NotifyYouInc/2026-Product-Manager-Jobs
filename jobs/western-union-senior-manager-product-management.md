@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Lagos, Lagos, Nigeria |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/USA---CO---Denver/Senior-Manager--Product-Management_JR0126305) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/NGA---Lagos---Landmark-Boulevard/Senior-Manager--Product-Management_JR0130706-1) |
 
 ## About This Role
 
-This product manager position at Western Union was posted on 2026-02-19.
+This product manager position at Western Union was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

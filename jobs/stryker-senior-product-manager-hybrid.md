@@ -1,16 +1,16 @@
-# Senior Product Manager  (hybrid) at Stryker
+# Senior Product Manager (hybrid) at Stryker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bloomington, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bloomington-Minnesota/Senior-Product-Manager---hybrid-_R563122) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bloomington-Minnesota/Senior-Product-Manager--hybrid-_R564623) |
 
 ## About This Role
 
-This product manager position at Stryker was posted on 2026-04-07.
+This product manager position at Stryker was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

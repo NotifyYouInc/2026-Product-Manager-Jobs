@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Stoke-on-Trent, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000124879318-senior-software-product-analyst) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000129697469-senior-software-product-analyst) |
 
 ## About This Role
 
-This product manager position at bet365 was posted on 2026-05-06.
+This product manager position at bet365 was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUAGaPXhEC12BBeXA9RDihHEQGCsjhz8AklXaoaDrtlHEjoACxwdTDtCWke84_AZJsbynyJobJb-IUgCHpQvgqS4ay7F8sLDJeTwljEq7tcgqtitZ_v3mmWPSZNQ_V2&loc=US&title=Director) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfEGFj-IZC7Lq5iIyaSJfV-TCk62HE7zoLJC4YBXEvhZEjoACxwdTPvJvSmaEegNhoud2rxgMwyj759LeG218-X0hJlj39qZtHwXjTJIbiD8XzT19oggSUsIcE0o_V2&loc=US&title=Director) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-05-05.
+This product manager position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

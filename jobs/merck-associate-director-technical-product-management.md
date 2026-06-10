@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Rahway, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Director--Technical-Product-Management_R396117) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Director--Technical-Product-Management_R400756) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-05-06.
+This product manager position at Merck was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

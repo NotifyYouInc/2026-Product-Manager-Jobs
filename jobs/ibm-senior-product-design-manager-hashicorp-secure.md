@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=81451) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118117) |
 
 ## About This Role
 
-This product manager position at IBM was posted on 2026-02-09.
+This product manager position at IBM was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

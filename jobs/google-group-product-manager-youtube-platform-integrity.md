@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Bruno, California, United States |
 | Category | Trust & Safety |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdl9n1oVmpIxInsfBfYiHopS3zVB2gBWxtz9VBGtVhuYEjsACxwdTPdr4YQcYfa3fAy894oL1CumsS-Mp7jsxB-kbIJT8HS0tDjyWkPmpI7v8fclo_te43-ocfE7FA%3D%3D_V2&loc=US&title=Group+Product+Manager) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka30IwRtRRihcU2Q5WrhlaRyPk_84hrldKWSZLTgGuSdEjsACxwdTFUcfkHhfx10PmGgScmLlBpRVnfRNsHzAzqRn2kvG8P9wsw9rqGCQyJjulJ-PdikNAQ2p9IHDw%3D%3D_V2&loc=US&title=Group+Product+Manager) |
 
 ## About This Role
 
-This trust & safety position at Google was posted on 2026-05-14.
+This trust & safety position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

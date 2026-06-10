@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kerala, IN |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Senior-Technical-Product-Owner_J00175546-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Senior-Technical-Product-Owner_J00177337-1) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-03-17.
+This product manager position at Equifax was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

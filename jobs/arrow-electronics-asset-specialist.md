@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Shenzhen, Guangdong, China |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/HK-Hong-Kong-HKSTP-Green-18/Asset-Specialist_R243578) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Asset-Specialist_R243053) |
 
 ## About This Role
 
-This product manager position at Arrow Electronics was posted on 2026-05-20.
+This product manager position at Arrow Electronics was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
