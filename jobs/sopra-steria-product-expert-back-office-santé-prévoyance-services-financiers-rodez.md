@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Rodez, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123696273-product-expert-back-office-sante-prevoyance-services-financiers-rodez) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129982328-product-expert-back-office-sante-prevoyance-services-financiers-rodez) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-04-29.
+This product manager position at Sopra Steria was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

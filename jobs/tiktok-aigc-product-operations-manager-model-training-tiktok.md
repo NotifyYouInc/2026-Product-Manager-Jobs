@@ -1,16 +1,16 @@
-# AIGC Product Operations Manager (Model Training) - TikTok at TikTok
+# AIGC Product Operations Manager (Model Training) -TikTok at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7639651021560039733/detail) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7647052765643950341/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-05-15.
+This product manager position at TikTok was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

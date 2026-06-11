@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Purchase, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Vice-President--Product-Management--Stablecoins_R-278118) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Vice-President--Product-Management--Stablecoins_R-279606) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-20.
+This product manager position at Mastercard was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

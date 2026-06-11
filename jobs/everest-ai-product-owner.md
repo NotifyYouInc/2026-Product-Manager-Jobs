@@ -5,12 +5,12 @@
 | Company | [Everest](https://scoutify.ai/companies/everestre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/AI-Product-Owner_R7231-2) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://everestre.wd5.myworkdayjobs.com/careers/job/Warren-NJ/AI-Product-Owner_R7221-1) |
 
 ## About This Role
 
-This product manager position at Everest was posted on 2026-06-01.
+This product manager position at Everest was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

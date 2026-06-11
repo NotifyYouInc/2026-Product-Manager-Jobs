@@ -5,12 +5,12 @@
 | Company | [tastytrade](https://scoutify.ai/companies/tastytrade?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tastytrade/jobs/5994292004) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tastytrade/jobs/6013347004) |
 
 ## About This Role
 
-This product manager position at tastytrade was posted on 2026-05-14.
+This product manager position at tastytrade was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

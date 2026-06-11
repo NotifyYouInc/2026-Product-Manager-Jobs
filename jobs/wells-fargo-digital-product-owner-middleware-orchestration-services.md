@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Digital-Product-Owner--Middleware---Orchestration-Services_R-545697) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Digital-Product-Owner--Middleware---Orchestration-Services_R-548983) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-05-21.
+This product manager position at Wells Fargo was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

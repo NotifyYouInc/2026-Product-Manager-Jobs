@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-BELLEVUE-SKYLINE-OFFICE-WA-BELLEVUE-Home-Office/XMLNAME--USA--Principal--Product-Manager_R-2523444) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/XMLNAME--USA--Principal--Product-Manager_R-2524715) |
 
 ## About This Role
 
-This product manager position at Walmart was posted on 2026-05-29.
+This product manager position at Walmart was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

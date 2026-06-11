@@ -1,16 +1,16 @@
-# Product Manager, Leadership at Meta
+# Product Manager (Leadership) at Meta
 
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Menlo Park, California, United States |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/960685833061247) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1179229367490102) |
 
 ## About This Role
 
-This product manager position at Meta was posted on 2026-06-02.
+This product manager position at Meta was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Brothers Liquor Company](https://scoutify.ai/companies/johnsonbrothers?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/Milwaukee-WI/Supplier-Performance-Manager_R-260429-1171) |
+| Category | Account Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/Milwaukee-WI/Supplier-Performance-Manager_R-260603-1515) |
 
 ## About This Role
 
-This product manager position at Johnson Brothers Liquor Company was posted on 2026-04-29.
+This account manager position at Johnson Brothers Liquor Company was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irvine, California, United States |
+| Location | Bentonville, Arkansas, United States |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Irvine-CA/XMLNAME--USA--Product-Manager-III_R-2496948) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Bentonville-Global-Tech-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Product-Manager-III_R-2529333-1) |
 
 ## About This Role
 
-This product manager position at Walmart was posted on 2026-05-15.
+This product manager position at Walmart was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

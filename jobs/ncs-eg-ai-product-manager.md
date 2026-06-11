@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001053498-eg-ai-product-manager) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001131945-eg-ai-product-manager) |
 
 ## About This Role
 
-This product manager position at NCS was posted on 2026-05-07.
+This product manager position at NCS was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Peterborough, England, United Kingdom |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Peterborough-England/Senior-Specialist--Product-Management_R-278443-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management_R-279045) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-01.
+This product manager position at Mastercard was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

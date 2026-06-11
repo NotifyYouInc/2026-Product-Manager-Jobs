@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000124009969-product-manager-legal) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000130064552-product-manager-legal) |
 
 ## About This Role
 
-This product manager position at Versant was posted on 2026-04-30.
+This product manager position at Versant was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

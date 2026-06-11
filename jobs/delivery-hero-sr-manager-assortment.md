@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000124579209-sr-manager-assortment) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000130149550-sr-manager-assortment) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-05-05.
+This product manager position at Delivery Hero was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

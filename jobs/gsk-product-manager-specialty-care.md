@@ -1,16 +1,16 @@
-# Product Manager, Specialty Care at GSK
+# Product Manager - Specialty Care at GSK
 
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Marketing |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Mississauga-Milverton-Drive/Product-Manager--Specialty-Care_436125-1) |
+| Location | Madrid, Madrid, Spain |
+| Category | Product Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/GSK-Tres-Cantos-Madrid/Product-Manager---Specialty-Care_442306-1) |
 
 ## About This Role
 
-This marketing position at GSK was posted on 2026-02-23.
+This product manager position at GSK was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

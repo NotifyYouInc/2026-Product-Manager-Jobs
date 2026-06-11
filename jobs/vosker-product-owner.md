@@ -5,12 +5,12 @@
 | Company | [VOSKER](https://scoutify.ai/companies/vosker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vosker/744000126151697-product-owner) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vosker/744000130068536-product-owner) |
 
 ## About This Role
 
-This product manager position at VOSKER was posted on 2026-05-12.
+This product manager position at VOSKER was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

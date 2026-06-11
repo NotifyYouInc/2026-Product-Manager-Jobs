@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Lead-Product-Manager_R0136461-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Berlin-Berlin-Germany/Lead-Product-Manager_R0136762-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-05-13.
+This product manager position at PayPal was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

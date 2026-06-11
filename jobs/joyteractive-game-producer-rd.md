@@ -5,12 +5,12 @@
 | Company | [Joyteractive](https://scoutify.ai/companies/joyteractive?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Poland |
 | Category | Product Manager |
-| Posted | 2025-09-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/joyteractive/8e34affe-6844-4401-935d-b47c78482246) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/joyteractive/4829fb12-c02d-4e69-a16b-22030de9c030) |
 
 ## About This Role
 
-This product manager position at Joyteractive was posted on 2025-09-23.
+This product manager position at Joyteractive was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

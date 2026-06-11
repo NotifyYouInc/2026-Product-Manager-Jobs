@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126512010-gerente-de-solucoes) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130059479-gerente-de-solucoes) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-05-14.
+This product manager position at Experian was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

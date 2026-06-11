@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Florida, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Leicester-UK/Product-Owner_R59632) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Product-Owner_R63195) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-03-04.
+This product manager position at Motorola Solutions was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

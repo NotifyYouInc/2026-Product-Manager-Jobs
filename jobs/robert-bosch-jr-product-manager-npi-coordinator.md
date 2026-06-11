@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109310601-jr-product-manager-npi-coordinator) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130054629-jr-product-manager-npi-coordinator) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-02-13.
+This product manager position at Robert Bosch was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

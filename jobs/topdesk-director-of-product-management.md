@@ -5,12 +5,12 @@
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000129689079-director-of-product-management) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000129926069-director-of-product-management) |
 
 ## About This Role
 
-This product manager position at TOPdesk was posted on 2026-06-02.
+This product manager position at TOPdesk was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

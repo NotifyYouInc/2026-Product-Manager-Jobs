@@ -1,16 +1,16 @@
-# Product Manager Neuroscience at Johnson & Johnson
+# Product Manager - Neuroscience at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Milan, Lombardy, Italy |
-| Category | Marketing |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Milano-Italy/Product-Manager-Neuroscience_R-060750) |
+| Location | Istanbul, Istanbul, Turkey |
+| Category | Product Manager |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Istanbul-Turkey/Product-Manager---Neuroscience_R-080569) |
 
 ## About This Role
 
-This marketing position at Johnson & Johnson was posted on 2026-03-11.
+This product manager position at Johnson & Johnson was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

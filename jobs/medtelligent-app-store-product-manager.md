@@ -5,12 +5,12 @@
 | Company | [Medtelligent](https://scoutify.ai/companies/medtelligent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/medtelligent/744000120059939-app-store-product-manager) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/medtelligent/744000127277194-app-store-product-manager) |
 
 ## About This Role
 
-This product manager position at Medtelligent was posted on 2026-04-10.
+This product manager position at Medtelligent was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
