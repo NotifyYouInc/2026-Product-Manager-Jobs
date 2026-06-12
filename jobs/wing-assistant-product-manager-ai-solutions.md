@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wing Assistant](https://scoutify.ai/companies/wing-assistant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.lever.co/getwingapp/2a99925a-b498-4fce-bd19-ee138b5b4b34) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.lever.co/getwingapp/9a3b7cf0-627f-4b50-b0d7-dee744276f60) |
 
 ## About This Role
 
-This product manager position at Wing Assistant was posted on 2026-05-05.
+This product manager position at Wing Assistant was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

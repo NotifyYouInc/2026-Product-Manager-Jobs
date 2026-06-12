@@ -5,12 +5,12 @@
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Burnsville, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000121005308-sr-product-manager-portable-audio) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000130275149-sr-product-manager-portable-audio) |
 
 ## About This Role
 
-This product manager position at Keenfinity was posted on 2026-04-15.
+This product manager position at Keenfinity was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

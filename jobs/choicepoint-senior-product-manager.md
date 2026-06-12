@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Alpharetta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---London-Bishopsgate/Senior-Product-Manager_R110773) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Senior-Product-Manager_R114357) |
 
 ## About This Role
 
-This product manager position at ChoicePoint was posted on 2026-05-12.
+This product manager position at ChoicePoint was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

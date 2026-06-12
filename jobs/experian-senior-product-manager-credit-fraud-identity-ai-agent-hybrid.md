@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Scottsdale, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130089099-senior-product-manager-credit-fraud-identity-ai-agent-hybrid) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130247119-senior-product-manager-credit-fraud-identity-ai-agent-hybrid) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-06-03.
+This product manager position at Experian was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hana Group](https://scoutify.ai/companies/hana-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/hanagroup/744000127830629-assistant-chef-de-produit-wok-street-alternance-septembre-2026) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/hanagroup/744000130204679-assistant-chef-de-produit-wok-street-alternance-septembre-2026) |
 
 ## About This Role
 
-This product manager position at Hana Group was posted on 2026-05-22.
+This product manager position at Hana Group was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

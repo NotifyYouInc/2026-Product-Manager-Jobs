@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | San Mateo, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5811827004) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6011556004) |
 
 ## About This Role
 
-This product manager position at Sony Interactive Entertainment was posted on 2026-02-27.
+This product manager position at Sony Interactive Entertainment was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

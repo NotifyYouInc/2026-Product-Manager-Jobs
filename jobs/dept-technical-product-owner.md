@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DEPT®](https://scoutify.ai/companies/dept?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7821112) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dept/jobs/7457958) |
 
 ## About This Role
 
-This product manager position at DEPT® was posted on 2026-04-16.
+This product manager position at DEPT® was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

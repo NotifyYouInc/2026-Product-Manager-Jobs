@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Texas, US |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---TX-Remote/Digital-Product-Manager_R31146-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Product-Management--Technical--Senior-Consultant-II-Lead-Consultant_R28685) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-06-03.
+This product manager position at Allstate was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

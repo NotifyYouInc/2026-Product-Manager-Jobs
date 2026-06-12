@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Assistant-Manager--Portfolio-Management_R-069448) |
+| Category | Marketing |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Assistant-Manager--Portfolio-Management_R-080767) |
 
 ## About This Role
 
-This asset management / portfolio management position at Johnson & Johnson was posted on 2026-04-13.
+This marketing position at Johnson & Johnson was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

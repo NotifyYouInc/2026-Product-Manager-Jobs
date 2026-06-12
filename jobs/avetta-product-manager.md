@@ -5,12 +5,12 @@
 | Company | [Avetta](https://scoutify.ai/companies/avetta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7641841003) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.avetta.com/careers/job?gh_jid=7764117003) |
 
 ## About This Role
 
-This product manager position at Avetta was posted on 2026-02-24.
+This product manager position at Avetta was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

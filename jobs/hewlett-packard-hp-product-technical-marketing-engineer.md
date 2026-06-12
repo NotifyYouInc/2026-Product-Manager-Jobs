@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Marketing |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/Product-Technical-Marketing-Engineer_3161759) |
+| Category | Customer Success |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/Product-Technical-Marketing-Engineer_3161447-1) |
 
 ## About This Role
 
-This product marketing position at Hewlett Packard (HP) was posted on 2026-05-28.
+This customer success position at Hewlett Packard (HP) was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

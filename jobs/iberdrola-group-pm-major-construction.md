@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Augusta, Georgia, United States |
+| Location | East Hartford, Connecticut, United States |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Maine-Augusta/PM---Major-Construction_R-15568) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-East-Hartford/PM---Major-Construction_R-30170) |
 
 ## About This Role
 
-This product manager position at Iberdrola Group was posted on 2026-03-27.
+This product manager position at Iberdrola Group was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

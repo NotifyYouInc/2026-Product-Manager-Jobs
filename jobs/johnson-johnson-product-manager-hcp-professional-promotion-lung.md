@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Horsham, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Product-Manager--HCP-Professional-Promotion--Lung_R-072406-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Product-Manager--HCP-Professional-Promotion--Lung_R-080332-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-04-30.
+This product manager position at Johnson & Johnson was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

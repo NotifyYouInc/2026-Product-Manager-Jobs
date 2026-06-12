@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Sr-Product-Manager_R400216) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Shanghai---Shanghai-Tower-A/Sr-Product-Manager_R401809) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-05-25.
+This product manager position at Merck was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

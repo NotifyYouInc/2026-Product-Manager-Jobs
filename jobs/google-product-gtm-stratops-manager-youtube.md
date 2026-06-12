@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
-| Category | Product Marketing |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaEbg9VJ-GOJo1uzIILlq72flRMj8POsiiqBnkw3qaZJEjsACxwdTNfgTBCubrTL0lGW3iKZbSb947IvbcMkGKebAICnmzJP5cPXUYS7YTnybLC8tCePUnxcfqfeCA%3D%3D_V2&loc=US&title=Product+GTM+StratOps+Manager) |
+| Category | Product Manager |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVXgYPAywMnVMQlg9Zl0WdeNlt0K6gLrJmVi87n0PCyiEjsACxwdTOPVqwGlzemdMUaU_rT4P5jo8dIGSCkDPm8KuW9vfe61jQzQTLkafPlB8b5uEKDluFvhsUIjLg%3D%3D_V2&loc=US&title=Product+GTM+StratOps+Manager) |
 
 ## About This Role
 
-This product marketing position at Google was posted on 2026-04-29.
+This product manager position at Google was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

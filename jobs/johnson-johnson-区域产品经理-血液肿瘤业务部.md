@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Shenyang, Liaoning, China |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Chengdu-Sichuan-China/-_R-070591) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shenyang-Liaoning-China/-_R-080523) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-04-17.
+This product manager position at Johnson & Johnson was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

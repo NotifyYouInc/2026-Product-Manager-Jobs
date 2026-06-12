@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Scientist--Product--GDI_R-137066) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Belgium---Brussels/Scientist--Product--GDI_R-141826-1) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-05-27.
+This product manager position at Coca-Cola was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

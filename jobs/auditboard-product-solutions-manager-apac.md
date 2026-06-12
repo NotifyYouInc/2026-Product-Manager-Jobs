@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AuditBoard](https://scoutify.ai/companies/auditboard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/optro/9e6d5ed7-cc85-4e1c-ade0-815ec3633e19) |
+| Category | Product Manager |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/optro/a32430a6-6ae4-487c-8fca-aa0d5321fff3) |
 
 ## About This Role
 
-This compliance & risk management position at AuditBoard was posted on 2026-05-18.
+This product manager position at AuditBoard was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

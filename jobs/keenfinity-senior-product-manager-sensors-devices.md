@@ -5,12 +5,12 @@
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Fairport, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000126301704-senior-product-manager-sensors-devices) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000130271231-senior-product-manager-sensors-devices) |
 
 ## About This Role
 
-This product manager position at Keenfinity was posted on 2026-05-13.
+This product manager position at Keenfinity was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

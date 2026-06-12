@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Senior-Product-Manager_R2024944-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Palo-Alto-CA/Senior-Product-Manager_R2025019-1) |
 
 ## About This Role
 
-This product manager position at Intapp was posted on 2026-05-07.
+This product manager position at Intapp was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

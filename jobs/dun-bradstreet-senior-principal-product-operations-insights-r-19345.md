@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dun & Bradstreet](https://scoutify.ai/companies/dnb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Austin, Texas, United States |
 | Category | Program Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.lever.co/dnb/d0a88826-16f5-4cf7-9f78-8160cc65af43) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.lever.co/dnb/a50a5809-7f1a-42dd-b315-d7599555104c) |
 
 ## About This Role
 
-This program manager position at Dun & Bradstreet was posted on 2026-06-03.
+This program manager position at Dun & Bradstreet was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

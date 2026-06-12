@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R263596-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Associate-Product-Manager_R264397-1) |
 
 ## About This Role
 
-This product manager position at Uline was posted on 2026-04-30.
+This product manager position at Uline was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Portland, Oregon, United States |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/Senior-Digital-Product-Owner_R-29703) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Oregon-Portland/Senior-Digital-Product-Owner_R-30213-2) |
 
 ## About This Role
 
-This product manager position at Iberdrola Group was posted on 2026-05-21.
+This product manager position at Iberdrola Group was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
