@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126666689-category-manager-own-brands-mwd) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130502526-category-manager-own-brands-mwd) |
 
 ## About This Role
 
-This product manager position at Redcare Pharmacy was posted on 2026-05-15.
+This product manager position at Redcare Pharmacy was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Woburn, Massachusetts, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Principal-Systems-Security-Engineer--Cyber-Product-Owner----P4--Onsite-_01839743) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Principal-Systems-Security-Engineer--Cyber-Product-Owner----P4--Onsite-_01850555) |
 
 ## About This Role
 
-This security engineer position at RTX was posted on 2026-04-30.
+This security engineer position at RTX was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

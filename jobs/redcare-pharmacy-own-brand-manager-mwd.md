@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
-| Category | Marketing |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126666379-own-brand-manager-mwd) |
+| Category | Brand Marketing |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130500360-own-brand-manager-mwd) |
 
 ## About This Role
 
-This marketing position at Redcare Pharmacy was posted on 2026-05-15.
+This brand marketing position at Redcare Pharmacy was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

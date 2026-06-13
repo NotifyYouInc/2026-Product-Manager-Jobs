@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000126013050-director-otc-portfolio-development-own-brands-mfd) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130504150-director-otc-portfolio-development-own-brands-mfd) |
 
 ## About This Role
 
-This asset management / portfolio management position at Redcare Pharmacy was posted on 2026-05-12.
+This asset management / portfolio management position at Redcare Pharmacy was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Alternant.e chef de produit junior - Neurosciences  at AbbVie
+# Alternant.e chef de produit junior - Neurosciences at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012289276-alternante-chef-de-produit-junior-neurosciences) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013485376-alternante-chef-de-produit-junior-neurosciences) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-03-24.
+This product manager position at AbbVie was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

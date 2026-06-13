@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Enterprise-Technology-Product-Tokenized-Digital-Assets/20042) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Enterprise-Technology-Product-Tokenized-Digital-Assets/20057) |
 
 ## About This Role
 
-This product manager position at Bloomberg was posted on 2026-06-03.
+This product manager position at Bloomberg was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Burga](https://scoutify.ai/companies/burga?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.lever.co/burga/8427705d-102d-461f-b4b9-a8103fba54a6) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.lever.co/burga/37141420-004f-46fa-b297-a988816f1d8b) |
 
 ## About This Role
 
-This product manager position at Burga was posted on 2026-05-25.
+This product manager position at Burga was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

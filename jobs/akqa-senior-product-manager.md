@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AKQA](https://scoutify.ai/companies/akqa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://www.akqa.com/jobs/7787983/?gh_jid=7787983) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.akqa.com/jobs/7976706/?gh_jid=7976706) |
 
 ## About This Role
 
-This product manager position at AKQA was posted on 2026-04-08.
+This product manager position at AKQA was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

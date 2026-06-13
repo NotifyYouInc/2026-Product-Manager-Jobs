@@ -5,12 +5,12 @@
 | Company | [Toast](https://scoutify.ai/companies/toast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7814998) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://careers.toasttab.com/jobs?gh_jid=7985031) |
 
 ## About This Role
 
-This product manager position at Toast was posted on 2026-04-20.
+This product manager position at Toast was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Specialist--Product-Management_R-279712) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-277228) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-04.
+This product manager position at Mastercard was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

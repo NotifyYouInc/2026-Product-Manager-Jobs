@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dublin-Dublin-Ireland/PLM-Expert_WD30270053) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Manchester-Manchester-United-Kingdom/PLM-Expert_WD30271523) |
 
 ## About This Role
 
-This product manager position at Johnson Controls was posted on 2026-05-19.
+This product manager position at Johnson Controls was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

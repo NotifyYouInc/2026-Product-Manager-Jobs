@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FourKites](https://scoutify.ai/companies/fourkites?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fourkites/jobs/7971690) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fourkites/jobs/7984869) |
 
 ## About This Role
 
-This product manager position at FourKites was posted on 2026-06-04.
+This product manager position at FourKites was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

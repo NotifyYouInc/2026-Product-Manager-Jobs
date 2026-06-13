@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Maryland, US |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Field-Location/OCO-Product-Manager--Senior_R178293-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Field-Location/OCO-Product-Manager--Senior_R181612) |
 
 ## About This Role
 
-This product manager position at Parsons was posted on 2026-03-10.
+This product manager position at Parsons was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

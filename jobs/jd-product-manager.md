@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/GBR-London/Product-Manager_JR010912M-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/GBR-London/Product-Manager_JR101152) |
 
 ## About This Role
 
-This product manager position at Jd was posted on 2026-05-28.
+This product manager position at Jd was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

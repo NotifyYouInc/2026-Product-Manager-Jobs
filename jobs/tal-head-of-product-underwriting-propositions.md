@@ -5,12 +5,12 @@
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000130134869-head-of-product-underwriting-propositions) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000130312659-head-of-product-underwriting-propositions) |
 
 ## About This Role
 
-This product manager position at TAL was posted on 2026-06-04.
+This product manager position at TAL was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

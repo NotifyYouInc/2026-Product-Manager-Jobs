@@ -5,12 +5,12 @@
 | Company | [Nubank](https://scoutify.ai/companies/nubank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7901851) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7158412) |
 
 ## About This Role
 
-This product manager position at Nubank was posted on 2026-05-06.
+This product manager position at Nubank was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

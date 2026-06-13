@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/Product-Owner_JR-0000105487-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Product-Owner_JR-0000112633) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-05-08.
+This product manager position at Barclays was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

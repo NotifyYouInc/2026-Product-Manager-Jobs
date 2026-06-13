@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bluecatnetworks](https://scoutify.ai/companies/bluecatnetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.lever.co/bluecatnetworks/d89fcf74-7539-42eb-8a2e-ae5158f89bf4) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.lever.co/bluecatnetworks/31cd70a4-631b-4696-98a1-6fb272e39ffc) |
 
 ## About This Role
 
-This product manager position at Bluecatnetworks was posted on 2026-04-28.
+This product manager position at Bluecatnetworks was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

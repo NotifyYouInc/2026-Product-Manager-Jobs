@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Data-Product-Manager_JR35869) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/India---Bangalore-IT-Capability-Centre/Data-Product-Manager_JR36379) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-04-17.
+This product manager position at Dyson was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

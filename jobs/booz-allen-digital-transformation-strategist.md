@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Florida, US |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Digital-Transformation-Strategist_R0241075) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/MacDill-AFB-FL/Digital-Transformation-Strategist_R0241878) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-05-27.
+This product manager position at Booz Allen was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

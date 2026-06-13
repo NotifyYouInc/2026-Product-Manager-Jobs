@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000122225968-technical-product-owner) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000130509500-technical-product-owner) |
 
 ## About This Role
 
-This product manager position at Endava was posted on 2026-04-22.
+This product manager position at Endava was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Rome, Lazio, Italy |
 | Category | Product Manager |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130236010-product-proposition-manager-digital-onboarding) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130241394-product-proposition-manager-digital-onboarding) |
 
 ## About This Role
 

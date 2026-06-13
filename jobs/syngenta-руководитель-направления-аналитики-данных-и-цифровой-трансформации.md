@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Krasnodar, Krasnodar Krai, Russia |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000129978651-) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000130438694-) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-06-03.
+This product manager position at Syngenta was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
