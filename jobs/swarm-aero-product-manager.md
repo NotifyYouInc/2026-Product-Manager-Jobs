@@ -5,12 +5,12 @@
 | Company | [Swarm Aero](https://scoutify.ai/companies/swarm-aero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/swarmaero/jobs/5063457007) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/swarmaero/8f0af52b-a1e3-451f-bd75-3e3372a48996) |
 
 ## About This Role
 
-This product manager position at Swarm Aero was posted on 2026-03-26.
+This product manager position at Swarm Aero was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

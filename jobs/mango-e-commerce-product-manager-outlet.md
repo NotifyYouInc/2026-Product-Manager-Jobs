@@ -1,16 +1,16 @@
-# Senior Product Manager at Comcast
+# E-COMMERCE PRODUCT MANAGER - OUTLET at Mango
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Mango](https://scoutify.ai/companies/mango?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Catalonia, ES |
 | Category | Product Manager |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Senior-Product-Manager_R429407-1) |
+| Apply | [View on company site](https://mango.wd3.myworkdayjobs.com/mango_work_your_passion/job/Palau-solit-i-Plegamans-Catalonia-Spain/E-COMMERCE-SENIOR-SPECIALIST---MANGO-OUTLET_JR133210) |
 
 ## About This Role
 
-This product manager position at Comcast was posted on 2026-06-06.
+This product manager position at Mango was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

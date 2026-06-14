@@ -5,12 +5,12 @@
 | Company | [Skylo Technologies](https://scoutify.ai/companies/skylo-technologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skylotechnologies/jobs/7603253003) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skylo/bece0541-1ba8-43d0-88fc-fc3bb450e60e) |
 
 ## About This Role
 
-This product manager position at Skylo Technologies was posted on 2026-04-20.
+This product manager position at Skylo Technologies was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

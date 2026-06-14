@@ -1,16 +1,16 @@
-# Product Manager/Strategy 4-ProdDev at Oracle
+# Snr. Director, GPU Strategic Customers at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Nashville, Tennessee, United States |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335781) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#333956) |
 
 ## About This Role
 
-This product manager position at Oracle was posted on 2026-06-04.
+This product manager position at Oracle was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

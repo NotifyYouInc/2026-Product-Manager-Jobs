@@ -1,4 +1,4 @@
-# Product Manager/Strategy 4-ProdDev at Oracle
+# Principal Product Manager/Strategy-Data Protection and Recovery at Oracle
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Product Manager |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335781) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334618) |
 
 ## About This Role
 

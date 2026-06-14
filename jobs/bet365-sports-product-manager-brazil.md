@@ -1,16 +1,16 @@
-# Product Manager/Strategy 4-ProdDev at Oracle
+# Sports Product Manager, Brazil at bet365
 
 | Field | Details |
 |-------|---------|
-| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335781) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000130658430-sports-product-manager-brazil) |
 
 ## About This Role
 
-This product manager position at Oracle was posted on 2026-06-04.
+This product manager position at bet365 was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

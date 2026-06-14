@@ -1,16 +1,16 @@
-# Senior Product Manager at Comcast
+# NPD Innovation Lead – OTC & Oral Health at Haleon
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Senior-Product-Manager_R429407-1) |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/India---Haryana---Gurgaon/NPD-Innovation-Lead---OTC---Oral-Health_543960) |
 
 ## About This Role
 
-This product manager position at Comcast was posted on 2026-06-06.
+This product manager position at Haleon was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

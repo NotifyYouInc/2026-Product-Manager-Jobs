@@ -1,16 +1,16 @@
-# Product Manager/Strategy 4-ProdDev at Oracle
+# Principal Product Manager- Healthcare AI at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335781) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#331846) |
 
 ## About This Role
 
-This product manager position at Oracle was posted on 2026-06-04.
+This product manager position at Oracle was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

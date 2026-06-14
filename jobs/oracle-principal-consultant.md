@@ -1,16 +1,16 @@
-# Product Manager/Strategy 4-ProdDev at Oracle
+# Principal Consultant at Oracle
 
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335781) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#335216) |
 
 ## About This Role
 
-This product manager position at Oracle was posted on 2026-06-04.
+This strategy / management consulting position at Oracle was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 
