@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Spain |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7720367003) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7514187003) |
 
 ## About This Role
 
-This product manager position at Remote was posted on 2026-04-30.
+This product manager position at Remote was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Growth Marketing |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/bca0a0b4-a028-4a82-b5d3-b0497670fcca) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/6a433659-2cea-4c68-b377-ba3bbb1254f1) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Singapore/Product-Manager_JR-200524) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Jakarta-Jakarta-Raya/Product-Manager_JR-203744) |
 
 ## About This Role
 
-This product manager position at Baxter International was posted on 2026-04-16.
+This product manager position at Baxter International was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

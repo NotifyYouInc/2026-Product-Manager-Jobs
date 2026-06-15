@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Rome, Lazio, Italy |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130241394-product-proposition-manager-digital-onboarding) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130507322-product-proposition-manager-digital-onboarding) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-06-04.
+This product manager position at Experian was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

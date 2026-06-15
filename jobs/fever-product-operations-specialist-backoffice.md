@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Operations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4716586101) |
+| Location | Madrid, Madrid, Spain |
+| Category | Product Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4335009101) |
 
 ## About This Role
 
-This operations position at Fever was posted on 2026-03-19.
+This product manager position at Fever was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Operations |
+| Location | Toronto, Ontario, Canada |
+| Category | Product Manager |
 | Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/f5a5449a-5b1a-46fa-913d-3dc69ec3c263) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/3335c7b5-8b73-4a31-9b41-b874acc10a37) |
 
 ## About This Role
 
-This operations position at Jerry.ai was posted on 2026-06-04.
+This product manager position at Jerry.ai was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

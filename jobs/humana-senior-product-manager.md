@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Louisville, Kentucky, United States |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Manager_R-418503) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Product-Manager_R-416944-1) |
 
 ## About This Role
 
-This product manager position at Humana was posted on 2026-06-03.
+This product manager position at Humana was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Organon](https://scoutify.ai/companies/organon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Shanghai---Shanghai/Sr-Product-Manager_R539708) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://organon.wd5.myworkdayjobs.com/searchjobs/job/CHN---Shanghai---Shanghai/Sr-Product-Manager_R540128-1) |
 
 ## About This Role
 
-This product manager position at Organon was posted on 2026-04-17.
+This product manager position at Organon was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

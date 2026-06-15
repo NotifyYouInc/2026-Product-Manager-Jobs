@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | Bury St Edmunds, England, United Kingdom |
 | Category | Marketing Operations |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000130261486-digital-product-owner-martech-hybrid-5050-ftc-or-permanent) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000130528741-digital-product-owner-martech-hybrid-5050-ftc-or-permanent) |
 
 ## About This Role
 
-This marketing operations position at Greene King was posted on 2026-06-04.
+This marketing operations position at Greene King was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
