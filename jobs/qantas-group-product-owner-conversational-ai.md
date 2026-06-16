@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001124169-product-owner-conversational-ai) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001138226-product-owner-conversational-ai) |
 
 ## About This Role
 
-This product manager position at Qantas Group was posted on 2026-06-02.
+This product manager position at Qantas Group was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Telstra](https://scoutify.ai/companies/telstra?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Australia |
-| Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/Australia-Flexible/Product-Management-Specialist_JR-10162989-1) |
+| Location | Melbourne, Victoria, Australia |
+| Category | Security Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://telstra.wd3.myworkdayjobs.com/telstra_careers/job/242-Exhibition-St/Product-Management-Specialist_JR-10170175) |
 
 ## About This Role
 
-This product manager position at Telstra was posted on 2026-03-11.
+This security engineer position at Telstra was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

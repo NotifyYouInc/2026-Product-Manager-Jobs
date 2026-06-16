@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckext6qO5OywTQmH97q1PF8O5rgeXuZjg3sW_6Xs869ipEjsACxwdTG9TAXDJcw-g0k4nYhi_IkkOsQ0OeR8vXHlW6uNjW_9GQOko7Gmcia1A0MdNQnrdDwO8Qt6yBA%3D%3D_V2&loc=VN&title=Qu%E1%BA%A3n+l%C3%BD+ng%C3%B4n+ng%E1%BB%AF+ti%E1%BA%BFng+Vi%E1%BB%87t) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeAW1uDV00pS3U1KJJLsU2VF4ClRvqYXs4bhN641eAVHEjsACxwdTGjKH6vcs4UglegCem2qclk1FTa20l0vFrKsT9B9I4cHuJOQaxbnZfzsycP4a5euaUtwOGRCwA%3D%3D_V2&loc=VN&title=Qu%E1%BA%A3n+l%C3%BD+ng%C3%B4n+ng%E1%BB%AF+ti%E1%BA%BFng+Vi%E1%BB%87t) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-05-05.
+This product manager position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

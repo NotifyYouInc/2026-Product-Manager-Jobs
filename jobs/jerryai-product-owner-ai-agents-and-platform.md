@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/9d66f346-cf2a-4681-ab02-595142e15268) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/a048801f-ac5d-4fb0-bbff-5ff8ba8b67d0) |
 
 ## About This Role
 
-This product manager position at Jerry.ai was posted on 2026-06-05.
+This product manager position at Jerry.ai was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

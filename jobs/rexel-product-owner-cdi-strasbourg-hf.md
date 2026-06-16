@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000129955869-product-owner-cdi-strasbourg-hf) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000130770994-product-owner-cdi-strasbourg-hf) |
 
 ## About This Role
 
-This product manager position at REXEL was posted on 2026-06-03.
+This product manager position at REXEL was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

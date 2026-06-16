@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hedgeserv](https://scoutify.ai/companies/hedgeserv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Sofia-Bulgaria/Product-Manager_R6448-2) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Sofia-Bulgaria/Product-Manager_R6615-1) |
 
 ## About This Role
 
-This product manager position at Hedgeserv was posted on 2026-04-16.
+This product manager position at Hedgeserv was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

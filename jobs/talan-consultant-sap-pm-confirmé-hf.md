@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120734494-consultant-sap-pm-confirme-hf) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000130819162-consultant-sap-pm-confirme-hf) |
 
 ## About This Role
 
-This technology / it consulting position at Talan was posted on 2026-04-14.
+This technology / it consulting position at Talan was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

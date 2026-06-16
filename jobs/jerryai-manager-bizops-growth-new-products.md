@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Growth Marketing |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/6a433659-2cea-4c68-b377-ba3bbb1254f1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/55475e1b-9bdd-4ffd-87ae-737a9f4a24a8) |
 
 ## About This Role
 
-This growth marketing position at Jerry.ai was posted on 2026-06-04.
+This growth marketing position at Jerry.ai was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

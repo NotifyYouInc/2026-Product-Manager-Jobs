@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/San-Francisco-California-United-States-of-America/Senior-Product-Manager_R34753) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Senior-Product-Manager_R34092) |
 
 ## About This Role
 
-This product manager position at Zendesk was posted on 2026-04-28.
+This product manager position at Zendesk was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

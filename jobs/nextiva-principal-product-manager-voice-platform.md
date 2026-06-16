@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nextiva](https://scoutify.ai/companies/nextiva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8231235002) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8569085002) |
 
 ## About This Role
 
-This product manager position at Nextiva was posted on 2026-04-04.
+This product manager position at Nextiva was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

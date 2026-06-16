@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Vietnam |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSex00p3EBFJkWXyU25nl3owM9R9QDFSRVLvPfYWukEJEjsACxwdTPYDSboVcbIWRnguvSdD1Bet-2vKxtfkXcvojPJBkoG8QUi6BmII92CiRJjvjs_Rse53iRZLDA%3D%3D_V2&loc=VN&title=Vietnamese+Language+Manager) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYJbXRkL8hTjt0iDx_9K4AEDjxb7bHEvQYsAQ5QuW1gQEjsACxwdTJx6fit1egPDOJVU7WJzfYHCTQvRZDqqBzq4KBmP6IuCxA1DnmDLI1H20QT8dynKlBhYmybSdg%3D%3D_V2&loc=VN&title=Vietnamese+Language+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-05-05.
+This product manager position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oud-Beijerland, South Holland, The Netherlands |
+| Location | Slough, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/NLD-South-Holland-Oud-Beijerland/Product-Development-Scientist_R156844-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/GBR-Berkshire-Slough/Product-Development-Scientist_R157387-1) |
 
 ## About This Role
 
-This product manager position at Mars was posted on 2026-06-02.
+This product manager position at Mars was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

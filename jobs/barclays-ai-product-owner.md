@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/AI-Product-Owner_JR-0000088842-3) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Product-Owner_JR-0000113695-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-03-10.
+This product manager position at Barclays was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

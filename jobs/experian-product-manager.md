@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Blumenau, Santa Catarina, Brazil |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000129464286-product-manager) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130780985-product-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-06-01.
+This product manager position at Experian was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130184664-genai-product-lead-emap) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130752599-genai-product-lead-emap) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-06-04.
+This product manager position at Experian was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

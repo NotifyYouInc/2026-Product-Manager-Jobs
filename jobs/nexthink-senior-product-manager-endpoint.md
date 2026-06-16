@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000124119379-senior-product-manager-endpoint) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000130793427-senior-product-manager-endpoint) |
 
 ## About This Role
 
-This product manager position at Nexthink was posted on 2026-05-01.
+This product manager position at Nexthink was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

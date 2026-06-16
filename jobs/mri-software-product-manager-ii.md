@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Cleveland, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Product-Manager-II_R-107780) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Product-Manager-II_R-108239) |
 
 ## About This Role
 
-This product manager position at MRI Software was posted on 2026-05-18.
+This product manager position at MRI Software was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

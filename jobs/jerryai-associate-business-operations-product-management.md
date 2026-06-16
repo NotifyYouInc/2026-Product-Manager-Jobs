@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/72b5723a-36d1-4a83-85c6-22bfc85106a2) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/098d5860-8999-4472-918e-40afab3f8206) |
 
 ## About This Role
 
-This product manager position at Jerry.ai was posted on 2026-06-01.
+This product manager position at Jerry.ai was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

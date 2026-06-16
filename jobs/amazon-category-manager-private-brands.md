@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3207582/category-manager-private-brands) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429256/category-manager-private-brands) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-03-18.
+This product manager position at Amazon was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

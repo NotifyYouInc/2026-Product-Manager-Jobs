@@ -1,16 +1,16 @@
-# Digital Product Manager (hybrid) at Allstate
+# Digital Product Manager (Hybrid) at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Derry, Northern Ireland, United Kingdom |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Belfast-10-Mays-Meadow/Digital-Product-Manager--hybrid-_R27259) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Belfast-10-Mays-Meadow/Digital-Product-Manager--Hybrid-_R30823) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-03-26.
+This product manager position at Allstate was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

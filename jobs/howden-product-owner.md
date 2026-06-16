@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Texas, US |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/London/Product-Owner_R0016092-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Remote---Texas/Product-Owner_R0017732-1) |
 
 ## About This Role
 
-This product manager position at Howden was posted on 2026-04-30.
+This product manager position at Howden was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

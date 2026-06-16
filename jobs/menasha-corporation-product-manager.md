@@ -5,12 +5,12 @@
 | Company | [Menasha Corporation](https://scoutify.ai/companies/menasha?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Oconomowoc, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Oconomowoc-Wisconsin/Product-Manager_R13875) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Oconomowoc-Wisconsin/Product-Manager_R14316) |
 
 ## About This Role
 
-This product manager position at Menasha Corporation was posted on 2026-05-11.
+This product manager position at Menasha Corporation was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

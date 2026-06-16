@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Data-Product-Management-Consultant_R-532112-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Product-Management-Consultant_R-551125) |
 
 ## About This Role
 
-This strategy / management consulting position at Wells Fargo was posted on 2026-05-13.
+This strategy / management consulting position at Wells Fargo was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

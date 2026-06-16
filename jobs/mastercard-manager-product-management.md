@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Manager--Product-Management_R-278805) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Manager--Product-Management_R-278266) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-29.
+This product manager position at Mastercard was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
