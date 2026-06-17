@@ -5,12 +5,12 @@
 | Company | [Sigma Computing](https://scoutify.ai/companies/sigma-computing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7747570003) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767898003) |
 
 ## About This Role
 
-This product manager position at Sigma Computing was posted on 2026-05-25.
+This product manager position at Sigma Computing was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

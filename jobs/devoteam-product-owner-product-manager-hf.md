@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000127671164-product-owner-product-manager-hf) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000131091179-product-owner-product-manager-hf) |
 
 ## About This Role
 
-This product manager position at Devoteam was posted on 2026-05-21.
+This product manager position at Devoteam was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

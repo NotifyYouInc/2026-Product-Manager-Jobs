@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Indigo Books & Music](https://scoutify.ai/companies/indigobooksmusic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Guelph, Ontario, Canada |
+| Location | St. Catharines, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000127692189-product-operations-leader) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000131237191-product-operations-leader) |
 
 ## About This Role
 
-This product manager position at Indigo Books & Music was posted on 2026-05-21.
+This product manager position at Indigo Books & Music was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

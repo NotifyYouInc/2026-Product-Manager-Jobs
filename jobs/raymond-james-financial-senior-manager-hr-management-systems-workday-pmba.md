@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Florida, US |
-| Category | Program Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Manager--HR-Management-Systems---Workday-PM-BA_R-0010353-1) |
+| Location | Arkansas, US |
+| Category | Human Resources / People Ops |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Remote-Illinois---United-States/Senior-Manager--HR-Management-Systems---Workday-PM-BA_R-0011546) |
 
 ## About This Role
 
-This program manager position at Raymond James Financial was posted on 2026-03-31.
+This human resources / people ops position at Raymond James Financial was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

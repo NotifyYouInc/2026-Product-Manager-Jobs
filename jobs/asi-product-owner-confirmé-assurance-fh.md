@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Niort, Nouvelle-Aquitaine, France |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000116217551-product-owner-confirme-assurance-fh) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000131152810-product-owner-confirme-assurance-fh) |
 
 ## About This Role
 
-This product manager position at ASI was posted on 2026-03-23.
+This product manager position at ASI was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

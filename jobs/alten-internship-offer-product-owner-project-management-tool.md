@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118554546-internship-offer-product-owner-project-management-tool) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000131167400-internship-offer-product-owner-project-management-tool) |
 
 ## About This Role
 
-This product manager position at ALTEN was posted on 2026-04-03.
+This product manager position at ALTEN was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

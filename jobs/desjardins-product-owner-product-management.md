@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Risque-de-crdit_R2607588) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Product-manager--Marchs-des-capitaux_R2607843) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-06-08.
+This product manager position at Desjardins was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

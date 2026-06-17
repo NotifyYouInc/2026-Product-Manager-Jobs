@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bietigheim-Bissingen, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123668069-pflichtpraktikum-im-after-sales-service-produktmanagement) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131090316-pflichtpraktikum-im-after-sales-service-produktmanagement) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-04-29.
+This product manager position at Robert Bosch was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | New Castle, Pennsylvania, United States |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Product-Developer--VP_26942952) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Product-Developer--VP_26969793) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-03-05.
+This product manager position at Citigroup was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

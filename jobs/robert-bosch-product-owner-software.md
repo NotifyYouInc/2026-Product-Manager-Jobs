@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130204718-product-owner-software) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131106660-product-owner-software) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-06-04.
+This product manager position at Robert Bosch was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

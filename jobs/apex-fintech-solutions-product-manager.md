@@ -5,12 +5,12 @@
 | Company | [Apex Fintech Solutions](https://scoutify.ai/companies/peak6group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Product-Manager_JR104804) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Product-Manager_JR104826) |
 
 ## About This Role
 
-This product manager position at Apex Fintech Solutions was posted on 2026-05-27.
+This product manager position at Apex Fintech Solutions was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

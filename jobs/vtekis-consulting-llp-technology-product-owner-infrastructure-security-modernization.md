@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chandler, Arizona, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000130258279-technology-product-owner-infrastructure-security-modernization) |
+| Category | Product Manager |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000131175324-technology-product-owner-infrastructure-security-modernization) |
 
 ## About This Role
 
-This security engineer position at VTekis Consulting LLP was posted on 2026-06-04.
+This product manager position at VTekis Consulting LLP was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

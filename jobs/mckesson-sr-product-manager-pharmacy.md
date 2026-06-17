@@ -1,16 +1,16 @@
-# Sr Product Manager, Pharmacy at McKesson
+# Sr Product Manager - Pharmacy at McKesson
 
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Sr-Product-Manager--Pharmacy_JR0142448) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Sr-Product-Manager---Pharmacy_JR0148788-1) |
 
 ## About This Role
 
-This product manager position at McKesson was posted on 2026-02-04.
+This product manager position at McKesson was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

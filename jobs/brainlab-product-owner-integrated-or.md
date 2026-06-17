@@ -5,12 +5,12 @@
 | Company | [Brainlab](https://scoutify.ai/companies/brainlab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000130732143-product-owner-integrated-or) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000131091579-product-owner-integrated-or) |
 
 ## About This Role
 
-This product manager position at Brainlab was posted on 2026-06-08.
+This product manager position at Brainlab was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

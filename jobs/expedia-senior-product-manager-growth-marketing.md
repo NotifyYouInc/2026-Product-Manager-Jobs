@@ -1,16 +1,16 @@
-# Senior Product Manager – Growth Marketing at Expedia
+# Senior Product Manager - Growth Marketing at Expedia
 
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Product-Manager---Growth-Marketing_R-102794-1) |
+| Location | 2 locations |
+| Category | Growth Marketing |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Product-Manager---Growth-Marketing_R-106125-1) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-02-26.
+This growth marketing position at Expedia was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

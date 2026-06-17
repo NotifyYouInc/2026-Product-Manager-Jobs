@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bosch-HomeComfort](https://scoutify.ai/companies/bosch-homecomfort?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kadi, Gujarat, India |
+| Location | Tokyo, JP |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000130702115-international-product-manager) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000130923244-international-product-manager) |
 
 ## About This Role
 
-This product manager position at Bosch-HomeComfort was posted on 2026-06-08.
+This product manager position at Bosch-HomeComfort was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

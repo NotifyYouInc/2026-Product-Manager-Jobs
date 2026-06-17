@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000125795233-product-engagement-specialist) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131132217-product-engagement-specialist) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-05-11.
+This product manager position at Experian was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

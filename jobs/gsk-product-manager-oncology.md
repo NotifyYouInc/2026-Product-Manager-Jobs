@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Philippines |
+| Location | Indonesia |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Finance-Center-Building/Product-Manager---Oncology_440163) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Indonesia---DKI-Jakarta---Jakarta-Selatan/Product-Manager---Oncology_442580) |
 
 ## About This Role
 
-This product manager position at GSK was posted on 2026-04-28.
+This product manager position at GSK was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

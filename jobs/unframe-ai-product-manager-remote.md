@@ -1,16 +1,16 @@
-# AI Product Manager (Remote) at Unframe
+# AI Product Manager  (Remote) at Unframe
 
 | Field | Details |
 |-------|---------|
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4840638101) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4890168101) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-04-14.
+This product manager position at Unframe was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

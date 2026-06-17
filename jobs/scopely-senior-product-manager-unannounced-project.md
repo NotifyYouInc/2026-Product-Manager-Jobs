@@ -5,12 +5,12 @@
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/4662583008?gh_jid=4662583008) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5240360008?gh_jid=5240360008) |
 
 ## About This Role
 
-This product manager position at Scopely was posted on 2026-06-01.
+This product manager position at Scopely was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

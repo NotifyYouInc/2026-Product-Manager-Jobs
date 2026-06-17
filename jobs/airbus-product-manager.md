@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Waterloo/Product-Manager_JR10366228) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/CPO---Copenhagen-Office/Product-Manager_JR10420582) |
 
 ## About This Role
 
-This product manager position at Airbus was posted on 2026-04-27.
+This product manager position at Airbus was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

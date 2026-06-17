@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Waystar](https://scoutify.ai/companies/waystar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Lehi, Utah, United States |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Senior-Product-Manager_R3249) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Product-Manager_R3260) |
 
 ## About This Role
 
-This product manager position at Waystar was posted on 2026-06-02.
+This product manager position at Waystar was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

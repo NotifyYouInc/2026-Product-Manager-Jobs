@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | Alpharetta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Cincinnati-West-Chester-Site/AVP--B2B-Digital-Product-Owner_2600354-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Hub/AVP--B2B-Digital-Product-Owner_2601619-1) |
 
 ## About This Role
 
-This product manager position at Synchrony Financial was posted on 2026-02-24.
+This product manager position at Synchrony Financial was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

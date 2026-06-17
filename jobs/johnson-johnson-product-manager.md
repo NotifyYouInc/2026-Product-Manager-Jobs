@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/Product-Manager_R-080635-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Johannesburg-Gauteng-South-Africa/Product-Manager_R-080565) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-06-08.
+This product manager position at Johnson & Johnson was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

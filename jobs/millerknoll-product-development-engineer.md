@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MillerKnoll](https://scoutify.ai/companies/millerknoll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Buffalo, New York, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NY---Buffalo/Product-Development-Engineer_JR108716-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Engineering Manager |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Product-Development-Engineer_JR109113-1) |
 
 ## About This Role
 
-This software engineer position at MillerKnoll was posted on 2026-04-13.
+This engineering manager position at MillerKnoll was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

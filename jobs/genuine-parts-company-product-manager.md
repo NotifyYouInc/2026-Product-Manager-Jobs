@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Milton Keynes, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA-USA/Product-Manager_R26_0000016773) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Milton-Keynes-Buckinghamshire-United-Kingdom/Product-Manager_R26_0000018079) |
 
 ## About This Role
 
-This product manager position at Genuine Parts Company was posted on 2026-05-20.
+This product manager position at Genuine Parts Company was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
