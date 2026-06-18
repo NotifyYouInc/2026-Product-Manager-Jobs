@@ -1,0 +1,22 @@
+# Digital Product Advancement and Placement Lead at Syngenta
+
+| Field | Details |
+|-------|---------|
+| Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Slater, Missouri, United States |
+| Category | Product Manager |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000131479403-digital-product-advancement-and-placement-lead) |
+
+## About This Role
+
+This product manager position at Syngenta was posted on 2026-06-10.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

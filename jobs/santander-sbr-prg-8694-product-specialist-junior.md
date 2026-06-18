@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTIAGO/SBR-PRG-8694-Product-Specialist-Junior_Req1580363) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTIAGO/SBR-PRG-8694-Product-Specialist-Junior_Req1580365) |
 
 ## About This Role
 
-This product manager position at Santander was posted on 2026-05-29.
+This product manager position at Santander was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Evansville, Indiana, United States |
+| Location | Lancaster, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Engineer_REQ_88596) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSI-Lancaster-PA/Product-Development-Engineer_REQ_91605) |
 
 ## About This Role
 
-This software engineer position at Amcor was posted on 2026-06-05.
+This software engineer position at Amcor was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

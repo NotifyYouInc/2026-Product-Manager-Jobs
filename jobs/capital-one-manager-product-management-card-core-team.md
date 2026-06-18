@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management---Card-Core-Team_R239634-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management---Card-Core-Team_R243340-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-04-10.
+This product manager position at Capital One was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

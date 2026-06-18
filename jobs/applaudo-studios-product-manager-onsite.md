@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000127306688-product-manager-onsite) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000131499943-product-manager-onsite) |
 
 ## About This Role
 
-This product manager position at Applaudo Studios was posted on 2026-05-19.
+This product manager position at Applaudo Studios was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

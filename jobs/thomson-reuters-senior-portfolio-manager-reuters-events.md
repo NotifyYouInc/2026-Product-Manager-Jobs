@@ -1,16 +1,16 @@
-# Senior Portfolio Manager, Reuters Events at Thomson Reuters
+# Senior Portfolio Manager - Reuters Events at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Field & Event Marketing |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Senior-Portfolio-Manager--Reuters-Events_JREQ201030) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-New-York-New-York/Senior-Portfolio-Manager---Reuters-Events_JREQ201342) |
 
 ## About This Role
 
-This field & event marketing position at Thomson Reuters was posted on 2026-05-28.
+This field & event marketing position at Thomson Reuters was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

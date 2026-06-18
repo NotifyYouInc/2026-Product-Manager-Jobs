@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Distrito-FederalMEX/Director--Technology-Product-Management_REQ509562-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Director--Technology-Product-Management_REQ512340-1) |
 
 ## About This Role
 
-This product manager position at JLL was posted on 2026-05-29.
+This product manager position at JLL was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

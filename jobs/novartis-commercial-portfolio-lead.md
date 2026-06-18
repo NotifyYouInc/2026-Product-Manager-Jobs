@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Dublin-Country-President-Office-CPO/Commercial-Portfolio-Lead_REQ-10077144-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Warsaw/Commercial-Portfolio-Lead_REQ-10077265) |
 
 ## About This Role
 
-This product manager position at Novartis was posted on 2026-05-06.
+This product manager position at Novartis was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

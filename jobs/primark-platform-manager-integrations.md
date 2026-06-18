@@ -5,12 +5,12 @@
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000125296529-platform-manager-integrations) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000131496349-platform-manager-integrations) |
 
 ## About This Role
 
-This product manager position at Primark was posted on 2026-05-08.
+This product manager position at Primark was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

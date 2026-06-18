@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | India |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000125069369-field-manager-rural) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000131596899-field-manager-rural) |
 
 ## About This Role
 
-This product manager position at Dr. Reddy's Laboratories was posted on 2026-05-07.
+This product manager position at Dr. Reddy's Laboratories was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

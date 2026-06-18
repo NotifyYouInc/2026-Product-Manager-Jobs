@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Manager--Product-Development_R-277176) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Manager--Product-Development_R-278532) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-12.
+This product manager position at Mastercard was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

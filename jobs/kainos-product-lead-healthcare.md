@@ -5,12 +5,12 @@
 | Company | [Kainos](https://scoutify.ai/companies/kainos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Product-Lead--Healthcare-_JR_17914) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://kainos.wd3.myworkdayjobs.com/kainos/job/Homeworker---UK/Product-Lead--Healthcare-_JR_16825) |
 
 ## About This Role
 
-This product manager position at Kainos was posted on 2026-06-09.
+This product manager position at Kainos was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

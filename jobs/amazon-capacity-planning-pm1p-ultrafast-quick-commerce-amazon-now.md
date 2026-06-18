@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Cairo, Cairo, Egypt |
 | Category | Program Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10389399/capacity-planning-pm-1p-ultrafast-quick-commerce-amazon-now) |
+| Posted | 2025-11-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3130381/capacity-planning-pm-1p-ultrafast-quick-commerce-amazon-now) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-04-13.
+This program manager position at Amazon was posted on 2025-11-21.
 
 ## Get Real-Time Alerts
 

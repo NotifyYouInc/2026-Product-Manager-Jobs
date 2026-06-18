@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Spring, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/Senior-AI-Product-Manager_1206771) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-AI-Product-Manager_1206805) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard Enterprise was posted on 2026-06-09.
+This product manager position at Hewlett Packard Enterprise was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

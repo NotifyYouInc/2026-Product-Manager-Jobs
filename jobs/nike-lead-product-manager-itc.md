@@ -5,12 +5,12 @@
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | India |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Product-Manager---ITC_R-85628) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Lead-Product-Manager---ITC_R-85701) |
 
 ## About This Role
 
-This product manager position at Nike was posted on 2026-06-09.
+This product manager position at Nike was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

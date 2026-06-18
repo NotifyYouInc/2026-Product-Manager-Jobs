@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/San-Francisco-CA-USA/Principal-Product-Mgr_10152680) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Principal-Product-Mgr_10151063) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-06-09.
+This product manager position at Disney was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

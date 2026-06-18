@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Marketing |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Shanghai/Marketing-Manager_31152364) |
+| Category | Product Manager |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Shanghai/Marketing-Manager_31153234-1) |
 
 ## About This Role
 
-This marketing position at Abbott was posted on 2026-06-04.
+This product manager position at Abbott was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

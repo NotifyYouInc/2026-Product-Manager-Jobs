@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | North Chicago, Illinois, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011974536-senior-product-manager) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013573616-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-03-04.
+This product manager position at AbbVie was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

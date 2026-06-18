@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Operations |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013456209-business-unit-associate-director-hematology) |
+| Category | Product Manager |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013555807-business-unit-associate-director-hematology) |
 
 ## About This Role
 
-This operations position at AbbVie was posted on 2026-06-03.
+This product manager position at AbbVie was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Product Manager  at UiPath
+# Principal Product Manager at UiPath
 
 | Field | Details |
 |-------|---------|
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/1b62d5f7-2b80-44a9-b9a9-07744f4c3363) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/d3ef8c17-984f-4138-a853-cca29eaa7133) |
 
 ## About This Role
 
-This product manager position at UiPath was posted on 2026-02-19.
+This product manager position at UiPath was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

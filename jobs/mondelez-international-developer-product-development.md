@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Birmingham-United-Kingdom/Developer--Product-Development_R-168380) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Tlalnepantla-Mexico/Developer--Product-Development_R-169666-1) |
 
 ## About This Role
 
-This product manager position at Mondelez International was posted on 2026-05-28.
+This product manager position at Mondelez International was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

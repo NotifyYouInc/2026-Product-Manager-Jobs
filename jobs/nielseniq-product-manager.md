@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Missouri, US |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000129540319-product-manager) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000131588628-product-manager) |
 
 ## About This Role
 
-This product manager position at NielsenIQ was posted on 2026-06-01.
+This product manager position at NielsenIQ was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

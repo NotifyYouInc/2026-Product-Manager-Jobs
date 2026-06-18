@@ -5,12 +5,12 @@
 | Company | [CD PROJEKT RED](https://scoutify.ai/companies/cd-projekt-red?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000130754071-senior-producer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000131466208-senior-producer) |
 
 ## About This Role
 
-This product manager position at CD PROJEKT RED was posted on 2026-06-08.
+This product manager position at CD PROJEKT RED was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

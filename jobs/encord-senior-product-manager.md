@@ -1,16 +1,16 @@
-# Senior Product Manager at encord
+# Senior Product Manager at Encord
 
 | Field | Details |
 |-------|---------|
-| Company | [encord](https://scoutify.ai/companies/encord-27399?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Encord](https://scoutify.ai/companies/encord?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/encord/b8cfae81-6e9f-4f3e-a03a-2d03e7d115f3) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/encord/jobs/JDTYAXb-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at encord was posted on 2026-06-01.
+This product manager position at Encord was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

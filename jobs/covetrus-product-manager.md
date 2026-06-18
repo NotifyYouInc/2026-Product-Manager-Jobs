@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covetrus](https://scoutify.ai/companies/covetrus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Belgium |
+| Location | Langeskov, South Denmark, Denmark |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://covetrus.wd5.myworkdayjobs.com/covetruscareers/job/Paal-Beringen-Limburg-BE/Product-Manager_R-13854) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://covetrus.wd5.myworkdayjobs.com/covetruscareers/job/Langeskov-Southern-Denmark-DK/Product-Manager_R-14268) |
 
 ## About This Role
 
-This product manager position at Covetrus was posted on 2026-03-30.
+This product manager position at Covetrus was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

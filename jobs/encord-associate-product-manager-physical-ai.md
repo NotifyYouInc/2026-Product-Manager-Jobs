@@ -1,16 +1,16 @@
-# Associate Product Manager, Physical AI at encord
+# Associate Product Manager, Physical AI at Encord
 
 | Field | Details |
 |-------|---------|
-| Company | [encord](https://scoutify.ai/companies/encord-encord?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Encord](https://scoutify.ai/companies/encord?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/encord/f8871f23-251d-4ee3-ae10-45fb08aa297e) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/encord/jobs/vI4CM1i-associate-product-manager-physical-ai) |
 
 ## About This Role
 
-This product manager position at encord was posted on 2026-03-30.
+This product manager position at Encord was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ12j7EQ7YPtY6YI4BC3kC1YjGHOzLJ5UmiA4WWH7VlkEjsACxwdTKqVB23wSe9z-wa_4rUP1lzMV1gyzrYm_P6atzqQTUTAwSyk9ii0qQIX2Cifrtcld341pSkMAw%3D%3D_V2&loc=PL&title=Product+Manager) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSzhhPzOqAiLRPFRaqjIN0XPjNHxDw8iIW5IrDDbENLKEjsACxwdTJK6qUXGksb_nqt6CjHp-Bxb_7Fp9izaXHQZmGmz2R6qTM9qAhzTGORAVujmKw1rMoT5c3PA_w%3D%3D_V2&loc=PL&title=Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-05-06.
+This product manager position at Google was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

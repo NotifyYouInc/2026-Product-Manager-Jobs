@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2025-10-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200625272/platforms-solutions-manager-app-store-and-apple-arcade) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200608044/platforms-solutions-manager-app-store-and-apple-arcade) |
 
 ## About This Role
 
-This product manager position at Apple was posted on 2025-10-09.
+This product manager position at Apple was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

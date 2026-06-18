@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mumbai-MH/APM--Technical-_REQ507642) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mumbai-MH/APM--Technical-_REQ507630) |
 
 ## About This Role
 
-This engineering manager position at JLL was posted on 2026-05-21.
+This engineering manager position at JLL was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

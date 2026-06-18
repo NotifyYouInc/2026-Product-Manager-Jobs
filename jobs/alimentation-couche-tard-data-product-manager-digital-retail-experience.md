@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Data-Product-Manager---Digital-Retail-Experience_R589032) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Data-Product-Manager---Digital-Retail-Experience_R596616-1) |
 
 ## About This Role
 
-This product manager position at Alimentation Couche-Tard was posted on 2026-05-14.
+This product manager position at Alimentation Couche-Tard was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

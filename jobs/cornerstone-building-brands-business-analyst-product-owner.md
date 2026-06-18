@@ -5,12 +5,12 @@
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Escazú, San José, Costa Rica |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013491706-business-analyst-product-owner) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990013561966-business-analyst-product-owner) |
 
 ## About This Role
 
-This product manager position at Cornerstone Building Brands was posted on 2026-06-05.
+This product manager position at Cornerstone Building Brands was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

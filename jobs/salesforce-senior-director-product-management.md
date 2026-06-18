@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Senior-Director--Product-Management_JR340542) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Senior-Director--Product-Management_JR344999) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-05-13.
+This product manager position at Salesforce was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

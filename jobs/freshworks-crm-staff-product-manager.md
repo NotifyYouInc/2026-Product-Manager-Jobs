@@ -5,12 +5,12 @@
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000130753870-staff-product-manager) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000131591949-staff-product-manager) |
 
 ## About This Role
 
-This product manager position at Freshworks CRM was posted on 2026-06-08.
+This product manager position at Freshworks CRM was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

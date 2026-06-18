@@ -5,12 +5,12 @@
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/FTC---Associate-Product-Management---GPS-Delivery_J67227-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/FTC---Associate-Product-Management---GPS-Delivery_J67230) |
 
 ## About This Role
 
-This product manager position at Fil was posted on 2026-06-09.
+This product manager position at Fil was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
