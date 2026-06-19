@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 13 locations |
+| Location | Findlay, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Catlettsburg-KY-Refinery/Senior-Product-Owner_00021164) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Product-Owner_00022465) |
 
 ## About This Role
 
-This product manager position at Marathon Petroleum was posted on 2026-03-24.
+This product manager position at Marathon Petroleum was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

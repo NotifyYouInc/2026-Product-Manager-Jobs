@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tucson, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-807--1151-E-Hermans-Rd--BLDG-807/Senior-Product-Manager_01836299-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Senior-Product-Manager_01851877) |
 
 ## About This Role
 
-This product manager position at RTX was posted on 2026-04-08.
+This product manager position at RTX was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

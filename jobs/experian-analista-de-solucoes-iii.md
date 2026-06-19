@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Blumenau, Santa Catarina, Brazil |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126518986-analista-de-solucoes-iii) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131650120-analista-de-solucoes-iii) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-05-14.
+This product manager position at Experian was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

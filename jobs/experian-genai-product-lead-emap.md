@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000130752599-genai-product-lead-emap) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131641019-genai-product-lead-emap) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-06-08.
+This product manager position at Experian was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

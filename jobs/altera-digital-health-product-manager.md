@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vermont, US |
+| Location | Florida, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Vermont-United-States/Product-Manager_R0043496) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Florida-United-States/Product-Manager_R0043821) |
 
 ## About This Role
 
-This product manager position at Altera Digital Health was posted on 2026-05-06.
+This product manager position at Altera Digital Health was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10386879/sr-product-manager-technical-prime-video-advertising-supply-enablement) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445875/sr-product-manager-technical-prime-video-advertising-supply-enablement) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-04-09.
+This product manager position at Amazon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Manager--Product-Management_R-278266) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Manager--Product-Management_R-279612-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-08.
+This product manager position at Mastercard was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

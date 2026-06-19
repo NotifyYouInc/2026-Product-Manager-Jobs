@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430668/senior-tech-bus-dev-manager-apm-twitch) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10446644/senior-tech-bus-dev-manager-apm-twitch) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-05-26.
+This engineering manager position at Amazon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

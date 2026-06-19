@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7943244) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7984866) |
 
 ## About This Role
 
-This product manager position at Stripe was posted on 2026-05-20.
+This product manager position at Stripe was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

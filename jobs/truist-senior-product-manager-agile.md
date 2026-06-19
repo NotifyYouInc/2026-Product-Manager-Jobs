@@ -1,16 +1,16 @@
-# Senior Product Manager-Agile at Truist
+# Senior Product Manager - Agile at Truist
 
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Manager-Agile_R0110802) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Manager---Agile_R0115460) |
 
 ## About This Role
 
-This product manager position at Truist was posted on 2026-02-05.
+This product manager position at Truist was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

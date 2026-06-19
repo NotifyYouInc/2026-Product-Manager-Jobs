@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bread Financial Holdings, Inc.](https://scoutify.ai/companies/bread-financial-holdings-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Product-Manager-2_R1012361) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/Product-Manager-2_R1012725) |
 
 ## About This Role
 
-This product manager position at Bread Financial Holdings, Inc. was posted on 2026-03-26.
+This product manager position at Bread Financial Holdings, Inc. was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

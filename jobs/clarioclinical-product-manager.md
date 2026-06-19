@@ -5,12 +5,12 @@
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Canada-Remote/Product-Manager_R17494) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Canada-Remote/Product-Manager_R17759) |
 
 ## About This Role
 
-This product manager position at Clarioclinical was posted on 2026-04-30.
+This product manager position at Clarioclinical was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

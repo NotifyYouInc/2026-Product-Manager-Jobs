@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436424/product-manager-amazon-freight-pricing-amazon-freight) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10446709/product-manager-amazon-freight-pricing-amazon-freight) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-06-02.
+This product manager position at Amazon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

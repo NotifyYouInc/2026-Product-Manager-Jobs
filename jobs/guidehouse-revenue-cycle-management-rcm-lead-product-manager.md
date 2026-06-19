@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Revenue-Cycle-Management--RCM--Lead-Product-Manager_39036) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Revenue-Cycle-Management--RCM--Lead-Product-Manager_40425) |
 
 ## About This Role
 
-This product manager position at Guidehouse was posted on 2026-05-28.
+This product manager position at Guidehouse was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

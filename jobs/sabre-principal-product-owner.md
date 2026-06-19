@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Poland |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Krakow-Maopolskie-Poland/Principal-Product-Owner_JR108063) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Poland---Poland--Tischnera/Principal-Product-Owner_JR108173) |
 
 ## About This Role
 
-This product manager position at Sabre was posted on 2026-06-01.
+This product manager position at Sabre was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

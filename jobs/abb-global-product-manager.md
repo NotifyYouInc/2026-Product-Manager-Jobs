@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Global-Product-Manager_JR00026695) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vaasa-Ostrobothnia-Finland/Global-Product-Manager_JR00037246) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-03-18.
+This product manager position at ABB was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vianen, Utrecht, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000120629670-deploymentsmanager-lockers-apm-nederland) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000131834310-deploymentsmanager-lockers-apm-nederland) |
 
 ## About This Role
 
-This product manager position at INPOST was posted on 2026-04-14.
+This product manager position at INPOST was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

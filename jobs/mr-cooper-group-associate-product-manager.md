@@ -1,16 +1,16 @@
-# Associate-Product Manager at Mr. Cooper Group
+# Associate Product Manager at Mr. Cooper Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Mr. Cooper Group](https://scoutify.ai/companies/mr-cooper-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Chennai-NSM-Block-7/Associate-Product-Manager_024576) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://nationstar.wd5.myworkdayjobs.com/mrcooper/job/Chennai-NSM-Block-7/Associate-Product-Manager_024527) |
 
 ## About This Role
 
-This product manager position at Mr. Cooper Group was posted on 2026-05-05.
+This product manager position at Mr. Cooper Group was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

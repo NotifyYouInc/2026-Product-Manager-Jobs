@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013552566-senior-product-manager-identity-interoperability) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013573405-senior-product-manager-identity-interoperability) |
 
 ## About This Role
 
-This product manager position at The Nielsen Company was posted on 2026-06-10.
+This product manager position at The Nielsen Company was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

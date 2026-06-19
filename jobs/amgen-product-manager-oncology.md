@@ -1,16 +1,16 @@
-# Product Manager Oncology at Amgen
+# Product Manager (Oncology) at Amgen
 
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Argentina---Buenos-Aires/Product-Manager-Oncology_R-244388) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Turkiye---Istanbul/Product-Manager--Oncology-_R-247307-1) |
 
 ## About This Role
 
-This product manager position at Amgen was posted on 2026-05-06.
+This product manager position at Amgen was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
