@@ -1,16 +1,16 @@
-# Product Owner II- Payments at PNC Financial
+# Product Owner II - Payments at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Owner-II--Payments_R219119-1) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/NC---Charlotte-28210/Product-Owner-II---Payments_R219648-1) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-04-17.
+This product manager position at PNC Financial was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

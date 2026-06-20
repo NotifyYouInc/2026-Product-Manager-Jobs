@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Tampa, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Director--GCO-Technology-Data---Analytics_R-240573-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Director--GCO-Technology-Data---Analytics_R-244857) |
 
 ## About This Role
 
-This product manager position at Amgen was posted on 2026-04-23.
+This product manager position at Amgen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

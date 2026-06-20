@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5970692004) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6022037004) |
 
 ## About This Role
 
-This product manager position at Diligent Corporation was posted on 2026-05-15.
+This product manager position at Diligent Corporation was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

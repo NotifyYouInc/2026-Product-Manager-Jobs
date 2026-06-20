@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ireland |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Ireland-Home-Worker/Senior-Product-Operations-Analyst_R74683) |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/PT-Lisbon-Telecommuter/Senior-Product-Operations-Analyst_R74694) |
 
 ## About This Role
 

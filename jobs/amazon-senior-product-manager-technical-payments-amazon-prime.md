@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430766/senior-product-manager-technical-payments-amazon-prime) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447989/senior-product-manager-technical-payments-amazon-prime) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-05-26.
+This product manager position at Amazon was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

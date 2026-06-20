@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boulanger Electroménager & Multimédia](https://scoutify.ai/companies/boulangerelectromnagermultimdia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | France |
+| Location | Lesquin, Hauts-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000120891693-business-analystproduct-owner-service-informatique-magasin-cdi-temps-plein-hf) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000131849620-business-analystproduct-owner-service-informatique-magasin-cdi-temps-plein-hf) |
 
 ## About This Role
 
-This product manager position at Boulanger Electroménager & Multimédia was posted on 2026-04-15.
+This product manager position at Boulanger Electroménager & Multimédia was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

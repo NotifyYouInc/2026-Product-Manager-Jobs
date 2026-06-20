@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Florence, Tuscany, Italy |
-| Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Technical-Leader---Electrical-Systems-Engineering-Product-Manager_R157960-1) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Technical-Leader---Electrical-Systems-Engineering-Product-Manager_R165422-1) |
 
 ## About This Role
 
-This product manager position at Baker Hughes was posted on 2026-03-11.
+This electrical / hardware engineer position at Baker Hughes was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

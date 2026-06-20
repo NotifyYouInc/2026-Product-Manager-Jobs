@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Poland |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000130410970-modszy-menedzer-kategorii-produktow-km) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000131900940-modszy-menedzer-kategorii-produktow-km) |
 
 ## About This Role
 
-This product manager position at METRO/MAKRO was posted on 2026-06-05.
+This product manager position at METRO/MAKRO was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

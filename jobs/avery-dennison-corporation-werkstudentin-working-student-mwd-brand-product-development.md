@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Erlangen, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000131681441-werkstudentin-working-student-mwd-brand-product-development) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000131830509-werkstudentin-working-student-mwd-brand-product-development) |
 
 ## About This Role
 
-This product manager position at Avery Dennison Corporation was posted on 2026-06-11.
+This product manager position at Avery Dennison Corporation was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

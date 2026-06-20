@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000108576557-lead-product-analyst-onboarding) |
+| Category | Product Manager |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000131941869-lead-product-analyst-onboarding) |
 
 ## About This Role
 
-This customer success position at WISE was posted on 2026-02-10.
+This product manager position at WISE was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

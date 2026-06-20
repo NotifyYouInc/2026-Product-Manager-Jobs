@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Momentive](https://scoutify.ai/companies/momentive?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Illinois, US |
+| Location | North Carolina, US |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://momentive.wd1.myworkdayjobs.com/MC/job/US-REMOTE---Illinois/Global-Segment-Leader---Agriculture_R9102) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://momentive.wd1.myworkdayjobs.com/MC/job/US-REMOTE---North-Carolina/Global-Segment-Leader---Agriculture_R9143) |
 
 ## About This Role
 
-This product manager position at Momentive was posted on 2026-06-04.
+This product manager position at Momentive was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

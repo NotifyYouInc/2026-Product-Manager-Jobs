@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Operations |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000115864157-product-ops-hf) |
+| Category | Product Manager |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000131853326-product-ops-hf) |
 
 ## About This Role
 
-This operations position at Nexton was posted on 2026-03-20.
+This product manager position at Nexton was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

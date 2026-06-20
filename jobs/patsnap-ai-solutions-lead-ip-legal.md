@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Patsnap](https://scoutify.ai/companies/patsnap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.lever.co/patsnap/e4e5de86-5693-4f8d-8dee-d8c595d35a3c) |
+| Location | United States |
+| Category | Legal |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.lever.co/patsnap/ef9106c4-4b87-4158-9b68-eeca47e00926) |
 
 ## About This Role
 
-This product manager position at Patsnap was posted on 2026-06-11.
+This legal position at Patsnap was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

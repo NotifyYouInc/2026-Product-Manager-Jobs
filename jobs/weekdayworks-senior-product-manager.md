@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/weekdayworks/9ab913f0-fa8c-40ff-a554-ca3b4b77c17d) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/b0969d22-fb13-4952-aeb4-9ad5e43ac0d8) |
 
 ## About This Role
 
-This product manager position at Weekdayworks was posted on 2026-05-18.
+This product manager position at Weekdayworks was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

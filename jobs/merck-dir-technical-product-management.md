@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Dir---Technical-Product-Management_R394449-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Dir---Technical-Product-Management_R398458) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-04-27.
+This product manager position at Merck was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

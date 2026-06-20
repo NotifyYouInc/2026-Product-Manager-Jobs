@@ -5,12 +5,12 @@
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/Digital-II_R-39782) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Digital-II_R-40237) |
 
 ## About This Role
 
-This product manager position at KeyBank was posted on 2026-05-20.
+This product manager position at KeyBank was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

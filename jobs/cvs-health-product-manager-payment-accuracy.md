@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | Connecticut, US |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Product-Manager--Payment-Accuracy_R0889375-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Product-Manager--Payment-Accuracy_R0918806-1) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-04-29.
+This product manager position at CVS Health was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

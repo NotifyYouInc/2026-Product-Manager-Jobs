@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Smyrna, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Product-Management-Manager_Req179128) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/SMYRNA-PACES-SUMMIT---9125/Product-Management-Manager_Req183760) |
 
 ## About This Role
 
-This product manager position at The Home Depot was posted on 2026-05-05.
+This product manager position at The Home Depot was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

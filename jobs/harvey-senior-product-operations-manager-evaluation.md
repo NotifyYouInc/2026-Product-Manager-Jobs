@@ -5,12 +5,12 @@
 | Company | [Harvey](https://scoutify.ai/companies/harvey?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2025-12-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/0f97089b-0b97-4178-be5b-263116f8e9bf) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/harvey/70ac0c85-e987-4657-aae4-95337e344d4e) |
 
 ## About This Role
 
-This product manager position at Harvey was posted on 2025-12-19.
+This product manager position at Harvey was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

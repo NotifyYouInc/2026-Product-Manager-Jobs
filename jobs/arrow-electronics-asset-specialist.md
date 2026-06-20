@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Asset-Specialist_R243053) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Gdansk-Poland-Aleja-Grunwaldzka/Asset-Specialist-Buyer_R245064) |
 
 ## About This Role
 
-This product manager position at Arrow Electronics was posted on 2026-06-02.
+This product manager position at Arrow Electronics was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

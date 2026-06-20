@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Product-Manager-3_R169484) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager-3_R169439) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-06-08.
+This product manager position at Adobe was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

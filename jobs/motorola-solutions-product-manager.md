@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Schaumburg, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/Product-Manager_R64401) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Product-Manager_R65785) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-05-21.
+This product manager position at Motorola Solutions was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
