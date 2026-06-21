@@ -1,16 +1,16 @@
-# Senior Product Manager at Warner Bros.
+# Product Manager, AI Access at Cloudflare
 
 | Field | Details |
 |-------|---------|
-| Company | [Warner Bros.](https://scoutify.ai/companies/warnerbros?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/Senior-Product-Manager_R000106225) |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7904142?gh_jid=7904142) |
 
 ## About This Role
 
-This product manager position at Warner Bros. was posted on 2026-06-13.
+This product manager position at Cloudflare was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
