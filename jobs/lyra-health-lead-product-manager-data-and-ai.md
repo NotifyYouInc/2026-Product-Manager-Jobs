@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# Lead Product Manager, Data and AI at Lyra Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Lyra Health](https://scoutify.ai/companies/lyra-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://jobs.lever.co/lyrahealth/e3d731e8-eea0-4ae4-bd9a-5624b91ca129) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at Lyra Health was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

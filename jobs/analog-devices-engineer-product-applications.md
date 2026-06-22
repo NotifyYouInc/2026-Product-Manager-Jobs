@@ -1,16 +1,16 @@
-# Product Manager-Tech III, Finance Automation at Amazon
+# Engineer, Product Applications at Analog Devices
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Manager |
+| Category | Customer Success |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448507/product-manager-tech-iii-finance-automation) |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Bangalore-Nova/Engineer--Product-Applications_R263118) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-06-15.
+This customer success position at Analog Devices was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

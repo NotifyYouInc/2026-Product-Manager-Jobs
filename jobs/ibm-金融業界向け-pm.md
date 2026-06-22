@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# 金融業界向け PM at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=120061) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at IBM was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

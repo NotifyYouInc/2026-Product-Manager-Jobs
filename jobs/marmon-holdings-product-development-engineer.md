@@ -5,12 +5,12 @@
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Karnataka-IN/Product-Development-Engineer_JR0000041114) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Karnataka-IN/Product-Development-Engineer_JR0000043786) |
 
 ## About This Role
 
-This software engineer position at Marmon Holdings was posted on 2026-05-06.
+This software engineer position at Marmon Holdings was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

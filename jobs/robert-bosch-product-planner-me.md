@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# Product Planner_ME at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Changzhou, Jiangsu, China |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132105849-product-planner-me) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

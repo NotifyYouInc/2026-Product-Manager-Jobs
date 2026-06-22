@@ -1,16 +1,16 @@
-# Product Manager-Tech III, Finance Automation at Amazon
+# Business Analyst II at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448507/product-manager-tech-iii-finance-automation) |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Business-Analyst-II_R-01356289) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-06-15.
+This product manager position at Thermo Fisher Scientific was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

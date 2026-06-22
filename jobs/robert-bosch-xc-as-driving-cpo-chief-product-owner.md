@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# [XC-AS] Driving CPO (Chief Product Owner) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Not specified |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132130919-xc-as-driving-cpo-chief-product-owner) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at Robert Bosch was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

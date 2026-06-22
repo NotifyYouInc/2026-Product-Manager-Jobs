@@ -1,4 +1,4 @@
-# (Senior) Development Partner, Customer Innovation at Economic Development Board
+# Product Manager (Salesforce), ITD (1 year contract) at Economic Development Board
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ESG---Bugis-Junction-Office-Tower-Level-10-ENTERRPRISESG/XMLNAME--Senior--Development-Partner--Customer-Innovation_JR-10000051982) |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/EDB---SG-SINGAPORE/Product-Manager--Salesforce---ITD--1-year-contract-_JR-10000051979) |
 
 ## About This Role
 

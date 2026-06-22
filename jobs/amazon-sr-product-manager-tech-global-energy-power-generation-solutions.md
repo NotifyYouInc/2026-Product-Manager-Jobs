@@ -1,16 +1,16 @@
-# Licensing Manager, Amazon MGM Studios Consumer Products at Amazon
+# Sr. Product Manager - Tech, Global Energy, Power Generation Solutions at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Culver City, California, United States |
-| Category | Legal |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420858/licensing-manager-amazon-mgm-studios-consumer-products) |
+| Location | Herndon, Virginia, United States |
+| Category | Product Manager |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408641/sr-product-manager-tech-global-energy-power-generation-solutions) |
 
 ## About This Role
 
-This legal position at Amazon was posted on 2026-05-15.
+This product manager position at Amazon was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

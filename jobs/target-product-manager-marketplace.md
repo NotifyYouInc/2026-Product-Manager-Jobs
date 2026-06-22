@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# Product Manager - Marketplace at Target
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Product-Manager---Marketplace_R0000434202) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at Target was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

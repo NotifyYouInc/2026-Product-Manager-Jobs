@@ -1,16 +1,16 @@
-# Oracle Supply Chain Product Owner at Mattel
+# Head of Digital Experience  at H&M Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132115549-oracle-supply-chain-product-owner) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000132068409-head-of-digital-experience) |
 
 ## About This Role
 
-This product manager position at Mattel was posted on 2026-06-15.
+This product manager position at H&M Group was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

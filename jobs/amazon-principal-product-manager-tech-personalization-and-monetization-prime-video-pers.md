@@ -1,16 +1,16 @@
-# Licensing Manager, Amazon MGM Studios Consumer Products at Amazon
+# Principal Product Manager - Tech, Personalization and Monetization, Prime Video Personalization & Discovery at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Culver City, California, United States |
-| Category | Legal |
+| Location | Seattle, Washington, United States |
+| Category | Product Manager |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420858/licensing-manager-amazon-mgm-studios-consumer-products) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420861/principal-product-manager-tech-personalization-and-monetization-prime-video-personalization-discovery) |
 
 ## About This Role
 
-This legal position at Amazon was posted on 2026-05-15.
+This product manager position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

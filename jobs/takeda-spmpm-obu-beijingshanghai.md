@@ -1,16 +1,16 @@
-# Director Product Management at Coupang
+# SPM/PM, OBU, Beijing/Shanghai at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Product Manager |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
+| Category | Marketing |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7999714) |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Shanghai-China/SPM-PM--OBU--Beijing-Shanghai_R0182201) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-15.
+This marketing position at Takeda was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

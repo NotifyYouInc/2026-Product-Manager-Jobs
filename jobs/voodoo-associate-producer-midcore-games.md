@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# Associate Producer - Midcore Games at Voodoo
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Voodoo](https://scoutify.ai/companies/voodoo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/voodoo/6b52dbc7-bea1-4409-9e38-78fc3bbeec53) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at Voodoo was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

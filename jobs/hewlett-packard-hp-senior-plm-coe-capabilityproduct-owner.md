@@ -1,16 +1,16 @@
-# Product Manager-Tech III, Finance Automation at Amazon
+# Senior PLM CoE Capability/Product Owner at Hewlett Packard (HP)
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448507/product-manager-tech-iii-finance-automation) |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karnataka-India/Senior-PLM-CoE-Capability-Product-Owner_3163727-1) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-06-15.
+This product manager position at Hewlett Packard (HP) was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

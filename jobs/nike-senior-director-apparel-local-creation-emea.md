@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# Senior Director, Apparel Local Creation EMEA at Nike
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hilversum, North Holland, The Netherlands |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Hilversum-Netherlands/Senior-Director--Apparel-Local-Creation-EMEA_R-85882) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at Nike was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

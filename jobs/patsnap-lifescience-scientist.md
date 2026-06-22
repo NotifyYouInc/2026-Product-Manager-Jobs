@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# Lifescience Scientist at Patsnap
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Patsnap](https://scoutify.ai/companies/patsnap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://jobs.lever.co/patsnap/d8ed208f-0d67-4c4f-be6b-14f10fe0f645) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at Patsnap was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

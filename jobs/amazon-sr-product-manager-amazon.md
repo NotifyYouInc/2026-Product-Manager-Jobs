@@ -1,16 +1,16 @@
-# Licensing Manager, Amazon MGM Studios Consumer Products at Amazon
+# Sr. Product Manager, Amazon at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Culver City, California, United States |
-| Category | Legal |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Product Manager |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420858/licensing-manager-amazon-mgm-studios-consumer-products) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421038/sr-product-manager-amazon) |
 
 ## About This Role
 
-This legal position at Amazon was posted on 2026-05-15.
+This product manager position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

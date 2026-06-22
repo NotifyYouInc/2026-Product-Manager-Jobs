@@ -1,16 +1,16 @@
-# Oracle Supply Chain Product Owner at Mattel
+# Product Manager at Ping Identity
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Ping Identity](https://scoutify.ai/companies/ping-identity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000132115549-oracle-supply-chain-product-owner) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8582850002) |
 
 ## About This Role
 
-This product manager position at Mattel was posted on 2026-06-15.
+This product manager position at Ping Identity was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

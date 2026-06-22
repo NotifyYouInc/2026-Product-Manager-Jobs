@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Platform-Product-SME---Tax_R172990) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Pune-411014/Platform-Product-SME---Tax_R184798) |
 
 ## About This Role
 
-This product manager position at A.P. Moller - Maersk was posted on 2026-05-25.
+This product manager position at A.P. Moller - Maersk was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

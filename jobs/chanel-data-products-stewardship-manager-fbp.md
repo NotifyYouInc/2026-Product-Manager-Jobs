@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# Data Products & Stewardship Manager, FBP at Chanel
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Chanel](https://scoutify.ai/companies/cc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Singapore/Data-Products---Stewardship-Manager--FBP_JOBREQ00113840) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at Chanel was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

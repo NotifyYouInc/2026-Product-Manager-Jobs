@@ -1,16 +1,16 @@
-# Director, Product Operations at Mastercard
+# Team Lead Product Manager, Mobile Apps (m/f/d) at AutoScout24
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [AutoScout24](https://scoutify.ai/companies/autoscout24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Operations_R-280122) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/autoscout24/jobs/7773011003) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-15.
+This product manager position at AutoScout24 was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
