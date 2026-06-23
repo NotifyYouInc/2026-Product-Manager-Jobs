@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000131681222-e-commerce-lead) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000132188190-e-commerce-lead) |
 
 ## About This Role
 
-This product manager position at H&M Group was posted on 2026-06-11.
+This product manager position at H&M Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

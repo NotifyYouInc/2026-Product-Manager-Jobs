@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ukraine |
+| Location | Hungary |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4700343005) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4705994005) |
 
 ## About This Role
 
-This product manager position at INFUSE was posted on 2026-05-28.
+This product manager position at INFUSE was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123967871-website-optimisation-manager) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132284699-website-optimisation-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-04-30.
+This product manager position at Experian was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

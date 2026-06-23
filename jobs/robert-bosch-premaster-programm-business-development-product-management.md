@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ludwigsburg, Baden-Wurttemberg, Germany |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000124557774-premaster-programm-business-development-product-management) |
+| Category | Product Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132336649-premaster-programm-business-development-product-management) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Robert Bosch was posted on 2026-05-05.
+This product manager position at Robert Bosch was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

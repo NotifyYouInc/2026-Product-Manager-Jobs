@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001140714-pexels-product-manager) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001155443-pexels-product-manager) |
 
 ## About This Role
 
-This product manager position at Canva was posted on 2026-06-09.
+This product manager position at Canva was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

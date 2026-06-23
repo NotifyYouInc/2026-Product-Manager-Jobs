@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Manager--Onsite-_R0445695) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Manager--Onsite-_R0467225) |
 
 ## About This Role
 
-This product manager position at Tyson Foods was posted on 2026-02-27.
+This product manager position at Tyson Foods was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

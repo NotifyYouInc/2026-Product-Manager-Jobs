@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000130290439-product-manager-business-analyst) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000132284525-product-manager-business-analyst) |
 
 ## About This Role
 
-This product manager position at Endava was posted on 2026-06-04.
+This product manager position at Endava was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

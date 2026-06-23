@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Florida, US |
+| Location | Missouri, US |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--Product-Development---Innovation_1641847) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Director--Product-Development---Innovation_1642073) |
 
 ## About This Role
 
-This product manager position at Centene was posted on 2026-06-11.
+This product manager position at Centene was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118393007-product-operations-senior-specialist) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132333734-product-operations-senior-specialist) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-04-02.
+This product manager position at Delivery Hero was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

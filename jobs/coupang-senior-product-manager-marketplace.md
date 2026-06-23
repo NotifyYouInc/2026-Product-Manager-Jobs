@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=7981424) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8009160) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-06-04.
+This product manager position at Coupang was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

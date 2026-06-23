@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Creative Artists Agency](https://scoutify.ai/companies/caa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Los Angeles, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/Nashville-TN/Product-Manager---Content_JR8913) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Product-Manager_JR8930) |
 
 ## About This Role
 
-This product manager position at Creative Artists Agency was posted on 2026-06-10.
+This product manager position at Creative Artists Agency was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

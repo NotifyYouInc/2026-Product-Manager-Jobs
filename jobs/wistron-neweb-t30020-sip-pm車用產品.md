@@ -5,12 +5,12 @@
 | Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hsinchu, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/T30020-SiP-PM--_REQ_260210473) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/T30020-SiP-PM--_REQ_260611556-1) |
 
 ## About This Role
 
-This product manager position at Wistron NeWeb was posted on 2026-02-25.
+This product manager position at Wistron NeWeb was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

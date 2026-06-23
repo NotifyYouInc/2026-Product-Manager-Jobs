@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000130781229-senior-product-manager-active-fixed-income) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000132212450-senior-product-manager-active-fixed-income) |
 
 ## About This Role
 
-This product manager position at Legal & General was posted on 2026-06-08.
+This product manager position at Legal & General was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

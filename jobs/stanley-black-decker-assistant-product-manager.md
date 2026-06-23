@@ -5,12 +5,12 @@
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Maidenhead, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Maidenhead-Berkshire-England/Assistant-Product-Manager_REQ-1000047393) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Maidenhead-Berkshire-England/Assistant-Product-Manager_REQ-1000047842) |
 
 ## About This Role
 
-This product manager position at Stanley Black & Decker was posted on 2026-05-21.
+This product manager position at Stanley Black & Decker was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

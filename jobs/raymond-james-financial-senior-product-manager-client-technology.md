@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Florida, US |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Product-Manager---Client-Technology_R-0010630) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Product-Manager---Client-Technology_R-0011614) |
 
 ## About This Role
 
-This product manager position at Raymond James Financial was posted on 2026-04-29.
+This product manager position at Raymond James Financial was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

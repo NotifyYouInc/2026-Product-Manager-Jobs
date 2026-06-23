@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tranås, Jönköping, Sweden |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000130808650-internship-in-project-management-office-product-management) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132331409-internship-in-project-management-office-product-management) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-06-08.
+This product manager position at Robert Bosch was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

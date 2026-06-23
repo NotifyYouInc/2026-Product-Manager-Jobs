@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-2-All-Other-Floors/Digital-Product-Manager_R31227) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Digital-Product-Manager_R31147-1) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-06-08.
+This product manager position at Allstate was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

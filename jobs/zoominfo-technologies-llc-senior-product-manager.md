@@ -5,12 +5,12 @@
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8549703002) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8561597002) |
 
 ## About This Role
 
-This product manager position at ZoomInfo Technologies LLC was posted on 2026-05-20.
+This product manager position at ZoomInfo Technologies LLC was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

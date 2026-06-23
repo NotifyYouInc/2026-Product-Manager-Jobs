@@ -5,12 +5,12 @@
 | Company | [Aurelian](https://scoutify.ai/companies/aurelian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aurelian/48aaeb03-ed29-4f61-b1d9-f849ec907796) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aurelian/add5cdef-328f-4e04-a42a-00ceee5e19d6) |
 
 ## About This Role
 
-This product manager position at Aurelian was posted on 2026-03-04.
+This product manager position at Aurelian was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bois-Colombes, Île-de-France, France |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/FRA---Bois-Colombes-17-Avenue-de-lEurope/Senior-Product-Manager_R0057567) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Hoevelaken/Senior-Product-Manager_R0056901-2) |
 
 ## About This Role
 
-This product manager position at Wolters Kluwer was posted on 2026-05-22.
+This product manager position at Wolters Kluwer was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

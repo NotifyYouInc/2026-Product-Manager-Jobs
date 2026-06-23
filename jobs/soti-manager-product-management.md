@@ -1,16 +1,16 @@
-# Manager,  Product Management at SOTI
+# Manager, Product Management at SOTI
 
 | Field | Details |
 |-------|---------|
 | Company | [SOTI](https://scoutify.ai/companies/soti?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kochi, Kerala, India |
+| Location | Mississauga, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Kochi-India/Manager---Product-Management_R10088-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://soti.wd3.myworkdayjobs.com/careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Manager--Product-Management_R09555) |
 
 ## About This Role
 
-This product manager position at SOTI was posted on 2026-05-20.
+This product manager position at SOTI was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

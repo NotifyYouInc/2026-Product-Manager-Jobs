@@ -5,12 +5,12 @@
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Galway, Connacht, Ireland |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Director--Product-Manager_2129156) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Director--Product-Manager_2129155-1) |
 
 ## About This Role
 
-This product manager position at Fidelity was posted on 2026-05-11.
+This product manager position at Fidelity was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

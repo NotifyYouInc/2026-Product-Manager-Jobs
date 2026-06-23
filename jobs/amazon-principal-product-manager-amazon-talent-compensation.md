@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447072/principal-product-manager-amazon-talent-compensation) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449108/principal-product-manager-amazon-talent-compensation) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-06-11.
+This product manager position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viseven](https://scoutify.ai/companies/viseven?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Poznań, Greater Poland, Poland |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.lever.co/viseven/0b9424d0-56ec-4be5-9748-a1fc79a0f3b8) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.lever.co/viseven/052ab04d-2d47-4fc8-8a01-9960c588f7bb) |
 
 ## About This Role
 
-This product manager position at Viseven was posted on 2026-05-20.
+This product manager position at Viseven was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

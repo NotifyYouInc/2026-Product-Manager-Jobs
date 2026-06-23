@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Engineering-Product-Manager_2015600) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Engineering-Product-Manager_2015696-1) |
 
 ## About This Role
 
-This product manager position at Cisco was posted on 2026-06-11.
+This product manager position at Cisco was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

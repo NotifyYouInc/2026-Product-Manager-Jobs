@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Management-II_R2618262-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Product-Line-Management-II_R2621661) |
 
 ## About This Role
 
-This product manager position at Applied Materials was posted on 2026-04-21.
+This product manager position at Applied Materials was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

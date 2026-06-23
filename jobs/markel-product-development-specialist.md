@@ -5,12 +5,12 @@
 | Company | [Markel](https://scoutify.ai/companies/markel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 9 locations |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Any-Markel-Office/Product-Development-Specialist_R0022423) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Any-Markel-Office/Product-Development-Specialist_R0023309) |
 
 ## About This Role
 
-This product manager position at Markel was posted on 2026-04-26.
+This product manager position at Markel was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

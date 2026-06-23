@@ -1,16 +1,16 @@
-# Product Manager - Networking at Ingram Micro
+# Product Manager, Networking at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bangkok-Thailand/Product-Manager---Networking_R-115664) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Petaling-Jaya-Malaysia/Product-Manager--Networking_R-115643) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-06-02.
+This product manager position at Ingram Micro was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

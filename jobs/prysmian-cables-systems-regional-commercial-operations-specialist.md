@@ -5,12 +5,12 @@
 | Company | [Prysmian Cables & Systems](https://scoutify.ai/companies/prysmian-cables-systems?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Highland Heights, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/Regional-Commercial-Operations-Specialist_R-33568-2) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/Regional-Commercial-Operations-Specialist_R-34083-2) |
 
 ## About This Role
 
-This product manager position at Prysmian Cables & Systems was posted on 2026-06-11.
+This product manager position at Prysmian Cables & Systems was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

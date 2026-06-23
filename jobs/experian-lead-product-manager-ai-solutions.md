@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000120540317-lead-product-manager-ai-solutions) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132284889-lead-product-manager-ai-solutions) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-04-13.
+This product manager position at Experian was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

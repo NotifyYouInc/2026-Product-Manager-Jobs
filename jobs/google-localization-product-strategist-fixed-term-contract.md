@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckfp_fRX1uep35bUns2FxXTQE9aNQDlmi0f8AUYiWnUz9EjsACxwdTDkJJDxD0ol03DQ6sCS6oL1QNHIHDEVS4SUQcajtqFeeSVcju0FJEQ7bX_FuL0L2hiYGuKg0rw%3D%3D_V2&loc=US&title=Localization+Product+Strategist) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbWv3C7Avg4P8rHDlsD8CcVHhbPg1YW_UouHf0Jc2tRNEjsA1Ny_i1PukGxtPuPeJWE1fzD6b3axDhbX2TtiiGcvJTmN21O7e5Gr3jixB_eCOJy6J2qZV1okp8h81g%3D%3D_V2&loc=US&title=Localization+Product+Strategist) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-05.
+This product manager position at Google was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
