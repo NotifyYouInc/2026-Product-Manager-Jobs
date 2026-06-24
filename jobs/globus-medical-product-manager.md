@@ -5,12 +5,12 @@
 | Company | [Globus Medical](https://scoutify.ai/companies/globusmedical?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Audubon, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Product-Manager_JR106556) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://globusmedical.wd5.myworkdayjobs.com/gmed_careers/job/Audubon-PA/Product-Manager_JR107031) |
 
 ## About This Role
 
-This product manager position at Globus Medical was posted on 2026-06-03.
+This product manager position at Globus Medical was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

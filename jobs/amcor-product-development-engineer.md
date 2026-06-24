@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Evansville, Indiana, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Product-Development-Engineer_REQ_92186) |
+| Location | Neenah, Wisconsin, United States |
+| Category | Product Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Neenah-Innovation-Center-WI/Product-Development-Engineer_REQ_92207) |
 
 ## About This Role
 
-This software engineer position at Amcor was posted on 2026-06-11.
+This product manager position at Amcor was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

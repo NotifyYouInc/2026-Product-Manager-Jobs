@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Product-Owner_109244) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Product-Owner_111407) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-03-29.
+This product manager position at Gartner was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Utility Warehouse](https://scoutify.ai/companies/utilitywarehouse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000130401180-category-manager-motor-insurance) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UtilityWarehouse1/744000132393588-category-manager-motor-insurance) |
 
 ## About This Role
 
-This product manager position at Utility Warehouse was posted on 2026-06-05.
+This product manager position at Utility Warehouse was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Manager, Internal AI and Employee Productivity at Nvidia
+# Senior Product Manager - Internal AI and Employee Productivity at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Manager--Internal-AI-and-Employee-Productivity_JR2019102) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Product-Manager---Internal-AI-and-Employee-Productivity_JR2019570) |
 
 ## About This Role
 
-This product manager position at Nvidia was posted on 2026-06-02.
+This product manager position at Nvidia was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

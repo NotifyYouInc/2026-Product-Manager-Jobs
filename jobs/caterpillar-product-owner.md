@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Košice, Košice Region, Slovakia |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Product-Owner_R0000373184) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Product-Owner_R0000376705) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-05-29.
+This product manager position at Caterpillar was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

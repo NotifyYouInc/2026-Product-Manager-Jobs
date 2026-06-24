@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Des Moines, Iowa, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Manager--Software-Engineering-Product-Manager_098546-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager_098636-1) |
 
 ## About This Role
 
-This engineering manager position at Nationwide was posted on 2026-06-11.
+This engineering manager position at Nationwide was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

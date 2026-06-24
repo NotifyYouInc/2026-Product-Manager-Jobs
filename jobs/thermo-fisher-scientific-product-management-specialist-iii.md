@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Morrisville, North Carolina, United States |
+| Location | Kansas, US |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Product-Management-Specialist-III_R-01355189) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kansas-USA/Product-Management-Specialist-III_R-01356548) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-06-08.
+This product manager position at Thermo Fisher Scientific was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

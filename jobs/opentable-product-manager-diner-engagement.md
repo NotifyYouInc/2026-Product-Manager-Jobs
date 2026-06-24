@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenTable](https://scoutify.ai/companies/opentable?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8536151002) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/opentable/jobs/8536153002) |
 
 ## About This Role
 
-This product manager position at OpenTable was posted on 2026-05-05.
+This product manager position at OpenTable was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

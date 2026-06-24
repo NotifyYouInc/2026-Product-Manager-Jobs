@@ -5,12 +5,12 @@
 | Company | [Circle](https://scoutify.ai/companies/circle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://circle.wd1.myworkdayjobs.com/circle/job/San-Francisco---remote-first-in-US/Principal-Product-Manager_JR100983) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://circle.wd1.myworkdayjobs.com/circle/job/San-Francisco---remote-first-in-US/Principal-Product-Manager_JR101057) |
 
 ## About This Role
 
-This product manager position at Circle was posted on 2026-04-13.
+This product manager position at Circle was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000125064025-alternance-ingenieur-pmo-po-it-hf) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000132376510-alternance-ingenieur-pmo-po-it-hf) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-05-07.
+This product manager position at ALTEN Canada was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

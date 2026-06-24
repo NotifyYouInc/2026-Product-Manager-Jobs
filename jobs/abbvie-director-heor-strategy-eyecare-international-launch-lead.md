@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irvine, California, United States |
+| Location | Florham Park, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012933508-director-heor-strategy-eyecare-international-launch-lead) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013647226-director-heor-strategy-eyecare-international-launch-lead) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-05-01.
+This product manager position at AbbVie was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

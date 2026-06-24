@@ -5,12 +5,12 @@
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Philippines |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Manager--Product-Owner_R0000020273) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Manager--Product-Owner_R0000020735) |
 
 ## About This Role
 
-This product manager position at GLOBE was posted on 2026-05-21.
+This product manager position at GLOBE was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

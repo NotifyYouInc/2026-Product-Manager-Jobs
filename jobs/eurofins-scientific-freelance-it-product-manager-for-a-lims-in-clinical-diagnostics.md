@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Braşov, Brașov County, Romania |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131171208-freelance-it-product-manager-for-a-lims-in-clinical-diagnostics) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000132459989-freelance-it-product-manager-for-a-lims-in-clinical-diagnostics) |
 
 ## About This Role
 
-This product manager position at Eurofins Scientific was posted on 2026-06-09.
+This product manager position at Eurofins Scientific was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Pompano Beach, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Navico-Group-EMEA-BV---Netherlands/Product-Manager_JR-049902) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Pompano-Beach-FL/Product-Manager_JR-050565) |
 
 ## About This Role
 
-This product manager position at Brunswick was posted on 2026-06-05.
+This product manager position at Brunswick was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

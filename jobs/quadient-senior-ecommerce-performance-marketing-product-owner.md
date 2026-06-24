@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Madrid, Madrid, Spain |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000127837584-senior-ecommerce-performance-marketing-product-owner) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000132405955-senior-ecommerce-performance-marketing-product-owner) |
 
 ## About This Role
 
-This digital / performance marketing position at Quadient was posted on 2026-05-22.
+This digital / performance marketing position at Quadient was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

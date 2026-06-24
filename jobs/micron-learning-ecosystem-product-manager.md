@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Learning-Ecosystem-Product-Manager_JR103800-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taoyuan---Fab-11-Taiwan/Learning-Ecosystem-Product-Manager_JR104429) |
 
 ## About This Role
 
-This product manager position at Micron was posted on 2026-06-15.
+This product manager position at Micron was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

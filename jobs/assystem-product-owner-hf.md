@@ -1,16 +1,16 @@
-# Product Owner - H/F at Assystem
+# Product Owner H/F at Assystem
 
 | Field | Details |
 |-------|---------|
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000129971609-product-owner-hf) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000132451250-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Assystem was posted on 2026-06-03.
+This product manager position at Assystem was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

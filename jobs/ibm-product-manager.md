@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113869) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119724) |
 
 ## About This Role
 
-This product manager position at IBM was posted on 2026-05-07.
+This product manager position at IBM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

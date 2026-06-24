@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000113640718-principal-product-manager-wise-platform-receive) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000132550029-principal-product-manager-wise-platform-receive) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-03-10.
+This product manager position at WISE was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

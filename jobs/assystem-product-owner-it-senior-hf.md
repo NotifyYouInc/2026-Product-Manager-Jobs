@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | La Defense, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000121839037-product-owner-it-senior-hf) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000132449790-product-owner-it-senior-hf) |
 
 ## About This Role
 
-This product manager position at Assystem was posted on 2026-04-20.
+This product manager position at Assystem was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

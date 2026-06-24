@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/London-United-Kingdom/Asset-Servicing-Product-Management-Governance-and-Control-Officer_R155574) |
+| Location | Chicago, Illinois, United States |
+| Category | Product Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Asset-Servicing-Product-Management-Governance-and-Control-Officer_R157097) |
 
 ## About This Role
 
-This asset management / portfolio management position at Northern Trust was posted on 2026-05-27.
+This product manager position at Northern Trust was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

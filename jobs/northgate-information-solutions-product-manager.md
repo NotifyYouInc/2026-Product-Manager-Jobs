@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000130220214-product-manager) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000132365754-product-manager) |
 
 ## About This Role
 
-This product manager position at Northgate Information Solutions was posted on 2026-06-04.
+This product manager position at Northgate Information Solutions was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Hanoi/Product-Manager_JR2064) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Jakarta/Product-Manager_JR2103-1) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-06-10.
+This product manager position at Exclusivenetworks was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

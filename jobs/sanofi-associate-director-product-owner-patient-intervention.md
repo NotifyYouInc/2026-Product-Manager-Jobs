@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Morristown, Tennessee, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Associate-Director--Product-Owner---Patient-Intervention_R2839024-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Associate-Director--Product-Owner---Patient-Intervention_R2860529-1) |
 
 ## About This Role
 
-This product manager position at Sanofi was posted on 2026-02-06.
+This product manager position at Sanofi was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

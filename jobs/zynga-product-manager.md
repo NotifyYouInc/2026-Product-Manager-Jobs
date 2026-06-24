@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5830882004) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6005690004) |
 
 ## About This Role
 
-This product manager position at Zynga was posted on 2026-03-25.
+This product manager position at Zynga was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

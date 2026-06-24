@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Spring, Texas, United States |
-| Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Quality-Engineer-and-Product-Manager_3160967-2) |
+| Category | Engineering Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Quality-Engineer-and-Product-Manager_3163026-2) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard (HP) was posted on 2026-04-29.
+This engineering manager position at Hewlett Packard (HP) was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

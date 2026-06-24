@@ -1,16 +1,16 @@
-# Junior Commercial Product Manager at Coolblue
+# Junior Commercial Product Manager  at Coolblue
 
 | Field | Details |
 |-------|---------|
 | Company | [Coolblue](https://scoutify.ai/companies/coolblue?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000114316298-junior-commercial-product-manager) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000132365531-junior-commercial-product-manager) |
 
 ## About This Role
 
-This product manager position at Coolblue was posted on 2026-03-12.
+This product manager position at Coolblue was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

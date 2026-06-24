@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2K](https://scoutify.ai/companies/2k?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lunenburg, Nova Scotia, Canada |
+| Location | Novato, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7692431003) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7762613003) |
 
 ## About This Role
 
-This product manager position at 2K was posted on 2026-05-01.
+This product manager position at 2K was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

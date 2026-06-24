@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwool International](https://scoutify.ai/companies/rockwool-international?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Milan/Head-of-Product-Management_R0033955-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Chicago-Illinois/Head-of-Product-Management_R0035421-1) |
 
 ## About This Role
 
-This product manager position at Rockwool International was posted on 2026-02-03.
+This product manager position at Rockwool International was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

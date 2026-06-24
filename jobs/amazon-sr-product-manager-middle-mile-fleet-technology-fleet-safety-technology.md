@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447740/sr-product-manager-middle-mile-fleet-technology-fleet-safety-technology) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449961/sr-product-manager-middle-mile-fleet-technology-fleet-safety-technology) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-06-12.
+This product manager position at Amazon was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Lisbon-Portugal/Principal-Product-Manager_R34231) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Melbourne-Australia/Principal-Product-Manager_R35027-1) |
 
 ## About This Role
 
-This product manager position at Zendesk was posted on 2026-03-10.
+This product manager position at Zendesk was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

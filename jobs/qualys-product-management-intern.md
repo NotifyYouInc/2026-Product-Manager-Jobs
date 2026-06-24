@@ -5,12 +5,12 @@
 | Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Foster City, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Foster-City/Product-Management-Intern_R0004606) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Foster-City/Product-Management-Intern_R0004748) |
 
 ## About This Role
 
-This product manager position at Qualys was posted on 2026-06-02.
+This product manager position at Qualys was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
