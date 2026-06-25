@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7775322003?gh_jid=7775322003) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7776105003?gh_jid=7776105003) |
 
 ## About This Role
 
-This product manager position at Realtor.com was posted on 2026-06-16.
+This product manager position at Realtor.com was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

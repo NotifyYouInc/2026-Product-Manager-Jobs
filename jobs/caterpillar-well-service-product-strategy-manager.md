@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Houston-Texas/Well-Service-Product-Strategy-Manager_R0000365582) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Houston-Texas/Well-Service-Product-Strategy-Manager_R0000377244) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-04-28.
+This product manager position at Caterpillar was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
-| Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2082565018957406) |
+| Location | 2 locations |
+| Category | Content Marketing |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1371216284928254) |
 
 ## About This Role
 
-This ai / ml research position at Meta was posted on 2026-05-29.
+This content marketing position at Meta was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

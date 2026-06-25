@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Director--Technology-Product-Management_REQ512340-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Director--Technology-Product-Management_REQ511317) |
 
 ## About This Role
 
-This product manager position at JLL was posted on 2026-06-11.
+This product manager position at JLL was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

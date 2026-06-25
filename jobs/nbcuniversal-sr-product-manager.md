@@ -1,16 +1,16 @@
-# Sr Product Manager at NBCUniversal
+# Sr. Product Manager at NBCUniversal
 
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Centennial, Colorado, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000129195089-sr-product-manager) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000132665464-sr-product-manager) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-05-29.
+This product manager position at NBCUniversal was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116617568-product-manager-workflow-automation) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000132637460-product-manager-workflow-automation) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-03-25.
+This product manager position at NBCUniversal was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

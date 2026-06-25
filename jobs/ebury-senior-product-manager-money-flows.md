@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4881147101) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4901685101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-06-03.
+This product manager position at Ebury was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

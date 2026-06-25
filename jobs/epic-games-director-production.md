@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epic Games](https://scoutify.ai/companies/epic-games?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cary, North Carolina, United States |
-| Category | Leadership Development Program |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://epicgames.com/careers/jobs/6013610004?gh_jid=6013610004) |
+| Location | Montréal, Quebec, Canada |
+| Category | Product Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://epicgames.com/careers/jobs/6092188004?gh_jid=6092188004) |
 
 ## About This Role
 
-This leadership development program position at Epic Games was posted on 2026-06-15.
+This product manager position at Epic Games was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200651682/product-manager-ai-finance-transformation) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200665942/product-manager-ai-finance-transformation) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Apple was posted on 2026-03-19.
+This fp&a / strategic finance position at Apple was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

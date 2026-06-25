@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Bellevue/Senior-Director--Product-Management_JR344999) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Product-Management_JR345452-1) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-06-10.
+This product manager position at Salesforce was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

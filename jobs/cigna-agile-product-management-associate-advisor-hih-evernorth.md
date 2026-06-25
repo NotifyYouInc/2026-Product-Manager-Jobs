@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Leadership Development Program |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Management-Associate-Advisor---HIH---Evernorth_26002016) |
+| Category | Product Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Management-Associate-Advisor---HIH---Evernorth_26003994) |
 
 ## About This Role
 
-This leadership development program position at Cigna was posted on 2026-04-30.
+This product manager position at Cigna was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

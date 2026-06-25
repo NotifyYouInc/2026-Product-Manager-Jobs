@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000132150200-product-manager-all-in-hm-move) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000132617989-product-manager-all-in-hm-move) |
 
 ## About This Role
 
-This product manager position at H&M Group was posted on 2026-06-15.
+This product manager position at H&M Group was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

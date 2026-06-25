@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Manager--Product-Management_R-279612-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Manager--Product-Management_R-279596) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-11.
+This product manager position at Mastercard was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

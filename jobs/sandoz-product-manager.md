@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | New Cairo, Cairo, Egypt |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Warsaw-Sandoz/Product-Manager_REQ-10028826) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/New-Cairo-Sandoz/Product-Manager_REQ-10029833) |
 
 ## About This Role
 
-This product manager position at Sandoz was posted on 2026-05-15.
+This product manager position at Sandoz was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

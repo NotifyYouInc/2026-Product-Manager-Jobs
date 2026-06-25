@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chile |
+| Location | Quito, Pichincha, Ecuador |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Titanium-Piso-27/Product-Manager_J00175350) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/ECU---Quito/Product-Manager_J00177372) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-03-30.
+This product manager position at Equifax was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

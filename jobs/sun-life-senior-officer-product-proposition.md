@@ -5,12 +5,12 @@
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Senior-Officer--Product-Proposition_JR00124036) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Hunghom-Kowloon-Hong-Kong/Senior-Officer--Product-Proposition_JR00125169) |
 
 ## About This Role
 
-This product manager position at Sun Life was posted on 2026-05-20.
+This product manager position at Sun Life was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

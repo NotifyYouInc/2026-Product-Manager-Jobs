@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
-| Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646125/product-manager-ipad) |
+| Category | Marketing |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200661412/product-manager-ipad) |
 
 ## About This Role
 
-This product manager position at Apple was posted on 2026-02-11.
+This marketing position at Apple was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

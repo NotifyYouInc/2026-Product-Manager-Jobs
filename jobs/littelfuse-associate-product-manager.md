@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Philippines |
+| Location | Matamoros, Coahuila, Mexico |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Lipa-EBU/Associate-Product-Manager_JR-111050-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Matamoros/Associate-Product-Manager_JR-111877-2) |
 
 ## About This Role
 
-This product manager position at Littelfuse was posted on 2026-02-17.
+This product manager position at Littelfuse was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

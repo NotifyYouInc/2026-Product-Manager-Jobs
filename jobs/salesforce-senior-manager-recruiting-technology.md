@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/Senior-Manager--Recruiting-Technology_JR339583) |
+| Location | Florida, US |
+| Category | Product Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Florida---Remote/Senior-Manager--Recruiting-Technology_JR346995) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Salesforce was posted on 2026-04-29.
+This product manager position at Salesforce was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

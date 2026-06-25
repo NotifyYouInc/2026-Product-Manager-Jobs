@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000120883692-international-product-manager-assistant-just-dance-alternance-aout-2026-fhnb) |
+| Category | Marketing |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000132661410-international-product-manager-assistant-just-dance-alternance-aout-2026-fhnb) |
 
 ## About This Role
 
-This product manager position at Ubisoft was posted on 2026-04-15.
+This marketing position at Ubisoft was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager  at Delivery Hero
+# Product Manager at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110324575-product-manager) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132659104-product-manager) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-02-20.
+This product manager position at Delivery Hero was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

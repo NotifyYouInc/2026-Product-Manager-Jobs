@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Romania |
+| Location | Braşov, Brașov County, Romania |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000132433926-service-manager-infrastructure-compute-storage) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000132566619-service-manager-infrastructure-compute-storage) |
 
 ## About This Role
 
-This product manager position at METRO/MAKRO was posted on 2026-06-16.
+This product manager position at METRO/MAKRO was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

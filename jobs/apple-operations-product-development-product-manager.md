@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2025-12-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200635637/operations-product-development-product-manager) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200642014/operations-product-development-product-manager) |
 
 ## About This Role
 
-This product manager position at Apple was posted on 2025-12-09.
+This product manager position at Apple was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
