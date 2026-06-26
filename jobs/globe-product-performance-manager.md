@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Philippines |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Product-Performance-Manager_R0000020485) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---Manila/Product-Performance-Manager_R0000020490) |
 
 ## About This Role
 
-This product manager position at GLOBE was posted on 2026-05-13.
+This product manager position at GLOBE was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

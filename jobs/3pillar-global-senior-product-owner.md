@@ -5,12 +5,12 @@
 | Company | [3Pillar Global](https://scoutify.ai/companies/3pillar-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mexico |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.lever.co/3pillarglobal/0efe02c4-1b25-482b-bfbc-d97b70c37a40) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.lever.co/3pillarglobal/2e0117ce-88b7-4d25-be61-7a6731ea4fff) |
 
 ## About This Role
 
-This product manager position at 3Pillar Global was posted on 2026-05-12.
+This product manager position at 3Pillar Global was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

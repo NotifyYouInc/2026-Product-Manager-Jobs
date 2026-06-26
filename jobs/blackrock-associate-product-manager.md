@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Princeton, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/London-Greater-London/Associate--Product-Manager_R260373) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Princeton-NJ/Associate--Product-Manager_R264886) |
 
 ## About This Role
 
-This product manager position at Blackrock was posted on 2026-06-02.
+This product manager position at Blackrock was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

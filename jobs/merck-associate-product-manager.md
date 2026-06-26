@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/TWN---Taipei---Taipei-City/Associate-Product-Manager_R397401-2) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/MYS---Selangor---Petaling-Jaya-Ascent-Paradigm/Associate-Product-Manager_R402207-1) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-05-08.
+This product manager position at Merck was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

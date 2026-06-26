@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000131625061-werkstudentin-oder-praktikantin-fur-product-management-und-commercial-governance) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000132990509-werkstudentin-oder-praktikantin-fur-product-management-und-commercial-governance) |
 
 ## About This Role
 
-This product manager position at Vattenfall was posted on 2026-06-11.
+This product manager position at Vattenfall was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

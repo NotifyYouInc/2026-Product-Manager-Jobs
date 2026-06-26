@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Landskrona, Skåne, Sweden |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Landskrona-Skane-County-Sweden/Product-Manager_R0115610) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Samut-Prakan-Samut-Prakan-Thailand/Product-Manager_R0134296-1) |
 
 ## About This Role
 
-This product manager position at Hitachi was posted on 2026-03-27.
+This product manager position at Hitachi was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
