@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Slater, Missouri, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000131479403-digital-product-advancement-and-placement-lead) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000133124765-digital-product-advancement-and-placement-lead) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-06-10.
+This product manager position at Syngenta was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

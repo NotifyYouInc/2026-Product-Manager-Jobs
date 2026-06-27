@@ -1,16 +1,16 @@
-# Sr Product Manager at Cox
+# Sr Product Manager - at Cox
 
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Sr-Product-Manager_R202678571) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Sr-Product-Manager--_R202678777) |
 
 ## About This Role
 
-This product manager position at Cox was posted on 2026-06-17.
+This product manager position at Cox was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager_098636-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Manager--Software-Engineering-Product-Manager_098717-1) |
 
 ## About This Role
 
-This engineering manager position at Nationwide was posted on 2026-06-16.
+This engineering manager position at Nationwide was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

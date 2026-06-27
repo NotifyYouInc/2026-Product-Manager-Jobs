@@ -1,16 +1,16 @@
-# Product Manager Intern at Tencent
+# Product manager Intern at Tencent
 
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/Product-Manager-Intern_R107232-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Product-manager-Intern_R107654-1) |
 
 ## About This Role
 
-This product manager position at Tencent was posted on 2026-03-30.
+This product manager position at Tencent was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Charlotte-NC-US/Product-Owner---Point-of-Sale---Canada-Mexico-and-DocuSign_DT-16150) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Charlotte-NC-US/Product-Owner---Point-of-Sale---Canada-Mexico-and-DocuSign_DT-18419) |
 
 ## About This Role
 
-This product manager position at Daimler Truck was posted on 2026-04-14.
+This product manager position at Daimler Truck was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

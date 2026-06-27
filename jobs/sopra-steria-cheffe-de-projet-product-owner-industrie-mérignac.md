@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mérignac, Nouvelle-Aquitaine, France |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130177516-cheffe-de-projet-product-owner-industrie-merignac) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133063319-cheffe-de-projet-product-owner-industrie-merignac) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-06-04.
+This product manager position at Sopra Steria was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

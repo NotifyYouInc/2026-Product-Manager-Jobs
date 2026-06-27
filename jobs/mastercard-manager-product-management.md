@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Manager--Product-Management_R-279596) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Manager--Product-Management_R-278587) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-17.
+This product manager position at Mastercard was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

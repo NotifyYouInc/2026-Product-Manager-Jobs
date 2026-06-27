@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | San Diego, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Sydney-NSW-Australia/Lead-Product-Manager---Digital---AI_JR_047273-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Lead-Product-Manager---Digital---AI_JR_052141-2) |
 
 ## About This Role
 
-This product manager position at ResMed was posted on 2026-06-11.
+This product manager position at ResMed was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

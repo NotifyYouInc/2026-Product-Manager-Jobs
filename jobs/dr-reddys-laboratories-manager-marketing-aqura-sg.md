@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000130367459-manager-marketing-aqura-sg) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000133181029-manager-marketing-aqura-sg) |
 
 ## About This Role
 
-This product manager position at Dr. Reddy's Laboratories was posted on 2026-06-05.
+This product manager position at Dr. Reddy's Laboratories was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4669229005) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4702890005) |
 
 ## About This Role
 
-This product manager position at Scale AI was posted on 2026-04-30.
+This product manager position at Scale AI was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

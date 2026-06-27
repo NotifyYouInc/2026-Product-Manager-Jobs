@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Emma – The Sleep Company](https://scoutify.ai/companies/emma--the-sleep-company?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Emma – The Sleep Company](https://scoutify.ai/companies/emma-the-sleep-company?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2025-12-05 |
-| Apply | [View on company site](https://jobs.lever.co/emma-sleep/fe0412eb-b0a4-42f2-a3f1-a88dfcb6a9c5) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.lever.co/emma-sleep/723275dc-1fb2-4792-b4fe-bd1359c7fbbd) |
 
 ## About This Role
 
-This product manager position at Emma – The Sleep Company was posted on 2025-12-05.
+This product manager position at Emma – The Sleep Company was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

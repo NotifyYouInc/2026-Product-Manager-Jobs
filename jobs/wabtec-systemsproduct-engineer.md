@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013103596-systemsproduct-engineer) |
+| Category | Engineering Manager |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013701536-systemsproduct-engineer) |
 
 ## About This Role
 
-This software engineer position at Wabtec was posted on 2026-05-13.
+This engineering manager position at Wabtec was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

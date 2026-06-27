@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-de-Ingeniera-de-Producto_J2448717) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-de-Ingeniera-de-Producto_J2454706) |
 
 ## About This Role
 
-This product manager position at Jabil was posted on 2026-05-11.
+This product manager position at Jabil was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

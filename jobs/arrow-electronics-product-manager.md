@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Texas, US |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/PL-Warsaw-Poland-Krakowiakw/Product-Manager_R242805) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-TX-Texas-Remote-Employees/Product-Manager_R245549) |
 
 ## About This Role
 
-This product manager position at Arrow Electronics was posted on 2026-06-02.
+This product manager position at Arrow Electronics was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

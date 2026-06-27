@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | AI / ML Research |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfiZiJAXwf2fyOAzTFBwENyZwTzJHPmAjP1AZ75ctvBsEjoACxwdTC2ZtzgaQIfWByMQaEz9zzL2eT77LPGSorlanOu3xd7kX_DDyP1Tb3FIpxPVAttlK19iX25S_V2&loc=US&title=Director) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRGQZ-XotRxe5bNYIbVWLACP0H3BIjvbMq6KC6NPa1S3EjoA1Ny_i5lJW8VAMOh0UKwjOR1afl0Njp77l3yukN9-ZTNEQY6BoRtWYtkW5NHmZod2plCfpj9bVgMS_V2&loc=US&title=Director) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-06-04.
+This ai / ml research position at Google was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

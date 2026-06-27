@@ -1,0 +1,22 @@
+# Director, Product Information Management - VCM at Johnson & Johnson
+
+| Field | Details |
+|-------|---------|
+| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Zug, Zug, Switzerland |
+| Category | Product Manager |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Director--Product-Information-Management---VCM_R-084003-1) |
+
+## About This Role
+
+This product manager position at Johnson & Johnson was posted on 2026-06-19.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

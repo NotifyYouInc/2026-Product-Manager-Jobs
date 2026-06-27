@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000130098384-senior-product-manager-ux-srategy-mobile-app) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000133137319-senior-product-manager-ux-srategy-mobile-app) |
 
 ## About This Role
 
-This product manager position at Endava was posted on 2026-06-03.
+This product manager position at Endava was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

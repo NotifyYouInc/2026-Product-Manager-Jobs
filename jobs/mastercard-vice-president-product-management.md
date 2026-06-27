@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Vice-President--Product-Management_R-277135) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Vice-President--Product-Management_R-278503-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-07.
+This product manager position at Mastercard was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Penn Interactive](https://scoutify.ai/companies/penn-interactive?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/penninteractive/jobs/5982957004) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/penninteractive/jobs/6098085004) |
 
 ## About This Role
 
-This product manager position at Penn Interactive was posted on 2026-05-01.
+This product manager position at Penn Interactive was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

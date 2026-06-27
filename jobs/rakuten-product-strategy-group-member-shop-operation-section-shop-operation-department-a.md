@@ -5,12 +5,12 @@
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/----_1034659-92) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/---_1034658-80) |
 
 ## About This Role
 
-This product manager position at Rakuten was posted on 2026-06-15.
+This product manager position at Rakuten was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
