@@ -1,16 +1,16 @@
-# Sr Worldwide Specialist - GenAI, Amazon Bedrock, Data & AI GTM at Amazon
+# Specialist Technology Team - Product Leader, Specialist Technology Team at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428568/sr-worldwide-specialist-genai-amazon-bedrock-data-ai-gtm) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10401389/specialist-technology-team-product-leader-specialist-technology-team) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-05-22.
+This product manager position at Amazon was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

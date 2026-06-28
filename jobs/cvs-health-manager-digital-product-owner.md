@@ -1,16 +1,16 @@
-# Sr. Manager, Digital Product at CVS Health
+# Manager, Digital Product Owner at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Woonsocket, Rhode Island, United States |
-| Category | Software Engineer |
+| Category | Product Manager |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Manager--Digital-Product_R0942259) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager--Digital-Product-Owner_R0942323) |
 
 ## About This Role
 
-This software engineer position at CVS Health was posted on 2026-06-20.
+This product manager position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

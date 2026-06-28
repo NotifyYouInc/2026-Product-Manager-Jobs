@@ -1,16 +1,16 @@
-# Payments-Digital & Design Product Manager-Vice President at JPMorgan Chase
+# Principal Product Manager, ML/AI Privacy Health AdTech at Acxiomllc
 
 | Field | Details |
 |-------|---------|
-| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Acxiomllc](https://scoutify.ai/companies/acxiomllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210737924) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://acxiomllc.wd5.myworkdayjobs.com/acxiomusa/job/RemoteHomebased/Principal-Product-Manager--ML-AI-Privacy-Health-AdTech_JR013880) |
 
 ## About This Role
 
-This product manager position at JPMorgan Chase was posted on 2026-05-04.
+This product manager position at Acxiomllc was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

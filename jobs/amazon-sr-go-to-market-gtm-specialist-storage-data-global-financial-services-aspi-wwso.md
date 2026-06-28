@@ -1,16 +1,16 @@
-# Sr Worldwide Specialist - GenAI, Amazon Bedrock, Data & AI GTM at Amazon
+# Sr. Go-To-Market (GTM) Specialist, Storage & Data – Global Financial Services, ASPI - WWSO at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428568/sr-worldwide-specialist-genai-amazon-bedrock-data-ai-gtm) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441026/sr-go-to-market-gtm-specialist-storage-data-global-financial-services-aspi-wwso) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-05-22.
+This product manager position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

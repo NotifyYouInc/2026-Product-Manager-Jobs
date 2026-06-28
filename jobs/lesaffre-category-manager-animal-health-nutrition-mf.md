@@ -1,16 +1,16 @@
-# Digital Product Manager at CVS Health
+# Category Manager Animal Health & Nutrition- M/F at Lesaffre
 
 | Field | Details |
 |-------|---------|
-| Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Company | [Lesaffre](https://scoutify.ai/companies/lesaffre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Marcq-en-Barœul, Hauts-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Digital-Product-Manager_R0942497) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lesaffre/744000133190729-category-manager-animal-health-nutrition-mf) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-06-20.
+This product manager position at Lesaffre was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

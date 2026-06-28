@@ -1,16 +1,16 @@
-# Sr Worldwide Specialist - GenAI, Amazon Bedrock, Data & AI GTM at Amazon
+# Senior Product Manager , Talent & Comp at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428568/sr-worldwide-specialist-genai-amazon-bedrock-data-ai-gtm) |
+| Category | Program Manager |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441565/senior-product-manager-talent-comp) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-05-22.
+This program manager position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
