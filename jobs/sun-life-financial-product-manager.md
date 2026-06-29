@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Indonesia |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Product-Manager_JR00123048) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Jakarta-Selatan-Jakarta-Raya/Product-Manager_JR00125227-1) |
 
 ## About This Role
 
-This product manager position at Sun Life Financial was posted on 2026-04-21.
+This product manager position at Sun Life Financial was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

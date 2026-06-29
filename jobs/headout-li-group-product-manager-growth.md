@@ -5,12 +5,12 @@
 | Company | [Headout LI](https://scoutify.ai/companies/headout-li?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/headoutlinkedin/jobs/4683099006) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/headoutlinkedin/jobs/4690877006) |
 
 ## About This Role
 
-This product manager position at Headout LI was posted on 2026-05-20.
+This product manager position at Headout LI was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

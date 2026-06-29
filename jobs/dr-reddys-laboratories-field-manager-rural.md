@@ -1,16 +1,16 @@
-# FIELD MANAGER - RURAL at Dr. Reddy's Laboratories
+# Field Manager - Rural at Dr. Reddy's Laboratories
 
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Maharashtra, IN |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000131596899-field-manager-rural) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000133268300-field-manager-rural) |
 
 ## About This Role
 
-This product manager position at Dr. Reddy's Laboratories was posted on 2026-06-11.
+This product manager position at Dr. Reddy's Laboratories was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
