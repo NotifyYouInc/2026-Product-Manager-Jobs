@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Product-Management_R-280205) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-280416) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-16.
+This product manager position at Mastercard was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

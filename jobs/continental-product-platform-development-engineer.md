@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Szeged, Csongrád, Hungary |
-| Category | Software Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000128660824-product-platform-development-engineer) |
+| Category | Engineering Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000133368029-product-platform-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Continental was posted on 2026-05-27.
+This engineering manager position at Continental was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

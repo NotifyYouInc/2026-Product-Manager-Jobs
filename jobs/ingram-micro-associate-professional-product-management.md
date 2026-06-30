@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Chennai-India/Associate-Professional---Product-Management_R-115900) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Associate-Professional---Product-Management_R-116135) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-06-12.
+This product manager position at Ingram Micro was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

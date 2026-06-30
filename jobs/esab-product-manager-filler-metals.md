@@ -1,16 +1,16 @@
-# Product Manager Filler Metals at ESAB
+# Product Manager, Filler Metals at ESAB
 
 | Field | Details |
 |-------|---------|
 | Company | [ESAB](https://scoutify.ai/companies/esab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Hanover, Maryland, United States |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/Italy/Product-Manager-Filler-Metals_R0024744) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/Hanover-Pennsylvania-USA/Product-Manager--Filler-Metals_R0024728) |
 
 ## About This Role
 
-This product manager position at ESAB was posted on 2026-03-20.
+This product manager position at ESAB was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

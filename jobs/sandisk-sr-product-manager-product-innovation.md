@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Milpitas, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000121096712-sr-product-manager-product-innovation) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000133346040-sr-product-manager-product-innovation) |
 
 ## About This Role
 
-This product manager position at SanDisk was posted on 2026-04-16.
+This product manager position at SanDisk was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

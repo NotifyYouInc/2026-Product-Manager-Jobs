@@ -5,12 +5,12 @@
 | Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=4915946003) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7551674003) |
 
 ## About This Role
 
-This product manager position at Toss was posted on 2026-04-08.
+This product manager position at Toss was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Augsburg, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000127894746-junior-digital-produktmanager-mwd-mietwagen) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133378478-junior-digital-produktmanager-mwd-mietwagen) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-05-22.
+This product manager position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Product-Manager--Specialist_177780) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Product-Manager--Specialist_178771-1) |
 
 ## About This Role
 
-This product manager position at Vanguard was posted on 2026-05-01.
+This product manager position at Vanguard was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

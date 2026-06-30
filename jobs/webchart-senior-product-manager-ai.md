@@ -5,12 +5,12 @@
 | Company | [WebChart](https://scoutify.ai/companies/webchart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/webchartnow/jobs/4181055009) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/webchartnow/jobs/4290881009) |
 
 ## About This Role
 
-This product manager position at WebChart was posted on 2026-03-17.
+This product manager position at WebChart was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

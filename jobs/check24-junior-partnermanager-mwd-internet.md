@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bavaria, DE |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000131599313-junior-partnermanager-mwd-internet) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133341978-junior-partnermanager-mwd-internet) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-06-11.
+This product manager position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

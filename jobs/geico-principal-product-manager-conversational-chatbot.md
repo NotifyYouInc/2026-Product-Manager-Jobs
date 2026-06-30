@@ -5,12 +5,12 @@
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Principal-Product-Manager--Conversational-Chatbot_R0063755) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Palo-Alto-CA/Principal-Product-Manager--Conversational-Chatbot_R0064585) |
 
 ## About This Role
 
-This product manager position at Geico was posted on 2026-05-05.
+This product manager position at Geico was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

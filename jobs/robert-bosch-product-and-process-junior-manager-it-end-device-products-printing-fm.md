@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Łódź, Łódź Voivodeship, Poland |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123957664-product-and-process-junior-manager-it-end-device-products-printing-fm) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133366199-product-and-process-junior-manager-it-end-device-products-printing-fm) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-04-30.
+This product manager position at Robert Bosch was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

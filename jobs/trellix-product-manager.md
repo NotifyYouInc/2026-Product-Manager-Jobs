@@ -5,12 +5,12 @@
 | Company | [Trellix](https://scoutify.ai/companies/trellix?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/India-Bangalore/Product-Manager_JR0037450) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://trellix.wd1.myworkdayjobs.com/EnterpriseCareers/job/India-Bangalore/Product-Manager_JR0037580) |
 
 ## About This Role
 
-This product manager position at Trellix was posted on 2026-05-21.
+This product manager position at Trellix was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

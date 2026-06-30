@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000127844565-senior-product-manager-exchange) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000133325009-senior-product-manager-exchange) |
 
 ## About This Role
 
-This product manager position at Cint was posted on 2026-05-22.
+This product manager position at Cint was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

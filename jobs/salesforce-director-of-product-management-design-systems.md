@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director-of-Product-Management--Design-Systems_JR343379) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Director-of-Product-Management--Design-Systems_JR347501) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-05-20.
+This product manager position at Salesforce was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

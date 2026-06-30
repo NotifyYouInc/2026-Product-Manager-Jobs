@@ -1,16 +1,16 @@
-# Product Manager at Brenntag
+# PRODUCT MANAGER at Brenntag
 
 | Field | Details |
 |-------|---------|
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LoosdrechtNetherlands/Product-Manager_JR110378) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/ParisFrance/PRODUCT-MANAGER_JR110887) |
 
 ## About This Role
 
-This product manager position at Brenntag was posted on 2026-06-11.
+This product manager position at Brenntag was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

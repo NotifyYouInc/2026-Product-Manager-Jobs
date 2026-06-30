@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Augsburg, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000126251318-associate-product-owner-mwd-traineeprogramm-augsburg) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133377605-associate-product-owner-mwd-traineeprogramm-augsburg) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-05-13.
+This product manager position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

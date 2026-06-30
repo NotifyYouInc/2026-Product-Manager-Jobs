@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Illinois, US |
+| Location | Oak Brook, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Product-Manager_JR30447-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Product-Manager_JR31071) |
 
 ## About This Role
 
-This product manager position at Chamberlain Group was posted on 2026-04-13.
+This product manager position at Chamberlain Group was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

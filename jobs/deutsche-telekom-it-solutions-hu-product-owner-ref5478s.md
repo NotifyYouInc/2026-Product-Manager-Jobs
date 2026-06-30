@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000126298309-product-owner-ref5478s) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000133355344-product-owner-ref5478s) |
 
 ## About This Role
 
-This product manager position at Deutsche Telekom IT Solutions HU was posted on 2026-05-13.
+This product manager position at Deutsche Telekom IT Solutions HU was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Badger Meter](https://scoutify.ai/companies/badgermeter?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Product-Manager_4304) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Manager_4461) |
 
 ## About This Role
 
-This product manager position at Badger Meter was posted on 2026-03-07.
+This product manager position at Badger Meter was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

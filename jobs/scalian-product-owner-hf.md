@@ -1,16 +1,16 @@
-# Product Owner (H/F) at Scalian
+# Product Owner H/F at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000118610098-product-owner-hf) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000133369849-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Scalian was posted on 2026-04-03.
+This product manager position at Scalian was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
-| Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000127828148-werkstudent-mwd-digital-product-ai-innovation-identitycheck) |
+| Location | Bavaria, DE |
+| Category | AI / ML Research |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133364658-werkstudent-mwd-digital-product-ai-innovation-identitycheck) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-05-22.
+This ai / ml research position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
