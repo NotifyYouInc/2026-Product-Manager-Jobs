@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Sales Leadership |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127071219-vp-global-consumer-financial-services) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000133564959-vp-global-consumer-financial-services) |
 
 ## About This Role
 
-This sales leadership position at NielsenIQ was posted on 2026-05-18.
+This sales leadership position at NielsenIQ was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

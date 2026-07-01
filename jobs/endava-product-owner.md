@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000114664177-product-owner) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000133582069-product-owner) |
 
 ## About This Role
 
-This product manager position at Endava was posted on 2026-03-13.
+This product manager position at Endava was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

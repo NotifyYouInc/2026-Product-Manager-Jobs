@@ -5,12 +5,12 @@
 | Company | [Gousto](https://scoutify.ai/companies/gousto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000126722282-senior-product-manager) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000133673585-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Gousto was posted on 2026-05-15.
+This product manager position at Gousto was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

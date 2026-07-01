@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | O'Fallon, Missouri, United States |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Manager--Product-Management_R-278587) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--Product-Management_R-278531) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-19.
+This product manager position at Mastercard was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/6133e525-f5f4-49ec-9935-ce2d4eb37916) |
+| Apply | [View on company site](https://jobs.lever.co/crypto/6ee0a331-abc7-4248-bd0a-eeac848ad87a) |
 
 ## About This Role
 

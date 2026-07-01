@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Product-Manager_R1311569) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Product-Manager_R1312347) |
 
 ## About This Role
 
-This product manager position at Danaher was posted on 2026-05-22.
+This product manager position at Danaher was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

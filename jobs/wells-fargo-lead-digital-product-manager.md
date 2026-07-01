@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Digital-Product-Manager_R-552579-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Digital-Product-Manager_R-549650) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-06-10.
+This product manager position at Wells Fargo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

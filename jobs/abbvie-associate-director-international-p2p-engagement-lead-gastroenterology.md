@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Illinois, US |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012894477-associate-director-international-p2p-engagement-lead-gastroenterology) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013750656-associate-director-international-p2p-engagement-lead-gastroenterology) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-04-30.
+This product manager position at AbbVie was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

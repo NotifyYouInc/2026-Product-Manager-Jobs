@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7929346) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7986182) |
 
 ## About This Role
 
-This product manager position at Pure Storage was posted on 2026-05-15.
+This product manager position at Pure Storage was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

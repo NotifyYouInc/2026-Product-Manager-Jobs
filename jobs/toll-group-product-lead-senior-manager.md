@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Melbourne-Victoria-Australia/Product-Lead-Senior-Manager_R000076965-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Singapore/Product-Lead-Senior-Manager_R000077022) |
 
 ## About This Role
 
-This product manager position at Toll Group was posted on 2026-06-22.
+This product manager position at Toll Group was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

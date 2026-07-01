@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000133339035-director-of-product) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000133555254-director-of-product) |
 
 ## About This Role
 
-This product manager position at Entain was posted on 2026-06-22.
+This product manager position at Entain was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

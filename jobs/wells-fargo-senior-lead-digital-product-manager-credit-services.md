@@ -1,16 +1,16 @@
-# Senior Lead Digital Product Manager - Credit Services at Wells Fargo
+# Senior Lead Digital Product Manager- Credit Services at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WILMINGTON-DE/Senior-Lead-Digital-Product-Manager---Credit-Services_R-543538) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Digital-Product-Manager--Credit-Services_R-555402) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-05-13.
+This product manager position at Wells Fargo was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

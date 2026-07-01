@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wisconsin, US |
+| Location | Oakland, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Sussex-WI---USA/Senior-Product-Manager_JR13608) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Oakland-CA----USA/Senior-Product-Manager_JR15047-1) |
 
 ## About This Role
 
-This product manager position at Generac was posted on 2026-04-15.
+This product manager position at Generac was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

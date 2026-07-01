@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Brand Marketing |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000132144609-group-brand-manager-argus-onco) |
+| Category | Marketing |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000133548719-group-brand-manager-argus-onco) |
 
 ## About This Role
 
-This brand marketing position at Dr. Reddy's Laboratories was posted on 2026-06-15.
+This marketing position at Dr. Reddy's Laboratories was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

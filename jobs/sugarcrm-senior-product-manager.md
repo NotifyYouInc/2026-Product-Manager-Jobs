@@ -5,12 +5,12 @@
 | Company | [Sugarcrm](https://scoutify.ai/companies/sugarcrm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Product Manager |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.lever.co/sugarcrm/f453f4e4-9153-4206-9b80-f74f02ec7ff5) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.lever.co/sugarcrm/4524fa5a-cf34-47f3-8721-439ef20a3211) |
 
 ## About This Role
 
-This product manager position at Sugarcrm was posted on 2026-04-11.
+This product manager position at Sugarcrm was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

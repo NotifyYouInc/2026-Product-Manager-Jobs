@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127808729-senior-product-manager-i) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000133855439-senior-product-manager-i) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-05-22.
+This product manager position at Sixt was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

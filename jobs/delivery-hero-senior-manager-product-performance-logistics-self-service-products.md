@@ -1,16 +1,16 @@
-# (Senior) Manager, Product Performance - (Logistics, Self Service Products) at Delivery Hero
+# Senior Manager, Product Performance - (Logistics, Self Service Products) at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000122088140-senior-manager-product-performance-logistics-self-service-products) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133876349-senior-manager-product-performance-logistics-self-service-products) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-04-21.
+This product manager position at Delivery Hero was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

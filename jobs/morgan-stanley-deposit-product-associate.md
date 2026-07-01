@@ -1,16 +1,16 @@
-# Deposit Product- Associate at Morgan Stanley
+# Deposit Product Associate at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Deposit-Product--Associate_PT-JR036836) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Deposit-Product-Associate_PT-JR039252) |
 
 ## About This Role
 
-This product manager position at Morgan Stanley was posted on 2026-05-11.
+This product manager position at Morgan Stanley was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

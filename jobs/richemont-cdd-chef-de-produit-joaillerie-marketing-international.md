@@ -5,12 +5,12 @@
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Marketing |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/CDD---Chef-de-Produit-Joaillerie-Marketing-International_JR127985) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/CDD---Chef-de-Produit-Joaillerie-Marketing-International_JR130324) |
 
 ## About This Role
 
-This marketing position at Richemont was posted on 2026-04-20.
+This marketing position at Richemont was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

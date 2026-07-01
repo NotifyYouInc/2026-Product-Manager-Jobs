@@ -1,16 +1,16 @@
-# Product Manager at 1-800 Contacts
+# Product Manager  at 1-800 Contacts
 
 | Field | Details |
 |-------|---------|
 | Company | [1-800 Contacts](https://scoutify.ai/companies/1-800-contacts?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Draper, Utah, United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/1800contacts/jobs/7851377) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/1800contacts/jobs/8024366) |
 
 ## About This Role
 
-This product manager position at 1-800 Contacts was posted on 2026-04-29.
+This product manager position at 1-800 Contacts was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

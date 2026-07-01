@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131922924-specialist-product-operations-financial-services) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133618120-specialist-product-operations-financial-services) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-06-12.
+This product manager position at Delivery Hero was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Mumbai-Maharashtra-India/Product-Owner_WD30268324-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Product-Owner_WD30272525) |
 
 ## About This Role
 
-This product manager position at Johnson Controls was posted on 2026-04-30.
+This product manager position at Johnson Controls was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

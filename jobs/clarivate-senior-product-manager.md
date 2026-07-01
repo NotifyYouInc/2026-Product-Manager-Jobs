@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Canada---Toronto/Senior-Product-Manager_JREQ135235-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Spain---Barcelona/Senior-Product-Manager_JREQ135893-2) |
 
 ## About This Role
 
-This product manager position at Clarivate was posted on 2026-04-02.
+This product manager position at Clarivate was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

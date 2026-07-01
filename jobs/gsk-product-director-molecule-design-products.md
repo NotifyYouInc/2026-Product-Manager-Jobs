@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Stevenage, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/London-The-Stanley-Building/Director--Molecule-Design-Products_431223-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/UK---Hertfordshire---Stevenage/Product-Director--Molecule-Design-Products_443450-2) |
 
 ## About This Role
 
-This product manager position at GSK was posted on 2026-05-08.
+This product manager position at GSK was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

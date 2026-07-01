@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410300/sr-product-manager-north-america-languages-experience) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457162/sr-product-manager-north-america-languages-experience) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-05-04.
+This product manager position at Amazon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

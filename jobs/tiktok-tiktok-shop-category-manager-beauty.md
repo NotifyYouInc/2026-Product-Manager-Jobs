@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7584291516878915893/detail) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7654731332552149301/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-05-07.
+This product manager position at TikTok was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
