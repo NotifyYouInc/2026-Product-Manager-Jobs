@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Technology-Business-Systems-Consultant_R-547523-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Manager |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Technology-Business-Systems-Consultant_R-549934) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-05-25.
+This product manager position at Wells Fargo was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

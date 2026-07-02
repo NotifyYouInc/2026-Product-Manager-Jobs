@@ -1,16 +1,16 @@
-# Senior Product  Manager at Legora (formerly Leya)
+# Senior Product Manager  at Legora (formerly Leya)
 
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/7fdd35d2-273d-4026-acf5-d2bb3cc28b2e) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/5b15c4aa-effa-4b9c-95bc-c061c70dfca9) |
 
 ## About This Role
 
-This product manager position at Legora (formerly Leya) was posted on 2026-03-25.
+This product manager position at Legora (formerly Leya) was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

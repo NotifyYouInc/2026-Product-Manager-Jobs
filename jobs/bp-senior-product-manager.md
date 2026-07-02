@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Senior-Product-Manager_RQ111753-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Senior-Product-Manager_RQ112121) |
 
 ## About This Role
 
-This product manager position at BP was posted on 2026-06-16.
+This product manager position at BP was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

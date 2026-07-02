@@ -5,12 +5,12 @@
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/United-Kingdom/Digital-Localization-Manager_JR111302-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/United-Kingdom/Digital-Localization-Manager_JR111513-2) |
 
 ## About This Role
 
-This product manager position at Genesys was posted on 2026-06-16.
+This product manager position at Genesys was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

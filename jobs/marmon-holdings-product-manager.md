@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fairview, New Jersey, United States |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Fairview-TN/Product-Manager_JR0000042630) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Product-Manager_JR0000043996) |
 
 ## About This Role
 
-This product manager position at Marmon Holdings was posted on 2026-04-23.
+This product manager position at Marmon Holdings was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

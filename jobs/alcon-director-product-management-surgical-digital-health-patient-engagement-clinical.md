@@ -1,16 +1,16 @@
-# Director, Product Management Surgical Digital Health - Patient Engagement & Clinical Decision Algorithms at Alcon
+# Director, Product Management, Surgical Digital Health - Patient Engagement & Clinical Decision Algorithms at Alcon
 
 | Field | Details |
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Fort Worth, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Director--Product-Management-Surgical-Digital-Health---Patient-Engagement---Clinical-Decision-Algorithms_R-2026-47730-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Director--Product-Management--Surgical-Digital-Health---Patient-Engagement---Clinical-Decision-Algorithms_R-2026-47676-1) |
 
 ## About This Role
 
-This product manager position at Alcon was posted on 2026-06-22.
+This product manager position at Alcon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

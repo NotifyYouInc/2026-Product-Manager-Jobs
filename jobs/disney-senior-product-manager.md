@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Glendale, Arizona, United States |
+| Location | Orlando, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Senior-Product-Manager_10149959) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Senior-Product-Manager_10153937) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-05-19.
+This product manager position at Disney was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

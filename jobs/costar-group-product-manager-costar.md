@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Product-Manager--CoStar_R38538) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Product-Manager--CoStar_R39219) |
 
 ## About This Role
 
-This product manager position at CoStar Group was posted on 2026-03-27.
+This product manager position at CoStar Group was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

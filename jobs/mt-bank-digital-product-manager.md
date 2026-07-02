@@ -5,12 +5,12 @@
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Digital-Product-Manager_R86858-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Digital-Product-Manager_R87429) |
 
 ## About This Role
 
-This product manager position at M&T Bank was posted on 2026-06-17.
+This product manager position at M&T Bank was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

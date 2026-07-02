@@ -5,12 +5,12 @@
 | Company | [Showpad](https://scoutify.ai/companies/showpad?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/showpad/jobs/7840732) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/showpad/jobs/8018609) |
 
 ## About This Role
 
-This product manager position at Showpad was posted on 2026-04-22.
+This product manager position at Showpad was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

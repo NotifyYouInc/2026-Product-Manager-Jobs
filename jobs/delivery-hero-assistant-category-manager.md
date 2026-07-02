@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Egypt |
+| Location | Kuwait |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000130200689-assistant-category-manager) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133921370-assistant-category-manager) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-06-04.
+This product manager position at Delivery Hero was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

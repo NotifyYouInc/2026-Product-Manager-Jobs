@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Richmond-VA/Senior-Director--Product-Strategy_26006480-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Senior-Director--Product-Strategy_26007790-1) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-06-08.
+This product manager position at Cigna was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

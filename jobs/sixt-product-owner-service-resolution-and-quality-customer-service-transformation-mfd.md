@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000126062239-product-owner-service-resolution-and-quality-customer-service-transformation-mfd) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000133915034-product-owner-service-resolution-and-quality-customer-service-transformation-mfd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-05-12.
+This product manager position at Sixt was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

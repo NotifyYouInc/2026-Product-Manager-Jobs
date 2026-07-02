@@ -1,16 +1,16 @@
-# Senior Product Manager  at QAD
+# Senior Product Manager at QAD
 
 | Field | Details |
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000127384736-senior-product-manager) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000134173939-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at QAD was posted on 2026-05-20.
+This product manager position at QAD was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

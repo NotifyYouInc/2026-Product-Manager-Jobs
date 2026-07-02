@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Frankfurt am Main, Hesse, Germany |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131836934-praktikum-im-produktmanagement) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133912919-praktikum-im-produktmanagement) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-06-12.
+This product manager position at Robert Bosch was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

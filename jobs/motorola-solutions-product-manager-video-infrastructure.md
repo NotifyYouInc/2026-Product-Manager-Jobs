@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Product-Manager--Video-Infrastructure_R61721) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Product-Manager--Video-Infrastructure_R66232) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-02-18.
+This product manager position at Motorola Solutions was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

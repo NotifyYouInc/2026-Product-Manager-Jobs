@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Woodland, California, United States |
 | Category | Marketing |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000131753687-global-marketing-operations-pricing-lead) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000133997779-global-marketing-operations-pricing-lead) |
 
 ## About This Role
 
-This marketing position at Syngenta was posted on 2026-06-11.
+This marketing position at Syngenta was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

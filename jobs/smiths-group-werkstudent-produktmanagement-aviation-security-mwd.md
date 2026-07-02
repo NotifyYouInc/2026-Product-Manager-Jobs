@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129993604-werkstudent-produktmanagement-aviation-security-mwd) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000134008064-werkstudent-produktmanagement-aviation-security-mwd) |
 
 ## About This Role
 
-This product manager position at Smiths Group was posted on 2026-06-03.
+This product manager position at Smiths Group was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

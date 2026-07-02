@@ -5,12 +5,12 @@
 | Company | [Seed](https://scoutify.ai/companies/seed?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/seed/jobs/7694120003) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/seed/jobs/7782100003) |
 
 ## About This Role
 
-This product manager position at Seed was posted on 2026-04-09.
+This product manager position at Seed was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

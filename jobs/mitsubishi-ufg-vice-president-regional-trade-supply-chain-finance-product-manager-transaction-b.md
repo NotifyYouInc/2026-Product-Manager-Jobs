@@ -1,16 +1,16 @@
-# Vice President, Regional Trade & Supply Chain Finance Product Manager - Transaction Banking Office for Asia at Mitsubishi UFG
+# Vice President, Regional Trade & Supply Chain Finance Product Manager - Transaction Banking for APAC at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Singapore-Office-Marina-One/Vice-President--Regional-Trade---Supply-Chain-Finance-Product-Manager---Transaction-Banking-Office-for-Asia_10075836-WD) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Singapore-Office-Marina-One/Vice-President--Regional-Trade---Supply-Chain-Finance-Product-Manager---Transaction-Banking-for-APAC_10077287-WD-1) |
 
 ## About This Role
 
-This product manager position at Mitsubishi UFG was posted on 2026-04-29.
+This product manager position at Mitsubishi UFG was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

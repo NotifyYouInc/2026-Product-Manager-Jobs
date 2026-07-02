@@ -5,12 +5,12 @@
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Poland |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000131400979-salesforce-product-owner-emea) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000133989799-salesforce-product-owner-emea) |
 
 ## About This Role
 
-This product manager position at Colliers International UK was posted on 2026-06-10.
+This product manager position at Colliers International UK was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

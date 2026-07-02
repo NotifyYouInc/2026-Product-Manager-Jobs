@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Juan, San Juan, Puerto Rico |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/San-Juan-Puerto-Rico-United-States-of-America/Senior-Product-Specialist_R64350-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Watford-Hertfordshire-United-Kingdom/Senior-Product-Specialist_R68579-1) |
 
 ## About This Role
 
-This product manager position at Medtronic was posted on 2026-04-20.
+This product manager position at Medtronic was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

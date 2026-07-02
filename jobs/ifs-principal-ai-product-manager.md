@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Itasca, Illinois, United States |
 | Category | AI / ML Research |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000127739487-principal-ai-product-manager) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000133942909-principal-ai-product-manager) |
 
 ## About This Role
 
-This ai / ml research position at IFS was posted on 2026-05-21.
+This ai / ml research position at IFS was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

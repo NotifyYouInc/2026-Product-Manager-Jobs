@@ -5,12 +5,12 @@
 | Company | [OGT](https://scoutify.ai/companies/ogt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ogt/jobs/4854426101) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ogt/jobs/4895474101) |
 
 ## About This Role
 
-This product manager position at OGT was posted on 2026-04-29.
+This product manager position at OGT was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Operations Assistant    at HelloFresh
+# Product Operations Assistant at HelloFresh
 
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7912372?gh_jid=7912372) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8027738?gh_jid=8027738) |
 
 ## About This Role
 
-This product manager position at HelloFresh was posted on 2026-05-11.
+This product manager position at HelloFresh was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

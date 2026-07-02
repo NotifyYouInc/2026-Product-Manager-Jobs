@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist--Product-Management_R-279647) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Specialist--Product-Management_R-279589) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-22.
+This product manager position at Mastercard was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

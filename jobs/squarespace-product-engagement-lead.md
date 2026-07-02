@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Squarespace](https://scoutify.ai/companies/squarespace?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](http://www.squarespace.com/about/careers?gh_jid=7974868) |
+| Category | Developer Relations |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](http://www.squarespace.com/about/careers?gh_jid=8026785) |
 
 ## About This Role
 
-This product manager position at Squarespace was posted on 2026-06-04.
+This developer relations position at Squarespace was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

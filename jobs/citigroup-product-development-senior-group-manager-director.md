@@ -1,16 +1,16 @@
-# Product Development Senior Group Manager - (Director) at Citigroup
+# Product Development Senior Group Manager (Director) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Product-Development-Senior-Group-Manager----Director-_26973266) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Program Manager |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Product-Development-Senior-Group-Manager--Director-_26973437) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-06-23.
+This program manager position at Citigroup was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

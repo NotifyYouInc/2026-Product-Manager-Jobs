@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000129704379-senior-product-manager-regulatory-technology-mfx) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000133952994-senior-product-manager-regulatory-technology-mfx) |
 
 ## About This Role
 
-This product manager position at Scalable Capital was posted on 2026-06-02.
+This product manager position at Scalable Capital was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

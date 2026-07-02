@@ -5,12 +5,12 @@
 | Company | [Bounce](https://scoutify.ai/companies/bounce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bounce/21874efd-1d21-41b6-9467-4676f78fc05f) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bounce/3b027ec9-42dc-4631-90ab-1aa7a8cda3f2) |
 
 ## About This Role
 
-This product manager position at Bounce was posted on 2026-02-16.
+This product manager position at Bounce was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

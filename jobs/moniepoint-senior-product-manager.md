@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moniepoint](https://scoutify.ai/companies/moniepoint?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4517692101) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/moniepoint/jobs/4823391101) |
 
 ## About This Role
 
-This product manager position at Moniepoint was posted on 2026-02-05.
+This product manager position at Moniepoint was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

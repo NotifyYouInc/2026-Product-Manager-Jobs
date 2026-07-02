@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lincoln, Nebraska, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Director--Product-and-Business-Management_R22575) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Remote/Director--Product-and-Business-Management_R22774) |
 
 ## About This Role
 
-This product manager position at Nelnet was posted on 2026-04-27.
+This product manager position at Nelnet was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
