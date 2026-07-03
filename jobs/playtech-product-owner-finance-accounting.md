@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tartu, Tartu, Estonia |
-| Category | Accounting |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000120604897-product-owner-finance-accounting) |
+| Category | Product Manager |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000134399320-product-owner-finance-accounting) |
 
 ## About This Role
 
-This accounting position at Playtech was posted on 2026-04-14.
+This product manager position at Playtech was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

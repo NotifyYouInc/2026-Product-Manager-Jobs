@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/8021327/?gh_jid=8021327) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/8028422/?gh_jid=8028422) |
 
 ## About This Role
 
-This product manager position at Datadog was posted on 2026-06-22.
+This product manager position at Datadog was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

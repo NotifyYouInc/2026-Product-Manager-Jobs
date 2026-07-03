@@ -1,16 +1,16 @@
-# Director, AI & Data Strategy - Enterprise Engagement at Mastercard
+# Director, AI & Data Strategy Enterprise Engagement at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | AI / ML Research |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Director--AI---Data-Strategy---Enterprise-Engagement_R-278400) |
+| Category | Product Manager |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Director--AI---Data-Strategy-Enterprise-Engagement_R-278148) |
 
 ## About This Role
 
-This ai / ml research position at Mastercard was posted on 2026-05-22.
+This product manager position at Mastercard was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

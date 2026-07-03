@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New Cairo, Cairo, Egypt |
+| Location | Vietnam |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/New-Cairo-Sandoz/Product-Manager_REQ-10029833) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Vietnam-Sandoz/Product-Manager_REQ-10030087-1) |
 
 ## About This Role
 
-This product manager position at Sandoz was posted on 2026-06-17.
+This product manager position at Sandoz was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

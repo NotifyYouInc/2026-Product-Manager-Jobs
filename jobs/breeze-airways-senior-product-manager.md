@@ -5,12 +5,12 @@
 | Company | [Breeze Airways](https://scoutify.ai/companies/breezeairways?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cottonwood Heights, Utah, United States |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/breezeairways/jobs/7628868003) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/breezeairways/jobs/7786038003) |
 
 ## About This Role
 
-This product manager position at Breeze Airways was posted on 2026-02-11.
+This product manager position at Breeze Airways was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Innovation-Product-Strategist_71621) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Innovation-Product-Strategist_71763) |
 
 ## About This Role
 
-This product manager position at Brown Brothers Harriman was posted on 2026-06-04.
+This product manager position at Brown Brothers Harriman was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

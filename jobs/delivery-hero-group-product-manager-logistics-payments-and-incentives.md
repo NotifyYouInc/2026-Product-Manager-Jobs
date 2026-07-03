@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133090100-group-product-manager-logistics-payments-and-incentives) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000134196930-group-product-manager-logistics-payments-and-incentives) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-06-19.
+This product manager position at Delivery Hero was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

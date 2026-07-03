@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10439148/sr-product-manager-amazon-customer-service) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458925/sr-product-manager-amazon-customer-service) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-06-03.
+This product manager position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

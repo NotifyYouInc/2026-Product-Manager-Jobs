@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Product-Manager---Enterprise-AI-Platform_R0000434611) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/Sr-Product-Manager---Enterprise-AI-Platform_R0000443698) |
 
 ## About This Role
 
-This product manager position at Target was posted on 2026-04-10.
+This product manager position at Target was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

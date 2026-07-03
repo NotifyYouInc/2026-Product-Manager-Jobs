@@ -1,16 +1,16 @@
-# Responsable de produit (PO) at VOSKER
+# Responsable de produit /PO at VOSKER
 
 | Field | Details |
 |-------|---------|
 | Company | [VOSKER](https://scoutify.ai/companies/vosker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vosker/744000133604638-responsable-de-produit-po) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vosker/744000134331778-responsable-de-produit-po) |
 
 ## About This Role
 
-This product manager position at VOSKER was posted on 2026-06-23.
+This product manager position at VOSKER was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

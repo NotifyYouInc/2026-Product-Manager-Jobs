@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nivoda](https://scoutify.ai/companies/nivoda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nivoda/303c455a-2c7d-4b59-9216-181e4d566615) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nivoda/7699acde-d3f6-4add-96d1-6f3b8299a1fe) |
 
 ## About This Role
 
-This product manager position at Nivoda was posted on 2026-04-10.
+This product manager position at Nivoda was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

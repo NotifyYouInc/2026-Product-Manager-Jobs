@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Miami-Florida-United-States/Senior-Product-Manager_R1313051) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Senior-Product-Manager_R1313616) |
 
 ## About This Role
 
-This product manager position at Danaher was posted on 2026-06-17.
+This product manager position at Danaher was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

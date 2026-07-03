@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/AREZE01---Buenos-Aires---Av-del-Libertador-1969/Product-Development-Consultant---Cross-Border_R184633) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/AR---Buenos-Aires/Product-Development-Consultant---Cross-Border_R186427) |
 
 ## About This Role
 
-This product manager position at A.P. Moller - Maersk was posted on 2026-06-11.
+This product manager position at A.P. Moller - Maersk was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Product-Owner_ATCI-5540358-S2030764-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Product-Owner_ATCI-5291988-S1933506-1) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-06-19.
+This product manager position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

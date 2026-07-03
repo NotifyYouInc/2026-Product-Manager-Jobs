@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Constanţa, Constanța County, Romania |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000132684849-head-of-product-management-for-a-lims-in-clinical-diagnostics-b2b-only) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000134228359-head-of-product-management-for-a-lims-in-clinical-diagnostics-b2b-only) |
 
 ## About This Role
 
-This product manager position at Eurofins Scientific was posted on 2026-06-17.
+This product manager position at Eurofins Scientific was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

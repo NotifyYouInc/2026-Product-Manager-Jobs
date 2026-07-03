@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | France |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000133405479-product-owner-si-finance-groupe-fh) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000134409859-product-owner-si-finance-groupe-fh) |
 
 ## About This Role
 
-This product manager position at Artelia was posted on 2026-06-22.
+This product manager position at Artelia was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

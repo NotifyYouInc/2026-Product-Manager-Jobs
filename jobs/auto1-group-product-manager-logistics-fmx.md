@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000133056872-product-manager-logistics-fmx) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000134260469-product-manager-logistics-fmx) |
 
 ## About This Role
 
-This product manager position at AUTO1 Group was posted on 2026-06-19.
+This product manager position at AUTO1 Group was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

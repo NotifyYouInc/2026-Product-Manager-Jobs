@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373079/senior-product-manager-pricing-amazon-global-logistics) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458919/senior-product-manager-pricing-amazon-global-logistics) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-03-23.
+This product manager position at Amazon was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

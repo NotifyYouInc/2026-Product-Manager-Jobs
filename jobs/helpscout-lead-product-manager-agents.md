@@ -6,7 +6,7 @@
 | Location | United States |
 | Category | Product Manager |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/helpscout/63460d51-02c4-45ee-b1a0-14d062673af7) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/helpscout/1dd3b3e9-dc4f-4442-b9b0-ec2d05aae145) |
 
 ## About This Role
 

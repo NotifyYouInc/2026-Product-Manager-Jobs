@@ -5,12 +5,12 @@
 | Company | [Toyota Australia](https://scoutify.ai/companies/toyota-australia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Port Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://toyotaau.wd3.myworkdayjobs.com/careers/job/Port-Melbourne---155-Bertie-Street/Connected-Vehicle-Quality-Lead_R000006938-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://toyotaau.wd3.myworkdayjobs.com/careers/job/Port-Melbourne---155-Bertie-Street/Connected-Vehicle-Quality-Lead_R000007099) |
 
 ## About This Role
 
-This product manager position at Toyota Australia was posted on 2026-06-23.
+This product manager position at Toyota Australia was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
