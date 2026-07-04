@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Agile-Team-Product-Lead_R-00184787) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Agile-Team-Product-Lead_R-00186243-1) |
 
 ## About This Role
 
-This product manager position at Leidos was posted on 2026-06-04.
+This product manager position at Leidos was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

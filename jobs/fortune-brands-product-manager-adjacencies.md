@@ -5,12 +5,12 @@
 | Company | [Fortune Brands](https://scoutify.ai/companies/fortune-brands?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Deerfield, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000126356208-product-manager-adjacencies) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000134491329-product-manager-adjacencies) |
 
 ## About This Role
 
-This product manager position at Fortune Brands was posted on 2026-05-13.
+This product manager position at Fortune Brands was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

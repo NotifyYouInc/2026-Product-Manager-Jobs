@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ENOVIS](https://scoutify.ai/companies/enovis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tunisia |
+| Location | Sfax, Sfax Governorate, Tunisia |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/DJO-Tunisia/Process-Engineer---2_R0030891) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/Sfax-Sfax-Tunisia/Product-Development-Engineer_R0033096) |
 
 ## About This Role
 
-This product manager position at ENOVIS was posted on 2026-06-23.
+This product manager position at ENOVIS was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager, Biosimilars at Abbott
+# Product manager Biosimilars at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Tashkent, Tashkent, Uzbekistan |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ukraine---Kyiv/Product-Manager_31143043) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Uzbekistan---Tashkent/Product-manager-Biosimilars_31154754) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-06-16.
+This product manager position at Abbott was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

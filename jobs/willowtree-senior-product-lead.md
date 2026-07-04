@@ -5,12 +5,12 @@
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/cf1d9a31-2e00-4a6f-9bd1-d222b24cf23c) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/6cae41de-be4e-4094-87a0-c4cf208cf9fe) |
 
 ## About This Role
 
-This product manager position at WillowTree was posted on 2026-05-06.
+This product manager position at WillowTree was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 

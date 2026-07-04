@@ -1,16 +1,16 @@
-# Sr. Consultant, Product Owner at TransUnion
+# Sr Consultant, Product Owner at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Burlington, Ontario, Canada |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Burlington-Canada/Sr-Consultant--Product-Owner_19040530) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Sr-Consultant--Product-Owner_19041191) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-05-13.
+This product manager position at TransUnion was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

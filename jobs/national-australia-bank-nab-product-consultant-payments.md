@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Product-Consultant---Payments_JR116197) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Product-Consultant---Payments_JR102819) |
 
 ## About This Role
 
-This product manager position at National Australia Bank (NAB) was posted on 2026-02-24.
+This product manager position at National Australia Bank (NAB) was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

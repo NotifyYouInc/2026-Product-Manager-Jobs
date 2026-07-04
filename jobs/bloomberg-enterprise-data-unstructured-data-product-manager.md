@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Data-Unstructured-Data-Product-Manager/20424) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Enterprise-Data-Unstructured-Data-Product-Manager/20518) |
 
 ## About This Role
 
-This product manager position at Bloomberg was posted on 2026-06-23.
+This product manager position at Bloomberg was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
