@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Illinois, US |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---IL-Remote/Product-Management--Technical--Senior-Consultant-II_R27361) |
+| Location | Wisconsin, US |
+| Category | Product Manager |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---WI-Remote/Product-Management--Technical--Senior-Consultant-II_R31857-1) |
 
 ## About This Role
 
-This strategy / management consulting position at Allstate was posted on 2026-03-18.
+This product manager position at Allstate was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 
