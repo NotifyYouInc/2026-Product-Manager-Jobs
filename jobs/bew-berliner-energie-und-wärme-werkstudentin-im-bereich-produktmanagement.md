@@ -1,16 +1,16 @@
-# Produktmanager (m/w/d) Sicherheitstechnik at flash-security
+# Werkstudent:in im Bereich Produktmanagement at BEW Berliner Energie und Wärme
 
 | Field | Details |
 |-------|---------|
-| Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [BEW Berliner Energie und Wärme](https://scoutify.ai/companies/bew?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000134700779-produktmanager-mwd-sicherheitstechnik) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bew/744000134738569-werkstudentin-im-bereich-produktmanagement) |
 
 ## About This Role
 
-This product manager position at flash-security was posted on 2026-06-29.
+This product manager position at BEW Berliner Energie und Wärme was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

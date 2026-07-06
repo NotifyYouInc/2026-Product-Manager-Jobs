@@ -1,16 +1,16 @@
-# Digital Journey Optimisation Manager at Commonwealth Bank of Australia
+# Product Manager - CommSec at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Digital-Journey-Optimisation-Manager_REQ260789) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Product-Manager---CommSec_REQ260442) |
 
 ## About This Role
 
-This product manager position at Commonwealth Bank of Australia was posted on 2026-06-29.
+This product manager position at Commonwealth Bank of Australia was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Senior Product Manager (Japanese or Korean Speaking) – Bangkok or Tokyo Based at Agoda
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/8029998) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Agoda was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

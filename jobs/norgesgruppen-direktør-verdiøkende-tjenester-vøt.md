@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Direktør Verdiøkende Tjenester (VØT) at NorgesGruppen
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [NorgesGruppen](https://scoutify.ai/companies/norgesgruppen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://norgesgruppen.wd3.myworkdayjobs.com/karriere/job/NG-KA-12-14/Direktr-Verdikende-Tjenester--VT-_JR10028782) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at NorgesGruppen was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

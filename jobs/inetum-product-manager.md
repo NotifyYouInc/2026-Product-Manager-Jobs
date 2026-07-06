@@ -1,16 +1,16 @@
-# PRODUCT Manager at Inetum
+# Product Manager at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Saint-Ouen, Île-de-France, France |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111851290-product-manager) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000134731292-product-manager) |
 
 ## About This Role
 
-This product manager position at Inetum was posted on 2026-02-27.
+This product manager position at Inetum was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

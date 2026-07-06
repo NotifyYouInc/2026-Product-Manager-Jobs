@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Product Manager, Growth at Chime
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Chime](https://scoutify.ai/companies/chime?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/chime/jobs/8343779002?gh_jid=8343779002) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Chime was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

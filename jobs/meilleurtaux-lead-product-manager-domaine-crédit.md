@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Lead Product Manager - Domaine Crédit at Meilleurtaux
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Courbevoie, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000134751061-lead-product-manager-domaine-credit) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Meilleurtaux was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

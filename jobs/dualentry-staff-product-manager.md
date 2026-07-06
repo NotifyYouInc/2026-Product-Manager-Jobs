@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Staff Product Manager at DualEntry
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [DualEntry](https://scoutify.ai/companies/dualentry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/dualentry/a102c3f0-79fb-4e90-8061-d554f43417fd) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at DualEntry was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

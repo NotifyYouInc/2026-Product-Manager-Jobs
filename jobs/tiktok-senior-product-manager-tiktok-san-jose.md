@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Senior Product Manager - TikTok (San Jose) at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7655337929129920773/detail) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at TikTok was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

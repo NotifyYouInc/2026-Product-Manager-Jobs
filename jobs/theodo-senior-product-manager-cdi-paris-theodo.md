@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Senior Product Manager - CDI Paris - Theodo at Theodo
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Theodo](https://scoutify.ai/companies/theodo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://jobs.lever.co/theodo/d65d7571-82d6-4db8-9c30-e2945cc1a021) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Theodo was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

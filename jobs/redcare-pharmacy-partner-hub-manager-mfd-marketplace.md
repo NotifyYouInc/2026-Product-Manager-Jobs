@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000130495629-partner-hub-manager-mfd-marketplace) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134718997-partner-hub-manager-mfd-marketplace) |
 
 ## About This Role
 
-This product manager position at Redcare Pharmacy was posted on 2026-06-05.
+This product manager position at Redcare Pharmacy was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

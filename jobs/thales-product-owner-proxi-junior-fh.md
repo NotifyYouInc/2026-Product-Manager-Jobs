@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Product Owner Proxi junior (F/H) at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Brest, Brittany, France |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Brest/Product-Owner-Proxi-junior--F-H-_R0333081-1) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Thales was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

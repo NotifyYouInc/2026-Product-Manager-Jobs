@@ -1,16 +1,16 @@
-# Product Manager (m/f/d) at Sportradar
+# Product Manager  (m/f/d) at Sportradar
 
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bremen, City state Bremen, Germany |
+| Location | Vienna, Vienna, Austria |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000125119879-product-manager-mfd) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000134757801-product-manager-mfd) |
 
 ## About This Role
 
-This product manager position at Sportradar was posted on 2026-05-07.
+This product manager position at Sportradar was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

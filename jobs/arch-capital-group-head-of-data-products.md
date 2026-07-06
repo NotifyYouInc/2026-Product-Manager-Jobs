@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Head of Data Products at Arch Capital Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Arch Capital Group](https://scoutify.ai/companies/archgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 3 locations |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/London-United-Kingdom/Head-of-Data-Products_R26_630) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Arch Capital Group was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

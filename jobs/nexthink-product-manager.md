@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000132344489-product-manager) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000134724299-product-manager) |
 
 ## About This Role
 
-This product manager position at Nexthink was posted on 2026-06-16.
+This product manager position at Nexthink was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

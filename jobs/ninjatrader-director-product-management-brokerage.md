@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Director, Product Management - Brokerage at NinjaTrader
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [NinjaTrader](https://scoutify.ai/companies/ninjatrader?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ninjatrader/jobs/4692536006) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at NinjaTrader was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

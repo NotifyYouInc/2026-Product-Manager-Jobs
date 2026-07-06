@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# 助理總經理, 產品研發 at China CITIC Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [China CITIC Bank](https://scoutify.ai/companies/china-citic-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | China |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://cncbinternational.wd3.myworkdayjobs.com/cncbiexternalcareersite/job/Hong-Kong/--_JR2480) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at China CITIC Bank was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Aircraft Control MBSE/RBE  Business Owner (m/f)  at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Toulouse, Occitanie, France |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Aircraft-Control-MBSE-RBE--Business-Owner--m-f--_JR10418326) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Airbus was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kākināda, Andhra Pradesh, India |
+| Location | Vijayawada, Andhra Pradesh, India |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000133515949-territory-manager) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000134700533-territory-manager) |
 
 ## About This Role
 
-This product manager position at Dr. Reddy's Laboratories was posted on 2026-06-23.
+This product manager position at Dr. Reddy's Laboratories was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

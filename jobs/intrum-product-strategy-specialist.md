@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Product Strategy Specialist at Intrum
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Intrum](https://scoutify.ai/companies/intrum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://intrum.wd3.myworkdayjobs.com/external/job/Madrid/Product-Strategy-Specialist_R10118-1) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Intrum was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

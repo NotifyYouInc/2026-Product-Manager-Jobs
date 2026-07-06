@@ -1,16 +1,16 @@
-# Senior /Principal Product Manager – Search Experience (m/f/d) at Redcare Pharmacy
+# Associate, Product Manager Transaction Banking at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
-| Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134735579-senior-principal-product-manager-search-experience-mfd) |
+| Posted | 2026-06-28 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Amsterdam/Associate--Product-Manager-Transaction-Banking_10077250-WD-1) |
 
 ## About This Role
 
-This product manager position at Redcare Pharmacy was posted on 2026-06-29.
+This product manager position at Mitsubishi UFG was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

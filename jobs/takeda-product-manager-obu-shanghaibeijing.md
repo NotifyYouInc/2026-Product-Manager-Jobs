@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Product Manager, OBU, Shanghai/Beijing at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Shanghai-China/Product-Manager--OBU--Shanghai-Beijing_R0183502-1) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Takeda was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

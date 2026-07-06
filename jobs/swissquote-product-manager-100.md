@@ -1,16 +1,16 @@
-# Product Manager H/F at Nexton
+# Product Manager - 100% at Swissquote
 
 | Field | Details |
 |-------|---------|
-| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Swissquote](https://scoutify.ai/companies/swissquote?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Gland, Vaud, Switzerland |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000134733861-product-manager-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Swissquote/744000134725330-product-manager-100) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-29.
+This product manager position at Swissquote was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
