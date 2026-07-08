@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Auto Club Group](https://scoutify.ai/companies/acg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Michigan, US |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/USA/Product-Management-Analyst-II_JR16723-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Product-Management-Analyst-II_JR16806-1) |
 
 ## About This Role
 
-This product manager position at Auto Club Group was posted on 2026-06-25.
+This product manager position at Auto Club Group was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

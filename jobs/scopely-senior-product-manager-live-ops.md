@@ -1,16 +1,16 @@
-# Senior Product Manager-  Live Ops at Scopely
+# Senior Product Manager - Live Ops  at Scopely
 
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Culver City, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5031728008?gh_jid=5031728008) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5277316008?gh_jid=5277316008) |
 
 ## About This Role
 
-This product manager position at Scopely was posted on 2026-06-09.
+This product manager position at Scopely was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

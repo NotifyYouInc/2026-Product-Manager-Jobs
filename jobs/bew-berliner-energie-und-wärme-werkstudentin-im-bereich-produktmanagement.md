@@ -6,7 +6,7 @@
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bew/744000134738569-werkstudentin-im-bereich-produktmanagement) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bew/744000134789211-werkstudentin-im-bereich-produktmanagement) |
 
 ## About This Role
 

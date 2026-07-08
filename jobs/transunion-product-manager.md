@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Johannesburg/Product-Manager_19040809) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Madrid/Product-Manager_19041200) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-06-02.
+This product manager position at TransUnion was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

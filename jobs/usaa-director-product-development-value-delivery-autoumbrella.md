@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Product-Development---Value-Delivery--Auto-Umbrella-_R0117852) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Director--Product-Development---Value-Delivery--Auto-Umbrella-_R0118799) |
 
 ## About This Role
 
-This product manager position at USAA was posted on 2026-05-29.
+This product manager position at USAA was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

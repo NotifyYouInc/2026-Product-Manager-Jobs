@@ -1,16 +1,16 @@
-# Product Manager  at Lendi Group
+# Product Manager at Lendi Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Lendi Group](https://scoutify.ai/companies/lendigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000133711810-product-manager) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LendiGroup1/744000134931839-product-manager) |
 
 ## About This Role
 
-This product manager position at Lendi Group was posted on 2026-06-24.
+This product manager position at Lendi Group was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

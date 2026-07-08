@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Location | Massachusetts, US |
 | Category | Product Manager |
-| Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Digital-Product-Manager_R0942497) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Massachusetts/Digital-Product-Manager_R0961568) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-06-20.
+This product manager position at CVS Health was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

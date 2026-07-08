@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/Hungary-Budapest/Product-Manager---Thermal-Energy-Meter_JR102644) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/France-Macon/Product-Manager---Thermal-Energy-Meter_JR102645) |
 
 ## About This Role
 
-This product manager position at Itron was posted on 2026-06-24.
+This product manager position at Itron was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

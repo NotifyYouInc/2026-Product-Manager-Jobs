@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager_26WD98021-2) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-Product-Manager_26WD99627-1) |
 
 ## About This Role
 
-This product manager position at Autodesk was posted on 2026-05-29.
+This product manager position at Autodesk was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

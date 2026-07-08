@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/15f29884-99ab-44dc-836c-a346a20eb488) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.lever.co/crypto/810e9ece-eea4-4ece-b64d-fb20dd7a7592) |
 
 ## About This Role
 
-This product manager position at Crypto was posted on 2026-05-07.
+This product manager position at Crypto was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

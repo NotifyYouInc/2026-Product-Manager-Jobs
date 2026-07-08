@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000129563678-sr-product-owner-sales-technology-linkedin-marketing-solutions) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000135311989-sr-product-owner-sales-technology-linkedin-marketing-solutions) |
 
 ## About This Role
 
-This product manager position at LinkedIn was posted on 2026-06-01.
+This product manager position at LinkedIn was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Valletta, Valletta, Malta |
+| Location | Tartu, Tartu, Estonia |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000127894055-product-manager-engagement-gamification-tools) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000134968324-product-manager-engagement-gamification-tools) |
 
 ## About This Role
 
-This product manager position at Playtech was posted on 2026-05-22.
+This product manager position at Playtech was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

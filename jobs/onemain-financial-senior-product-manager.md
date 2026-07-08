@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OneMain Financial](https://scoutify.ai/companies/myhrhome?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/New-York-NY/Senior-Product-Manager_R2603-49993) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://myhrhome.wd1.myworkdayjobs.com/OneMainCareers/job/Charlotte-NC/Senior-Product-Manager_R2606-51494) |
 
 ## About This Role
 
-This product manager position at OneMain Financial was posted on 2026-03-16.
+This product manager position at OneMain Financial was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

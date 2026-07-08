@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000134215919-clerc-de-notaire-actes-courants-immobiliers-hf) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000134978829-clerc-de-notaire-actes-courants-immobiliers-hf) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-06-25.
+This product manager position at SEPTEO was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

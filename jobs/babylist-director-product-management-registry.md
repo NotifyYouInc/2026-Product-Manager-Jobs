@@ -5,12 +5,12 @@
 | Company | [Babylist](https://scoutify.ai/companies/babylist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/babylist/jobs/5983660004) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/babylist/jobs/6104983004) |
 
 ## About This Role
 
-This product manager position at Babylist was posted on 2026-05-01.
+This product manager position at Babylist was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/VP-Asset-Servicing-Product-Developer---Investor-Services_26968112) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/VP-Asset-Servicing-Product-Developer---Investor-Services_26974555) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-06-03.
+This product manager position at Citigroup was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

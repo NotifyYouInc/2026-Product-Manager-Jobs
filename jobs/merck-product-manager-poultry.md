@@ -1,16 +1,16 @@
-# Product Manager - Poultry at Merck
+# Product Manager (Poultry ) at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Marketing |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/POL---Mazowieckie-Wojewodztwo---Warsaw-Trade-Center/Product-Manager---Poultry_R387957-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Product Manager |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Pune-Wework/Product-Manager--Poultry--_R402437-1) |
 
 ## About This Role
 
-This marketing position at Merck was posted on 2026-03-09.
+This product manager position at Merck was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

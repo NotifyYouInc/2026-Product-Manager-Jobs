@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000133955531-product-manager-semantics-adoption-knowledge-modelling) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135191551-product-manager-semantics-adoption-knowledge-modelling) |
 
 ## About This Role
 
-This product manager position at Nagarro was posted on 2026-06-24.
+This product manager position at Nagarro was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

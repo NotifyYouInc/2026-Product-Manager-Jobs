@@ -1,16 +1,16 @@
-# Product Manager I- Salesforce at Frostbank
+# Product Manager I - Salesforce at Frostbank
 
 | Field | Details |
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Product-Manager-I--Salesforce_R261057) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Product-Manager-I---Salesforce_R261125) |
 
 ## About This Role
 
-This product manager position at Frostbank was posted on 2026-06-24.
+This product manager position at Frostbank was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

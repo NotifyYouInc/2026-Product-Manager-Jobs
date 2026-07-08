@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartRecruiters Inc](https://scoutify.ai/companies/smartrecruiters-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartrecruiters/744000129694823-senior-product-manager-career-sites) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartrecruiters/744000134902606-senior-product-manager-career-sites) |
 
 ## About This Role
 
-This product manager position at SmartRecruiters Inc was posted on 2026-06-02.
+This product manager position at SmartRecruiters Inc was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

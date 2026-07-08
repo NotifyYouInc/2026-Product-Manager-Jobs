@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXf7-6PZ_40_l3ihz3cdUq9ah1y3cd7wb2yRnZ2L6AIYEjsACxwdTL1dr1M5lBzsQQj2OjpHpf_mmtdM69nboTwbNykE34x7zBiyTUWIcqm63rxCw3SVIz_pxG5pjg%3D%3D_V2&loc=US&title=Product+Manager) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWHHTVgymsv0DpVnmc8foSinWHWQ4SRXXrCfZ1vsB7nlEjsA1Ny_i9yvOpCrzYwFZJ_pj0IPP09f1eQjIUH846QqUIWMilf4SE8Sy9cE38l__SejQ4GIx6wI7UjMLg%3D%3D_V2&loc=US&title=Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-08.
+This product manager position at Google was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

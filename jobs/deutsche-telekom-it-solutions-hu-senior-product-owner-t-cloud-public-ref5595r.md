@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000132582422-senior-product-owner-t-cloud-public-ref5595r) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000134943370-senior-product-owner-t-cloud-public-ref5595r) |
 
 ## About This Role
 
-This product manager position at Deutsche Telekom IT Solutions HU was posted on 2026-06-17.
+This product manager position at Deutsche Telekom IT Solutions HU was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

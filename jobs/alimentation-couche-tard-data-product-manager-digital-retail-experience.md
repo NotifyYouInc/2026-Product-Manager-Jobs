@@ -1,16 +1,16 @@
-# Data Product Manager - Digital Retail Experience at Alimentation Couche-Tard
+# Data Product Manager - (Digital Retail Experience) at Alimentation Couche-Tard
 
 | Field | Details |
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Data-Product-Manager---Digital-Retail-Experience_R596616-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Warszawa-BC/Data-Product-Manager----Digital-Retail-Experience-_R601298-1) |
 
 ## About This Role
 
-This product manager position at Alimentation Couche-Tard was posted on 2026-06-10.
+This product manager position at Alimentation Couche-Tard was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

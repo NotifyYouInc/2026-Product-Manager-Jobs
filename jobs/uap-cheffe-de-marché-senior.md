@@ -1,16 +1,16 @@
-# Chef.fe de marché senior at UAP
+# Chef.fe de marché senior  at UAP
 
 | Field | Details |
 |-------|---------|
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | Longueuil, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000120039694-cheffe-de-marche-senior) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000135021739-cheffe-de-marche-senior) |
 
 ## About This Role
 
-This product manager position at UAP was posted on 2026-04-10.
+This product manager position at UAP was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

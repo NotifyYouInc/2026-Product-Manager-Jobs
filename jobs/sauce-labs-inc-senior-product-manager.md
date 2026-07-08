@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sauce Labs Inc.](https://scoutify.ai/companies/sauce-labs-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Haryana, IN |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/saucelabs/jobs/7347756) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/saucelabs/jobs/8026437) |
 
 ## About This Role
 
-This product manager position at Sauce Labs Inc. was posted on 2026-05-29.
+This product manager position at Sauce Labs Inc. was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Florida, US |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Data-Product-Owner_R171692) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-FL/Data-Product-Owner_R176548) |
 
 ## About This Role
 
-This product manager position at Ryder System was posted on 2026-05-08.
+This product manager position at Ryder System was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
