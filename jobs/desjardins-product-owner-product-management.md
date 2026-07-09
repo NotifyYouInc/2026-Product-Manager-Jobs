@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Orchestration-des-oprations_R2608323-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produits_R2608400-1) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-06-25.
+This product manager position at Desjardins was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Findem](https://scoutify.ai/companies/findem?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2025-08-15 |
-| Apply | [View on company site](https://jobs.lever.co/findem/8386ebe0-50d4-4009-98a3-ebbc1ae97da5) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.lever.co/findem/d1f48556-a8c9-46b7-b089-4317ec2dd280) |
 
 ## About This Role
 
-This product manager position at Findem was posted on 2025-08-15.
+This product manager position at Findem was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

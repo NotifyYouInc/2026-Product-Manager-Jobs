@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Apeldoorn, Gelderland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000131667869-manager-productdata) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000135457020-manager-productdata) |
 
 ## About This Role
 
-This product manager position at REXEL was posted on 2026-06-11.
+This product manager position at REXEL was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

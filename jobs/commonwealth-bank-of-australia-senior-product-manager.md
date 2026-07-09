@@ -6,7 +6,7 @@
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-06-30 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Product-Manager_REQ260509-1) |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Product-Manager_REQ261142) |
 
 ## About This Role
 

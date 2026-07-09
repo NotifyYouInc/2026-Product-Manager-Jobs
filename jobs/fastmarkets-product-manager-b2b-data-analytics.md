@@ -5,12 +5,12 @@
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000131483809-product-manager-b2b-data-analytics) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000135439159-product-manager-b2b-data-analytics) |
 
 ## About This Role
 
-This product manager position at Fastmarkets was posted on 2026-06-10.
+This product manager position at Fastmarkets was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

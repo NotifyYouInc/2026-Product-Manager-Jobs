@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Product-Manager-Lead_R0118057) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Product-Manager-Lead_R0118499) |
 
 ## About This Role
 
-This product manager position at USAA was posted on 2026-06-03.
+This product manager position at USAA was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

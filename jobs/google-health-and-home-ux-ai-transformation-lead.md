@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckajXlEZI9Fp6dry4pjVvSzOLjf0ZPloOVVUQ8GWjIiGHEjsACxwdTKG0xzDJDsiZLHXK0XFF8IZgJewiXe1jfnQrVFBuWdg4oJ5zjl_GqLvlzMJWKrKebV1k7sZuUw%3D%3D_V2&loc=US&title=Health+and+Home+UX+AI+Transformation+Lead) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbIf1JdRGVXFXcKoVInXGPODkpHxgnV0xRLnjCiA4fOWEjsA1Ny_ix_phtaHMMFjj6peNUHgnXRXSCsRGjUF3gxwzJWCG9KS9FV4wGqiR6lkAz8McM73EBbYVFqJWA%3D%3D_V2&loc=US&title=Health+and+Home+UX+AI+Transformation+Lead) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-05-27.
+This product manager position at Google was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
