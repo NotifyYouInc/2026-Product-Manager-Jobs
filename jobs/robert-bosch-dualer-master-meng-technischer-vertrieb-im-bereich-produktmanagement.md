@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Wetzlar, Hesse, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132638324-dualer-master-meng-technischer-vertrieb-im-bereich-produktmanagement) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135677731-dualer-master-meng-technischer-vertrieb-im-bereich-produktmanagement) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-06-17.
+This product manager position at Robert Bosch was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

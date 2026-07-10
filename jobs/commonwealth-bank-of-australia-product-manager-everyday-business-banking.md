@@ -1,16 +1,16 @@
-# Product Manager (Everyday Business Banking) at Commonwealth Bank of Australia
+# Product Manager - Everyday Business Banking at Commonwealth Bank of Australia
 
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-NSW---CBP-South-11-Harbour-Street/Product-Manager--Everyday-Business-Banking-_REQ256656) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Product-Manager---Everyday-Business-Banking_REQ260909) |
 
 ## About This Role
 
-This product manager position at Commonwealth Bank of Australia was posted on 2026-04-14.
+This product manager position at Commonwealth Bank of Australia was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

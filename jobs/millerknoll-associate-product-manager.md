@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MillerKnoll](https://scoutify.ai/companies/millerknoll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Harrogate, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Associate-Product-Manager_JR109214-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/UK---Harrogate/Associate-Product-Manager_JR109286) |
 
 ## About This Role
 
-This product manager position at MillerKnoll was posted on 2026-06-22.
+This product manager position at MillerKnoll was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

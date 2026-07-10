@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000133561629-senior-product-manager) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000135473239-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Gameloft Montreal was posted on 2026-06-23.
+This product manager position at Gameloft Montreal was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

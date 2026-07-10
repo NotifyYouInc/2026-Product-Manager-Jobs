@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
-| Category | Privacy & Data Protection |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000133598169-product-owner-privacy) |
+| Category | Product Manager |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135583162-product-owner-privacy) |
 
 ## About This Role
 
-This privacy & data protection position at Versant was posted on 2026-06-23.
+This product manager position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

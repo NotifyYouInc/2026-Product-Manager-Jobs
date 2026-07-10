@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Pune-Maharashtra-India/Product-Owner_R0069452-2) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Product-Owner_R0072645-1) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-02-11.
+This product manager position at Global Payments was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000132294599-director-news-product-and-operations) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135575684-director-news-product-and-operations) |
 
 ## About This Role
 
-This product manager position at Versant was posted on 2026-06-15.
+This product manager position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

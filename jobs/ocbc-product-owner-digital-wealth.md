@@ -1,16 +1,16 @@
-# Product Owner - Digital Wealth at OCBC
+# Product Owner, Digital Wealth at OCBC
 
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Product-Owner---Digital-Wealth_JR00007023) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/Product-Owner--Digital-Wealth_JR00009089) |
 
 ## About This Role
 
-This product manager position at OCBC was posted on 2026-04-13.
+This product manager position at OCBC was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

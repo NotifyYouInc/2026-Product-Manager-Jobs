@@ -5,12 +5,12 @@
 | Company | [Kodiak Robotics](https://scoutify.ai/companies/kodiak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4258107009) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/kodiak/jobs/4305431009) |
 
 ## About This Role
 
-This product manager position at Kodiak Robotics was posted on 2026-05-22.
+This product manager position at Kodiak Robotics was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

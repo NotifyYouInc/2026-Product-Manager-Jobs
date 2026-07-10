@@ -5,12 +5,12 @@
 | Company | [Cosun](https://scoutify.ai/companies/cosun?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Roosendaal, North Brabant, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cosun2/744000132645161-product-manager) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cosun2/744000135430359-product-manager) |
 
 ## About This Role
 
-This product manager position at Cosun was posted on 2026-06-17.
+This product manager position at Cosun was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scribd](https://scoutify.ai/companies/scribd?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/scribd/f9d8ca65-c972-42c7-8cb3-0c81826eb2ee) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/scribdinc/8ac042d1-f7cb-435a-9ca1-ba0d689e63b9) |
 
 ## About This Role
 
-This product manager position at Scribd was posted on 2026-02-10.
+This product manager position at Scribd was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

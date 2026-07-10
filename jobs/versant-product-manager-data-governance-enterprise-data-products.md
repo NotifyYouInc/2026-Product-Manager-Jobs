@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Privacy & Data Protection |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131964448-product-manager-data-governance-enterprise-data-products) |
+| Category | Product Manager |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135579579-product-manager-data-governance-enterprise-data-products) |
 
 ## About This Role
 
-This privacy & data protection position at Versant was posted on 2026-06-12.
+This product manager position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

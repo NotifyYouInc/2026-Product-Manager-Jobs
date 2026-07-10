@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/Manager-Sales-Enablement_51583700) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/Manager-Sales-Enablement_51583332) |
 
 ## About This Role
 
-This product manager position at DXC Technology was posted on 2026-06-25.
+This product manager position at DXC Technology was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

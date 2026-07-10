@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Springfield, Missouri, United States |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/BWD-GERMANY-STUTTGART/Product-Owner_327801-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Product-Owner_328534) |
 
 ## About This Role
 
-This product manager position at CACI was posted on 2026-06-16.
+This product manager position at CACI was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

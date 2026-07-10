@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000125917906-senior-product-manager-latam-expansion) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135607729-senior-product-manager-latam-expansion) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-05-11.
+This product manager position at WISE was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Universal City, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131960297-vp-rotten-tomatoes-content-platform) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135578357-vp-rotten-tomatoes-content-platform) |
 
 ## About This Role
 
-This product manager position at Versant was posted on 2026-06-12.
+This product manager position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

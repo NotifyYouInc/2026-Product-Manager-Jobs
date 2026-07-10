@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Apeldoorn, Gelderland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000132623269-assistent-product-manager-duurzaam) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000135471919-assistent-product-manager-duurzaam) |
 
 ## About This Role
 
-This product manager position at REXEL was posted on 2026-06-17.
+This product manager position at REXEL was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Location | Victoria, AU |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Rosh-HaAyin-Center-District-Israel/Product-Manager_REQ-1000048618) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Whitehorse-Melbourne-Australia/Product-Manager_REQ-1000049188-1) |
 
 ## About This Role
 
-This product manager position at Stanley Black & Decker was posted on 2026-06-17.
+This product manager position at Stanley Black & Decker was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

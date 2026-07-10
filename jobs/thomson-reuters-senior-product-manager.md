@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Senior-Product-Manager_JREQ201136) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Frisco-Texas/Senior-Product-Manager_JREQ201442) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-06-29.
+This product manager position at Thomson Reuters was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
