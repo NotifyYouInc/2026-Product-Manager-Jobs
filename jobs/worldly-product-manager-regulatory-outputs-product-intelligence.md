@@ -1,16 +1,16 @@
-# Product Owner - Agile at Truist
+# Product Manager, Regulatory Outputs & Product Intelligence at Worldly
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Worldly](https://scoutify.ai/companies/worldly?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Product-Owner---Agile_R0116425) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/worldly/5cf74491-c532-4912-904c-df3e195880e5) |
 
 ## About This Role
 
-This product manager position at Truist was posted on 2026-07-03.
+This product manager position at Worldly was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

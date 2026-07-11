@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Senior produktleder at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135707309-senior-produktleder) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at Sopra Steria was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

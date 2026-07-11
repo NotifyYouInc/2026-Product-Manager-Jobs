@@ -1,12 +1,12 @@
-# Alpha Complex Instruments Product Lead, Vice President at State Street
+# Officer - Custody Product Management at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Alpha-Complex-Instruments-Product-Lead--Vice-President_R-785156) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Officer---Custody-Product-Management_R-793293-1) |
 
 ## About This Role
 

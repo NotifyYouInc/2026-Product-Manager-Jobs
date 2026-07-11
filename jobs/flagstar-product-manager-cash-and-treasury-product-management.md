@@ -1,12 +1,12 @@
-# Treasury Management-Product Manager Sr II at Flagstar
+# Product Manager - Cash and Treasury Product Management at Flagstar
 
 | Field | Details |
 |-------|---------|
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Troy, Michigan, United States |
+| Location | Michigan, US |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Troy5151-Corporate-Drive112300/Treasury-Management-Product-Manager-Sr-II_20419) |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Work-From-Home-United-States/Product-Manager---Cash-and-Treasury-Product-Management_20417) |
 
 ## About This Role
 

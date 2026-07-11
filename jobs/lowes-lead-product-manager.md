@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Lead-Product-Manager_JR-02525340-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Lead-Product-Manager_JR-02571782) |
 
 ## About This Role
 
-This product manager position at Lowe's was posted on 2026-05-20.
+This product manager position at Lowe's was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

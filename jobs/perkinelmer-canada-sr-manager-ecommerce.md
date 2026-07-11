@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Sr Manager, eCommerce at PerkinElmer Canada
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/United-Kingdom---Remote/Sr-Manager--eCommerce_REQ-057851) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at PerkinElmer Canada was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

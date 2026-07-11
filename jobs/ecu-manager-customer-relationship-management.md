@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Manager, Customer Relationship Management at Ecu
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [Ecu](https://scoutify.ai/companies/ecu?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://ecu.wd12.myworkdayjobs.com/everwise_careers/job/Carmel-Indiana-46032---East-Carmel/Manager--Customer-Relationship-Management_R-100610) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at Ecu was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

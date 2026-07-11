@@ -1,16 +1,16 @@
-# Product Owner - Agile at Truist
+# Product Manager at Primer
 
 | Field | Details |
 |-------|---------|
-| Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Primer](https://scoutify.ai/companies/primer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Product-Owner---Agile_R0116425) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/primer/54541971-7c91-4c38-a5da-aac7f21eb28c) |
 
 ## About This Role
 
-This product manager position at Truist was posted on 2026-07-03.
+This product manager position at Primer was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

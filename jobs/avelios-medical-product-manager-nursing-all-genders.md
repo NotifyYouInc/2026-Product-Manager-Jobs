@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Product Manager Nursing (all genders) at Avelios Medical
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [Avelios Medical](https://scoutify.ai/companies/avelios-medical?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/avelios-medical/33b5e23b-6bf2-41fa-9154-a781ea86e2a2) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at Avelios Medical was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

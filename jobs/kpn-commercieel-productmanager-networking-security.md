@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Commercieel Productmanager Networking & Security at KPN
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Rotterdam, South Holland, The Netherlands |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000135760421-commercieel-productmanager-networking-security) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at KPN was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Stepful](https://scoutify.ai/companies/stepful?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/stepful/68f589bd-c2ea-4968-9de9-2998b706bbc7) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/stepful/1013723f-da82-4468-8f42-230145800e6f) |
 
 ## About This Role
 
-This product manager position at Stepful was posted on 2026-03-10.
+This product manager position at Stepful was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

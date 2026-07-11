@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Staff Product Manager, Organic Growth  at HelloFresh
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8028102?gh_jid=8028102) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at HelloFresh was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

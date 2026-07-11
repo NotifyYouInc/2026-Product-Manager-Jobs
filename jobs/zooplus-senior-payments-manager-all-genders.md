@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Senior Payments Manager (All Genders) at Zooplus
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [Zooplus](https://scoutify.ai/companies/zooplusse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000135700429-senior-payments-manager-all-genders) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at Zooplus was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

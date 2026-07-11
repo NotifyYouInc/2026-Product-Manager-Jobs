@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Associate Director, Offering Management (MIDAS) at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Associate-Director--Offering-Management--MIDAS-_R1541797) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at IQVIA was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

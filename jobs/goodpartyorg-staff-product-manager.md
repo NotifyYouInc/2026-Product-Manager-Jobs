@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Staff Product Manager at GoodParty.org
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [GoodParty.org](https://scoutify.ai/companies/goodparty?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/goodparty/e3a16838-9b9b-4318-893a-898b062f4c38) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at GoodParty.org was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

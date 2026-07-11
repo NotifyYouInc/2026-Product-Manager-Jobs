@@ -5,12 +5,12 @@
 | Company | [Brainlab](https://scoutify.ai/companies/brainlab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000129664319-product-manager-spine-surgery) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000135719749-product-manager-spine-surgery) |
 
 ## About This Role
 
-This product manager position at Brainlab was posted on 2026-06-02.
+This product manager position at Brainlab was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

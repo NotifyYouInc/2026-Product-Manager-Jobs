@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Product Manager Media H/F at Nexton
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000135696329-product-manager-media-hf) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at Nexton was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

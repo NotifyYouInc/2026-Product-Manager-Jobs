@@ -1,12 +1,12 @@
-# Lead Product Manager at Wells Fargo
+# Senior Lead Digital Product Manager – Access & Entitlements Platform at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Product-Manager_R-557281) |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Lead-Digital-Product-Manager---Access---Entitlements-Platform_R-554907-1) |
 
 ## About This Role
 

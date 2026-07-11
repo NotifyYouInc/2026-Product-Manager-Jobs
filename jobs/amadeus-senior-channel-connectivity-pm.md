@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Senior Channel Connectivity PM at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Barcelona/Senior-Channel-Connectivity-PM_R36144) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at Amadeus was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

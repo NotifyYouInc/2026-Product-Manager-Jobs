@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Product Manager - InPost Pay (m/f/d) at INPOST
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Poland |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135750064-product-manager-inpost-pay-mfd) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at INPOST was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Senior Product Manager, Patient Experience (Remote) at Maximustribe
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [Maximustribe](https://scoutify.ai/companies/maximustribe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/maximustribe/04908971-0aa6-466c-a42d-0493f0ff1a2c) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at Maximustribe was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Bavaria, DE |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000131937786-senior-product-owner-ai-customer-service-mfd) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000135708104-senior-product-owner-ai-customer-service-mfd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-06-12.
+This product manager position at Sixt was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

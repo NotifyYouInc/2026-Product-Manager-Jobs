@@ -1,16 +1,16 @@
-# Alpha Complex Instruments Product Lead, Vice President at State Street
+# Global Product Manufacturing Lead, Booking Services- SVP at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Alpha-Complex-Instruments-Product-Lead--Vice-President_R-785156) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Global-Product-Manufacturing-Lead--Booking-Services--SVP_26975173) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-07-03.
+This product manager position at Citigroup was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

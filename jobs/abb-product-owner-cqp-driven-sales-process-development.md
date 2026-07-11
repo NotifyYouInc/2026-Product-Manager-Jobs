@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Product Owner, CQP driven sales process development at ABB
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 3 locations |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Helsinki-Uusimaa-Finland/Product-Owner--CQP-driven-sales-process-development_JR00032493) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at ABB was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

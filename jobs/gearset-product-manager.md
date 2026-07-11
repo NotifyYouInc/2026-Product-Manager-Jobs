@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Product Manager at Gearset
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [Gearset](https://scoutify.ai/companies/gearset?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Cambridge, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://jobs.lever.co/gearset/21216cad-7f5d-49f8-abda-a082797aca67) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at Gearset was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

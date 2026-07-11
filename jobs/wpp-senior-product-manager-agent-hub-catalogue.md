@@ -1,16 +1,16 @@
-# Product Manager at Booz Allen
+# Senior Product Manager, Agent Hub & Catalogue at WPP
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Product-Manager_R0243538) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8583460002) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-07-03.
+This product manager position at WPP was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
