@@ -1,4 +1,4 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Product Manager, Payments  at StraitsX
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919679101) |
 
 ## About This Role
 

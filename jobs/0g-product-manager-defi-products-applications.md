@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Product Manager — DeFi Products & Applications at 0g
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [0g](https://scoutify.ai/companies/0g?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Not specified |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/0g/d35c9785-1912-4c23-8d09-dbbe353d4733) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at 0g was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

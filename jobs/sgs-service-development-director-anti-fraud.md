@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Service Development Director - Anti Fraud at SGS
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Italy |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000135922129-service-development-director-anti-fraud) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at SGS was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

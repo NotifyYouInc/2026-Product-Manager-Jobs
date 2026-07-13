@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Product Line Manager at Penske Truck Leasing
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Penske Truck Leasing](https://scoutify.ai/companies/ocs-cx-oj44780?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://fa-euyk-dev1-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2602336) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Penske Truck Leasing was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

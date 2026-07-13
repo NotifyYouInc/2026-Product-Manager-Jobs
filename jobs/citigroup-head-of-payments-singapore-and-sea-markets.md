@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Head of Payments Singapore and SEA Markets at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Head-of-Payments-Singapore-and-SEA-markets_26975403) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Citigroup was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Product Manager - Client Digital Experience at QIMA
+# Product Manager, Electronics, PTAP at Avery Dennison Corporation
 
 | Field | Details |
 |-------|---------|
-| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000135911169-lead-product-manager-client-digital-experience) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000135903829-product-manager-electronics-ptap) |
 
 ## About This Role
 
-This product manager position at QIMA was posted on 2026-07-06.
+This product manager position at Avery Dennison Corporation was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

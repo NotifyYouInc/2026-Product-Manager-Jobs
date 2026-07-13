@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# C80010 PM at Wistron NeWeb
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taiwan |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/C80010-PM_REQ_260711710) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Wistron NeWeb was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

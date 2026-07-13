@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Product Manager MCX Infrastructure (M/F) at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Élancourt, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/Product-Manager-MCX-Infrastructure--M-F-_JR10415565-1) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Airbus was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

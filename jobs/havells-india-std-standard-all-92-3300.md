@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# STD_Standard All_92 (3300) at Havells India
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Havells India](https://scoutify.ai/companies/ocs-cx-oj47964?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Nagpur, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Posted | 2025-09-29 |
+| Apply | [View on company site](https://iabgcp.fa.ocs.oraclecloud.com/jobs/#1001282) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Havells India was posted on 2025-09-29.
 
 ## Get Real-Time Alerts
 

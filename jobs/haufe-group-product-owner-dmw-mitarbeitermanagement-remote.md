@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Product Owner (d/m/w) - Mitarbeitermanagement - Remote at Haufe Group
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Haufe Group](https://scoutify.ai/companies/haufegroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Germany |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HaufeGroup/744000135926895-product-owner-dmw-mitarbeitermanagement-remote) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Haufe Group was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

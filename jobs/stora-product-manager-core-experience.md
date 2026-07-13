@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Product Manager, Core Experience at Stora
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Stora](https://scoutify.ai/companies/stora?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Posted | 2026-07-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/stora/a2a67c67-8ad6-4f3c-86ae-e871cfd2b7cd) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Stora was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

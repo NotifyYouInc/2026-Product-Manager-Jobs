@@ -1,16 +1,16 @@
-# AI Product Manager at Unframe
+# Senior Product Manager, FBA Supply Chain Product at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shenzhen, Guangdong, China |
 | Category | Product Manager |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4919417101) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465870/senior-product-manager-fba-supply-chain-product) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-07-05.
+This product manager position at Amazon was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 

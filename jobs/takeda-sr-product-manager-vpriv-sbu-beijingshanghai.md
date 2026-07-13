@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# (Sr.) Product Manager - Vpriv, SBU, Beijing/Shanghai at Takeda
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Beijing-China/XMLNAME--Sr--Product-Manager---Vpriv--SBU--Beijing-Shanghai_R0182470-1) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Takeda was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

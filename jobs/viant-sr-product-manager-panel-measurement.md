@@ -1,16 +1,16 @@
-# Product Manager, Stablecoin Payments API at StraitsX
+# Sr. Product Manager, Panel Measurement at Viant
 
 | Field | Details |
 |-------|---------|
-| Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Viant](https://scoutify.ai/companies/vianttechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919716101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vianttechnology/jobs/4287342009) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at Viant was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
