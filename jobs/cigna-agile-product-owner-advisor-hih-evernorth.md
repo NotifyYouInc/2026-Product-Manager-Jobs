@@ -1,16 +1,16 @@
-# Agile Product Owner Advisor - HIH – Evernorth at Cigna
+# Agile Product Owner Advisor - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Owner-Advisor---HIH---Evernorth_26007022) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Agile-Product-Owner-Advisor---HIH---Evernorth_26004561-1) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-06-09.
+This product manager position at Cigna was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

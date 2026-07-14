@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Mississauga, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Toronto-ON/Product-Mgr-II_R51648-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Product-Mgr-II_R51900-1) |
 
 ## About This Role
 
-This product manager position at TD Synnex was posted on 2026-06-30.
+This product manager position at TD Synnex was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Glendale, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Operations-Manager-II_10143724-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Operations-Manager-II_10154483-1) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-03-04.
+This product manager position at Disney was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

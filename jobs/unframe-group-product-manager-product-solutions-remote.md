@@ -5,12 +5,12 @@
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4904366101) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4920188101) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-06-21.
+This product manager position at Unframe was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

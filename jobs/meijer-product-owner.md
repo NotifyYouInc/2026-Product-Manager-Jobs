@@ -5,12 +5,12 @@
 | Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Product-Owner_R000643960) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Product-Owner_R000680817) |
 
 ## About This Role
 
-This product manager position at Meijer was posted on 2026-02-17.
+This product manager position at Meijer was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

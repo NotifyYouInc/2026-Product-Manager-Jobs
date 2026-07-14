@@ -1,16 +1,16 @@
-# Sr. Global Product Manager  at Cricut
+# Sr. Global Product Manager at Cricut
 
 | Field | Details |
 |-------|---------|
 | Company | [Cricut](https://scoutify.ai/companies/cricut?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | South Jordan, Utah, United States |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000135070166-sr-global-product-manager) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000136091605-sr-global-product-manager) |
 
 ## About This Role
 
-This product manager position at Cricut was posted on 2026-06-30.
+This product manager position at Cricut was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

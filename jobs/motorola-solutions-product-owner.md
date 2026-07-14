@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Florida, New York, United States |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-US-Offsite/Product-Owner_R63195) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Product-Owner_R66495) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-06-03.
+This product manager position at Motorola Solutions was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

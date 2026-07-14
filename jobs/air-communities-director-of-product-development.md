@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000131524719-director-of-product-development) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000136096509-director-of-product-development) |
 
 ## About This Role
 
-This product manager position at AIR Communities was posted on 2026-06-10.
+This product manager position at AIR Communities was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

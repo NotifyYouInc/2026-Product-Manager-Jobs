@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000129183769-sap-analyst-product-owner-12-month-ftc) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000136008988-sap-analyst-product-owner-12-month-ftc) |
 
 ## About This Role
 
-This product manager position at Anglo American was posted on 2026-05-29.
+This product manager position at Anglo American was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

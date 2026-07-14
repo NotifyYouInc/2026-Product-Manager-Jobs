@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/SLA-REVENUE-HOUSE-LEVEL-10/Product-Assistant-Manager---Manager_JR-10000050162) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/SLA-REVENUE-HOUSE-LEVEL-10/Product-Assistant-Manager---Manager_JR-10000048568) |
 
 ## About This Role
 
-This product manager position at Economic Development Board was posted on 2026-04-28.
+This product manager position at Economic Development Board was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

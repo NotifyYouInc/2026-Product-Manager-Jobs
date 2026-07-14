@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CN---SHANGHAI-ADMIN-OFFICE-CNYYR/Brokerage-Product-Development-Manager_R26020346) |
+| Location | New Delhi, Delhi, India |
+| Category | Engineering Manager |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---NEW-DELHI-SCS-OFFICE-INVAT/Brokerage-Product-Development-Manager_R26020331) |
 
 ## About This Role
 
-This product manager position at United Parcel Service (UPS) was posted on 2026-06-24.
+This engineering manager position at United Parcel Service (UPS) was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Samlino Group](https://scoutify.ai/companies/samlino-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ceg/jobs/7727179003) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ceg/jobs/7794805003) |
 
 ## About This Role
 
-This product manager position at Samlino Group was posted on 2026-05-07.
+This product manager position at Samlino Group was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

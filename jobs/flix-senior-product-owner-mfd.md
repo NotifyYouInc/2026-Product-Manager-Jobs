@@ -5,12 +5,12 @@
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://flix.careers/job/8522111002?gh_jid=8522111002) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://flix.careers/job/8620878002?gh_jid=8620878002) |
 
 ## About This Role
 
-This product manager position at Flix was posted on 2026-04-24.
+This product manager position at Flix was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
