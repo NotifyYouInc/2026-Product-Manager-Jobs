@@ -5,12 +5,12 @@
 | Company | [Workhelix](https://scoutify.ai/companies/workhelix?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2025-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workhelix/jobs/4746573008) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workhelix/jobs/5277510008) |
 
 ## About This Role
 
-This product manager position at Workhelix was posted on 2025-06-02.
+This product manager position at Workhelix was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

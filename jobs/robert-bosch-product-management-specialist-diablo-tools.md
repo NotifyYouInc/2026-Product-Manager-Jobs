@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000122026477-product-management-specialist-diablo-tools) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000136229179-product-management-specialist-diablo-tools) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-04-21.
+This product manager position at Robert Bosch was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Product-Manager_R-0000164006) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Product-Manager_R-0000176954-1) |
 
 ## About This Role
 
-This product manager position at Royal Bank of Canada was posted on 2026-04-01.
+This product manager position at Royal Bank of Canada was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

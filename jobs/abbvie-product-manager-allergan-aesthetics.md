@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Rome, Lazio, Italy |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013898345-product-manager-allergan-aesthetics) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013952216-product-manager-allergan-aesthetics) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-07-02.
+This product manager position at AbbVie was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

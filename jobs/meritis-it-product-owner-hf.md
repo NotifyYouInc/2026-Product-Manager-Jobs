@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | France |
+| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000136042359-it-product-owner-hf) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000136167899-it-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Meritis was posted on 2026-07-06.
+This product manager position at Meritis was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

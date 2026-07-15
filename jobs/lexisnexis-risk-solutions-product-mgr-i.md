@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Raleigh-NC/Product-Mgr-I_R109935) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Cape-Town/Product-Mgr-I_R103020) |
 
 ## About This Role
 
-This product manager position at LexisNexis Risk Solutions was posted on 2026-03-10.
+This product manager position at LexisNexis Risk Solutions was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Düsseldorf, North Rhine-Westphalia, Germany |
+| Location | Delft, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/External-Name-DE-Duesseldorf/Global-Downstream-Product-Manager---Advanced-Wound-Dressings--m-f---_R01131993-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/NL-Delft/Global-Downstream-Product-Manager---Advanced-Wound-Dressings--m-f---_R01132029) |
 
 ## About This Role
 
-This product manager position at Solventum was posted on 2026-07-06.
+This product manager position at Solventum was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

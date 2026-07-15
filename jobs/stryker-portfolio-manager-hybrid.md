@@ -1,16 +1,16 @@
-# Portfolio Manager (hybrid) at Stryker
+# Portfolio Manager - Hybrid at Stryker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | Fremont, California, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bloomington-Minnesota/Portfolio-Manager--hybrid-_R556800) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Portfolio-Manager---Hybrid_R568125-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Stryker was posted on 2026-02-23.
+This asset management / portfolio management position at Stryker was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Certinia](https://scoutify.ai/companies/certinia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | Harrogate, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://certinia.rec.pro.ukg.net/CER1500CERC/JobBoard/ad0c6248-e7e9-43f1-b10d-5a324b9b60a6/OpportunityDetail?opportunityId=79f47755-90cc-40ac-9567-2bb7b58c92e7) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://certinia.rec.pro.ukg.net/CER1500CERC/JobBoard/ad0c6248-e7e9-43f1-b10d-5a324b9b60a6/OpportunityDetail?opportunityId=73971ec1-6d49-4a22-8cde-b1adae2c63cb) |
 
 ## About This Role
 
-This product manager position at Certinia was posted on 2026-06-02.
+This product manager position at Certinia was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000131404724-product-owner-hf) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000136209719-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Talan was posted on 2026-06-10.
+This product manager position at Talan was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

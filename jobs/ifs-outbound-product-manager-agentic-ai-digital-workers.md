@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000129255519-outbound-product-manager-agentic-ai-digital-workers) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000136261139-outbound-product-manager-agentic-ai-digital-workers) |
 
 ## About This Role
 
-This product manager position at IFS was posted on 2026-05-29.
+This product manager position at IFS was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

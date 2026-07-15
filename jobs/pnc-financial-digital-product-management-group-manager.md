@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 9 locations |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Digital-Product-Management-Group-Manager_R214781-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Digital-Product-Management-Group-Manager_R227850-1) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-03-31.
+This product manager position at PNC Financial was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

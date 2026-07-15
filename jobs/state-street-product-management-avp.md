@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Product-Management--AVP_R-780070) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Assisstant-Vice-President--Product_R-780252) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-02-05.
+This product manager position at State Street was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

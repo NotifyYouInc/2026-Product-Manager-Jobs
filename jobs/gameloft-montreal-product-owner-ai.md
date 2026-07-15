@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000136004369-product-owner-ai) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000136189120-product-owner-ai) |
 
 ## About This Role
 
-This product manager position at Gameloft Montreal was posted on 2026-07-06.
+This product manager position at Gameloft Montreal was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

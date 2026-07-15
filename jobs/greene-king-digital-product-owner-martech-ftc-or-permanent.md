@@ -5,12 +5,12 @@
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000132601929-digital-product-owner-martech-ftc-or-permanent) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000136192210-digital-product-owner-martech-ftc-or-permanent) |
 
 ## About This Role
 
-This product manager position at Greene King was posted on 2026-06-17.
+This product manager position at Greene King was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

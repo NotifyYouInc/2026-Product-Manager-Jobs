@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Senior-Product-Owner_R0113014) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Senior-Product-Owner_R0116571) |
 
 ## About This Role
 
-This product manager position at Truist was posted on 2026-04-14.
+This product manager position at Truist was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

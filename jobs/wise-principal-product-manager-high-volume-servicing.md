@@ -1,16 +1,16 @@
-# Principal Product Manager - High Volume Servicing at WISE
+# Principal Product Manager - High Volume Servicing  at WISE
 
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133328864-principal-product-manager-high-volume-servicing) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000136212959-principal-product-manager-high-volume-servicing) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-06-22.
+This product manager position at WISE was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

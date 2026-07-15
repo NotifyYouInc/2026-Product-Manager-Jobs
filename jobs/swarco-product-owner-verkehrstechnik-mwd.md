@@ -5,12 +5,12 @@
 | Company | [SWARCO](https://scoutify.ai/companies/swarco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000135962274-product-owner-verkehrstechnik-mwd) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000136242569-product-owner-verkehrstechnik-mwd) |
 
 ## About This Role
 
-This product manager position at SWARCO was posted on 2026-07-06.
+This product manager position at SWARCO was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

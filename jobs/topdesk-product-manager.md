@@ -5,12 +5,12 @@
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000123612349-product-manager) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000136413692-product-manager) |
 
 ## About This Role
 
-This product manager position at TOPdesk was posted on 2026-04-29.
+This product manager position at TOPdesk was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

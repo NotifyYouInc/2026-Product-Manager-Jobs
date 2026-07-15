@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Poland |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135430445-senior-product-manager-fmn) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000136404560-senior-product-manager-fmn) |
 
 ## About This Role
 
-This product manager position at INPOST was posted on 2026-07-02.
+This product manager position at INPOST was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 
