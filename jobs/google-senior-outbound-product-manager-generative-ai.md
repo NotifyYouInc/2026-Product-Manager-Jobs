@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/127191257020539590-senior-outbound-product-manager-generative-ai?sort_by=date&page=1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ09Pjjmfdxj-FGzKdQxzmJ2RApIxvrrVmZLk4efDLT5EjsA1Ny_i3FXInH8PScoHMcsHnElYviUgSvVpkFjINO9L5GkgxxdMXbizki2yyClq-KRZ-Z7psxPgkgEGw%3D%3D_V2&loc=US&title=Senior+Outbound+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-27.
+This product manager position at Google was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

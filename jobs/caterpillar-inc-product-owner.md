@@ -5,12 +5,12 @@
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Product-Owner_R0000369567) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Product-Owner_R0000381431) |
 
 ## About This Role
 
-This product manager position at Caterpillar Inc. was posted on 2026-05-20.
+This product manager position at Caterpillar Inc. was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

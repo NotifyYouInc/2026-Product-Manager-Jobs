@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management--Financial-Core-Enterprise-Platform_R242761-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management--Financial-Core-Enterprise-Platform_R246367) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-05-20.
+This product manager position at Capital One was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

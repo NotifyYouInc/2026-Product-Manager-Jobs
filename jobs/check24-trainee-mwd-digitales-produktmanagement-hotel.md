@@ -1,16 +1,16 @@
-# Trainee (m/w/d) digitales Produktmanagement Hotel at CHECK24
+# Trainee (m/w/d) digitales Produktmanagement - Hotel at CHECK24
 
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Münster, North Rhine-Westphalia, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133295828-trainee-mwd-digitales-produktmanagement-hotel) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000136741745-trainee-mwd-digitales-produktmanagement-hotel) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-06-22.
+This product manager position at CHECK24 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

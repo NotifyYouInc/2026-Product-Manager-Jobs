@@ -1,8 +1,8 @@
-# Forward Deployed PM at Oneschema
+# Forward Deployed PM at OneSchema
 
 | Field | Details |
 |-------|---------|
-| Company | [Oneschema](https://scoutify.ai/companies/oneschema-oneschema?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [OneSchema](https://scoutify.ai/companies/oneschema?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-05-12 |
@@ -10,7 +10,7 @@
 
 ## About This Role
 
-This product manager position at Oneschema was posted on 2026-05-12.
+This product manager position at OneSchema was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

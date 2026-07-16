@@ -1,16 +1,16 @@
-# Associate Product Developer  at SharkNinja
+# Associate Product Developer at SharkNinja
 
 | Field | Details |
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Needham, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4679056006) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695489006) |
 
 ## About This Role
 
-This product manager position at SharkNinja was posted on 2026-05-07.
+This product manager position at SharkNinja was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

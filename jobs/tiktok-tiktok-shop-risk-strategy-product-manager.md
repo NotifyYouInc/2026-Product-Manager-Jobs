@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Trust & Safety |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7637185868051482933/detail) |
+| Category | Product Manager |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7660184369475602741/detail) |
 
 ## About This Role
 
-This trust & safety position at TikTok was posted on 2026-05-11.
+This product manager position at TikTok was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

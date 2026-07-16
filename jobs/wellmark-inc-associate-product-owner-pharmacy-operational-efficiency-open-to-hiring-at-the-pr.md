@@ -5,12 +5,12 @@
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000135122422-associate-product-owner-pharmacy-operational-efficiency-open-to-hiring-at-the-product-owner-level) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000136600483-associate-product-owner-pharmacy-operational-efficiency-open-to-hiring-at-the-product-owner-level) |
 
 ## About This Role
 
-This product manager position at Wellmark, Inc. was posted on 2026-06-30.
+This product manager position at Wellmark, Inc. was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Praktikant (m/w/d) Chatbot / ChatGPT Hotel at CHECK24
+# Praktikant (m/w/d) Chatbot / ChatGPT - Hotel at CHECK24
 
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Münster, North Rhine-Westphalia, Germany |
-| Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133307678-praktikant-mwd-chatbot-chatgpt-hotel) |
+| Category | Product Manager |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000136741639-praktikant-mwd-chatbot-chatgpt-hotel) |
 
 ## About This Role
 
-This ai / ml research position at CHECK24 was posted on 2026-06-22.
+This product manager position at CHECK24 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

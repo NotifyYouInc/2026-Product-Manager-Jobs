@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roo](https://scoutify.ai/companies/roo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5281377008) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/roo/jobs/5313559008) |
 
 ## About This Role
 
-This product manager position at Roo was posted on 2026-06-24.
+This product manager position at Roo was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Pennsylvania, US |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---Chicago/Product-Owner_R0033939) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Product-Owner_R0036574-1) |
 
 ## About This Role
 
-This product manager position at SEI Investments was posted on 2026-02-13.
+This product manager position at SEI Investments was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

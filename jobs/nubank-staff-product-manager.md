@@ -5,12 +5,12 @@
 | Company | [Nubank](https://scoutify.ai/companies/nubank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7930495) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7967340) |
 
 ## About This Role
 
-This product manager position at Nubank was posted on 2026-05-15.
+This product manager position at Nubank was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

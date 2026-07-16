@@ -5,12 +5,12 @@
 | Company | [BILL](https://scoutify.ai/companies/bill?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.bill.com/job?5986037004&gh_jid=5986037004) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.bill.com/job?6112258004&gh_jid=6112258004) |
 
 ## About This Role
 
-This product manager position at BILL was posted on 2026-05-01.
+This product manager position at BILL was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

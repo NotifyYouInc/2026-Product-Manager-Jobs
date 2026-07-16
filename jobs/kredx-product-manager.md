@@ -5,12 +5,12 @@
 | Company | [Kredx](https://scoutify.ai/companies/kredx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kredx/744000127574140-product-manager) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kredx/744000131627550-product-manager) |
 
 ## About This Role
 
-This product manager position at Kredx was posted on 2026-05-21.
+This product manager position at Kredx was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 
