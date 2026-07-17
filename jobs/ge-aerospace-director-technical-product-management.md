@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Director---Technical-Product-Management_R5034023-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Director---Technical-Product-Management_R5037280-1) |
 
 ## About This Role
 
-This product manager position at GE Aerospace was posted on 2026-05-16.
+This product manager position at GE Aerospace was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

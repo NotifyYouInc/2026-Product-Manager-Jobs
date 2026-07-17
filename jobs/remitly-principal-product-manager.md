@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Arlington, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Principal-Product-Manager_R_106427) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Arlington-Virginia-United-States/Principal-Product-Manager_R_106575) |
 
 ## About This Role
 
-This product manager position at Remitly was posted on 2026-06-18.
+This product manager position at Remitly was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

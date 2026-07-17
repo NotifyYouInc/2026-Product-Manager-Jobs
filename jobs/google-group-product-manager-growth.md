@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYcuy_TJtKUR_PYIqFj6_qT1lhk0rCluEmkD85BNZ9bhEjsACxwdTGkHrhRC4tENnvGXU71Dbo5EQDE-6DfJ3IM-8BFuHmFIRXQ_H-9l63IDmCcxna_fbaNHHpOocQ%3D%3D_V2&loc=GB&title=Group+Product+Manager) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWBjoJNAiWlyc8mjUsE3_rXoTSbHdp93m0pB7r5TL6K9EjsA1Ny_iznigYTG902edmll00jMb7CXAS50WP3CGkK5xJQlFi1tlbjfZkA3OiEwxynk8zXRoB1ijp2Ybg%3D%3D_V2&loc=GB&title=Group+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-08.
+This product manager position at Google was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

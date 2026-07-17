@@ -1,16 +1,16 @@
-# Senior Product Manager II (Media Planning/Ad Tech/Ad Intel) at The Nielsen Company
+# Senior Product Manager II - (Media Planning/Ad Tech/Ad Intel) at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012011454-senior-product-manager-ii-media-planningad-techad-intel) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014019786-senior-product-manager-ii-media-planningad-techad-intel) |
 
 ## About This Role
 
-This product manager position at The Nielsen Company was posted on 2026-03-06.
+This product manager position at The Nielsen Company was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

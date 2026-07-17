@@ -5,12 +5,12 @@
 | Company | [Mirego](https://scoutify.ai/companies/mirego?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.lever.co/mirego/9e6bce32-6b37-4225-88bf-1449eb487fde) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.lever.co/mirego/488cb1b3-f9ce-44a5-926a-d5d4d4e70562) |
 
 ## About This Role
 
-This product manager position at Mirego was posted on 2026-06-19.
+This product manager position at Mirego was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

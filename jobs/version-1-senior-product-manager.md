@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000122202938-senior-product-manager) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000136828449-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Version 1 was posted on 2026-04-22.
+This product manager position at Version 1 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Product Manager |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Manager-Money-Movement_R246422-1) |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Associate--Product-Manager-Small-Business-Bank_R246425) |
 
 ## About This Role
 

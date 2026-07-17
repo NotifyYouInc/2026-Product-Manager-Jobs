@@ -1,16 +1,16 @@
-# Senior Product & Customer Insights Manager, Customer Experience and Business Trends at Amazon
+# Senior Product & Customer Insights Manager, Customer Experience and Business Trends, CN Insights at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422363/senior-product-customer-insights-manager-customer-experience-and-business-trends) |
+| Location | Shanghai, Shanghai, China |
+| Category | UX Researcher |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10470645/senior-product-customer-insights-manager-customer-experience-and-business-trends-cn-insights) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-05-18.
+This ux researcher position at Amazon was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

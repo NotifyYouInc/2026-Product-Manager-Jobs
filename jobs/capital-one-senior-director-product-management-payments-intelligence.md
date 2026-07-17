@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Director--Product-Management-Payments-Intelligence_R241958-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Director--Product-Management-Payments-Intelligence_R246553-2) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-05-05.
+This product manager position at Capital One was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

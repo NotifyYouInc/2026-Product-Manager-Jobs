@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Lisbon/Product-Management-Principal-Specialist_R30528-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Madrid/Product-Management-Principal-Specialist_R36036) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-03-10.
+This product manager position at Amadeus was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

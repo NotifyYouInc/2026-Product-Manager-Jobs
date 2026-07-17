@@ -5,12 +5,12 @@
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Maplewood, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Product-Owner---eCommerce_R01161797-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Product-Owner---eCommerce_R01166925) |
 
 ## About This Role
 
-This product manager position at 3M Company was posted on 2026-02-25.
+This product manager position at 3M Company was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

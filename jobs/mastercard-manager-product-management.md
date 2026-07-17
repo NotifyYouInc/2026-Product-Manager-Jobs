@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Manager--Product-Management_R-280820) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Manager--Product-Management_R-281799) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-02.
+This product manager position at Mastercard was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

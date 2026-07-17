@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Product-Manager_JR-02523636) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Product-Manager_JR-02569114-1) |
 
 ## About This Role
 
-This product manager position at Lowe's was posted on 2026-07-02.
+This product manager position at Lowe's was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

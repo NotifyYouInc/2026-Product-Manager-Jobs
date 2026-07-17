@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000134963579-product-lead) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000137071313-product-lead) |
 
 ## About This Role
 
-This product manager position at Unit4 was posted on 2026-06-30.
+This product manager position at Unit4 was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

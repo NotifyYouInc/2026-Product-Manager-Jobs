@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Nashik, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Product-Manager_JR00035670) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Product-Manager_JR00039738) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-05-24.
+This product manager position at ABB was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Taipei-City-Taiwan/Product-Management-Manager_JR-022785) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shanghai-Shanghai-China/Product-Management-Manager_JR-022853) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-05-12.
+This product manager position at Avnet was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Frankfurt-Germany/Markets-Product-Manager--Assistant-Vice-President--M-F-D_R-791072) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Frankfurt-Germany/Markets-Product-Manager--Assistant-Vice-President--M-F-D_R-793882) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-05-25.
+This product manager position at State Street was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

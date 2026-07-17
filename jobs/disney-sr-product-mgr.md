@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Celebration, Florida, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Sr-Product-Mgr_10154569-2) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Sr-Product-Mgr_10154847-2) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-07-06.
+This product manager position at Disney was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

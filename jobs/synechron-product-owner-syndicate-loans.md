@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/New-York-NY/Product-Owner---Syndicate-Loans_JR1038098-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/New-York-NY/Product-Owner---Syndicate-Loans_JR1041747) |
 
 ## About This Role
 
-This product manager position at Synechron was posted on 2026-03-31.
+This product manager position at Synechron was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ludwigsburg, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000132336649-premaster-programm-business-development-product-management) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137041729-premaster-programm-business-development-product-management) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-06-16.
+This product manager position at Robert Bosch was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
