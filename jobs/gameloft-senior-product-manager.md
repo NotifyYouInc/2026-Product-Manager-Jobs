@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000136856106-senior-product-manager) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000137068967-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Gameloft was posted on 2026-07-09.
+This product manager position at Gameloft was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

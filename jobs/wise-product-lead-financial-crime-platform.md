@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112629928-product-lead-financial-crime-platform) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000137083329-product-lead-financial-crime-platform) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-03-04.
+This product manager position at WISE was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

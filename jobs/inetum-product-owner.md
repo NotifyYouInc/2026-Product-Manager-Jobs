@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113007814-product-owner) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000137106589-product-owner) |
 
 ## About This Role
 
-This product manager position at Inetum was posted on 2026-03-05.
+This product manager position at Inetum was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/8022094?gh_jid=8022094) |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/8017552?gh_jid=8017552) |
 
 ## About This Role
 

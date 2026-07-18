@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
+| Location | Durham, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Durham-NC/Senior-Product-Manager--Oncology---Hematologic-Malignancies_2611954) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/USA---NC---Durham---10-Moore-Drive/Senior-Product-Manager--Oncology---Hematologic-Malignancies_2624167) |
 
 ## About This Role
 
-This product manager position at Labcorp was posted on 2026-04-13.
+This product manager position at Labcorp was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

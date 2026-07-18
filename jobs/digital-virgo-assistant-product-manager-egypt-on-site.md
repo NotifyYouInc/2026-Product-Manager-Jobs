@@ -5,12 +5,12 @@
 | Company | [Digital Virgo](https://scoutify.ai/companies/digital-virgo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New Cairo, Cairo, Egypt |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/digitalvirgo/744000134410899-assistant-product-manager-egypt-on-site) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/digitalvirgo/744000137103169-assistant-product-manager-egypt-on-site) |
 
 ## About This Role
 
-This product manager position at Digital Virgo was posted on 2026-06-26.
+This product manager position at Digital Virgo was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

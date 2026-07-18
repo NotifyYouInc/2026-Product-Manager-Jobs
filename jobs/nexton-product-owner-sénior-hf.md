@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000130822851-product-owner-senior-hf) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000137110955-product-owner-senior-hf) |
 
 ## About This Role
 
-This product manager position at Nexton was posted on 2026-06-08.
+This product manager position at Nexton was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

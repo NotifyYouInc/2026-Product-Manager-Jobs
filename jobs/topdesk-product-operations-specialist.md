@@ -5,12 +5,12 @@
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Delft, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000136843964-product-operations-specialist) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000137069014-product-operations-specialist) |
 
 ## About This Role
 
-This product manager position at TOPdesk was posted on 2026-07-09.
+This product manager position at TOPdesk was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

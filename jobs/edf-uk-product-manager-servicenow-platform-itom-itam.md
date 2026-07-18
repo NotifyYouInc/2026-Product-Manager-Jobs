@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gloucester, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000135970699-product-manager-servicenow-platform-itom-itam) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000137113139-product-manager-servicenow-platform-itom-itam) |
 
 ## About This Role
 
-This product manager position at EDF UK was posted on 2026-07-06.
+This product manager position at EDF UK was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

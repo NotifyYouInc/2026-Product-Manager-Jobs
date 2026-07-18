@@ -5,12 +5,12 @@
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000133997109-senior-product-owner-digital-channels) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000137207769-senior-product-owner-digital-channels) |
 
 ## About This Role
 
-This product manager position at Vericast was posted on 2026-06-24.
+This product manager position at Vericast was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Suger](https://scoutify.ai/companies/suger?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.lever.co/suger/6e73b839-f77e-4b65-b480-a79fb9a838cc) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.lever.co/suger/77e37fb9-3bb8-4090-8058-69b1cd2cf142) |
 
 ## About This Role
 
-This product manager position at Suger was posted on 2026-02-09.
+This product manager position at Suger was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

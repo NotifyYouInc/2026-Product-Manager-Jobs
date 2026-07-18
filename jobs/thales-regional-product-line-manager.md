@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/SINGAPORE/Regional-Product-Line-Manager_R0330956) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Regional-Product-Line-Manager_R0329822) |
 
 ## About This Role
 
-This product manager position at Thales was posted on 2026-07-06.
+This product manager position at Thales was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
