@@ -5,12 +5,12 @@
 | Company | [Varicent](https://scoutify.ai/companies/varicent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5317523008) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/varicent/jobs/5322987008) |
 
 ## About This Role
 
-This product manager position at Varicent was posted on 2026-07-09.
+This product manager position at Varicent was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

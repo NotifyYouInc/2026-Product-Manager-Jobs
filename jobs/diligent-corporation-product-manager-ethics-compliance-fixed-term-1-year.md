@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Compliance & Risk Management |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5840490004) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Manager |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6114349004) |
 
 ## About This Role
 
-This compliance & risk management position at Diligent Corporation was posted on 2026-05-05.
+This product manager position at Diligent Corporation was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000133100849-financial-reporting-product-manager) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137381754-financial-reporting-product-manager) |
 
 ## About This Role
 
-This product manager position at IQ-EQ was posted on 2026-06-19.
+This product manager position at IQ-EQ was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

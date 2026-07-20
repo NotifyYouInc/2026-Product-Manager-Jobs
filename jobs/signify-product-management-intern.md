@@ -5,12 +5,12 @@
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Product-Management-Intern_364412) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/Product-Management-Intern_365461) |
 
 ## About This Role
 
-This product manager position at Signify was posted on 2026-05-31.
+This product manager position at Signify was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

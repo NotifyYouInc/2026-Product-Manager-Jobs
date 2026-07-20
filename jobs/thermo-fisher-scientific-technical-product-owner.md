@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vantaa, Uusimaa, Finland |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Vantaa-Finland/Technical-Product-Owner_R-01355332-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Technical-Product-Owner_R-01356287) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-06-12.
+This product manager position at Thermo Fisher Scientific was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

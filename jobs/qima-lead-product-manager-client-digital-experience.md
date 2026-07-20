@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000135911169-lead-product-manager-client-digital-experience) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000137358199-lead-product-manager-client-digital-experience) |
 
 ## About This Role
 
-This product manager position at QIMA was posted on 2026-07-06.
+This product manager position at QIMA was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
