@@ -5,12 +5,12 @@
 | Company | [Acquia](https://scoutify.ai/companies/acquia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/acquia/jobs/7913676) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/acquia/jobs/8053504) |
 
 ## About This Role
 
-This product manager position at Acquia was posted on 2026-05-19.
+This product manager position at Acquia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

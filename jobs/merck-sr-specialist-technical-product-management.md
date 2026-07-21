@@ -1,16 +1,16 @@
-# Sr. Specialist, Technical Product Management at Merck
+# Sr. Specialist , Technical Product Management at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | West Point, Mississippi, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Sr-Specialist--Technical-Product-Management_R402589-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Sr-Specialist---Technical-Product-Management_R406921-1) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-06-11.
+This product manager position at Merck was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

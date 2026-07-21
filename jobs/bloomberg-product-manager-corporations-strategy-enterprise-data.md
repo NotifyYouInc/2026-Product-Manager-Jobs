@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Corporations-Strategy-Enterprise-Data/20765) |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Corporations-Strategy-Enterprise-Data/20795) |
 
 ## About This Role
 

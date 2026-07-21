@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ontic](https://scoutify.ai/companies/ontic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ontic/a436ccdb-f590-4cee-aa41-e7d696f6e44e) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ontic/1c54cb1b-1011-49e7-8198-783bcd5b3292) |
 
 ## About This Role
 
-This product manager position at Ontic was posted on 2026-07-09.
+This product manager position at Ontic was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

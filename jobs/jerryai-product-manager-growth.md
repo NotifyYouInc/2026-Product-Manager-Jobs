@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/7e410a58-517d-4fa4-b4da-b0a6f7df9b7a) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/5127a45e-b642-4385-8a02-611dea82316c) |
 
 ## About This Role
 
-This product manager position at Jerry.ai was posted on 2026-07-08.
+This product manager position at Jerry.ai was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5193775008) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5281216008) |
 
 ## About This Role
 
-This product manager position at Dragos was posted on 2026-04-29.
+This product manager position at Dragos was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

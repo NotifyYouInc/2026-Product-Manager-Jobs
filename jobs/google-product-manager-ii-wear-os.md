@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckS2dQf5n_ToyT8VKybHy7gaSRuDXxkS_gJaQPaA5v65nEjsACxwdTKQcVJ536FVxup0V9njGIq082KtCJiDr8HlYIHlbvo85Au4LRrfR-go7gqeOk-nwWXy2T03CsA%3D%3D_V2&loc=RO&title=Product+Manager+II) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTn6qd7UCEr8JafEFkRILhqfOEiJPw5cWCX6PVcKfzw2EjsA1Ny_i1bQlLllI-TOQ6ykcuuBaKmdYgW7Vmijjo3d_YWQ8uem9G96NjRFl9pZqyqRACDxsAiga7JCWQ%3D%3D_V2&loc=RO&title=Product+Manager+II) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-12.
+This product manager position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

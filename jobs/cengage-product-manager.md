@@ -5,12 +5,12 @@
 | Company | [Cengage](https://scoutify.ai/companies/cengage?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ohio, US |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Ohio-USA/Product-Manager_R2026-654) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Ohio-USA/Product-Manager_R2026-846) |
 
 ## About This Role
 
-This product manager position at Cengage was posted on 2026-06-15.
+This product manager position at Cengage was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Alphen aan den Rijn, South Holland, The Netherlands |
+| Location | Hürth, North Rhine-Westphalia, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Alphen-Aan-Den-Rijn/Director--Product-Management---Legal-Software-Portfolio_R0058545) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/DEU---Huerth/Director--Product-Management---Legal-Software-Portfolio_R0058735) |
 
 ## About This Role
 
-This product manager position at Wolters Kluwer was posted on 2026-07-07.
+This product manager position at Wolters Kluwer was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

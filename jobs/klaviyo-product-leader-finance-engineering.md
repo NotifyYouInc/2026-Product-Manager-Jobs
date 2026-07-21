@@ -5,12 +5,12 @@
 | Company | [Klaviyo](https://scoutify.ai/companies/klaviyo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.klaviyo.com/careers/jobs?gh_jid=7774761003) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.klaviyo.com/careers/jobs/7802849003?gh_jid=7802849003) |
 
 ## About This Role
 
-This product manager position at Klaviyo was posted on 2026-06-16.
+This product manager position at Klaviyo was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

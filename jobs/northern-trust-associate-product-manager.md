@@ -5,12 +5,12 @@
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager_R147541) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Associate-Product-Manager_R157655) |
 
 ## About This Role
 
-This product manager position at Northern Trust was posted on 2026-04-23.
+This product manager position at Northern Trust was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

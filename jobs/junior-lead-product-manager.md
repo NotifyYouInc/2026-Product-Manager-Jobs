@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Junior](https://scoutify.ai/companies/junior?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2025-12-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/junior/d4a14f28-a392-4dd2-9486-6f598f384fc0) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/junior/b0035c57-0cc0-4dff-a0c3-dc37579f29a7) |
 
 ## About This Role
 
-This product manager position at Junior was posted on 2025-12-18.
+This product manager position at Junior was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

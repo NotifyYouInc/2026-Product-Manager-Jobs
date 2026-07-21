@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXKGpZkQqsQkbPR3VJgAYufckqtnci2r2ss6_hF-b2h2EjsACxwdTKNY_MqNYyigr75vNjJ92V36-mgHNZ2c__y0DqYdNRaBkmk-go1rrUcGEDMSUK40dHxV4Ourrw%3D%3D_V2&loc=IN&title=Game+Quality+Product+and+Operations+Manager) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcTj3JGtDub1yQejQhsVyV9d6ta9yPm_KpvMHrkHswm0EjsA1Ny_izQWgSh2ffQRg9_GkxBR7CYXw-aGShskU3EQjnaeaBVXaZzvY0HdnyO4PVC4Hq0nHv6uKQNVjw%3D%3D_V2&loc=IN&title=Game+Quality+Product+and+Operations+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-08.
+This product manager position at Google was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

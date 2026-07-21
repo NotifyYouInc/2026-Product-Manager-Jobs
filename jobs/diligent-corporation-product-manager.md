@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5972744004) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/6018170004) |
 
 ## About This Role
 
-This product manager position at Diligent Corporation was posted on 2026-04-20.
+This product manager position at Diligent Corporation was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

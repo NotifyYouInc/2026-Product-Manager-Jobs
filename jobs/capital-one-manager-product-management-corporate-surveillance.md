@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Product-Management---Corporate-Surveillance_R240663-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Product-Management---Corporate-Surveillance_R246899-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-04-16.
+This product manager position at Capital One was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

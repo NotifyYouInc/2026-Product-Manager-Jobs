@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dalmine, Lombardy, Italy |
+| Location | Sesto San Giovanni, Lombardy, Italy |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dalmine-Bergamo-Italy/Internship---Product-Management_JR00034025) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sesto-San-Giovanni-Milano-Italy/Intership---Product-Management_JR00041048) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-05-11.
+This product manager position at ABB was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

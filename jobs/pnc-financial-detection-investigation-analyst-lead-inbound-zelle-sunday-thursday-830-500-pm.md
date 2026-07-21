@@ -1,16 +1,16 @@
-# Detection & Investigation Analyst Lead:  Inbound Zelle - Sunday - Thursday 8:30 - 5:00 pm at PNC Financial
+# Detection & Investigation Analyst Lead: Inbound Zelle - Sunday - Thursday 8:30 - 5:00 pm at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
-| Category | Financial Crimes & AML |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Detection---Investigation-Analyst-Lead---Inbound-Zelle---Sunday---Thursday-8-30---5-00-pm_R217725-1) |
+| Category | Product Manager |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AL---Birmingham-35233/Detection---Investigation-Analyst-Lead--Inbound-Zelle---Sunday---Thursday-8-30---5-00-pm_R228621-1) |
 
 ## About This Role
 
-This financial crimes & aml position at PNC Financial was posted on 2026-04-30.
+This product manager position at PNC Financial was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

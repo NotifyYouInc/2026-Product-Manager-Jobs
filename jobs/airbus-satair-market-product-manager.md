@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Satair---Market-Product-Manager_JR10414561-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Beijing-Area/Satair---Market-Product-Manager_JR10429263-1) |
 
 ## About This Role
 
-This product manager position at Airbus was posted on 2026-06-22.
+This product manager position at Airbus was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

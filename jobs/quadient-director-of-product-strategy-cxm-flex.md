@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000136853479-director-of-product-strategy-cxm-flex) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000137495930-director-of-product-strategy-cxm-flex) |
 
 ## About This Role
 
-This product manager position at Quadient was posted on 2026-07-09.
+This product manager position at Quadient was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management---Customer-Assist-Observability_R242538) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Management---Customer-Assist-Observability_R246767-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-05-15.
+This product manager position at Capital One was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
