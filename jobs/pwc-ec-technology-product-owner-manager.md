@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Compliance & Risk Management |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/E-C---Technology--Product-Owner----Manager_727511WD-3) |
+| Category | Product Manager |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/E-C---Technology--Product-Owner----Manager_744395WD-1) |
 
 ## About This Role
 
-This compliance & risk management position at PwC was posted on 2026-06-03.
+This product manager position at PwC was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

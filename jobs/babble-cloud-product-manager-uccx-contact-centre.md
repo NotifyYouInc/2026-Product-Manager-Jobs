@@ -5,12 +5,12 @@
 | Company | [Babble Cloud](https://scoutify.ai/companies/babble-cloud?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pristina, Pristina, Kosovo |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000136297294-product-manager-uccx-contact-centre) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000137651830-product-manager-uccx-contact-centre) |
 
 ## About This Role
 
-This product manager position at Babble Cloud was posted on 2026-07-07.
+This product manager position at Babble Cloud was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

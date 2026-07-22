@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Senior-Director--Product--Enterprise-Solutions-_330326-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Senior-Director--Product--Enterprise-Solutions-_330355-1) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-07-13.
+This product manager position at S&P Global was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

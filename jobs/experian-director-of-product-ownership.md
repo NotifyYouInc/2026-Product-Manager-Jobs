@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136759552-director-of-product-ownership) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137655497-director-of-product-ownership) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-07-09.
+This product manager position at Experian was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

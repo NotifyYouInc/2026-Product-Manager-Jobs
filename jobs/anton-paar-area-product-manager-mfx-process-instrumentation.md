@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Luxembourg |
+| Location | Belgium |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000136237809-area-product-manager-mfx-process-instrumentation) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000137680594-area-product-manager-mfx-process-instrumentation) |
 
 ## About This Role
 
-This product manager position at Anton Paar was posted on 2026-07-07.
+This product manager position at Anton Paar was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

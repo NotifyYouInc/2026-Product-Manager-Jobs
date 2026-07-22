@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7774015003) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7804891003) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-06-15.
+This product manager position at Inovalon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

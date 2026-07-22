@@ -5,12 +5,12 @@
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4919417101) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4927244101) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-07-05.
+This product manager position at Unframe was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

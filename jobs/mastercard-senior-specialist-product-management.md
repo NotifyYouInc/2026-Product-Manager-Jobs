@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Purchase, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Navi-Mumbai-India-Finicity/Senior-Specialist--Product-Management_R-279589) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Senior-Specialist--Product-Management_R-281052) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-25.
+This product manager position at Mastercard was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

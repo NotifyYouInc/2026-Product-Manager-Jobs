@@ -5,12 +5,12 @@
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | South Burlington, Vermont, United States |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Product-Owner_IRC97129) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Product-Owner_IRC97907) |
 
 ## About This Role
 
-This product manager position at Sensata was posted on 2026-04-07.
+This product manager position at Sensata was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

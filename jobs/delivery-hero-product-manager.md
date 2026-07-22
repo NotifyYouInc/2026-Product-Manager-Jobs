@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000135558589-product-manager) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000137809899-product-manager) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-07-02.
+This product manager position at Delivery Hero was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

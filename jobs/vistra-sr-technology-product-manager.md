@@ -1,16 +1,16 @@
-# Sr. Technology Product manager at Vistra
+# Sr. Technology Product Manager at Vistra
 
 | Field | Details |
 |-------|---------|
 | Company | [Vistra](https://scoutify.ai/companies/vst?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Sr-Technology-Product-manager_40016183-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Sr-Technology-Product-Manager_40016184-3) |
 
 ## About This Role
 
-This product manager position at Vistra was posted on 2026-07-07.
+This product manager position at Vistra was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

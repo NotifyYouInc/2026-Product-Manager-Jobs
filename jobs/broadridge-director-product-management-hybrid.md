@@ -5,12 +5,12 @@
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Toronto-ON/Director--Product-Management--Hybrid-_JR1079981) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Toronto-ON/Director--Product-Management--Hybrid-_JR1084390) |
 
 ## About This Role
 
-This product manager position at Broadridge was posted on 2026-02-11.
+This product manager position at Broadridge was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

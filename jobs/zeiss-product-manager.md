@@ -5,12 +5,12 @@
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Suzhou, Jiangsu, China |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Suzhou/Product-Manager_JR_1050743) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Suzhou/Product-Manager_JR_1051412) |
 
 ## About This Role
 
-This product manager position at Zeiss was posted on 2026-06-23.
+This product manager position at Zeiss was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

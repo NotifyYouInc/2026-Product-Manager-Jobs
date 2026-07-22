@@ -1,16 +1,16 @@
-# Senior Manager, Product Manager - In Person Transactions at Capital One
+# Senior Manager,  Product Manager - In Person Transactions at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager--Product-Manager---In-Person-Transactions_R240947-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager---Product-Manager---In-Person-Transactions_R246978-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-05-07.
+This product manager position at Capital One was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

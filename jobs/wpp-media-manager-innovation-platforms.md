@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5012464008) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5349543008) |
 
 ## About This Role
 
-This product manager position at WPP Media was posted on 2026-04-07.
+This product manager position at WPP Media was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

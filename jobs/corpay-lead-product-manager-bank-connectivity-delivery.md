@@ -5,12 +5,12 @@
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/IND-Remote---Cross-Border/Lead-Product-Manager---Bank-Connectivity-Delivery_R08318) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Chennai---Cross-Border/Lead-Product-Manager---Bank-Connectivity-Delivery_R08904) |
 
 ## About This Role
 
-This product manager position at Corpay was posted on 2026-06-11.
+This product manager position at Corpay was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

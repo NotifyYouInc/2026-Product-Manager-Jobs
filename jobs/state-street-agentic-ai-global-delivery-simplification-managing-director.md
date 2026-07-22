@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Agentic-AI--Global-Delivery-Simplification---Managing-Director_R-793686) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Agentic-AI--Global-Delivery-Simplification---Managing-Director_R-792768-1) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-07-07.
+This product manager position at State Street was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

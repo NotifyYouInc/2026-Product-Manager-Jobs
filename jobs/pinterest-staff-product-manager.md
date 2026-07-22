@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pinterest](https://scoutify.ai/companies/pinterest?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=7642275) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.pinterestcareers.com/jobs/?gh_jid=8050699) |
 
 ## About This Role
 
-This product manager position at Pinterest was posted on 2026-02-25.
+This product manager position at Pinterest was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

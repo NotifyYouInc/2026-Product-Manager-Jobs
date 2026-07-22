@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
+| Location | Purchase, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Vice-President--Product-Management_R-278503-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Vice-President--Product-Management_R-282392) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-19.
+This product manager position at Mastercard was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

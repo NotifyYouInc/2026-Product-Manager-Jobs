@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
-| Category | Program Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Leader--Product-Operations_2006319) |
+| Location | 2 locations |
+| Category | Product Manager |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Leader--Product-Operations_2015614-1) |
 
 ## About This Role
 
-This program manager position at Cisco was posted on 2026-03-11.
+This product manager position at Cisco was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

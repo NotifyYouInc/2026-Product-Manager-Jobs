@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/ae4034c4-19bd-4230-9e84-8c857c5bfc08) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/5611f60e-380c-459c-abb8-c789f6e5c1d2) |
 
 ## About This Role
 
-This product manager position at Clera was posted on 2026-07-09.
+This product manager position at Clera was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

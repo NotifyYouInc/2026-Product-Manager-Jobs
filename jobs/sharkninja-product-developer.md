@@ -5,12 +5,12 @@
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4647941006) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4696110006) |
 
 ## About This Role
 
-This product manager position at SharkNinja was posted on 2026-04-02.
+This product manager position at SharkNinja was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

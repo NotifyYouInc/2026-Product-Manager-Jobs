@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Manager--Product-Management_R-280925) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mumbai-India/Manager--Product-Management_R-281695-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-13.
+This product manager position at Mastercard was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

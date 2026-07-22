@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
-| Category | Program Manager |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000134607062-customer-hyperscalers-programproduct-manager) |
+| Location | Dallas, Texas, United States |
+| Category | Product Manager |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137701099-customer-hyperscalers-programproduct-manager) |
 
 ## About This Role
 
-This program manager position at Renesas Electronics was posted on 2026-06-27.
+This product manager position at Renesas Electronics was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

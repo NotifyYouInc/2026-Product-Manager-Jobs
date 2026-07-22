@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Karnataka, IN |
-| Category | Engineering Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Product-Lead-Software-Engineer_JR10402317) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Product-Lead-Software-Engineer_JR10402378) |
 
 ## About This Role
 
-This engineering manager position at Airbus was posted on 2026-04-02.
+This software engineer position at Airbus was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

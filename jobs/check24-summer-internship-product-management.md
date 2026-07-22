@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000134473268-summer-internship-product-management) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000137831828-summer-internship-product-management) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-06-26.
+This product manager position at CHECK24 was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

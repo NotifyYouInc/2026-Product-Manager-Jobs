@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caseware](https://scoutify.ai/companies/caseware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Romania |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.lever.co/caseware/73fc0e9d-7f93-4f28-891b-8f2b5e05f077) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.lever.co/caseware/358cb059-b1c5-4327-8779-76a4c6b8c30d) |
 
 ## About This Role
 
-This product manager position at Caseware was posted on 2026-07-08.
+This product manager position at Caseware was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

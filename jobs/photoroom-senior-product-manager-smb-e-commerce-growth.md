@@ -1,16 +1,16 @@
-# Senior Product Manager, SMB E-commerce Growth at Photoroom
+# Senior Product Manager, SMB e-commerce Growth at Photoroom
 
 | Field | Details |
 |-------|---------|
 | Company | [Photoroom](https://scoutify.ai/companies/photoroom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/b75841ab-f3de-468c-893a-256d58b00c60) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/cfe36a59-a475-44dd-925b-5cb4f93ec831) |
 
 ## About This Role
 
-This product manager position at Photoroom was posted on 2026-05-28.
+This product manager position at Photoroom was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

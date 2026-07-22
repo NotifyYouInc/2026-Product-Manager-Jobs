@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129907750-associate-product-manager-agent-ai-logistics-service) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000137627471-associate-product-manager-agent-ai-logistics-service) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-06-03.
+This product manager position at Delivery Hero was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

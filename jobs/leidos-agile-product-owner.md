@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Agile-Product-Owner_R-00184571) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Agile-Product-Owner_R-00187323) |
 
 ## About This Role
 
-This product manager position at Leidos was posted on 2026-06-02.
+This product manager position at Leidos was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
