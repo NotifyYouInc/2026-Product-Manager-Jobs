@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Scottsdale, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Chicago/Product-Manager_JR-0105413) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-AZ-Scottsdale/Product-Manager--Paradox-Employee-Communications_JR-0108693) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-03-26.
+This product manager position at Workday was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

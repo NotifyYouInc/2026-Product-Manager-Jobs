@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
-| Category | Human Resources / People Ops |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7355595) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Manager |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/8030079) |
 
 ## About This Role
 
-This human resources / people ops position at InMobi was posted on 2026-03-13.
+This product manager position at InMobi was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Canada- Outbound Product Manager - (PEO) at Pointclickcare
+# Canada- Outbound Product Manager (PEO) at Pointclickcare
 
 | Field | Details |
 |-------|---------|
 | Company | [Pointclickcare](https://scoutify.ai/companies/pointclickcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.lever.co/pointclickcare/448d01aa-084b-4838-894c-a3e7571bdc41) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.lever.co/pointclickcare/d1ced7ca-305d-4e40-b8ae-755a37c41de0) |
 
 ## About This Role
 
-This product manager position at Pointclickcare was posted on 2026-03-31.
+This product manager position at Pointclickcare was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000137587620-product-owner-associate-seniorlead-levels) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000137848419-product-owner-associate-seniorlead-levels) |
 
 ## About This Role
 
-This product manager position at Cermati was posted on 2026-07-14.
+This product manager position at Cermati was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

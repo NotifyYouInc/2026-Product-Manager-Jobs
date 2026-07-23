@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Associate-Principal--Product-Strategy---Management_33486R) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Principal--Product-Strategy---Management_33872R) |
 
 ## About This Role
 
-This product manager position at Vizient was posted on 2026-05-22.
+This product manager position at Vizient was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

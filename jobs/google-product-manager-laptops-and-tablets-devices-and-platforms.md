@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXslNFas7Qza3spo4nf0M62s4uQzaLpk2wgkeF0f7nXXEjsACxwdTNppLTVm3yko3t6ghyVLKqLT93Re6d8XzAZUoLm9ZBR_BviwjMscXI48HNmF5EPBRpBHsYNsMA%3D%3D_V2&loc=TW&title=Product+Manager) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSH65MMs368QlBrpjcd3yJrn6G28ssvrSTNtol1mmd0OEjsA1Ny_i95jXnnIms9KrcgCbABw37zJzZfZMEuYXD5xuN0U4LDcRdEJuaLKme1FLPnT6vwN3w3Di4EJzQ%3D%3D_V2&loc=TW&title=Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-10.
+This product manager position at Google was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

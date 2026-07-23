@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Regional-Channel-Product-Manager--Global-Transaction-Banking_JR00008528) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Regional-Channel-Product-Manager--Global-Transaction-Banking_JR00009453) |
 
 ## About This Role
 
-This product manager position at OCBC was posted on 2026-06-10.
+This product manager position at OCBC was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

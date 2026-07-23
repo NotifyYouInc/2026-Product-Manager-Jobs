@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Digital-Product-Owner_R000071832) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Digital-Product-Owner_R000072058-1) |
 
 ## About This Role
 
-This product manager position at Chevron was posted on 2026-06-09.
+This product manager position at Chevron was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Menlo Park, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/842648812221412) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1703761087566475) |
 
 ## About This Role
 
-This product manager position at Meta was posted on 2026-05-13.
+This product manager position at Meta was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

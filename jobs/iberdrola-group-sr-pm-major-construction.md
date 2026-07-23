@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pittsfield, Massachusetts, United States |
+| Location | Orange, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Massachusetts-Pittsfield/Sr-PM---Major-Construction_R-29381) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Connecticut-Orange/Sr-PM---Major-Construction_R-31008-1) |
 
 ## About This Role
 
-This product manager position at Iberdrola Group was posted on 2026-05-11.
+This product manager position at Iberdrola Group was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Richmond, Virginia, United States |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Director--Product-Management--Capital-One-Software--Remote-_R244545-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Director--Product-Management--Capital-One-Software--Remote-_R247133-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-06-15.
+This product manager position at Capital One was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

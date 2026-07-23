@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Milan, Lombardy, Italy |
 | Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Customer-Journey-Expert_REQ-10117876) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Customer-Journey-Expert_REQ-10118123) |
 
 ## About This Role
 
-This product manager position at ING was posted on 2026-07-10.
+This product manager position at ING was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

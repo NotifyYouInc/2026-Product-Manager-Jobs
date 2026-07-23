@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Bedford, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Minato-ku-Tokyo-Japan/Principal--Product-Management_REQ-10261) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Principal--Product-Management_REQ-13437) |
 
 ## About This Role
 
-This product manager position at Entegris was posted on 2026-02-26.
+This product manager position at Entegris was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

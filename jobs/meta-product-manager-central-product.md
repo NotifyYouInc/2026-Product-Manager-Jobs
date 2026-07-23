@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/903804022277159) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1746722943203320) |
 
 ## About This Role
 
-This product manager position at Meta was posted on 2026-02-24.
+This product manager position at Meta was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

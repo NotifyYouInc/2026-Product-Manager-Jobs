@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Etsy](https://scoutify.ai/companies/etsy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Brooklyn, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Dublin-Ireland/Senior-Product-Manager--Trust-Experience_JR5412-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Senior-Product-Manager--Trust-Experience_JR5767-1) |
 
 ## About This Role
 
-This product manager position at Etsy was posted on 2026-03-10.
+This product manager position at Etsy was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

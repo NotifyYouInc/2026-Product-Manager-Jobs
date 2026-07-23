@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Princeton, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Director--Field-Suggestions-and-Alerts_R1599370-2) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Director--Field-Suggestions-and-Alerts_R1604483) |
 
 ## About This Role
 
-This product manager position at Bristol-Myers Squibb was posted on 2026-02-25.
+This product manager position at Bristol-Myers Squibb was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

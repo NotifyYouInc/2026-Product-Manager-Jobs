@@ -5,12 +5,12 @@
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto-Office-TRO/Senior-Product-Manager_JR-160593-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Senior-Product-Manager_JR-162082) |
 
 ## About This Role
 
-This product manager position at Equinix was posted on 2026-05-12.
+This product manager position at Equinix was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

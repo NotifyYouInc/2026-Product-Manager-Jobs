@@ -5,12 +5,12 @@
 | Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Broomfield, Colorado, United States |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000137722889-ccaas-gcp-product-owner) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000137962799-ccaas-gcp-product-owner) |
 
 ## About This Role
 
-This product manager position at BETSOL was posted on 2026-07-14.
+This product manager position at BETSOL was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

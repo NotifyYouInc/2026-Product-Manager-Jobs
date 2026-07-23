@@ -5,12 +5,12 @@
 | Company | [Garner Health](https://scoutify.ai/companies/garnerhealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6101768004) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/garnerhealth/jobs/6115981004) |
 
 ## About This Role
 
-This product manager position at Garner Health was posted on 2026-06-25.
+This product manager position at Garner Health was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

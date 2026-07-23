@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/digicert/jobs/8297589002) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8624349002) |
 
 ## About This Role
 
-This product manager position at DigiCert was posted on 2026-02-18.
+This product manager position at DigiCert was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

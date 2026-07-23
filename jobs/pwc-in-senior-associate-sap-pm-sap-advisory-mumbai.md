@@ -1,16 +1,16 @@
-# IN_Senior Associate | SAP PM | SAP | Advisory | Mumbai at PwC
+# IN-Senior Associate-SAP PM-SAP-Advisory-Mumbai at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate---SAP-PM---SAP---Advisory---Mumbai_731654WD-1) |
+| Category | Product Manager |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate-SAP-PM-SAP-Advisory-Mumbai_744890WD-1) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-05-25.
+This product manager position at PwC was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

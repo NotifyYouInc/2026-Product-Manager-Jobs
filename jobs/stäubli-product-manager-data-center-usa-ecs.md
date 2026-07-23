@@ -5,12 +5,12 @@
 | Company | [Stäubli](https://scoutify.ai/companies/stubli?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Windsor, Connecticut, United States |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000136235654-product-manager-data-center-usa-ecs) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000137886337-product-manager-data-center-usa-ecs) |
 
 ## About This Role
 
-This product manager position at Stäubli was posted on 2026-07-07.
+This product manager position at Stäubli was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

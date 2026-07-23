@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113020088-sr-staff-outbound-product-manager) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138058820-sr-staff-outbound-product-manager) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-03-05.
+This product manager position at ServiceNow was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

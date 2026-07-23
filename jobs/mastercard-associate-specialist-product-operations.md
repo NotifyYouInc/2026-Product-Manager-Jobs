@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Philippines |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Manilla-Philippines-Transfast/Associate-Specialist--Product-Operations_R-273765) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Product Manager |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Manilla-Philippines-Transfast/Associate-Specialist--Product-Operations_R-281358) |
 
 ## About This Role
 
-This customer success position at Mastercard was posted on 2026-04-01.
+This product manager position at Mastercard was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

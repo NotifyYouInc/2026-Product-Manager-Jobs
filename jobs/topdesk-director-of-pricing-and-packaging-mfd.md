@@ -5,12 +5,12 @@
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kaiserslautern, Rheinland-Pfalz, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000136193859-director-of-pricing-and-packaging-mfd) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000138028580-director-of-pricing-and-packaging-mfd) |
 
 ## About This Role
 
-This product manager position at TOPdesk was posted on 2026-07-07.
+This product manager position at TOPdesk was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
