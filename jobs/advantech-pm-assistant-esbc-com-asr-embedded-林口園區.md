@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Location | Linkou, Heilongjiang, China |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/PM-Assistant---ESBC--AS-R--Embedded---_JR202604060) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/PM-Assistant---ESBC--COM--AS-R--Embedded---_JR202607059-1) |
 
 ## About This Role
 
-This product manager position at Advantech was posted on 2026-04-16.
+This product manager position at Advantech was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

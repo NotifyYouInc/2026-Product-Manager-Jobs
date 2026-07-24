@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000114113557-product-owner-12-month-ftc) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000138058849-product-owner-12-month-ftc) |
 
 ## About This Role
 
-This product manager position at Legal & General was posted on 2026-03-11.
+This product manager position at Legal & General was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

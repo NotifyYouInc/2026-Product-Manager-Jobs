@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5128347007?gh_jid=5128347007) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5188538007?gh_jid=5188538007) |
 
 ## About This Role
 
-This product manager position at Anduril was posted on 2026-05-05.
+This product manager position at Anduril was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

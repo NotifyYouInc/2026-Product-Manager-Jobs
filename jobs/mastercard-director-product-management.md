@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada-Ethoca/Director--Product-Management_R-281730) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Miami-Florida/Director--Product-Management_R-281337) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-01.
+This product manager position at Mastercard was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

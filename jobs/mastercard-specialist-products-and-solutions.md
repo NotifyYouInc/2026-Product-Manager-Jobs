@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Jose-Costa-Rica/Specialist--Products-and-Solutions_R-272139) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Specialist--Products-and-Solutions_R-281062) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-18.
+This product manager position at Mastercard was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

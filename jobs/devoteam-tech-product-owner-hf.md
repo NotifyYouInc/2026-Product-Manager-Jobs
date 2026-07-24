@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000132565309-tech-product-owner-hf) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138131869-tech-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Devoteam was posted on 2026-06-17.
+This product manager position at Devoteam was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

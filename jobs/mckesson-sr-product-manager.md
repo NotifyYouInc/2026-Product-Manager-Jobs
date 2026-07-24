@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Sr-Product-Manager_JR0149430) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Sr-Product-Manager_JR0150705) |
 
 ## About This Role
 
-This product manager position at McKesson was posted on 2026-06-19.
+This product manager position at McKesson was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

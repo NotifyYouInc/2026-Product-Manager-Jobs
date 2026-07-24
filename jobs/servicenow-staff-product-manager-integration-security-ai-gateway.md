@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134017657-staff-product-manager-integration-security-ai-gateway) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138172310-staff-product-manager-integration-security-ai-gateway) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-06-24.
+This product manager position at ServiceNow was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

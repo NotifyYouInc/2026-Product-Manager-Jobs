@@ -5,12 +5,12 @@
 | Company | [MEMX](https://scoutify.ai/companies/memx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/memx/jobs/5171222008) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/memx/jobs/5361761008) |
 
 ## About This Role
 
-This devops engineer position at MEMX was posted on 2026-04-21.
+This devops engineer position at MEMX was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

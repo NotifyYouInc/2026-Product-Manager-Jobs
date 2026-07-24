@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Manager-II_R202679506) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-II_R202679934) |
 
 ## About This Role
 
-This product manager position at Cox was posted on 2026-07-01.
+This product manager position at Cox was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

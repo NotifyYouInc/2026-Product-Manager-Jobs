@@ -5,12 +5,12 @@
 | Company | [Axel Springer Corporate Solutions](https://scoutify.ai/companies/axelspringercorporatesolutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000137810304-product-manager-mwd) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000138026489-product-manager-mwd) |
 
 ## About This Role
 
-This product manager position at Axel Springer Corporate Solutions was posted on 2026-07-15.
+This product manager position at Axel Springer Corporate Solutions was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

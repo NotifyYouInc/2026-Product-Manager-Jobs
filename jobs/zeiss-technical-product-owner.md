@@ -5,12 +5,12 @@
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Technical-Product-Owner_JR_1049809) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Technical-Product-Owner_JR_1048655) |
 
 ## About This Role
 
-This product manager position at Zeiss was posted on 2026-06-10.
+This product manager position at Zeiss was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

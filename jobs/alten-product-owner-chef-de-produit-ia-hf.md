@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000133391721-product-owner-chef-de-produit-ia-hf) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138155710-product-owner-chef-de-produit-ia-hf) |
 
 ## About This Role
 
-This product manager position at ALTEN was posted on 2026-06-22.
+This product manager position at ALTEN was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

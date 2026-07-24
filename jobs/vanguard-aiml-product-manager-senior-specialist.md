@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/AI-ML-Product-Manager--Senior-Specialist_178292-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/AI-ML-Product-Manager--Senior-Specialist_180215-1) |
 
 ## About This Role
 
-This product manager position at Vanguard was posted on 2026-06-08.
+This product manager position at Vanguard was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

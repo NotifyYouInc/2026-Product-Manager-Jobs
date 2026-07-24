@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Senior-Vice-President--Core-Trade-Product-Manager---Services_26979093-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Senior-Vice-President--Core-Trade-Product-Manager---Services_26979091) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-07-15.
+This product manager position at Citigroup was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

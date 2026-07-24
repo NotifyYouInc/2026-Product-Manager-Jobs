@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#75399) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#71617) |
 
 ## About This Role
 
-This product manager position at BNY was posted on 2026-04-07.
+This product manager position at BNY was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

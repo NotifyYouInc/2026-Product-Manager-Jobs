@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Victoria, AU |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Product Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Whitehorse-Melbourne-Australia/Product-Manager_REQ-1000049188-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Santiago-Metropolitan-Region-Chile/Product-Manager_REQ-1000049762) |
 
 ## About This Role
 
-This product manager position at Stanley Black & Decker was posted on 2026-07-03.
+This product manager position at Stanley Black & Decker was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

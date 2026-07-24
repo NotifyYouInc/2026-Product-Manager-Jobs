@@ -5,12 +5,12 @@
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000135546715-product-owner-business-analyst-ia-confirme-fh) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000138260050-product-owner-business-analyst-ia-confirme-fh) |
 
 ## About This Role
 
-This product manager position at ASI was posted on 2026-07-02.
+This product manager position at ASI was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

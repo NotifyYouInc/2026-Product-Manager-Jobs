@@ -5,12 +5,12 @@
 | Company | [OFX](https://scoutify.ai/companies/ofx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ofx1/744000126597799-global-cards-product-manager) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ofx1/744000138176999-global-cards-product-manager) |
 
 ## About This Role
 
-This product manager position at OFX was posted on 2026-05-15.
+This product manager position at OFX was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

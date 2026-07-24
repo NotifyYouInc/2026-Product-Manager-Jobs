@@ -5,12 +5,12 @@
 | Company | [Galderma](https://scoutify.ai/companies/galderma?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://galderma.wd3.myworkdayjobs.com/external/job/Shanghai/Senior-Product-Manager--Therapeutic-Dermatology_JR018102-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://galderma.wd3.myworkdayjobs.com/external/job/Shanghai/Senior-Product-Manager--Therapeutic-Dermatology_JR019689-1) |
 
 ## About This Role
 
-This product manager position at Galderma was posted on 2026-04-01.
+This product manager position at Galderma was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

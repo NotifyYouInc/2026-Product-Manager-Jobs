@@ -1,16 +1,16 @@
-# Manager, Product Management-Technical at Mastercard
+# Manager, Product Management – Technical at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Product-Management-Technical_R-279884) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Manager--Product-Management---Technical_R-281813) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-09.
+This product manager position at Mastercard was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

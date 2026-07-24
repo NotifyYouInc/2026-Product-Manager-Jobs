@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136402559-lead-product-manager-ascend-platform-access) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138271176-lead-product-manager-ascend-platform-access) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-07-08.
+This product manager position at Experian was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

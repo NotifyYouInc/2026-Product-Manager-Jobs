@@ -1,16 +1,16 @@
-# Product Owner- Technology at Barclays
+# Product Owner Technology at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Product-Owner--Technology_JR-0000106707-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Product-Owner-Technology_JR-0000105588-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-05-06.
+This product manager position at Barclays was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
