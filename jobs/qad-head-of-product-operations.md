@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Miami, Florida, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000137986459-head-of-product-operations) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000138190619-head-of-product-operations) |
 
 ## About This Role
 
-This product manager position at QAD was posted on 2026-07-15.
+This product manager position at QAD was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

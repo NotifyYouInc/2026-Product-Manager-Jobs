@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Bernardino, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/01010-SAN-BERNARDINO-Distrito-Capital/INDIVIDUALS-ASSOCIATE_JR00103391) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/01010-SAN-BERNARDINO-Distrito-Capital/INDIVIDUALS-ASSOCIATE_JR00109684-1) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-08.
+This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

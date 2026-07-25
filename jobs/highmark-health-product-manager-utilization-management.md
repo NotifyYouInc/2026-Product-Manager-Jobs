@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Arkansas, US |
+| Location | Pennsylvania, US |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Product-Manager---Utilization-Management_J281023-1) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Product-Manager---Utilization-Management_J284580) |
 
 ## About This Role
 
-This product manager position at Highmark Health was posted on 2026-05-15.
+This product manager position at Highmark Health was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

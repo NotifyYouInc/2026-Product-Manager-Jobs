@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | 10 locations |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Sr-Product-Manager---US-Downstream-Nerve-Monitoring_R66806-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Jacksonville-Florida-United-States-of-America/Sr-Product-Manager---US-Downstream-Nerve-Monitoring_R72278-1) |
 
 ## About This Role
 
-This product manager position at Medtronic was posted on 2026-05-21.
+This product manager position at Medtronic was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

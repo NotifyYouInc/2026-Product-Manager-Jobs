@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Farringdon/Sr-Product-Mgr-I_R115660) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Bengaluru/Sr-Product-Mgr-I_R116103-1) |
 
 ## About This Role
 
-This product manager position at LexisNexis Risk Solutions was posted on 2026-07-06.
+This product manager position at LexisNexis Risk Solutions was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

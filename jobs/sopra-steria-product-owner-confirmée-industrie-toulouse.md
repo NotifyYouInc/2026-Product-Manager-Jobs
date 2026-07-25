@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133059434-product-owner-confirmee-industrie-toulouse) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138376855-product-owner-confirmee-industrie-toulouse) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-06-19.
+This product manager position at Sopra Steria was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Garching, Bavaria, Germany |
-| Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Garching---Bavaria-Germany---Parking-1-5-Business-Campus/Executive-Director--Brand-Owner--Car-Audio_R-53603-2026) |
+| Category | Brand Marketing |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Executive-Director-Brand-Owner-Car-Audio/32033) |
 
 ## About This Role
 
-This product manager position at HARMAN International was posted on 2026-06-25.
+This brand marketing position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

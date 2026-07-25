@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Director--Technology-Product-Management_REQ511317) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Director--Technology-Product-Management_REQ522551-1) |
 
 ## About This Role
 
-This product manager position at JLL was posted on 2026-06-17.
+This product manager position at JLL was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

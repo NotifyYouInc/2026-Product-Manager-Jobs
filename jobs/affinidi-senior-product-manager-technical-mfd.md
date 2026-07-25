@@ -5,12 +5,12 @@
 | Company | [Affinidi](https://scoutify.ai/companies/affinidi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7767076003) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7807765003) |
 
 ## About This Role
 
-This product manager position at Affinidi was posted on 2026-06-09.
+This product manager position at Affinidi was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

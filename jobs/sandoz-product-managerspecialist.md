@@ -5,12 +5,12 @@
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Belarus |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Belarus-Sandoz/Product-Manager-Specialist_REQ-10030632-1) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Belarus-Sandoz/Product-Manager-Specialist_REQ-10030664) |
 
 ## About This Role
 
-This product manager position at Sandoz was posted on 2026-07-16.
+This product manager position at Sandoz was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

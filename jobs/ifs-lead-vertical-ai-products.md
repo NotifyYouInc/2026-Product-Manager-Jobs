@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000115952997-lead-vertical-ai-products) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000138315865-lead-vertical-ai-products) |
 
 ## About This Role
 
-This product manager position at IFS was posted on 2026-03-20.
+This product manager position at IFS was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

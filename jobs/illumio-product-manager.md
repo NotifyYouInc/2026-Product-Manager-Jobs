@@ -5,12 +5,12 @@
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/d25cd3f3-f37c-4eaf-8cda-0049b8cadd08) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/88c25e67-477f-4ea2-8458-cc6c01606c90) |
 
 ## About This Role
 
-This product manager position at Illumio was posted on 2026-03-23.
+This product manager position at Illumio was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

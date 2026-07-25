@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Szeged, Csongrád, Hungary |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000131469148-sap-s4-hana-functional-spoc-qm-andor-pm) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000138447999-sap-s4-hana-functional-spoc-qm-andor-pm) |
 
 ## About This Role
 
-This product manager position at Continental was posted on 2026-06-10.
+This product manager position at Continental was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

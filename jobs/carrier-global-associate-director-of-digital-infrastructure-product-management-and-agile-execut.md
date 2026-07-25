@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Palm Beach Gardens, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Associate-Director-of-Digital-Infrastructure-Product-Management-and-Agile-Execution_30208676) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAF77-CCS---CIB-13995-Pasteur-Boulevard-Palm-Beach-Gardens-FL-33418-USA/Associate-Director-of-Digital-Infrastructure-Product-Management-and-Agile-Execution_30213463) |
 
 ## About This Role
 
-This product manager position at Carrier Global was posted on 2026-06-18.
+This product manager position at Carrier Global was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
