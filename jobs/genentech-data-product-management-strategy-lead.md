@@ -1,16 +1,16 @@
-# Sr Product Manager at PayPal
+# Data Product Management & Strategy Lead at Genentech
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Product-Manager_R0137116) |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Data-Product-Management---Strategy-Lead_202607-118479-1) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-07-17.
+This product manager position at Genentech was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cikarang, West Java, Indonesia |
+| Location | West Union, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/Indonesia-Cikarang/Product-Manager_JR102721) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-South-Carolina-West-Union/Product-Manager_JR102697-1) |
 
 ## About This Role
 
-This product manager position at Itron was posted on 2026-07-16.
+This product manager position at Itron was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

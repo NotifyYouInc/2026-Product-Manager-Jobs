@@ -1,16 +1,16 @@
-# Sr Product Manager at PayPal
+# Product Operations Strategic Program Lead at DaVita
 
 | Field | Details |
 |-------|---------|
-| Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
+| Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Product-Manager_R0137116) |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Product-Operations-Strategic-Program-Lead_R0468955) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-07-17.
+This product manager position at DaVita was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

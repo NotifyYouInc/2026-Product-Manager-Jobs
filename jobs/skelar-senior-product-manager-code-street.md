@@ -1,16 +1,16 @@
-# Director of Product Management  at Fictiv
+# Senior Product Manager - Code Street at SKELAR
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Manager |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640052002) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/88d3f83a-a19b-4c09-80cd-485e10846db6) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-07-19.
+This product manager position at SKELAR was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

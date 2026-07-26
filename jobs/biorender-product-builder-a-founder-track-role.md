@@ -1,16 +1,16 @@
-# Principal Product Manager - AI & Intelligent Manufacturing Systems at Fictiv
+# Product Builder, a Founder Track role at BioRender
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [BioRender](https://scoutify.ai/companies/biorender?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Canada |
 | Category | Product Manager |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640053002) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/biorender/jobs/5wWd30A-product-builder-a-founder-track-role) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-07-19.
+This product manager position at BioRender was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

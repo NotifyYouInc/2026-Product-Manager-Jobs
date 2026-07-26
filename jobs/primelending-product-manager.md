@@ -1,16 +1,16 @@
-# Director of Product Management  at Fictiv
+# Product Manager at PrimeLending
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [PrimeLending](https://scoutify.ai/companies/us2-cx-oj87730?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Dallas, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640052002) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ejlu.fa.us2.oraclecloud.com/jobs/#31956) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-07-19.
+This product manager position at PrimeLending was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

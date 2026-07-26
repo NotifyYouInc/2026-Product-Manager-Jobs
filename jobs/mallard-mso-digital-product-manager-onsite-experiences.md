@@ -1,16 +1,16 @@
-# Director of Product Management  at Fictiv
+# Digital Product Manager - Onsite Experiences at Mallard MSO
 
 | Field | Details |
 |-------|---------|
-| Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Oakland, California, United States |
+| Company | [Mallard MSO](https://scoutify.ai/companies/us2-cx-oj76032?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New Hyde Park, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640052002) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://eppr.fa.us2.oraclecloud.com/jobs/#181983) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-07-19.
+This product manager position at Mallard MSO was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 
