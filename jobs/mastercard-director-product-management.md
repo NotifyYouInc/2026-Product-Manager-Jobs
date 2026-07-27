@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Purchase, New York, United States |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Director--Product-Management_R-282280) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Director--Product-Management_R-282359) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-16.
+This product manager position at Mastercard was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

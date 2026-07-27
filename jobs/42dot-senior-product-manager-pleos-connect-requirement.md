@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | South Korea |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/3268fb07-396f-44a9-b9c0-eeca6c09976c) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/7049581e-65f7-41cb-b5ab-a9a4e1bf3568) |
 
 ## About This Role
 
-This product manager position at 42dot was posted on 2026-06-08.
+This product manager position at 42dot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

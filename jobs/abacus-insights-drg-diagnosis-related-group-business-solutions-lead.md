@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8635267002?gh_jid=8635267002) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8635272002?gh_jid=8635272002) |
 
 ## About This Role
 
-This product manager position at Abacus Insights was posted on 2026-07-15.
+This product manager position at Abacus Insights was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

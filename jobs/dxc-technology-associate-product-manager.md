@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Macquarie Park, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Associate-Product-Manager_51584350) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---NSW---MACQUARIE-PARK/Associate-Product-Manager_51585378) |
 
 ## About This Role
 
-This product manager position at DXC Technology was posted on 2026-07-07.
+This product manager position at DXC Technology was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

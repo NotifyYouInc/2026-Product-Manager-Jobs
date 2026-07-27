@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Alameda, California, United States |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Product-Manager_31152266-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Hong-Kong--Hong-Kong--20F-AIA-Tower-183-Electric-Road/Product-Manager_31156538-1) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-06-17.
+This product manager position at Abbott was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

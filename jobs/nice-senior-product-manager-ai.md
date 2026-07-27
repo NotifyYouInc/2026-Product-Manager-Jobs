@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Israel |
 | Category | Product Manager |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4911345101?gh_jid=4911345101) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4911286101?gh_jid=4911286101) |
 
 ## About This Role
 
-This product manager position at NiCE was posted on 2026-07-12.
+This product manager position at NiCE was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

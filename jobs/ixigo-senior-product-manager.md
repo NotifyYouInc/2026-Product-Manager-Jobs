@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ixigo](https://scoutify.ai/companies/ixigo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | New Delhi, Delhi, India |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ixigo/744000136307459-senior-product-manager) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ixigo/744000138573376-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at ixigo was posted on 2026-07-07.
+This product manager position at ixigo was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

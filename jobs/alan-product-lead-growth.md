@@ -5,12 +5,12 @@
 | Company | [Alan](https://scoutify.ai/companies/alan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Belgium |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/alan/7059bd81-4363-41fd-b7e0-601917195421) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/alan/1dc76a36-aa92-4dbf-945c-36d1ec52368c) |
 
 ## About This Role
 
-This product manager position at Alan was posted on 2026-05-22.
+This product manager position at Alan was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
