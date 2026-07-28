@@ -1,16 +1,16 @@
-# Product Manager - Gas at Aggreko
+# Product Manager -Gas at Aggreko
 
 | Field | Details |
 |-------|---------|
 | Company | [Aggreko](https://scoutify.ai/companies/aggreko?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dumbarton, Scotland, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Dumbarton-UK/Product-Manager---Gas_JR20518) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/New-York/Product-Manager--Gas_JR20482) |
 
 ## About This Role
 
-This product manager position at Aggreko was posted on 2026-06-16.
+This product manager position at Aggreko was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

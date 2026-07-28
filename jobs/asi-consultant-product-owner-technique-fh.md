@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000117307817-consultant-product-owner-technique-fh) |
+| Category | Product Manager |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000138663479-consultant-product-owner-technique-fh) |
 
 ## About This Role
 
-This strategy / management consulting position at ASI was posted on 2026-03-27.
+This product manager position at ASI was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

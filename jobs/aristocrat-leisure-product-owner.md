@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Skopje, Grad Skopje, North Macedonia |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Krakow-Poland/Product-Owner_R0020838-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/North-Macedonia---Skopje/Product-Owner_R0021679) |
 
 ## About This Role
 
-This product manager position at Aristocrat Leisure was posted on 2026-03-11.
+This product manager position at Aristocrat Leisure was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

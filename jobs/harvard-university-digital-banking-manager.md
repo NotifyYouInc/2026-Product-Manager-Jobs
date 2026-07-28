@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014126386-digital-banking-manager) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014181726-digital-banking-manager) |
 
 ## About This Role
 
-This product manager position at Harvard University was posted on 2026-07-16.
+This product manager position at Harvard University was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

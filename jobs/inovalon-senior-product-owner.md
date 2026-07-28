@@ -5,12 +5,12 @@
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7602609003) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7797946003) |
 
 ## About This Role
 
-This product manager position at Inovalon was posted on 2026-02-04.
+This product manager position at Inovalon was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Nottingham, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131763479-product-manager-core-consumer-capabilities) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138819610-product-manager-core-consumer-capabilities) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-06-11.
+This product manager position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

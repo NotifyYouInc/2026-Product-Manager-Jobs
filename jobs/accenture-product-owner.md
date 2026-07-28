@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Product-Owner_ATCI-5311650-S1993708-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Product-Owner_ATCI-5616744-S2059335-1) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-07-01.
+This product manager position at Accenture was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000117586532-product-manager) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000138732607-product-manager) |
 
 ## About This Role
 
-This product manager position at QAD was posted on 2026-03-30.
+This product manager position at QAD was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

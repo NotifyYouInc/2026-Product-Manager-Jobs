@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bois-Colombes, Île-de-France, France |
-| Category | Developer Relations |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000115633227-product-owner-api-developer-experience-tools) |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000138692189-product-owner-api-developer-experience-tools) |
 
 ## About This Role
 
-This developer relations position at Coface was posted on 2026-03-19.
+This software engineer position at Coface was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

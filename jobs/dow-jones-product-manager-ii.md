@@ -5,12 +5,12 @@
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Spain---Barcelona/Product-Manager-II_Job_Req_53352) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Spain---Barcelona/Product-Manager-II_Job_Req_54162) |
 
 ## About This Role
 
-This product manager position at Dow Jones was posted on 2026-06-04.
+This product manager position at Dow Jones was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

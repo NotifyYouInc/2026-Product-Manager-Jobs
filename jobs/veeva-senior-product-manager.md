@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeva](https://scoutify.ai/companies/veeva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Chengdu, Sichuan, China |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/veeva/753f114e-867c-4a30-bdf8-6d88d8b49f16) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.lever.co/veeva/cdd58797-214b-41cf-b1a1-e82c365eb707) |
 
 ## About This Role
 
-This product manager position at Veeva was posted on 2026-04-17.
+This product manager position at Veeva was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000137627439-produkt-sortimentsmanager-dwm-netzwerktechnik-werkzeuge-own-brands) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000138796721-produkt-sortimentsmanager-dwm-netzwerktechnik-werkzeuge-own-brands) |
 
 ## About This Role
 
-This product manager position at REXEL was posted on 2026-07-14.
+This product manager position at REXEL was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

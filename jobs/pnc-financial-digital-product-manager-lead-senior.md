@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-NY-NYH01/Digital-Product-Manager-Lead-Senior_R229837-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Digital-Product-Manager-Lead-Senior_R229598-2) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-07-17.
+This product manager position at PNC Financial was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

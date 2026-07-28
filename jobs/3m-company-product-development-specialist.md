@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Maplewood, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/CN-Shanghai/Product-Development-Specialist_R01165485) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Product-Development-Specialist_R01167808) |
 
 ## About This Role
 
-This product manager position at 3M Company was posted on 2026-05-18.
+This product manager position at 3M Company was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

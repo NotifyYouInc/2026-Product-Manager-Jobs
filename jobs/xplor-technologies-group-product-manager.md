@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000137683399-group-product-manager) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000138799610-group-product-manager) |
 
 ## About This Role
 
-This product manager position at Xplor Technologies was posted on 2026-07-14.
+This product manager position at Xplor Technologies was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

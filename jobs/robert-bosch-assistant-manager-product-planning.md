@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138272943-assistant-manager-product-planning) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138777379-assistant-manager-product-planning) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-07-17.
+This product manager position at Robert Bosch was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Niort, Nouvelle-Aquitaine, France |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000133876401-product-owner-hf) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000138646875-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Inetum was posted on 2026-06-24.
+This product manager position at Inetum was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

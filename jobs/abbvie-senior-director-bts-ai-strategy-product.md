@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014107096-senior-director-bts-ai-strategy-product) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014183796-senior-director-bts-ai-strategy-product) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-07-15.
+This strategy & operations position at AbbVie was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

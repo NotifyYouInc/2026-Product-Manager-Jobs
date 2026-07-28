@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chariot](https://scoutify.ai/companies/chariot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/chariot-2/jobs/fta7E6E-product) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/chariot-2/jobs/zEABw3g-product) |
 
 ## About This Role
 
-This product manager position at Chariot was posted on 2026-05-13.
+This product manager position at Chariot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

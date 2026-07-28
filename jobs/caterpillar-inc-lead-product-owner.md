@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-Product-Owner_R0000376797) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Lead-Product-Owner_R0000383096) |
 
 ## About This Role
 
-This product manager position at Caterpillar Inc. was posted on 2026-06-23.
+This product manager position at Caterpillar Inc. was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

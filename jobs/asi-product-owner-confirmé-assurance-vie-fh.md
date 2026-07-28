@@ -5,12 +5,12 @@
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000123210649-product-owner-confirme-assurance-vie-fh) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000138674619-product-owner-confirme-assurance-vie-fh) |
 
 ## About This Role
 
-This product manager position at ASI was posted on 2026-04-27.
+This product manager position at ASI was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Valencia, Valencia, Spain |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/dee7cfe8-2a4e-4465-b556-c5e762f66e62) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/c565e6d3-6607-42ac-b03c-245ab712a72e) |
 
 ## About This Role
 
-This product manager position at Provectus was posted on 2026-07-13.
+This product manager position at Provectus was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Mexico |
 | Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Barcelona-Gran-Va/Associate-Director-Integrations-Product-Owner_REQ-10080758) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Associate-Director-Integrations-Product-Owner_REQ-10084008) |
 
 ## About This Role
 
-This product manager position at Novartis was posted on 2026-07-17.
+This product manager position at Novartis was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
