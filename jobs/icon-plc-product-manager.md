@@ -5,12 +5,12 @@
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Product-Manager_JR153318) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Product-Manager_JR153320-1) |
 
 ## About This Role
 
-This product manager position at ICON plc was posted on 2026-06-16.
+This product manager position at ICON plc was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

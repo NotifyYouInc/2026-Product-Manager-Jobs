@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
-| Category | Marketing |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Ecity-Corporate/Sr-Manager---Product-Management_R-56591-1) |
+| Location | Karnataka, IN |
+| Category | Product Manager |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Ecity-Corporate/Sr-Manager---Product-Management_R-57569) |
 
 ## About This Role
 
-This marketing position at Alliaxis was posted on 2026-05-11.
+This product manager position at Alliaxis was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

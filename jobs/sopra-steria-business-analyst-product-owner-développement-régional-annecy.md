@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132240858-business-analyst-product-owner-developpement-regional-annecy) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138871266-business-analyst-product-owner-developpement-regional-annecy) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-06-15.
+This product manager position at Sopra Steria was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

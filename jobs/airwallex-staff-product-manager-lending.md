@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/162fc14c-66ef-4eb6-8894-b1030f567ce5) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/6e011829-ee74-4f7a-82f6-f2f1ef5a6dd1) |
 
 ## About This Role
 
-This product manager position at Airwallex was posted on 2026-06-24.
+This product manager position at Airwallex was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

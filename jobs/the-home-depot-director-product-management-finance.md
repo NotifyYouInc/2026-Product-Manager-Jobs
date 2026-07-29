@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Marietta, Georgia, United States |
+| Location | Cumberland, Rhode Island, United States |
 | Category | Product Manager |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/MARIETTA-TECHNOLOGY-CENTER-MARIETTA---9119/Director-Product-Management---Finance_Req166395) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/CUMBERLAND-PKWY-OFFICE---1147/Director-Product-Management---Finance_Req187388-1) |
 
 ## About This Role
 
-This product manager position at The Home Depot was posted on 2026-02-10.
+This product manager position at The Home Depot was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

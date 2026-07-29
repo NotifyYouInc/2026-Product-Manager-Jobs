@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135443357-ai-automation-solution-consultant) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138859709-ai-automation-solution-consultant) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-07-02.
+This product manager position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

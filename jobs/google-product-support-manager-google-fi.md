@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaeVkpWZQsKbJ-xeCUASMYMOhAgGK1PF6I-QoR1RuxvmEjsA1Ny_iwUqiTT4PRToYgw5CldZrJ62UXXDV6AsdPqucmkUbfp6yNJwUfXvXpGItjk8zVQx7UnHaaXCqg%3D%3D_V2&loc=US&title=Product+Support+Manager) |
+| Location | 3 locations |
+| Category | Product Manager |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRbl0lp3LD_rD9lsWCvEzxDgmmxfzUdTVnjDTJAP6Vp4EjsA1Ny_i2xvAkfP9S4tLysDx87TVIKGiuzgotdNREkc-HF_HfIDNaUf6nA4bhlONap0WPc-phHRDBm1lw%3D%3D_V2&loc=US&title=Product+Support+Manager) |
 
 ## About This Role
 
-This customer success position at Google was posted on 2026-06-16.
+This product manager position at Google was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

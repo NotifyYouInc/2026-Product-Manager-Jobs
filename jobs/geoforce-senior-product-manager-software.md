@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Geoforce](https://scoutify.ai/companies/geoforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Calgary, Alberta, Canada |
 | Category | Product Manager |
-| Posted | 2026-01-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/geoforce/70864403-17c8-41dd-b5d4-bc21c810ad5c) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/geoforce/83087545-91eb-403e-a85e-47572ebcf3ad) |
 
 ## About This Role
 
-This product manager position at Geoforce was posted on 2026-01-07.
+This product manager position at Geoforce was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

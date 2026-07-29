@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Purchase, New York, United States |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Senior-Specialist--Product-Management_R-281052) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Madrid-Spain/Senior-Specialist--Product-Management_R-281590) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-14.
+This product manager position at Mastercard was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

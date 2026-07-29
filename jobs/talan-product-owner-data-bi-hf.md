@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108735080-product-owner-data-bi-hf) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000138930076-product-owner-data-bi-hf) |
 
 ## About This Role
 
-This product manager position at Talan was posted on 2026-02-11.
+This product manager position at Talan was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

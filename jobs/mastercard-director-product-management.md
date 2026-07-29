@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-07-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Director--Product-Management_R-282359) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/New-York-City-New-York/Director--Product-Management_R-286173) |
 
 ## About This Role
 

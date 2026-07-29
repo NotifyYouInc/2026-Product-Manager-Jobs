@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Melio](https://scoutify.ai/companies/melio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/melio/jobs/7802171003) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/melio/jobs/7809878003) |
 
 ## About This Role
 
-This product manager position at Melio was posted on 2026-07-14.
+This product manager position at Melio was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

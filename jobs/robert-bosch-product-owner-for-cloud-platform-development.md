@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112599202-product-owner-for-cloud-platform-development) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138990420-product-owner-for-cloud-platform-development) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-03-04.
+This product manager position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

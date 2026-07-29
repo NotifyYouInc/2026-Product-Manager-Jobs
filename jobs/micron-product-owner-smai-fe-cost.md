@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Product-Owner--SMAI--FE-Cost_JR105321) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/I40-ANALYST---SMART-MFG---AI_JR106593) |
 
 ## About This Role
 
-This product manager position at Micron was posted on 2026-07-07.
+This product manager position at Micron was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

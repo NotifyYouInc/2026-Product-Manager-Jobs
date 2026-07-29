@@ -5,12 +5,12 @@
 | Company | [Aerovect](https://scoutify.ai/companies/aerovect?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/19aa027c-694a-4500-815b-b91848ca0abb) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/d3adb28b-d2be-497c-b586-ba3082108093) |
 
 ## About This Role
 
-This product manager position at Aerovect was posted on 2026-05-06.
+This product manager position at Aerovect was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

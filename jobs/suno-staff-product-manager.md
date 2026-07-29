@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Suno](https://scoutify.ai/companies/suno?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/suno/ea10a217-1e03-4620-b5bd-e43b67dadbb2) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/suno/8827d2bd-6676-4f4d-8877-bd662353ef9a) |
 
 ## About This Role
 
-This product manager position at Suno was posted on 2026-07-10.
+This product manager position at Suno was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

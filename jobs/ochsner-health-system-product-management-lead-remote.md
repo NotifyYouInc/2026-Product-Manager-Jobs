@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ochsner Health System](https://scoutify.ai/companies/ochsner-health-system?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Louisiana, US |
+| Location | Jefferson, Louisiana, United States |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/Jefferson---New-Orleans-Region---Louisiana/Product-Management-Lead---Remote_REQ_00260066) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ochsner.wd1.myworkdayjobs.com/ochsner/job/Jefferson---New-Orleans-Region---Louisiana/Product-Management-Lead---Remote_REQ_00261405) |
 
 ## About This Role
 
-This product manager position at Ochsner Health System was posted on 2026-04-08.
+This product manager position at Ochsner Health System was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

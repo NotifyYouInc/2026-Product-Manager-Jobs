@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/TETRA-Product-Manager_R63541) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/TETRA-Product-Manager_R66503-1) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-04-02.
+This product manager position at Motorola Solutions was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

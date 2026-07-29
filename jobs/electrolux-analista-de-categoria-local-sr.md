@@ -5,12 +5,12 @@
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Sao-Paulo/Analista-de-Categoria-Local-SR_JR78321) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Sao-Paulo/Analista-de-Categoria-Local-SR_JR79572) |
 
 ## About This Role
 
-This product manager position at Electrolux was posted on 2026-06-03.
+This product manager position at Electrolux was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

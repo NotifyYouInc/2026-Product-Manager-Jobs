@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexperia](https://scoutify.ai/companies/nexperia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Manchester/Business-Product-Manager_R-20014256) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Manchester/Business-Product-Manager_R-20015130) |
 
 ## About This Role
 
-This product manager position at Nexperia was posted on 2026-04-22.
+This product manager position at Nexperia was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
