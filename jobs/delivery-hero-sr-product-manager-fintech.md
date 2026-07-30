@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000137875638-sr-product-manager-fintech) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000139055699-sr-product-manager-fintech) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-07-15.
+This product manager position at Delivery Hero was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

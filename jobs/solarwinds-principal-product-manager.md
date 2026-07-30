@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cork, Munster, Ireland |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4707869005&gh_jid=4707869005) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4717355005&gh_jid=4717355005) |
 
 ## About This Role
 
-This product manager position at SolarWinds was posted on 2026-07-21.
+This product manager position at SolarWinds was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

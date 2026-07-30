@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Newbury, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000135017460-three-mobile-transformation-product-specialist) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Sales Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000139096689-three-mobile-transformation-product-specialist) |
 
 ## About This Role
 
-This product manager position at Three UK was posted on 2026-06-30.
+This sales engineer position at Three UK was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

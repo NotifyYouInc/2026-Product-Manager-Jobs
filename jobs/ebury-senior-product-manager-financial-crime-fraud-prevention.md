@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4927152101) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4935530101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-07-14.
+This product manager position at Ebury was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

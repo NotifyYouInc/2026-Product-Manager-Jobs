@@ -5,12 +5,12 @@
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000138562279-associate-director-product-management-debt-services) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000139201315-associate-director-product-management-debt-services) |
 
 ## About This Role
 
-This product manager position at MUFG Investor Services was posted on 2026-07-20.
+This product manager position at MUFG Investor Services was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

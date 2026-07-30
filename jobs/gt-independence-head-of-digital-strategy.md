@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GT Independence](https://scoutify.ai/companies/recruiting-ultipro-com-oj45861?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gti1000guad/JobBoard/9dfb5104-5c54-40ef-9fef-bdc8060ce73d/OpportunityDetail?opportunityId=94a283a1-10d5-42ee-814f-c869bfbff971) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gti1000guad/JobBoard/9dfb5104-5c54-40ef-9fef-bdc8060ce73d/OpportunityDetail?opportunityId=4eac2ea0-80e9-4176-9406-57f19e089e23) |
 
 ## About This Role
 
-This product manager position at GT Independence was posted on 2026-07-07.
+This product manager position at GT Independence was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

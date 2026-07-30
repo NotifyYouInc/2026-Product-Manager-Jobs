@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Principal-Product-Manager_26WD95174-2) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Principal-Product-Manager_26WD100112-1) |
 
 ## About This Role
 
-This product manager position at Autodesk was posted on 2026-03-19.
+This product manager position at Autodesk was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

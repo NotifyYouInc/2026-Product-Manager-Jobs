@@ -5,12 +5,12 @@
 | Company | [aphex](https://scoutify.ai/companies/aphex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Australia |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aphex/e16d27c8-a8a4-40ca-9728-26363008f5e1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aphex/bdd7c598-f665-4e35-ba7e-8319b4e9563e) |
 
 ## About This Role
 
-This product manager position at aphex was posted on 2026-05-20.
+This product manager position at aphex was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000138856744-working-student-product-management-mfx) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000138998141-working-student-product-management-mfx) |
 
 ## About This Role
 
-This product manager position at Scalable Capital was posted on 2026-07-21.
+This product manager position at Scalable Capital was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

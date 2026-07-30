@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Manager--Brands-AI_R166924) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Manager--Brands-AI_R167142-1) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-03-24.
+This product manager position at Adobe was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

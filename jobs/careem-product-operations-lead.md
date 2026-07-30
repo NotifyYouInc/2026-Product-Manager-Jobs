@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Careem](https://scoutify.ai/companies/careem?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Karachi, Sindh, Pakistan |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/careem/jobs/8397734002?gh_jid=8397734002) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://boards.greenhouse.io/careem/jobs/8623833002?gh_jid=8623833002) |
 
 ## About This Role
 
-This product manager position at Careem was posted on 2026-04-14.
+This product manager position at Careem was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

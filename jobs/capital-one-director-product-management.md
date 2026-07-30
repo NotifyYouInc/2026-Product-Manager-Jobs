@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Plano, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Director--Product-Management_R246449-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Director--Product-Management_R247519) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-07-13.
+This product manager position at Capital One was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

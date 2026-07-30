@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Crailsheim, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000134201994-premaster-mwd-im-bereich-produktmanagement-service-annex-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000139208800-premaster-mwd-im-bereich-produktmanagement-service-annex-1) |
 
 ## About This Role
 
-This product manager position at Syntegon Technology was posted on 2026-06-25.
+This product manager position at Syntegon Technology was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Manager--Product-Management---Behavioral-Data-Platform_R15224) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Manager--Product-Management---Behavioral-Data-Platform_R15290-1) |
 
 ## About This Role
 
-This product manager position at Athena Health was posted on 2026-06-22.
+This product manager position at Athena Health was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

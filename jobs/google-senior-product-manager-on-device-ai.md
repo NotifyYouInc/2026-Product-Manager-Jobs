@@ -1,16 +1,16 @@
-# Senior Product Manager, On-Device AI at Google
+# Senior Product Manager, On Device AI at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/135713898064945862-senior-product-manager-ondevice-ai?sort_by=date&page=1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckayKCisYr9qTnI8SLgNcMaqcYFbSZgC7gvMTP29QTL3sEjsA1Ny_iwKNNJIzmN243Ivqmv25OWpZ0-FQyu_goP4xiP2dEoBrH59dhdxr6BfhStC-NkCio2jQ3KRAmg%3D%3D_V2&loc=US&title=Senior+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-25.
+This product manager position at Google was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

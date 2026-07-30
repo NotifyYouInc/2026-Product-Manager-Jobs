@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hoboken, New Jersey, United States |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#24407) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#25169) |
 
 ## About This Role
 
-This product manager position at Pearson was posted on 2026-05-27.
+This product manager position at Pearson was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

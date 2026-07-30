@@ -5,12 +5,12 @@
 | Company | [AppDirect](https://scoutify.ai/companies/appdirect?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appdirect/jobs/8540212002) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appdirect/jobs/8614642002) |
 
 ## About This Role
 
-This product manager position at AppDirect was posted on 2026-05-12.
+This product manager position at AppDirect was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

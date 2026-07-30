@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 5 locations |
 | Category | Engineering Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Development-Manager--P-C-Property-_R0116892-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Product-Development-Manager--P-C-Property-_R0119009-1) |
 
 ## About This Role
 
-This engineering manager position at USAA was posted on 2026-04-16.
+This engineering manager position at USAA was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

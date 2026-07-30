@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shenzhen, Guangdong, China |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/_R107732-2) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/_R107824-1) |
 
 ## About This Role
 
-This product manager position at Tencent was posted on 2026-07-07.
+This product manager position at Tencent was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

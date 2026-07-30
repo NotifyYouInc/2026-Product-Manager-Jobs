@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Morristown, Tennessee, United States |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Product-Owner_R2855711) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Product-Owner_R2863878) |
 
 ## About This Role
 
-This product manager position at Sanofi was posted on 2026-04-30.
+This product manager position at Sanofi was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

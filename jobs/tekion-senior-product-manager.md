@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tekion](https://scoutify.ai/companies/tekion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7782738003) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7806634003) |
 
 ## About This Role
 
-This product manager position at Tekion was posted on 2026-07-21.
+This product manager position at Tekion was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

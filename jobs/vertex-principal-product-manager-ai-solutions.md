@@ -1,16 +1,16 @@
-# Principal Product Manager – AI Solutions at Vertex
+# Principal Product Manager - AI Solutions at Vertex
 
 | Field | Details |
 |-------|---------|
 | Company | [Vertex](https://scoutify.ai/companies/vertexinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote-USA/Principal-Product-Manager---AI-Solutions_JR102482-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://vertexinc.wd1.myworkdayjobs.com/VertexInc/job/Remote-USA/Principal-Product-Manager---AI-Solutions_JR102540-1) |
 
 ## About This Role
 
-This product manager position at Vertex was posted on 2026-05-01.
+This product manager position at Vertex was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

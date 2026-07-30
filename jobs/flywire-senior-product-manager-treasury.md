@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000138697430-senior-product-manager-treasury) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000139087309-senior-product-manager-treasury) |
 
 ## About This Role
 
-This product manager position at Flywire was posted on 2026-07-20.
+This product manager position at Flywire was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
