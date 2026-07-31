@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bellevue, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10430670/sr-product-manager-tech-crme-controls-engineering) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10483308/sr-product-manager-tech-crme-controls-engineering) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-05-26.
+This product manager position at Amazon was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

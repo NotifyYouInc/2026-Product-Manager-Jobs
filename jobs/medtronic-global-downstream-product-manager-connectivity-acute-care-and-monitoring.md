@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lafayette, Louisiana, United States |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Global-Downstream-Product-Manager--Connectivity---Acute-Care-and-Monitoring_R67227-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Global-Downstream-Product-Manager--Connectivity---Acute-Care-and-Monitoring_R72122-1) |
 
 ## About This Role
 
-This product manager position at Medtronic was posted on 2026-05-15.
+This product manager position at Medtronic was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

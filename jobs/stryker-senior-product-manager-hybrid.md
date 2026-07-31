@@ -1,16 +1,16 @@
-# Senior Product Manager (hybrid) at Stryker
+# Senior Product Manager (Hybrid) at Stryker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bloomington, Minnesota, United States |
+| Location | Hamilton, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Bloomington-Minnesota/Senior-Product-Manager--hybrid-_R564623) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Hamilton-Canada/Senior-Product-Manager--Hybrid-_R569431) |
 
 ## About This Role
 
-This product manager position at Stryker was posted on 2026-06-02.
+This product manager position at Stryker was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

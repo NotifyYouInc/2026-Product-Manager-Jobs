@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dardilly, Rhône-Alpes, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000137072354-product-manager-senior-hf) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000139538349-product-manager-senior-hf) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-07-10.
+This product manager position at SEPTEO was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

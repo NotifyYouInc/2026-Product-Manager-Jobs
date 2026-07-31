@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Manager--Product-Management-Emerging-Payments_R247548-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Manager--Product-Management-Emerging-Payments_R247586-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-07-22.
+This product manager position at Capital One was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

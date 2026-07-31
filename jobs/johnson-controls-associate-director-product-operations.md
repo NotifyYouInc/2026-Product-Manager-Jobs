@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Glendale, Arizona, United States |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Associate-Director--Product-Operations_WD30274091-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dubai-Dubai-United-Arab-Emirates/Associate-Director--Product-Operations_WD30275160-1) |
 
 ## About This Role
 
-This product manager position at Johnson Controls was posted on 2026-07-21.
+This product manager position at Johnson Controls was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

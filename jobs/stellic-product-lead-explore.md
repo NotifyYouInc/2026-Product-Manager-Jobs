@@ -5,12 +5,12 @@
 | Company | [Stellic](https://scoutify.ai/companies/stellic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Mateo, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/stellic/05f2bb97-f2d6-4828-8895-8d6e8145aad2) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/stellic/ef09afb7-b923-41f2-beb5-e029a2cd36ba) |
 
 ## About This Role
 
-This product manager position at Stellic was posted on 2026-04-26.
+This product manager position at Stellic was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

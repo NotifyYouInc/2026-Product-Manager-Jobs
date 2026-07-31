@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | West Union, Ohio, United States |
+| Location | Mâcon, Bourgogne, France |
 | Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-South-Carolina-West-Union/Product-Manager_JR102697-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/France-Macon/Product-Manager_JR102720) |
 
 ## About This Role
 
-This product manager position at Itron was posted on 2026-07-17.
+This product manager position at Itron was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

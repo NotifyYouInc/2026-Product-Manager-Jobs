@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Uppsala, Uppsala, Sweden |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Senior-Sensors-Product-Manager_R1315715) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Portsmouth-United-Kingdom/Senior-Sensors-Product-Manager_R1314406) |
 
 ## About This Role
 

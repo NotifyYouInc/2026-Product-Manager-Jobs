@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Leipzig, Saxony, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133342879-werkstudent-mwd-produktmanagement-dein-einstieg-in-die-ki-produktentwicklung-reise) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000139286534-werkstudent-mwd-produktmanagement-dein-einstieg-in-die-ki-produktentwicklung-reise) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-06-22.
+This product manager position at CHECK24 was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

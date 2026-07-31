@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cork, Munster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Senior-Product-Manager--TETRA-Devices_R62118-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Cork-Ireland/Senior-Product-Manager--TETRA-Devices_R66918-1) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-02-13.
+This product manager position at Motorola Solutions was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

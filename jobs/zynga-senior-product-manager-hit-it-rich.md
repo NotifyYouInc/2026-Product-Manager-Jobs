@@ -1,16 +1,16 @@
-# Senior Product Manager - Hit It Rich at Zynga
+# Senior Product Manager - Hit It Rich! at Zynga
 
 | Field | Details |
 |-------|---------|
 | Company | [Zynga](https://scoutify.ai/companies/zynga?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/5843193004) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zyngacareers/jobs/6122577004) |
 
 ## About This Role
 
-This product manager position at Zynga was posted on 2026-04-06.
+This product manager position at Zynga was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

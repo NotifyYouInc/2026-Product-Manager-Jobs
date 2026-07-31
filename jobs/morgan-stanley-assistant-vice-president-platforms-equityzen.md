@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Assistant-Vice-President--Platforms---EquityZen_PT-JR033726) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Assistant-Vice-President--Platforms---EquityZen_JR041039) |
 
 ## About This Role
 
-This product manager position at Morgan Stanley was posted on 2026-04-03.
+This product manager position at Morgan Stanley was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

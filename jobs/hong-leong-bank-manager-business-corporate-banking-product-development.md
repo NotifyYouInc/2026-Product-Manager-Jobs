@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Malaysia |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Business---Corporate-Banking--Product-Development-_JR0000022798) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Business---Corporate-Banking--Product-Development-_JR0000025640) |
 
 ## About This Role
 
-This product manager position at Hong Leong Bank was posted on 2026-04-23.
+This product manager position at Hong Leong Bank was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cortea](https://scoutify.ai/companies/cortea?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cortea/566d0b74-03d9-4f64-bec5-95ed8f723a71) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cortea/f05bc5c9-8040-4359-ad6d-8b09b6d70f6a) |
 
 ## About This Role
 
-This product manager position at Cortea was posted on 2026-07-01.
+This product manager position at Cortea was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

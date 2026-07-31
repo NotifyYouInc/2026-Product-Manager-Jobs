@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Zaventem, Flanders, Belgium |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Zaventem-Belgium/Product-Manager_R1545490) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Product-Manager_R1550070) |
 
 ## About This Role
 
-This product manager position at IQVIA was posted on 2026-05-19.
+This product manager position at IQVIA was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

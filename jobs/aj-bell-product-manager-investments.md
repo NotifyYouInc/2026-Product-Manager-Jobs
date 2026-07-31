@@ -5,12 +5,12 @@
 | Company | [AJ Bell](https://scoutify.ai/companies/ajbell1?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000138799709-product-manager-investments) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AJBell1/744000139283086-product-manager-investments) |
 
 ## About This Role
 
-This product manager position at AJ Bell was posted on 2026-07-21.
+This product manager position at AJ Bell was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Idexcorp](https://scoutify.ai/companies/idexcorp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Mansfield, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Pittsburgh-Pennsylvania/Product-Manager_R-09166-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Mansfield-Ohio/Product-Manager_R-09441) |
 
 ## About This Role
 
-This product manager position at Idexcorp was posted on 2026-06-15.
+This product manager position at Idexcorp was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

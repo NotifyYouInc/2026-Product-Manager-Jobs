@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Minsk, Minsk City, Belarus |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Hong-Kong--Hong-Kong--20F-AIA-Tower-183-Electric-Road/Product-Manager_31156538-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Belarus---Minsk/Product-Manager_31157127) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-07-20.
+This product manager position at Abbott was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

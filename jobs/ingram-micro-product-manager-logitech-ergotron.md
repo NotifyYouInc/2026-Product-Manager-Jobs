@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kwun Tong, Kwun Tong District, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kwun-Tong-Hong-Kong/Product-Manager--Logitech---Ergotron_R-114878) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kwun-Tong-Hong-Kong/Product-Manager--Logitech---Ergotron_R-116566) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-04-22.
+This product manager position at Ingram Micro was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

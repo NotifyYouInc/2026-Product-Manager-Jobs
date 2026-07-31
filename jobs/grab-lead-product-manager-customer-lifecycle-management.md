@@ -1,16 +1,16 @@
-# Lead product manager, Customer Lifecycle Management at Grab
+# Lead Product Manager, Customer Lifecycle Management at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000137360859-lead-product-manager-customer-lifecycle-management) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000139461894-lead-product-manager-customer-lifecycle-management) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-07-13.
+This product manager position at Grab was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
