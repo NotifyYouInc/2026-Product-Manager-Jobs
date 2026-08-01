@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Pedro Garza García, Nuevo León, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/IT-Product-Owner_WD30268312) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/IT-Product-Owner_WD30275445) |
 
 ## About This Role
 
-This product manager position at Johnson Controls was posted on 2026-05-11.
+This product manager position at Johnson Controls was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

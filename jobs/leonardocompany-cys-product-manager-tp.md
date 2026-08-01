@@ -5,12 +5,12 @@
 | Company | [Leonardocompany](https://scoutify.ai/companies/leonardocompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Italy |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Roma---Via-Laurentina/CYS--Product-Manager--TP_R0028814) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/IT---Roma---Via-Laurentina/CYS--Product-Manager--TP_R0027667) |
 
 ## About This Role
 
-This product manager position at Leonardocompany was posted on 2026-04-23.
+This product manager position at Leonardocompany was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

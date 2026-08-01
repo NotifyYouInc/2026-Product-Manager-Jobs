@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | Switzerland |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MA---Cambridge---Kendall-Square---500/Global-New-Product-Lead--Neuroscience_R0183798-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Zurich-Switzerland/Global-New-Product-Lead--Neuroscience_R0185510) |
 
 ## About This Role
 
-This product manager position at Takeda was posted on 2026-07-06.
+This product manager position at Takeda was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

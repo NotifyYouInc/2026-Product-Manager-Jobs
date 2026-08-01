@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shenzhen-Guangdong-China/Product-Management-Engineer-II_JR-023221) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shanghai-Shanghai-China/Product-Management-Engineer-II_JR-023783) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-06-09.
+This product manager position at Avnet was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Product-Owner---Agile_R0116425) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Product-Owner---Agile_R0117114-1) |
 
 ## About This Role
 
-This product manager position at Truist was posted on 2026-07-03.
+This product manager position at Truist was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

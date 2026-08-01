@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Product-Owner_R260013581) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Product-Owner_R260019173) |
 
 ## About This Role
 
-This product manager position at Bank of Montreal was posted on 2026-05-05.
+This product manager position at Bank of Montreal was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

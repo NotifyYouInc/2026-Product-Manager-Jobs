@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Sr-Associate--Product-Management_R243802-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Houston-TX/Sr-Associate--Product-Management_R247718-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-06-05.
+This product manager position at Capital One was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

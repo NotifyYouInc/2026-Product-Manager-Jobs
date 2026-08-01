@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Eindhoven, North Brabant, The Netherlands |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000138624360-senior-product-manager-pharma-process-design-ai-mfd) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000139636602-senior-product-manager-pharma-process-design-ai-mfd) |
 
 ## About This Role
 
-This product manager position at Redcare Pharmacy was posted on 2026-07-20.
+This product manager position at Redcare Pharmacy was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/5b15c4aa-effa-4b9c-95bc-c061c70dfca9) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/53ae82a6-d5d6-4565-88aa-c6a2feccc736) |
 
 ## About This Role
 
-This product manager position at Legora (formerly Leya) was posted on 2026-06-25.
+This product manager position at Legora (formerly Leya) was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

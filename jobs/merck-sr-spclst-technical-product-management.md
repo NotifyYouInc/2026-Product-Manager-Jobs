@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IRL---Dublin---Leopardstown-Red-Oak/Sr-Spclst---Technical-Product-Management_R407933-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Sr-Spclst---Technical-Product-Management_R407424-2) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-07-22.
+This product manager position at Merck was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wing Assistant](https://scoutify.ai/companies/wing-assistant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | China |
+| Location | Beijing, Beijing, China |
 | Category | Go To Market Engineer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.lever.co/getwingapp/749ebeca-a4aa-4351-9634-edddfd485f1a) |
+| Apply | [View on company site](https://jobs.lever.co/getwingapp/6280db51-b402-4c94-8b10-90875af8c0c3) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Assoc. Dir , Technical Product Management at Merck
+# Assoc. Dir. , Technical Product Management at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---West-Point/Assoc-Dir---Technical-Product-Management_R399434-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Assoc-Dir---Technical-Product-Management_R399185-1) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-05-21.
+This product manager position at Merck was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

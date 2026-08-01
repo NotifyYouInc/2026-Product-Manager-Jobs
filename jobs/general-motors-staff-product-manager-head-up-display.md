@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Warren, Michigan, United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Product-Manager---Head-Up-Display_JR-202608197-2) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Product-Manager---Head-Up-Display_JR-202616031-1) |
 
 ## About This Role
 
-This product manager position at General Motors was posted on 2026-04-16.
+This product manager position at General Motors was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
