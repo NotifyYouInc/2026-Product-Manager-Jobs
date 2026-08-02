@@ -1,16 +1,16 @@
-# Product Manager at Johnson & Johnson
+# Director, Multi-Asset Product Management at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Porto Salvo, Lisbon, Portugal |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Porto-Salvo-Portugal/Product-Manager_R-087174) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Director--Multi-Asset-Product-Management_330492-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-07-26.
+This product manager position at S&P Global was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

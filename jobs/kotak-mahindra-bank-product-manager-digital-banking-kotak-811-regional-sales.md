@@ -1,16 +1,16 @@
-# Product Manager at Johnson & Johnson
+# Product Manager-Digital Banking Kotak 811-Regional Sales at Kotak Mahindra Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Porto Salvo, Lisbon, Portugal |
+| Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Porto-Salvo-Portugal/Product-Manager_R-087174) |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#251022) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-07-26.
+This product manager position at Kotak Mahindra Bank was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Director--Product-Management_JR345452-1) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Israel---Tel-Aviv/Senior-Director--Product-Management_JR353113) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-06-17.
+This product manager position at Salesforce was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 
