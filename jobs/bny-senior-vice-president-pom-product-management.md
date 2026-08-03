@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Frankfurt am Main, Hesse, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#77346) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#78150) |
 
 ## About This Role
 
-This product manager position at BNY was posted on 2026-07-01.
+This product manager position at BNY was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

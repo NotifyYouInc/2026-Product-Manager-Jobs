@@ -1,16 +1,16 @@
-# Product Owner (H/F) at Inetum
+# Product Owner H/F at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139023069-product-owner-hf) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139953339-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Inetum was posted on 2026-07-22.
+This product manager position at Inetum was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

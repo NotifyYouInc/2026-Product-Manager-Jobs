@@ -6,7 +6,7 @@
 | Location | Boadilla del Monte, Madrid, Spain |
 | Category | Data Analyst |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Senior-Digital-Product-Analyst_Req1594513-1) |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Boadilla-del-Monte/Senior-Digital-Product-Analyst_Req1594511-1) |
 
 ## About This Role
 

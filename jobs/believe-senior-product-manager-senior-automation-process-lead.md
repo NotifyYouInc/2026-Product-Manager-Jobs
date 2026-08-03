@@ -5,12 +5,12 @@
 | Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000136753979-senior-product-manager-senior-automation-process-lead) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000139919699-senior-product-manager-senior-automation-process-lead) |
 
 ## About This Role
 
-This product manager position at Believe was posted on 2026-07-09.
+This product manager position at Believe was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
