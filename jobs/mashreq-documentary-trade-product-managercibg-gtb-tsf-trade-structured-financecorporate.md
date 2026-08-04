@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mashreq](https://scoutify.ai/companies/em2-cx-oj68872?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Arab Emirates |
-| Category | Product Manager |
+| Category | Investment Banking |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://hcld.fa.em2.oraclecloud.com/jobs/#6265) |
 
 ## About This Role
 
-This product manager position at Mashreq was posted on 2026-07-27.
+This investment banking position at Mashreq was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

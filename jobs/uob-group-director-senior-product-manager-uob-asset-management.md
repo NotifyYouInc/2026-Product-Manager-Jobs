@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore |
-| Category | Product Manager |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/Director--Senior-Product-Manager--UOB-Asset-Management_JR92353) |
 
 ## About This Role
 
-This product manager position at UOB Group was posted on 2026-07-27.
+This asset management / portfolio management position at UOB Group was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

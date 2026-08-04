@@ -5,12 +5,12 @@
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Information-Technology-Product-Manager-Team-Manager--see-locations-_R102656) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Information-Technology-Product-Manager-Team-Manager--see-locations-_R104550) |
 
 ## About This Role
 
-This product manager position at Regions Bank was posted on 2026-05-26.
+This product manager position at Regions Bank was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Manager - Immunology at Johnson & Johnson
+# Senior Product Manager Immunology at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vietnam |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Ho-Chi-Minh-H-Ch-Minh-Vietnam/Senior-Product-Manager---Immunology_R-074240) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Dubai-United-Arab-Emirates/Senior-Product-Manager-Immunology_R-089366-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-05-08.
+This product manager position at Johnson & Johnson was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

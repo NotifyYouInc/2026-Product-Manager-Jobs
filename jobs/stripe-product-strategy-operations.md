@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Manager |
+| Category | Operations |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8081423) |
 
 ## About This Role
 
-This product manager position at Stripe was posted on 2026-07-27.
+This operations position at Stripe was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

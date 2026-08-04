@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Thornton, Colorado, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/123205032911741638-product-manager-google-global-infrastructure?sort_by=date&page=1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcka3UALQRdZdfYCH8euHYyOk_MtsbBNovZJ4Z4UWDlMhSEjsA1Ny_i0CAYGw-Hhn652Z-925QuMbsrs69kewL1X_8eq6aByDV2KNG3z3ez7Ymyb1ZOPguT44KPAqe3A%3D%3D_V2&loc=US&title=Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-04.
+This product manager position at Google was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

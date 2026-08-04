@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Product Manager |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/IN---Hyderabad/IT-Application-Expert-SAP-PM-and-CMX_R78090) |
 
 ## About This Role
 
-This product manager position at Lonza Group was posted on 2026-07-24.
+This it & systems administration position at Lonza Group was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

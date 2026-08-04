@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Software Engineer |
+| Category | Technical Product Manager |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Principal-Engineer--Tech-Product-Management_R-1098666) |
 
 ## About This Role
 
-This software engineer position at Verizon was posted on 2026-07-25.
+This technical product manager position at Verizon was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tekion](https://scoutify.ai/companies/tekion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pleasanton, California, United States |
-| Category | Product Manager |
+| Category | Project Manager |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7806640003) |
 
 ## About This Role
 
-This product manager position at Tekion was posted on 2026-07-24.
+This project manager position at Tekion was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

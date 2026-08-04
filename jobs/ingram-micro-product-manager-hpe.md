@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Czechia |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Dubai-United-Arab-Emirates/Product-Manager-HPE_R-113200) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Krlov-Czechia/Product-Manager-HPE_R-115990) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-04-16.
+This product manager position at Ingram Micro was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

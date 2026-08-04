@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GR8 Tech](https://scoutify.ai/companies/gr8-tech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Armenia |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4896615101) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/gr8tech/jobs/4936259101) |
 
 ## About This Role
 
-This product manager position at GR8 Tech was posted on 2026-06-25.
+This product manager position at GR8 Tech was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

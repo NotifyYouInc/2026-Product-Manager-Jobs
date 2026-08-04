@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Duncan, Oklahoma, United States |
-| Category | Product Manager |
+| Category | Industrial Automation |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Duncan-South-Carolina-US/Process-Technician---3rd-Shift--11-PM---7-30-AM-_R00253736-1) |
 
 ## About This Role
 
-This product manager position at Magna was posted on 2026-07-24.
+This industrial automation position at Magna was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

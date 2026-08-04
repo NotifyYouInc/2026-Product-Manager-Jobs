@@ -5,12 +5,12 @@
 | Company | [House of Commons (Canada) / Chambre des communes (Canada)](https://scoutify.ai/companies/houseofcommonscanadachambredescommunescanada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000138931958-gestionnaire-de-la-livraison-des-produits) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HouseOfCommonsCanadaChambreDesCommunesCanada/744000139991079-gestionnaire-de-la-livraison-des-produits) |
 
 ## About This Role
 
-This product manager position at House of Commons (Canada) / Chambre des communes (Canada) was posted on 2026-07-21.
+This product manager position at House of Commons (Canada) / Chambre des communes (Canada) was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

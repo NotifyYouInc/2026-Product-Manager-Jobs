@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Brno, South Moravian, Czechia |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Product-Manager_R-01359077) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Product-Manager_R-01361453) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-07-15.
+This product manager position at Thermo Fisher Scientific was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

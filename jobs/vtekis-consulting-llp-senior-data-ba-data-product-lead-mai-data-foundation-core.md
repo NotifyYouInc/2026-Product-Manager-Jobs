@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Switzerland |
-| Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000139349280-senior-data-ba-data-product-lead-mai-data-foundation-core) |
+| Category | Business Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000140042489-senior-data-ba-data-product-lead-mai-data-foundation-core) |
 
 ## About This Role
 
-This product manager position at VTekis Consulting LLP was posted on 2026-07-23.
+This business analyst position at VTekis Consulting LLP was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

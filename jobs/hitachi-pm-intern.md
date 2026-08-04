@@ -1,16 +1,16 @@
-# PM Intern at Hitachi
+# PM intern at Hitachi
 
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Shanghai-China/PM-Intern_R0132206) |
+| Location | Chongqing, Chongqing, China |
+| Category | Project Manager |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chongqing-China/PM-intern_R0139384) |
 
 ## About This Role
 
-This product manager position at Hitachi was posted on 2026-06-02.
+This project manager position at Hitachi was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

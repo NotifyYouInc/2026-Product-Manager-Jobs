@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EZCORP](https://scoutify.ai/companies/ezcorp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Guatemala |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://ezcorp.wd12.myworkdayjobs.com/ezcorp/job/Corporate-Remote-Guatemala/Technical-Product-Owner_JR129234) |
 
 ## About This Role
 
-This product manager position at EZCORP was posted on 2026-07-25.
+This technical product manager position at EZCORP was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

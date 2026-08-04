@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Product Manager |
+| Category | Operations |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f9696a28-9760-48fc-bc66-79d097f027be) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-07-26.
+This operations position at Bjak was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

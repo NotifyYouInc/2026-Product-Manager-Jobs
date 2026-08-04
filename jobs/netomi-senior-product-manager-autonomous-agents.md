@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netomi](https://scoutify.ai/companies/netomi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.lever.co/netomi/c83a8721-a18f-4e31-93b6-057b97d21e38) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.lever.co/netomi/95e435dc-8e47-41ed-9640-b7b7a5d9c821) |
 
 ## About This Role
 
-This product manager position at Netomi was posted on 2026-03-06.
+This product manager position at Netomi was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Seoul-Korea-Republic-of/XMLNAME--MedTech--Associate-Product-Manager---Electrophysiology_R-089821-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-07-27.
+This product marketing position at Johnson & Johnson was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

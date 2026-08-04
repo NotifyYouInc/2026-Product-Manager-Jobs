@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Maplewood, Minnesota, United States |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Global-Product-Manager_R01168045) |
 
 ## About This Role
 
-This product manager position at 3M Company was posted on 2026-07-24.
+This product marketing position at 3M Company was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

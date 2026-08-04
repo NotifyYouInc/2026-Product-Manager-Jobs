@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Product Manager |
+| Category | Marketing Operations |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/MarTech-Lead_R0037678-1) |
 
 ## About This Role
 
-This product manager position at HUB International was posted on 2026-07-24.
+This marketing operations position at HUB International was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

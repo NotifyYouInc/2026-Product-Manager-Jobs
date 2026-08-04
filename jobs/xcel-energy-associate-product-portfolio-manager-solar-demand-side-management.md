@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Associate-Product-Portfolio-Manager---Solar-Demand-Side-Management_JR115157) |
 
 ## About This Role
 
-This product manager position at Xcel Energy was posted on 2026-07-24.
+This asset management / portfolio management position at Xcel Energy was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

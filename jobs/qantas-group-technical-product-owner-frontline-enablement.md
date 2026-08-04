@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001261418-technical-product-owner-frontline-enablement) |
 
 ## About This Role
 
-This product manager position at Qantas Group was posted on 2026-07-27.
+This technical product manager position at Qantas Group was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

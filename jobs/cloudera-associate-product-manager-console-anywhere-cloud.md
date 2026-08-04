@@ -5,12 +5,12 @@
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Associate-Product-Manager---Console--Anywhere-Cloud_260866) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Associate-Product-Manager---Console--Anywhere-Cloud_261044) |
 
 ## About This Role
 
-This product manager position at Cloudera was posted on 2026-06-24.
+This product manager position at Cloudera was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

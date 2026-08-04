@@ -5,12 +5,12 @@
 | Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Manager_REQ259929) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Product-Manager_REQ260509-2) |
 
 ## About This Role
 
-This product manager position at Cba was posted on 2026-06-30.
+This product manager position at Cba was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

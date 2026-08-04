@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Creative Artists Agency](https://scoutify.ai/companies/caa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Engineering Manager |
+| Category | Brand Marketing |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://caa.wd1.myworkdayjobs.com/Careers/job/New-York-NY/Product-Development-Manager--Brand-Management_JR9047) |
 
 ## About This Role
 
-This engineering manager position at Creative Artists Agency was posted on 2026-07-24.
+This brand marketing position at Creative Artists Agency was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

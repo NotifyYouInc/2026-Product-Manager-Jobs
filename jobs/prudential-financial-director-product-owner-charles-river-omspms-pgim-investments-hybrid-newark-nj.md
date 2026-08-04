@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Newark, New Jersey, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Director--Product-Owner---Charles-River-OMS-PMS---PGIM-Investments--Hybrid---Newark--NJ-_R-124677-1) |
 
 ## About This Role
 
-This product manager position at Prudential Financial was posted on 2026-07-24.
+This technical product manager position at Prudential Financial was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

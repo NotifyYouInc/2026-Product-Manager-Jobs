@@ -5,12 +5,12 @@
 | Company | [TriNet](https://scoutify.ai/companies/ocs-cx-oj111016?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3003483) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3003758) |
 
 ## About This Role
 
-This product manager position at TriNet was posted on 2026-05-21.
+This product manager position at TriNet was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

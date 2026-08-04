@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Product Manager |
+| Category | Content Marketing |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Senior-Product-Manager--Content-Experiences---epocrates_R15304) |
 
 ## About This Role
 
-This product manager position at Athena Health was posted on 2026-07-24.
+This content marketing position at Athena Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

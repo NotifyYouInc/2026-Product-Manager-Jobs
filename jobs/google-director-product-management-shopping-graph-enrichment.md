@@ -1,16 +1,16 @@
-# Director, Product Management, Shopping Graph Enrichment at Google
+# Director, Product Management, Shopping Graph Enrichment ` at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZuAOJ9724ASIEN66Wdiy8dJcHDRHglbo50L8xbcaoiJEjsA1Ny_i0GNYZ6odtz744oc9u54AbMK31BNCRclde0aO2rwAy4_W7EewsTPBEmaNlaAzUrAxlwjzd3ayw%3D%3D_V2&loc=US&title=Director) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckU6Y5wrJ_eFD7C-8HLJqv7i2eBe_9XGrUz332n6EaUIsEjsA1Ny_izjAl8X7f4-IUEJThGq8s2b6t0FctPGqglc7Z6x59r77vdJaeJcCBG5rAk90zC8XPs7G3KYUQQ%3D%3D_V2&loc=US&title=Director) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-26.
+This product manager position at Google was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

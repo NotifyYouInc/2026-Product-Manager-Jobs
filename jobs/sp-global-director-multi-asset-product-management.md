@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Director--Multi-Asset-Product-Management_330492-1) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-07-26.
+This asset management / portfolio management position at S&P Global was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

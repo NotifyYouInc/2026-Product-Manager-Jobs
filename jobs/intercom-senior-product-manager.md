@@ -1,16 +1,16 @@
-# Senior Product Manager  at Intercom
+#  Senior Product Manager  at Intercom
 
 | Field | Details |
 |-------|---------|
 | Company | [Intercom](https://scoutify.ai/companies/intercom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/5916272) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/intercom/jobs/8090570) |
 
 ## About This Role
 
-This product manager position at Intercom was posted on 2026-05-28.
+This product manager position at Intercom was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
