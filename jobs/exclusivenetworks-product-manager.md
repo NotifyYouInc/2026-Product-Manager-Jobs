@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Jakarta/Product-Manager_JR2148-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Hong-Kong/Product-Manager_JR2309-1) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-06-26.
+This product manager position at Exclusivenetworks was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

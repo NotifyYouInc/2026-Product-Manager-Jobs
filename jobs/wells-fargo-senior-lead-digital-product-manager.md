@@ -1,16 +1,16 @@
-# Senior Lead Digital Product Manager at Wells Fargo
+# Senior lead Digital Product Manager at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
-| Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Digital-Product-Manager_R-556335) |
+| Location | 8 locations |
+| Category | Technical Product Manager |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-lead-Digital-Product-Manager_R-562576) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-07-15.
+This technical product manager position at Wells Fargo was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

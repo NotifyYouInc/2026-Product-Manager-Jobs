@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Soignies, Wallonia, Belgium |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000139999019-product-manager-digital-printing-media-graphics-segment-emena) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000140199792-product-manager-digital-printing-media-graphics-segment-emena) |
 
 ## About This Role
 
-This product manager position at Avery Dennison Corporation was posted on 2026-07-27.
+This product manager position at Avery Dennison Corporation was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

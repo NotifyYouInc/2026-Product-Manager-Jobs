@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Product-Leader--Cell-Therapy--Solid-Tumor-Franchise_R-255959) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Product-Leader--Cell-Therapy--Solid-Tumor-Franchise_R-257264) |
 
 ## About This Role
 
-This product manager position at AstraZeneca was posted on 2026-07-07.
+This product manager position at AstraZeneca was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

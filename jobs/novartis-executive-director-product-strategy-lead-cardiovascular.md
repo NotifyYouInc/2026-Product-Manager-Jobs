@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | East Hanover, New Jersey, United States |
-| Category | Product Marketing |
+| Category | Strategy & Operations |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/Executive-Director--Product-Strategy-Lead-Cardiovascular_REQ-10084378-2) |
 
 ## About This Role
 
-This product marketing position at Novartis was posted on 2026-07-28.
+This strategy & operations position at Novartis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

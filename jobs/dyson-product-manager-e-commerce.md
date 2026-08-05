@@ -5,12 +5,12 @@
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Netherlands---Amsterdam-Office/Product-Manager--E-Commerce_JR36791) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Netherlands---Amsterdam-Office/Product-Manager--E-Commerce_JR37720) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-06-26.
+This product manager position at Dyson was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

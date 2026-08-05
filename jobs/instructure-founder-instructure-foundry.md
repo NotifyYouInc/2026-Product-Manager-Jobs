@@ -5,12 +5,12 @@
 | Company | [Instructure](https://scoutify.ai/companies/instructure?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/instructure/0f6b34fd-2603-46d6-addb-49f9f0775e51) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/instructure/0305750b-c53b-4829-b14d-d7b98ab1aacd) |
 
 ## About This Role
 
-This product manager position at Instructure was posted on 2026-07-17.
+This product manager position at Instructure was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

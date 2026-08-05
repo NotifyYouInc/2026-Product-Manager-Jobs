@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ede, Osun State, Nigeria |
+| Location | Rotherham, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Ede/Product-Manager_R26_0000019797) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/GBR-AAG---AAL-Rotherham/Product-Manager_R26_0000023741) |
 
 ## About This Role
 
-This product manager position at Genuine Parts Company was posted on 2026-07-15.
+This product manager position at Genuine Parts Company was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

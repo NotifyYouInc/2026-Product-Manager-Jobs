@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---GA-Atlanta/Product-Manager_R56475) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-GA/Product-Manager_R57192) |
 
 ## About This Role
 
-This product manager position at Trimble was posted on 2026-06-01.
+This product manager position at Trimble was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

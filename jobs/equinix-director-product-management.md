@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Director--Product-Management_JR-159432) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Director--Product-Management_JR-162479) |
 
 ## About This Role
 
-This product manager position at Equinix was posted on 2026-03-24.
+This product manager position at Equinix was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

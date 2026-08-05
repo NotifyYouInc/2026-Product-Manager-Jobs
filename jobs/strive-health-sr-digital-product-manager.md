@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Strive Health](https://scoutify.ai/companies/strive-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/strivehealth/jobs/4686975006) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/strivehealth/jobs/4700508006) |
 
 ## About This Role
 
-This product manager position at Strive Health was posted on 2026-06-05.
+This product manager position at Strive Health was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

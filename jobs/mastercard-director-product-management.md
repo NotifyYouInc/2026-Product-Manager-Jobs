@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal/Director--Product-Management_R-286300) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Product-Management_R-282421) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-23.
+This product manager position at Mastercard was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

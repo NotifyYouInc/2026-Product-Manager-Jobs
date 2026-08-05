@@ -6,7 +6,7 @@
 | Location | Windsor, Connecticut, United States |
 | Category | Product Manager |
 | Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000140065559-product-manager-data-center-usa-ecs) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StaubliGroup/744000140068319-product-manager-data-center-usa-ecs) |
 
 ## About This Role
 

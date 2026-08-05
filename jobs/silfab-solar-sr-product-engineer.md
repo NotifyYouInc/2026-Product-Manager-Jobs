@@ -5,12 +5,12 @@
 | Company | [Silfab Solar](https://scoutify.ai/companies/silfab-solar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Fort Mill, South Carolina, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/silfabsolar/744000139661869-sr-product-engineer) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/silfabsolar/744000140273447-sr-product-engineer) |
 
 ## About This Role
 
-This software engineer position at Silfab Solar was posted on 2026-07-24.
+This software engineer position at Silfab Solar was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

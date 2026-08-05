@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/VP--Senior-Bond-Analyst--Issuer-Services_26961320-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/VP--Senior-Bond-Analyst--Issuer-Services_26981185) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-05-05.
+This product manager position at Citigroup was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

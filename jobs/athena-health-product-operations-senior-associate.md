@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Product-Operations-Senior-Associate_R14591) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Product-Operations-Senior-Associate_R15310) |
 
 ## About This Role
 
-This product manager position at Athena Health was posted on 2026-03-10.
+This product manager position at Athena Health was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

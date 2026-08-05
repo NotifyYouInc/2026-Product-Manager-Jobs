@@ -5,12 +5,12 @@
 | Company | [Oxylabs](https://scoutify.ai/companies/oxylabs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/oxylabs/2539dae6-258e-4445-9f19-d632c846efad) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.lever.co/oxylabs/5cf890d9-0e9e-44c2-8c75-486023a0fd25) |
 
 ## About This Role
 
-This product manager position at Oxylabs was posted on 2026-04-23.
+This product manager position at Oxylabs was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

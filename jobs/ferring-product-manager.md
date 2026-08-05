@@ -1,16 +1,16 @@
-# Product manager at Ferring
+# Product Manager at Ferring
 
 | Field | Details |
 |-------|---------|
 | Company | [Ferring](https://scoutify.ai/companies/ferring?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Shanghai-China/Product-manager_R0037021-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Mexico-City-Mexico/Product-Manager_R0038031) |
 
 ## About This Role
 
-This product manager position at Ferring was posted on 2026-04-30.
+This product manager position at Ferring was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

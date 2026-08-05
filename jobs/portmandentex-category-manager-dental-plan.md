@@ -5,12 +5,12 @@
 | Company | [PortmanDentex](https://scoutify.ai/companies/portmandentex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cheltenham, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PortmanDentex/744000134660370-category-manager-dental-plan) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PortmanDentex/744000140241189-category-manager-dental-plan) |
 
 ## About This Role
 
-This product manager position at PortmanDentex was posted on 2026-06-28.
+This product manager position at PortmanDentex was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

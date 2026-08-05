@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Zaventem, Flanders, Belgium |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000136813710-product-owner) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000140232949-product-owner) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-07-09.
+This product manager position at SEPTEO was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

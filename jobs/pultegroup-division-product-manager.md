@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PulteGroup](https://scoutify.ai/companies/pultegroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Alpharetta, Georgia, United States |
+| Location | Schaumburg, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Alpharetta-GA/Division-Product-Manager_JR8997) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://pultegroup.wd1.myworkdayjobs.com/pgi/job/Schaumburg-IL/Division-Product-Manager_JR9394) |
 
 ## About This Role
 
-This product manager position at PulteGroup was posted on 2026-05-11.
+This product manager position at PulteGroup was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

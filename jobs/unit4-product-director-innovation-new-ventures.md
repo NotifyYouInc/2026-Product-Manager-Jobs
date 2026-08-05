@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000137487339-product-director-innovation-new-ventures) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000140420115-product-director-innovation-new-ventures) |
 
 ## About This Role
 
-This product manager position at Unit4 was posted on 2026-07-13.
+This product manager position at Unit4 was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
