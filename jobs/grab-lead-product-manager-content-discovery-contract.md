@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | Content Marketing |
+| Category | Product Manager |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000140377749-lead-product-manager-content-discovery-contract) |
 
 ## About This Role
 
-This content marketing position at Grab was posted on 2026-07-29.
+This product manager position at Grab was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

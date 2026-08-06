@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
-| Category | Technical Product Manager |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager---ML-Foundation-Models_R0136942) |
 
 ## About This Role
 
-This technical product manager position at PayPal was posted on 2026-07-28.
+This product manager position at PayPal was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

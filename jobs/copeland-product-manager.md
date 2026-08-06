@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Sidney, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Pune-India/Product-Manager_JR116474) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Sidney-OH-USA/Product-Manager_JR116827) |
 
 ## About This Role
 
-This product manager position at Copeland was posted on 2026-07-10.
+This product manager position at Copeland was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

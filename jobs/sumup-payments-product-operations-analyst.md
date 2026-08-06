@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SumUp Payments](https://scoutify.ai/companies/sumup-payments?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Business Analyst |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://sumup.com/careers/positions/8654020002?gh_jid=8654020002) |
 
 ## About This Role
 
-This business analyst position at SumUp Payments was posted on 2026-07-28.
+This product manager position at SumUp Payments was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

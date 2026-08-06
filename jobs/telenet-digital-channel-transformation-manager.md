@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Telenet](https://scoutify.ai/companies/em2-cx-oj105850?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mechelen, Flanders, Belgium |
-| Category | Strategy & Operations |
+| Category | Product Manager |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://ebza.fa.em2.oraclecloud.com/jobs/#5812) |
 
 ## About This Role
 
-This strategy & operations position at Telenet was posted on 2026-07-29.
+This product manager position at Telenet was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

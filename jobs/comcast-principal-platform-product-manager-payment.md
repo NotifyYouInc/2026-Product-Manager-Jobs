@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Colorado, US |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Principal-Platform-Product-Manager--Payment_R438003) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Principal-Platform-Product-Manager--Payment_R442098) |
 
 ## About This Role
 
-This product manager position at Comcast was posted on 2026-05-21.
+This product manager position at Comcast was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

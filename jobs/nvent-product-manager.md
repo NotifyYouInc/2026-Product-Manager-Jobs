@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/New-Berlin-WI-US/Product-Manager_R20873) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Monterrey-MX/Product-Manager_R21876) |
 
 ## About This Role
 
-This product manager position at nVent was posted on 2026-03-09.
+This product manager position at nVent was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

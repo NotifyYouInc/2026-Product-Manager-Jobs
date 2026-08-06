@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Actuary / Insurance Analytics |
+| Category | Product Manager |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Sun-Life-Singapore-SCO---Exec/Chief-Product-Officer--High-Net-Worth_JR00123766) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Sun Life was posted on 2026-07-29.
+This product manager position at Sun Life was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

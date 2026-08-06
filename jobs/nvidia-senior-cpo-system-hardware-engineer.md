@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Israel |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-CPO-System-Hardware-Engineer_JR2020085) |
+| Category | Product Manager |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/Senior-CPO-System-Hardware-Engineer_JR2021711) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nvidia was posted on 2026-07-23.
+This product manager position at Nvidia was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

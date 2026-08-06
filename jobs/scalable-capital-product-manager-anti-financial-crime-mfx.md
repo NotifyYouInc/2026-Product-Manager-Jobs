@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000139279341-product-manager-anti-financial-crime-mfx) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000140456554-product-manager-anti-financial-crime-mfx) |
 
 ## About This Role
 
-This product manager position at Scalable Capital was posted on 2026-07-23.
+This product manager position at Scalable Capital was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Product-Manager_JR-0000108398) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Data-Product-Manager_JR-0000118885-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-07-15.
+This product manager position at Barclays was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

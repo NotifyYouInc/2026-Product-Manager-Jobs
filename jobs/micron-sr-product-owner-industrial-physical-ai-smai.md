@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Technical Product Manager |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Product-Owner--Industrial---Physical-AI--SMAI_JR106656) |
 
 ## About This Role
 
-This technical product manager position at Micron was posted on 2026-07-28.
+This product manager position at Micron was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

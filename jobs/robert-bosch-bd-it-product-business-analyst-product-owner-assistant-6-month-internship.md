@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vietnam |
-| Category | Business Analyst |
+| Category | Product Manager |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140391680-bd-it-product-business-analyst-product-owner-assistant-6-month-internship) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-07-29.
+This product manager position at Robert Bosch was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

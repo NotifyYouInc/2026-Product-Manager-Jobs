@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarioclinical](https://scoutify.ai/companies/clarioclinical?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hungary |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Hungary-Remote/Product-Owner_R17723) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://clarioclinical.wd1.myworkdayjobs.com/clarioclinical_careers/job/Canada-Remote---Consultant-use-only/Product-Owner_R18023) |
 
 ## About This Role
 
-This product manager position at Clarioclinical was posted on 2026-06-24.
+This product manager position at Clarioclinical was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

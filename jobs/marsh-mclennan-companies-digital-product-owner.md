@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manchester---Booth/Digital-Product-Owner_R_350535) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Melbourne---727-Collins/Digital-Product-Owner_R_360398) |
 
 ## About This Role
 
-This product manager position at Marsh & McLennan Companies was posted on 2026-05-11.
+This product manager position at Marsh & McLennan Companies was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

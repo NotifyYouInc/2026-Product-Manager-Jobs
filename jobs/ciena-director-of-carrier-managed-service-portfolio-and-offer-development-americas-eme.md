@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Director-of-Carrier-Managed-Service-Portfolio-and-Offer-Development---Americas--EMEA_R031363-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Ciena was posted on 2026-07-28.
+This product manager position at Ciena was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

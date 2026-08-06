@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | College Park, Maryland, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-COLLEGE-PARK-317--5159-Southridge-Pkwy--SOUTHRIDGE-Ste-100/Avionics-Electronics-Technician---Fri-Sun--6-AM-6-30-PM--Onsite-_01845254) |
+| Category | Product Manager |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-GA-COLLEGE-PARK-317--5159-Southridge-Pkwy--SOUTHRIDGE-Ste-100/Avionics-Electronics-Technician---Fri-Sun--6-AM-6-30-PM--Onsite-_01860663) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-05-13.
+This product manager position at RTX was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

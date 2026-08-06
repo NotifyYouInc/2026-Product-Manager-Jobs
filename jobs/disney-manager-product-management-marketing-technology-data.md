@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Celebration, Florida, United States |
-| Category | Marketing Operations |
+| Category | Product Manager |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Manager-Product-Management---Marketing-Technology-Data_10154167-1) |
 
 ## About This Role
 
-This marketing operations position at Disney was posted on 2026-07-29.
+This product manager position at Disney was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

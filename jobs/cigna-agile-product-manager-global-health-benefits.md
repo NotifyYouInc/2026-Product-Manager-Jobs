@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ESP-Madrid---39-hours/Agile-Product-Manager---Global-Health-Benefits_26004446-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/ESP-Madrid---39-hours/Agile-Product-Manager---Global-Health-Benefits_26009174) |
 
 ## About This Role
 
-This product manager position at Cigna was posted on 2026-05-01.
+This product manager position at Cigna was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

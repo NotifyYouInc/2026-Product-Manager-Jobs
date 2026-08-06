@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Accounting |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/UK--London--New-Oxford-Street/Workday-Payroll-Product-Owner_444960-1) |
 
 ## About This Role
 
-This accounting position at GSK was posted on 2026-07-28.
+This product manager position at GSK was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

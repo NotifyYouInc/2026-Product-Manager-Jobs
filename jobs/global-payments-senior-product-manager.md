@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lindon, Utah, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/LINDON-UTAH/Senior-Product-Manager_R0072935) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DUBLIN--IRELAND/Senior-Product-Manager_R0073102) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-07-28.
+This product manager position at Global Payments was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

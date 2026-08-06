@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Waterloo, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Waterloo/Skywise-Flight-Planning-Domain-Product-Owner_JR10432704) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Waterloo/Skywise-Flight-Planning-Domain-Product-Owner_JR10433044) |
 
 ## About This Role
 
-This product manager position at Airbus was posted on 2026-07-28.
+This product manager position at Airbus was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

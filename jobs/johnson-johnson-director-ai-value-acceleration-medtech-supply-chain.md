@@ -1,16 +1,16 @@
-# Director AI & Value Acceleration- MedTech Supply Chain at Johnson & Johnson
+# Director, AI & Value Acceleration- MedTech Supply Chain at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Raritan, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Director-AI---Value-Acceleration--MedTech-Supply-Chain_R-074656-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Director--AI---Value-Acceleration--MedTech-Supply-Chain_R-091260-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-05-21.
+This product manager position at Johnson & Johnson was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

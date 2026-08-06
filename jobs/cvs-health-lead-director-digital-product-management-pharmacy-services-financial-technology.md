@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Illinois, US |
+| Location | Delaware, US |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Lead-Director---Digital-Product-Management--Pharmacy-Services-Financial-Technology-Solutions-_R0902587) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Lead-Director---Digital-Product-Management--Pharmacy-Services-Financial-Technology-Solutions-_R0907752) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-05-08.
+This product manager position at CVS Health was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

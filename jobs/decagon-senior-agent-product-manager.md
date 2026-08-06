@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/123e4aae-9550-4e69-be08-6789e09db07e) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/3a417528-0fbc-4780-8e76-1ad32429e861) |
 
 ## About This Role
 
-This product manager position at Decagon was posted on 2026-05-12.
+This product manager position at Decagon was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

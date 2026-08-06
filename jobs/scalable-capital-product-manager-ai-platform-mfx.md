@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000138649669-product-manager-ai-platform-mfx) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000140457350-product-manager-ai-platform-mfx) |
 
 ## About This Role
 
-This product manager position at Scalable Capital was posted on 2026-07-20.
+This product manager position at Scalable Capital was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

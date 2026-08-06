@@ -1,16 +1,16 @@
-# Product Owner  at Unit4
+# Product Owner at Unit4
 
 | Field | Details |
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Granada, Andalusia, Spain |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000139255159-product-owner) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000140436494-product-owner) |
 
 ## About This Role
 
-This product manager position at Unit4 was posted on 2026-07-23.
+This product manager position at Unit4 was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

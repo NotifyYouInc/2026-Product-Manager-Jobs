@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Technical Product Manager |
+| Category | Product Manager |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154457) |
 
 ## About This Role
 
-This technical product manager position at Honeywell was posted on 2026-07-29.
+This product manager position at Honeywell was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

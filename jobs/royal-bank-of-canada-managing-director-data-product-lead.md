@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | Data Engineer |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/Managing-Director--Data-Product-Lead_R-0000182298-1) |
 
 ## About This Role
 
-This data engineer position at Royal Bank of Canada was posted on 2026-07-28.
+This product manager position at Royal Bank of Canada was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

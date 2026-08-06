@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mount Sinai Health System](https://scoutify.ai/companies/us6-cx-oj71623?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Technical Product Manager |
+| Category | Product Manager |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://ejis.fa.us6.oraclecloud.com/jobs/#3040125) |
 
 ## About This Role
 
-This technical product manager position at Mount Sinai Health System was posted on 2026-07-29.
+This product manager position at Mount Sinai Health System was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

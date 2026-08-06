@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Babble Cloud](https://scoutify.ai/companies/babble-cloud?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pristina, Pristina, Kosovo |
-| Category | Data Analyst |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000140284800-product-operations-analyst-cyber) |
 
 ## About This Role
 
-This data analyst position at Babble Cloud was posted on 2026-07-28.
+This product manager position at Babble Cloud was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

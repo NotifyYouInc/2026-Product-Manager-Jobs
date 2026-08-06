@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Technical Product Manager |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Test-Management-Product-Owner--m-f-_JR10393682-1) |
 
 ## About This Role
 
-This technical product manager position at Airbus was posted on 2026-07-28.
+This product manager position at Airbus was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

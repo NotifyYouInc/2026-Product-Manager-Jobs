@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000135215640-junior-produktmanager-mwd-autoteile) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000140465103-junior-produktmanager-mwd-autoteile) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-07-01.
+This product manager position at CHECK24 was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

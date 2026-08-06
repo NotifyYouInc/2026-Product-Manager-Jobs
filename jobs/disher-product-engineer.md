@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disher](https://scoutify.ai/companies/disher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Zeeland, Michigan, United States |
-| Category | Software Engineer |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.lever.co/disher/ea1c06ba-55b0-49ff-8d5b-a8dd3cbb556c) |
 
 ## About This Role
 
-This software engineer position at Disher was posted on 2026-07-28.
+This product manager position at Disher was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

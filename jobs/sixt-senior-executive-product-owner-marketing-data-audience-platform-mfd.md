@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Marketing Operations |
+| Category | Product Manager |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000140277529-senior-executive-product-owner-marketing-data-audience-platform-mfd) |
 
 ## About This Role
 
-This marketing operations position at Sixt was posted on 2026-07-28.
+This product manager position at Sixt was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Paris/Product-Manager_JR_10039225-2) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Amsterdam-HQ/Product-Manager_JR_10040312-2) |
 
 ## About This Role
 
-This product manager position at Ayvens was posted on 2026-05-18.
+This product manager position at Ayvens was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
