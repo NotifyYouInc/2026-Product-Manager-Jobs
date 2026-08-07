@@ -5,12 +5,12 @@
 | Company | [Tempus AI](https://scoutify.ai/companies/tempus-oj105940?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://tempus.wd5.myworkdayjobs.com/tempus_careers/job/Chicago/Senior-Product-Manager_JR202600522) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://tempus.wd5.myworkdayjobs.com/tempus_careers/job/Chicago/Senior-Product-Manager_JR202600763) |
 
 ## About This Role
 
-This product manager position at Tempus AI was posted on 2026-06-15.
+This product manager position at Tempus AI was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

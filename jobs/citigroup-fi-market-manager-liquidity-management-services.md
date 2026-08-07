@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Product Manager |
+| Category | Treasury & Capital Markets |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Toronto---Canada/Senior-Product-Performance-Manager--Liquidity-Management-Services---Senior-Vice-President_26982769) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-07-29.
+This treasury & capital markets position at Citigroup was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

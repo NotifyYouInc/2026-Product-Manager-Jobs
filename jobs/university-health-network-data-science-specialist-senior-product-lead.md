@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Product Manager |
+| Category | Data Scientist |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000140528501-data-science-specialist-senior-product-lead) |
 
 ## About This Role
 
-This product manager position at University Health Network was posted on 2026-07-29.
+This data scientist position at University Health Network was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

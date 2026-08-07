@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Spring, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/AI-Product-Manager_3164049-2) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/AI-Product-Manager_3165573-2) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard (HP) was posted on 2026-06-24.
+This product manager position at Hewlett Packard (HP) was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

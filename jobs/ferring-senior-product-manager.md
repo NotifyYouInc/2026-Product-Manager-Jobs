@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferring](https://scoutify.ai/companies/ferring?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Milan, Lombardy, Italy |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Shanghai-China/Senior-Product-Manager_R0035068) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Milan-Italy/Senior-Product-Manager_R0038044) |
 
 ## About This Role
 
-This product manager position at Ferring was posted on 2026-03-11.
+This product manager position at Ferring was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

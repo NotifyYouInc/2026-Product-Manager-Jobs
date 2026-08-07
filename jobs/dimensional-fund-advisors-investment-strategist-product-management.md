@@ -5,12 +5,12 @@
 | Company | [Dimensional Fund Advisors](https://scoutify.ai/companies/dimensional?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Investment-Strategist--Product-Management-_2026-8923-1) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Investment-Strategist--Product-Management-_2026-8975) |
 
 ## About This Role
 
-This product manager position at Dimensional Fund Advisors was posted on 2026-07-01.
+This product manager position at Dimensional Fund Advisors was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

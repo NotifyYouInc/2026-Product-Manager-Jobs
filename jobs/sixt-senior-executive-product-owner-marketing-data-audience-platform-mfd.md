@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000140277529-senior-executive-product-owner-marketing-data-audience-platform-mfd) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000140693406-senior-executive-product-owner-marketing-data-audience-platform-mfd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-07-28.
+This product manager position at Sixt was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

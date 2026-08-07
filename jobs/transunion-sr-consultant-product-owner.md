@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Sr-Consultant--Product-Owner_19041191) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Sr-Consultant--Product-Owner_19041542) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-06-26.
+This product manager position at TransUnion was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

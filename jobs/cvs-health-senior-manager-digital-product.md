@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
+| Location | North Carolina, US |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Senior-Manager---Digital-Product_R0981083) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Work-from-home/Senior-Manager---Digital-Product_R0976044) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-07-24.
+This product manager position at CVS Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

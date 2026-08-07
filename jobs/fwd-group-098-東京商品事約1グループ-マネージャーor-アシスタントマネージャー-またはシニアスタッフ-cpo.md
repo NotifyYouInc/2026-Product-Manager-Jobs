@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FWD Group](https://scoutify.ai/companies/fwd-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Product Manager |
+| Category | Actuary / Insurance Analytics |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://fwd.wd3.myworkdayjobs.com/fwdcareersite/job/Japan---Tokyo---Nihonbashi/XMLNAME-098---1-or----CPO-_JR-0027634) |
 
 ## About This Role
 
-This product manager position at FWD Group was posted on 2026-07-30.
+This actuary / insurance analytics position at FWD Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000137841155-senior-product-manager-delivery-shipping-experience-mfd) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000140645999-senior-product-manager-delivery-shipping-experience-mfd) |
 
 ## About This Role
 
-This product manager position at Redcare Pharmacy was posted on 2026-07-15.
+This product manager position at Redcare Pharmacy was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

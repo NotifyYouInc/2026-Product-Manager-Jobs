@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gaithersburg, Maryland, United States |
-| Category | Product Manager |
+| Category | Strategy & Operations |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Global-Patient-Solutions-Strategy---Value_R-248967) |
 
 ## About This Role
 
-This product manager position at AstraZeneca was posted on 2026-07-29.
+This strategy & operations position at AstraZeneca was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

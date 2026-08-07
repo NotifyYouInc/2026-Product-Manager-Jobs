@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Penang, MY |
-| Category | Product Manager |
+| Category | Business Analyst |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Product-Owner-Business-Analyst---EDW---Reporting-Solutions-Supply-Chain---Finance_R02883) |
 
 ## About This Role
 
-This product manager position at Altera Corporation was posted on 2026-07-30.
+This business analyst position at Altera Corporation was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

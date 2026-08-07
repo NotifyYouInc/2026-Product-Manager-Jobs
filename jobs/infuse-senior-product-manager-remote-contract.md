@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montenegro, Rio Grande do Sul, Brazil |
+| Location | Slovakia |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4715677005) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4720208005) |
 
 ## About This Role
 
-This product manager position at INFUSE was posted on 2026-07-16.
+This product manager position at INFUSE was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

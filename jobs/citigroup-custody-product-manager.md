@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Abu-Dhabi-Abu-Dhabi-United-Arab-Emirates/Custody-Product-Manager_26968813) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Custody-Product-Manager_26982889) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-06-09.
+This product manager position at Citigroup was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

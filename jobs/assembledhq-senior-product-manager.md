@@ -1,16 +1,16 @@
-# Senior Product Manager  at Assembledhq
+# Senior Product Manager at Assembledhq
 
 | Field | Details |
 |-------|---------|
 | Company | [Assembledhq](https://scoutify.ai/companies/assembledhq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/assembledhq/526d0177-d0c7-4986-b1f3-76abee106199) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/assembledhq/e1200f12-c57c-4e62-90af-91eceb0b6507) |
 
 ## About This Role
 
-This product manager position at Assembledhq was posted on 2026-05-22.
+This product manager position at Assembledhq was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

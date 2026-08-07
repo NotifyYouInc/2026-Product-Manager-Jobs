@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lucid](https://scoutify.ai/companies/lucidsoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lucidsoftware/jobs/6119763004) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lucidsoftware/jobs/6130668004) |
 
 ## About This Role
 
-This product manager position at Lucid was posted on 2026-07-20.
+This product manager position at Lucid was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
