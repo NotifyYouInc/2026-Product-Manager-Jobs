@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000140478590-product-owner-hf) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000140892647-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Meritis was posted on 2026-07-29.
+This product manager position at Meritis was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

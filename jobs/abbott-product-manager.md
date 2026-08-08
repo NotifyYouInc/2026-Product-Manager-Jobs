@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Minsk, Minsk City, Belarus |
+| Location | Tashkent, Tashkent, Uzbekistan |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Belarus---Minsk/Product-Manager_31157127) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Uzbekistan---Tashkent/Product-Manager_31157921) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-07-23.
+This product manager position at Abbott was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

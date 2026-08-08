@@ -5,12 +5,12 @@
 | Company | [Zinnia](https://scoutify.ai/companies/zinnia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zinnia/jobs/4682509006) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zinnia/jobs/4699271006) |
 
 ## About This Role
 
-This product manager position at Zinnia was posted on 2026-05-18.
+This product manager position at Zinnia was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

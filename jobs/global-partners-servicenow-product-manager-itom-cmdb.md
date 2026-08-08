@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Partners](https://scoutify.ai/companies/global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Newton, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Waltham-MA---Corporate-Headquarters/ServiceNow-Product-Manager--ITOM--CMDB_R0030525) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://global.wd1.myworkdayjobs.com/globalpartnerscareers/job/Newton-Office/ServiceNow-Product-Manager--ITOM--CMDB_R0031750) |
 
 ## About This Role
 
-This product manager position at Global Partners was posted on 2026-04-22.
+This product manager position at Global Partners was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

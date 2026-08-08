@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Product Manager |
+| Category | Program Manager |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Lending-Operations-Project-Lead--Vice-President-Product-Owner----LoanIQ-Enablement-and-Platform-Management_26983107-1) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-07-30.
+This program manager position at Citigroup was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

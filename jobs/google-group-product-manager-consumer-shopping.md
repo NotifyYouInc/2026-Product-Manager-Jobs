@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Zürich, Zurich, Switzerland |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckfsw6LKoSBB9Qs1Zd7D2blCTI1QWq6IpZo1a5X2Yy5i6EjsA1Ny_iwE3cX_ohhjbRH4mBIdp4YSKu2ZA2EDdP4CuuUv3PblhysNL4ylASJ-Ejo6_9yYvZ3ERLTAv0A%3D%3D_V2&loc=CH&title=Group+Product+Manager) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUOzarGclETCFUq-2BKvYNd65iK4WXD18V4yUR8S9upFEjsA1Ny_i6GaFTjilkWT3tI0Mbgwy85lI3yhZ-e635mi55PeKSK0iTIdNAdfglWyEwFAtApzC4UMeNcxyA%3D%3D_V2&loc=CH&title=Group+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-26.
+This product manager position at Google was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Digital Product Manager Lead Senior – Mobile & Online Banking Security at PNC Financial
+# Digital Product Manager Lead Senior- Mobile & Online Banking Security at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Digital-Product-Manager-Lead-Senior---Mobile---Online-Banking-Security_R221516-2) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Digital-Product-Manager-Lead-Senior--Mobile---Online-Banking-Security_R231335-1) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-05-20.
+This product manager position at PNC Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

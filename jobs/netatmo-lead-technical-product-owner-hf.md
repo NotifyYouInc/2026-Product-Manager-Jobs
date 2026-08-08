@@ -1,16 +1,16 @@
-# Lead technical Product Owner (H/F) at Netatmo
+# Lead Technical Product Owner (H/F) at Netatmo
 
 | Field | Details |
 |-------|---------|
 | Company | [Netatmo](https://scoutify.ai/companies/netatmo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netatmo/744000140406888-lead-technical-product-owner-hf) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netatmo/744000140954171-lead-technical-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Netatmo was posted on 2026-07-29.
+This product manager position at Netatmo was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

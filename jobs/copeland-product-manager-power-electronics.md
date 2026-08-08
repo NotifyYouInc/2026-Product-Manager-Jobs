@@ -1,16 +1,16 @@
-# Product Manager - Power Electronics at Copeland
+# Product Manager, Power Electronics at Copeland
 
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
+| Location | Sidney, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Aachen-Oberforstbach-Germany/Product-Manager---Power-Electronics_JR113344) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Sidney-OH-USA/Product-Manager--Power-Electronics_JR116677) |
 
 ## About This Role
 
-This product manager position at Copeland was posted on 2026-02-20.
+This product manager position at Copeland was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal Product Manager, Agentic Product at Adobe
+# Principal Product Manager - Agentic Product at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Principal-Product-Manager--Agentic-Product_R169511) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Product-Manager---Agentic-Product_R170557) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-06-24.
+This product manager position at Adobe was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Retell Ai](https://scoutify.ai/companies/retell-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Redwood City, California, United States |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/retell-ai/ce993d9b-5635-43ba-aef1-d9dfa2025ca2) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/retell-ai/0a2439c0-5caf-4e79-89ae-c916e460b6d0) |
 
 ## About This Role
 
-This product manager position at Retell Ai was posted on 2026-06-02.
+This product manager position at Retell Ai was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

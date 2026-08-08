@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/1ec636f0-ab20-4c3f-a133-3de33cbfcc65) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/4db4cb68-a810-47a7-b951-26d353fee743) |
 
 ## About This Role
 
-This product manager position at Clera was posted on 2026-07-22.
+This product manager position at Clera was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

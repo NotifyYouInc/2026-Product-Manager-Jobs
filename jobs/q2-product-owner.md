@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Product-Owner_REQ-12139) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Remote-Canada/Product-Owner_REQ-12684) |
 
 ## About This Role
 
-This product manager position at Q2 was posted on 2026-02-05.
+This product manager position at Q2 was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
