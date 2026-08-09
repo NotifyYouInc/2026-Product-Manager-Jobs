@@ -1,16 +1,16 @@
-# Founding Product Manager at Clera
+# Senior Product Manager, Environmental Systems at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Cupertino, California, United States |
 | Category | Product Manager |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/4324415d-aa39-421a-a7a6-5b4a43071ed7) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673599/senior-product-manager-environmental-systems) |
 
 ## About This Role
 
-This product manager position at Clera was posted on 2026-08-01.
+This product manager position at Apple was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

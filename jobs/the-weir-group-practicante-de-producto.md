@@ -1,16 +1,16 @@
-# Founding Product Manager at Clera
+# Practicante de Producto at The Weir Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Lima, Lima Province, Peru |
 | Category | Product Manager |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/4324415d-aa39-421a-a7a6-5b4a43071ed7) |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Lima/Practicante-de-Producto_R0038656) |
 
 ## About This Role
 
-This product manager position at Clera was posted on 2026-08-01.
+This product manager position at The Weir Group was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

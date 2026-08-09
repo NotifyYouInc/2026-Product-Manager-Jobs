@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Yokogawa](https://scoutify.ai/companies/yokogawa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ratingen, North Rhine-Westphalia, Germany |
-| Category | Sales Development (SDR / BDR) |
+| Category | Sales |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://yokogawa.wd3.myworkdayjobs.com/yokogawa-career-site/job/Ratingen/Business-Development-Manager---Renewable-Digital-Solutions--BaxEnergy-Solutions---APM--PPC--SCADA-related-Digital-Solutions---Cybersecurity-----Germany_R-11932) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Yokogawa was posted on 2026-07-31.
+This sales position at Yokogawa was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

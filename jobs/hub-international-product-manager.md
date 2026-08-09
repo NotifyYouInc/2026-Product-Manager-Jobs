@@ -1,16 +1,16 @@
-# Founding Product Manager at Clera
+# Product Manager at HUB International
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/4324415d-aa39-421a-a7a6-5b4a43071ed7) |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Austin-TX/Product-Manager_R0037925) |
 
 ## About This Role
 
-This product manager position at Clera was posted on 2026-08-01.
+This product manager position at HUB International was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

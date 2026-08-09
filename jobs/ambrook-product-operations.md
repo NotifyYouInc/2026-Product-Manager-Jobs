@@ -1,16 +1,16 @@
-# Founding Product Manager at Clera
+# Product Operations at Ambrook
 
 | Field | Details |
 |-------|---------|
-| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
-| Category | Product Manager |
+| Company | [Ambrook](https://scoutify.ai/companies/ambrook?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
+| Category | Operations |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/4324415d-aa39-421a-a7a6-5b4a43071ed7) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ambrook/d477f001-417f-455d-914b-254bc411dff1) |
 
 ## About This Role
 
-This product manager position at Clera was posted on 2026-08-01.
+This operations position at Ambrook was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

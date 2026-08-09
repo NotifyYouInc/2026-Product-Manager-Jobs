@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
 | Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/5ea43de4-40df-410e-84f8-98de00f06c39) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/7e0bda51-7077-426a-87f7-00c8df3dabbe) |
 
 ## About This Role
 
