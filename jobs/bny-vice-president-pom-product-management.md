@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#78569) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79966) |
 
 ## About This Role
 
-This product manager position at BNY was posted on 2026-07-13.
+This product manager position at BNY was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

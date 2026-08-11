@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4799830101) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4943844101) |
 
 ## About This Role
 
-This product manager position at Valtech was posted on 2026-05-29.
+This product manager position at Valtech was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sumo Logic](https://scoutify.ai/companies/sumo-logic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sumologic/jobs/8089130) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sumologic/jobs/8098451) |
 
 ## About This Role
 

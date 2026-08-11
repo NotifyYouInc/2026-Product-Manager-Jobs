@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/DPS---Associate-PM_R0137723) |
+| Category | Business Analyst |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/DPS---Associate-PM_R0137719-1) |
 
 ## About This Role
 
-This product manager position at Hitachi was posted on 2026-07-30.
+This business analyst position at Hitachi was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

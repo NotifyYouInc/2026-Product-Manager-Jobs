@@ -5,12 +5,12 @@
 | Company | [Armis Security](https://scoutify.ai/companies/armis-security?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Israel |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/armissecurity/jobs/6105741004) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/armissecurity/jobs/6105740004) |
 
 ## About This Role
 
-This product manager position at Armis Security was posted on 2026-07-14.
+This product manager position at Armis Security was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

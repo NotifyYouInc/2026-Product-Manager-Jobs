@@ -5,12 +5,12 @@
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4919679101) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4943082101) |
 
 ## About This Role
 
-This product manager position at StraitsX was posted on 2026-07-06.
+This product manager position at StraitsX was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

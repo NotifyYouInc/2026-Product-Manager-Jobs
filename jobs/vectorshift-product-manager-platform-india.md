@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VectorShift](https://scoutify.ai/companies/vectorshift?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Indiana, US |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/j3yK75d-product-manager-platform-india) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/vectorshift/jobs/23iLx7E-product-manager-platform-india) |
 
 ## About This Role
 
-This product manager position at VectorShift was posted on 2026-07-16.
+This product manager position at VectorShift was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

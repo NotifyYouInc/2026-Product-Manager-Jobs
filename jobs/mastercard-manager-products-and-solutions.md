@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Shanghai-China/Manager--Products-and-Solutions_R-279805) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bangkok-Thailand/Manager--Products-and-Solutions_R-287210) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-04.
+This product manager position at Mastercard was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

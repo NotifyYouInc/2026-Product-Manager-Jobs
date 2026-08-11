@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Petaling-Jaya-Malaysia/Product-Manager--Networking_R-115643) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Jakarta-Indonesia/Product-Manager--Networking_R-115647) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-06-15.
+This product manager position at Ingram Micro was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

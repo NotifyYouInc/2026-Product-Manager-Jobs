@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/128613720661074630-senior-product-manager-google-global-networking?sort_by=date&page=1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeE6vhQ9g4pUcLBp30l6TUhdGJyj4kdVojxse-mxNym-EjsA1Ny_i-L0JJBE2zupcWUk1dEZgZDU2RbEpk_JHFZyu0b-rDQnAQUuPbsc4mgA6mvPzyzBiKETSqnifQ%3D%3D_V2&loc=US&title=Senior+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-04.
+This product manager position at Google was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124854746-product-owner-it-aeronautique-hf) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141429009-product-owner-it-aeronautique-hf) |
 
 ## About This Role
 
-This product manager position at ALTEN was posted on 2026-05-06.
+This product manager position at ALTEN was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

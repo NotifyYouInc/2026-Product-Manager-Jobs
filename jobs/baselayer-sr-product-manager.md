@@ -5,12 +5,12 @@
 | Company | [Baselayer](https://scoutify.ai/companies/baselayer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5288970008) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/baselayer/jobs/5378886008) |
 
 ## About This Role
 
-This product manager position at Baselayer was posted on 2026-07-01.
+This product manager position at Baselayer was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

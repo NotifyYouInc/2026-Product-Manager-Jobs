@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Australia |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4851170101?gh_jid=4851170101) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4880371101?gh_jid=4880371101) |
 
 ## About This Role
 
-This product manager position at NiCE was posted on 2026-05-01.
+This product manager position at NiCE was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Meridianlink](https://scoutify.ai/companies/meridianlink?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/meridianlink/8b683acc-a22f-4ccb-99aa-e0accc43e310) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/meridianlink/b6780633-9ef1-4e37-98ef-18a702749e23) |
 
 ## About This Role
 
-This product manager position at Meridianlink was posted on 2026-04-10.
+This product manager position at Meridianlink was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

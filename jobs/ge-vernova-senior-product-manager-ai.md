@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Senior-Product-Manager---AI_R5035949-2) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Senior-Product-Manager---AI_R5048790-2) |
 
 ## About This Role
 
-This product manager position at GE Vernova was posted on 2026-05-12.
+This product manager position at GE Vernova was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

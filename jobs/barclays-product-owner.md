@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canary Wharf, England, United Kingdom |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product-Owner_JR-0000108354) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Product-Owner_JR-0000099658-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-07-27.
+This product manager position at Barclays was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

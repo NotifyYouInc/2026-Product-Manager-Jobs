@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8603350002) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8653777002) |
 
 ## About This Role
 
-This product manager position at Ethos Life was posted on 2026-06-22.
+This product manager position at Ethos Life was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

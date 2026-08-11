@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/FRA---Bordeaux---Artigues/Product-Owner_JR107409-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/MAR---Casablanca/Talent-Management-Specialist_JR108830) |
 
 ## About This Role
 
-This product manager position at Dedalus CandG was posted on 2026-03-02.
+This product manager position at Dedalus CandG was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

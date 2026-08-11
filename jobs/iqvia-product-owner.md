@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bournemouth, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bournemouth-United-Kingdom/Product-Owner_R1543086-2) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Product-Owner_R1556028) |
 
 ## About This Role
 
-This product manager position at IQVIA was posted on 2026-07-16.
+This product manager position at IQVIA was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

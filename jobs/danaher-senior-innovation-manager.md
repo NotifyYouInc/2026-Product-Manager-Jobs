@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bronshoj-Denmark/Senior-Innovation-Manager_R1314547-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Dusseldorf-Germany/Senior-Innovation-Manager_R1315278) |
 
 ## About This Role
 
-This product manager position at Danaher was posted on 2026-07-15.
+This product manager position at Danaher was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

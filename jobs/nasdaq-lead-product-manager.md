@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India---Mumbai---Maharashtra/Lead-Product-Manager_R0025547) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India-Mumbai/Lead-Product-Manager_R0026567) |
 
 ## About This Role
 
-This product manager position at Nasdaq was posted on 2026-04-23.
+This product manager position at Nasdaq was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

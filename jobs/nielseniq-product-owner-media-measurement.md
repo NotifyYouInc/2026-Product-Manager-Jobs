@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140775227-product-owner-media-measurement) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000141079439-product-owner-media-measurement) |
 
 ## About This Role
 
-This product manager position at NielsenIQ was posted on 2026-07-30.
+This product manager position at NielsenIQ was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

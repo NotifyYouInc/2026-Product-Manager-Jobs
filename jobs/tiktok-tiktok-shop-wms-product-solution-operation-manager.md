@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Buford, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7665859000149854469/detail) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7668171160874813749/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-07-24.
+This product manager position at TikTok was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
