@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Luxembourg |
-| Category | Product Manager |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491106/global-trade-compliance-gtc-senior-pm-emea-customs-compliance-governance-emea-global-trade-compliance) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-08-04.
+This compliance & risk management position at Amazon was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

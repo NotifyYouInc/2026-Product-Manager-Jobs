@@ -5,12 +5,12 @@
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Glenview, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Glenview-IL/Senior-Manager--R-D---Consumer-Experience_R-102717) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Glenview-IL/Senior-Manager--R-D---Consumer-Experience_R-105425) |
 
 ## About This Role
 
-This product manager position at Heinz was posted on 2026-05-08.
+This product manager position at Heinz was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/PM-Manager_R119097) |
 
 ## About This Role
 
-This product manager position at Samsung was posted on 2026-08-03.
+This product marketing position at Samsung was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

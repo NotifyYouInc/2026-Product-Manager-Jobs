@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/APAC-Regional-Integral-Product-Manager_51585935) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/APAC-Regional-Product-Manager---DXC-Integral_51586309) |
 
 ## About This Role
 
-This product manager position at DXC Technology was posted on 2026-07-30.
+This product manager position at DXC Technology was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

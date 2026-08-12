@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4844888101) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4944660101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-04-20.
+This product manager position at Ebury was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

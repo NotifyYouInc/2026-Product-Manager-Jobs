@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Product-Manager_R-556591) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Product-Manager_R-563616) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-07-22.
+This product manager position at Wells Fargo was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

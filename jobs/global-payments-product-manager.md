@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/JEFFERSONVILLE-INDIANA/Product-Manager_R0072782) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/OKLAHOMA-CITY-OKLAHOMA/Product-Manager_R0073308) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-07-14.
+This product manager position at Global Payments was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

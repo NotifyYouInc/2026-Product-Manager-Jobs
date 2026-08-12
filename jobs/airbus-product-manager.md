@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/CPO---Copenhagen-Office/Product-Manager_JR10420582) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/CPO---Copenhagen-Office/Product-Manager_JR10434234) |
 
 ## About This Role
 
-This product manager position at Airbus was posted on 2026-06-09.
+This product manager position at Airbus was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

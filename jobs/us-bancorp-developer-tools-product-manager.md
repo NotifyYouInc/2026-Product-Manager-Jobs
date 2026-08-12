@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hopkins, Minnesota, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Developer-Tools-Product-Manager_2026-0022672) |
 
 ## About This Role
 
-This product manager position at U.S. Bancorp was posted on 2026-08-03.
+This technical product manager position at U.S. Bancorp was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

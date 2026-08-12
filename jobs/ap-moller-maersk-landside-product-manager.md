@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pasay, National Capital Region, Philippines |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Philippines-Pasay-1300/Landside-Product-Manager_R180596) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/South-Korea-Seoul-4323/Landside-Product-Manager_R192093) |
 
 ## About This Role
 
-This product manager position at A.P. Moller - Maersk was posted on 2026-05-06.
+This product manager position at A.P. Moller - Maersk was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

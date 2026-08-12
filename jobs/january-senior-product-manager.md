@@ -5,12 +5,12 @@
 | Company | [January](https://scoutify.ai/companies/january?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/january/8e4c03af-44f4-45dd-8036-19f87810f2ea) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/january/ace85294-2551-4236-8d9f-b331748b623f) |
 
 ## About This Role
 
-This product manager position at January was posted on 2026-06-10.
+This product manager position at January was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Assago, Lombardy, Italy |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/AssagoItaly/Product-Manager_JR110954) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/USA--BNA--Reading--Pottsville-Pike/Product-Manager_JR110785) |
 
 ## About This Role
 
-This product manager position at Brenntag was posted on 2026-06-25.
+This product manager position at Brenntag was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

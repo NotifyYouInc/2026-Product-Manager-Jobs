@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200675508/senior-product-manager-apple-cloud-infrastructure) |
 
 ## About This Role
 
-This product manager position at Apple was posted on 2026-08-03.
+This technical product manager position at Apple was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

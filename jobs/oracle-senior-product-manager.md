@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#326105) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#339121) |
 
 ## About This Role
 
-This product manager position at Oracle was posted on 2026-02-25.
+This product manager position at Oracle was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Specialist--Product-Operations_R-274566) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Operations |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Specialist--Product-Operations_R-286870) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-04-02.
+This operations position at Mastercard was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

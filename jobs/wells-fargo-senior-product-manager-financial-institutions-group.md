@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
+| Category | Investment Banking |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Product-Manager----Financial-Institutions-Group_R-565675) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-08-03.
+This investment banking position at Wells Fargo was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

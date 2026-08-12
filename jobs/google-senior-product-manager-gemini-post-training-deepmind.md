@@ -1,16 +1,16 @@
-# Senior Product Manager, Gemini Post Training, DeepMind at Google
+# Senior Product Manager, Gemini Post-Training, DeepMind at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSjv-IAS5vq2L-T7fMh3skS4jA61eRm__i4J-Z1k8x_sEjsA1Ny_iyflV37Z6yPNs41SOyBA7taBwfH-tNVQoquaW63EIvEP6mTHHWp-rjrD0WD1koNSzSKVyuTq3w%3D%3D_V2&loc=US&title=Senior+Product+Manager) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW5zLcsEDiA66XJ-dwIxZ_ZmoA0K87-JgCZ97F-cVkoEEjsA1Ny_i_zCtHq9qD2xNNKCJFYiOE3wiNsZ9sw_gKkSDy0NmwTv1-cDw8XH7aWRC3wvpFb0gtfzKbc3mA%3D%3D_V2&loc=US&title=Senior+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-06-17.
+This product manager position at Google was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

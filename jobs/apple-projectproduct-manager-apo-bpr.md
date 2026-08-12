@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
-| Category | Product Manager |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668562/project-product-manager-apo-bpr) |
+| Location | Shanghai, Shanghai, China |
+| Category | Project Manager |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674770/project-product-manager-apo-bpr) |
 
 ## About This Role
 
-This product manager position at Apple was posted on 2026-06-21.
+This project manager position at Apple was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Miami-Florida/Specialist--Product-Management_R-286558) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-284496) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-28.
+This product manager position at Mastercard was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Senior-Product-Manager_583820) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Senior-Product-Manager_582154-1) |
 
 ## About This Role
 
-This product manager position at Philips was posted on 2026-05-25.
+This product manager position at Philips was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

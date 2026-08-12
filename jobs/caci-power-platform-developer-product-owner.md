@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Product Manager |
+| Category | Software Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Stuttgart-Germany/Power-Platform-Developer---Product-Owner_329917) |
 
 ## About This Role
 
-This product manager position at CACI was posted on 2026-08-03.
+This software engineer position at CACI was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

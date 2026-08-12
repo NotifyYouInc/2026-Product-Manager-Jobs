@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHN---Beijing---Beijing-Wangjing-Park/Spclst---Technical-Product-Management_R393871-1) |
+| Location | Singapore, Singapore |
+| Category | Digital / Performance Marketing |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Spclst---Technical-Product-Management_R409378) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-04-13.
+This digital / performance marketing position at Merck was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

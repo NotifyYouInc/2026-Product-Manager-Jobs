@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Product Manager |
+| Category | Corporate Finance |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000141355119-senior-product-operations-accounting-manager) |
 
 ## About This Role
 
-This product manager position at Intuitive Surgical was posted on 2026-08-03.
+This corporate finance position at Intuitive Surgical was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

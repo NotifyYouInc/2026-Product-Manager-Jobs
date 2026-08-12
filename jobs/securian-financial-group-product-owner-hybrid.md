@@ -5,12 +5,12 @@
 | Company | [Securian Financial Group](https://scoutify.ai/companies/hq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Saint Paul, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Product-Owner--Hybrid-_R-010729) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Product-Owner--Hybrid-_R-010642-1) |
 
 ## About This Role
 
-This product manager position at Securian Financial Group was posted on 2026-07-24.
+This product manager position at Securian Financial Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

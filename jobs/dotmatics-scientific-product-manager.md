@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dotmatics](https://scoutify.ai/companies/dotmatics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.dotmatics.com/jobs/apply?gh_jid=4712791005) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.dotmatics.com/jobs/apply?gh_jid=4720659005) |
 
 ## About This Role
 
-This product manager position at Dotmatics was posted on 2026-07-30.
+This product manager position at Dotmatics was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Platform-Product-Manager--Rules---Workflows-Engine_34217R) |
 
 ## About This Role
 
-This product manager position at Vizient was posted on 2026-08-04.
+This technical product manager position at Vizient was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

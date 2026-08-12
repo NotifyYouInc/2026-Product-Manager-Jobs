@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Digital-Product-Manager_R-01344596) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Digital-Product-Manager_R-01362530) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-03-18.
+This product manager position at Thermo Fisher Scientific was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

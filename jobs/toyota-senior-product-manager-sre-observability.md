@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Product Manager |
+| Category | DevOps Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Senior-Product-Manager---SRE---Observability_10329889) |
 
 ## About This Role
 
-This product manager position at Toyota was posted on 2026-08-03.
+This devops engineer position at Toyota was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

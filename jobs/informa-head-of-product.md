@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000141211830-head-of-product) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000141441039-head-of-product) |
 
 ## About This Role
 
-This product manager position at Informa was posted on 2026-08-03.
+This product manager position at Informa was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

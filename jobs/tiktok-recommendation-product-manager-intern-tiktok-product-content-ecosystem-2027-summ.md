@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Jose, California, United States |
-| Category | Product Manager |
+| Category | Content Marketing |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7667874197682899205/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-08-04.
+This content marketing position at TikTok was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

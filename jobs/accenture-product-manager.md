@@ -1,16 +1,16 @@
-# *Product Manager* at Accenture
+# Product Manager at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/XMLNAME--Product-Manager-_R00330522) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bogota-Carrera-7/Product-Manager_14492498) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-06-09.
+This product manager position at Accenture was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

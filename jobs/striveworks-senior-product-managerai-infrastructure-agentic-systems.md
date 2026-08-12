@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Striveworks](https://scoutify.ai/companies/striveworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7820913003) |
 
 ## About This Role
 
-This product manager position at Striveworks was posted on 2026-08-03.
+This technical product manager position at Striveworks was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

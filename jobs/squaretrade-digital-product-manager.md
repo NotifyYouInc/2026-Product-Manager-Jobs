@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SquareTrade](https://scoutify.ai/companies/squaretrade1?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Dallas, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SquareTrade1/744000134514019-digital-product-manager) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SquareTrade1/744000141509459-digital-product-manager) |
 
 ## About This Role
 
-This product manager position at SquareTrade was posted on 2026-06-26.
+This product manager position at SquareTrade was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

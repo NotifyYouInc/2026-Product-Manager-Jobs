@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Data-Product-Manager_R0061404) |
 
 ## About This Role
 
-This product manager position at Empower was posted on 2026-08-04.
+This technical product manager position at Empower was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

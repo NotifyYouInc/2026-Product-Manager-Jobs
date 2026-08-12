@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brooklyn Park, Minnesota, United States |
-| Category | Product Manager |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Product-Manager---Enterprise-Portfolio-Management-Solutions_R0000446535) |
 
 ## About This Role
 
-This product manager position at Target was posted on 2026-08-03.
+This asset management / portfolio management position at Target was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

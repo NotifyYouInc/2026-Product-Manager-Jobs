@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [n8n](https://scoutify.ai/companies/n8n?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4) |
 
 ## About This Role
 
-This product manager position at n8n was posted on 2026-08-03.
+This technical product manager position at n8n was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

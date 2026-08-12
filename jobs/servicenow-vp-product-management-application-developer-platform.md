@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Product Manager |
+| Category | Software Engineer |
 | Posted | 2026-08-03 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141263099-vp-product-management-application-developer-platform) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-08-03.
+This software engineer position at ServiceNow was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
