@@ -1,16 +1,16 @@
-# Senior Product Manager - Martech  at Preply
+# Senior Product Manager - Martech at Preply
 
 | Field | Details |
 |-------|---------|
 | Company | [Preply](https://scoutify.ai/companies/preply?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | Digital / Performance Marketing |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/preply/1a0ae995-7347-42fa-bd25-1da05651264e) |
+| Location | London, England, United Kingdom |
+| Category | Marketing Operations |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/preply/4e7a3dc7-b377-4a97-a23d-de501ce0bb39) |
 
 ## About This Role
 
-This digital / performance marketing position at Preply was posted on 2026-06-03.
+This marketing operations position at Preply was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

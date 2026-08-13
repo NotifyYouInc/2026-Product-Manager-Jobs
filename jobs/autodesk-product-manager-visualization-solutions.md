@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Ontario, CA |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Product-Manager---Visualization-Solutions_26WD97458-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Ontario-CAN---Remote/Product-Manager---Visualization-Solutions_26WD97546-1) |
 
 ## About This Role
 
-This product manager position at Autodesk was posted on 2026-04-15.
+This product manager position at Autodesk was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

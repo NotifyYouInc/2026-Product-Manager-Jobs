@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Horsham, Pennsylvania, United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Product-Manager--Bispecifics-Community-Expansion-Marketing_R-092012-1) |
 
 ## About This Role
 
-This product marketing position at Johnson & Johnson was posted on 2026-08-04.
+This marketing position at Johnson & Johnson was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

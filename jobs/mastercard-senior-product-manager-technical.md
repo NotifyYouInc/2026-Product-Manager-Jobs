@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Product-Manager---Technical_R-284509-1) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Technical Product Manager |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Product-Manager---Technical_R-282181) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-16.
+This technical product manager position at Mastercard was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

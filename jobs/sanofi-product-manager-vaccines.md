@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Taipei/Product-Manager---Vaccines_R2866517-1) |
 
 ## About This Role
 
-This product marketing position at Sanofi was posted on 2026-08-05.
+This marketing position at Sanofi was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

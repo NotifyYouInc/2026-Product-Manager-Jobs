@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maine, US |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Massachusetts-USA/Director--Digital-Product-Management_R-01341379-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Director--Digital-Product-Management_R-01362834-1) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-04-08.
+This product manager position at Thermo Fisher Scientific was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tailscale](https://scoutify.ai/companies/tailscale?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4712830005) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4721762005) |
 
 ## About This Role
 
-This product manager position at Tailscale was posted on 2026-07-07.
+This product manager position at Tailscale was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000138324004-senior-product-owner-tracking-analytics-storefront-all-genders) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000141670542-senior-product-owner-tracking-analytics-storefront-all-genders) |
 
 ## About This Role
 
-This product manager position at About You was posted on 2026-07-17.
+This product manager position at About You was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

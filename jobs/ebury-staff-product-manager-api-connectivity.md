@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Málaga, Andalusia, Spain |
-| Category | Technical Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4944557101) |
+| Location | London, England, United Kingdom |
+| Category | Product Manager |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4947341101) |
 
 ## About This Role
 
-This technical product manager position at Ebury was posted on 2026-08-04.
+This product manager position at Ebury was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

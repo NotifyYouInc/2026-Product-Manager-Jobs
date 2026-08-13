@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synchrony Financial](https://scoutify.ai/companies/synchrony-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Stamford, Connecticut, United States |
+| Location | 7 locations |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Stamford-Remote-CT/VP--Treasury---Payment-Systems-Product-Manager_2601451) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Stamford-Engagement-Hub-CT/VP--Treasury---Payment-Systems-Product-Manager_2602221) |
 
 ## About This Role
 
-This product manager position at Synchrony Financial was posted on 2026-05-12.
+This product manager position at Synchrony Financial was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000115625975-senior-product-manager-core-data-tech-foundations) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141866625-senior-product-manager-core-data-tech-foundations) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-03-19.
+This product manager position at Delivery Hero was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000126043549-product-manager-customer-profile-identity-12month-ftc) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000141797279-product-manager-customer-profile-identity-12month-ftc) |
 
 ## About This Role
 
-This product manager position at ASOS was posted on 2026-05-12.
+This product manager position at ASOS was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager - Quantitative Data Solutions at Bloomberg
+# Product Manager, Quantitative Data Solutions at Bloomberg
 
 | Field | Details |
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Quantitative-Data-Solutions/18642) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Product-Manager-Quantitative-Data-Solutions/21239) |
 
 ## About This Role
 
-This product manager position at Bloomberg was posted on 2026-05-24.
+This product manager position at Bloomberg was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000132780129-principal-product-manager-ai-enablement) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000141831739-principal-product-manager-ai-enablement) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-06-18.
+This product manager position at Grab was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

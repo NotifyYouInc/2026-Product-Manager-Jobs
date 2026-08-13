@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138585379-ai-product-management-associate-12-months-contract) |
+| Category | Leadership Development Program |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000141835199-ai-product-management-associate-12-months-contract) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-07-20.
+This leadership development program position at Experian was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

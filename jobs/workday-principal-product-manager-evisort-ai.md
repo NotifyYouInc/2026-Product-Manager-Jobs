@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Principal-Product-Manager---Evisort-AI_JR-0105874) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-San-Francisco/Principal-Product-Manager---Evisort-AI_JR-0108875) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-04-13.
+This product manager position at Workday was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

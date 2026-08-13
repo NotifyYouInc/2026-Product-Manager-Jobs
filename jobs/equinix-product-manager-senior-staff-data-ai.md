@@ -5,12 +5,12 @@
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Product-Manager---Senior-Staff---Data---AI_JR-161795) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Product-Manager---Senior-Staff---Data---AI_JR-162689) |
 
 ## About This Role
 
-This product manager position at Equinix was posted on 2026-07-23.
+This product manager position at Equinix was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

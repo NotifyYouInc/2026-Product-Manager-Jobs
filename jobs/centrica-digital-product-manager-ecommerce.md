@@ -1,16 +1,16 @@
-# Digital Product Manager - Ecommerce at Centrica
+# Digital Product Manager – Ecommerce at Centrica
 
 | Field | Details |
 |-------|---------|
 | Company | [Centrica](https://scoutify.ai/companies/centrica?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Windsor, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Windsor/Digital-Product-Manager---Ecommerce_R0083295-2) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Windsor/Digital-Product-Manager---Ecommerce_R0087381) |
 
 ## About This Role
 
-This product manager position at Centrica was posted on 2026-03-26.
+This product manager position at Centrica was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

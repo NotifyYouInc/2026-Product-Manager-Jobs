@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000141416519-technical-product-owner-pricing-tools-mfd) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000141641054-technical-product-owner-pricing-tools-mfd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-08-04.
+This product manager position at Sixt was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

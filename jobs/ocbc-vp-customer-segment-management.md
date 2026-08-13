@@ -5,12 +5,12 @@
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Hong-Kong/VP--Customer-Segment-Management_JR00008026) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Hong-Kong/VP--Customer-Segment-Management_JR00010041) |
 
 ## About This Role
 
-This product manager position at OCBC was posted on 2026-05-19.
+This product manager position at OCBC was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

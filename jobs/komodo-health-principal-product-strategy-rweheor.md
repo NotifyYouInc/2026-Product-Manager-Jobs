@@ -5,12 +5,12 @@
 | Company | [Komodo Health](https://scoutify.ai/companies/komodo-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/komodohealth/jobs/8615009002) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/komodohealth/jobs/8683094002) |
 
 ## About This Role
 
-This product manager position at Komodo Health was posted on 2026-07-14.
+This product manager position at Komodo Health was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

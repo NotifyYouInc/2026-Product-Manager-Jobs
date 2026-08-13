@@ -1,16 +1,16 @@
-# IT Product Owner (H/F) at Meritis
+# IT Product Owner  (H/F) at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
+| Location | France |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000136167899-it-product-owner-hf) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000141746739-it-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Meritis was posted on 2026-07-07.
+This product manager position at Meritis was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Brainlab](https://scoutify.ai/companies/brainlab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000131092389-area-product-owner-business-development-rt-elements) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000141845300-area-product-owner-business-development-rt-elements) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Brainlab was posted on 2026-06-09.
+This sales development (sdr / bdr) position at Brainlab was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [dili](https://scoutify.ai/companies/dili?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/VzbrBab-product-manager) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/zl8CzDp-product-manager) |
 
 ## About This Role
 
-This product manager position at dili was posted on 2026-07-29.
+This product manager position at dili was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

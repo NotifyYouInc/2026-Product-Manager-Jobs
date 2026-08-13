@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/Product-Manager-Lead_JR6766) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/London/Product-Manager-Lead_JR6783) |
 
 ## About This Role
 
-This product manager position at Capital Group was posted on 2026-06-30.
+This product manager position at Capital Group was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

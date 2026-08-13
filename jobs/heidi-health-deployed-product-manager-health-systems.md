@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heidi Health](https://scoutify.ai/companies/heidihealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/47924685-8546-4f4d-a748-17965bd2f550) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/26951dae-8f0a-46d5-9c09-b4dfe458d2a8) |
 
 ## About This Role
 
-This product manager position at Heidi Health was posted on 2026-07-21.
+This product manager position at Heidi Health was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

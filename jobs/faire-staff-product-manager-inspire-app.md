@@ -5,12 +5,12 @@
 | Company | [Faire](https://scoutify.ai/companies/faire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8572155002?gh_jid=8572155002) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/faire/jobs/8686191002?gh_jid=8686191002) |
 
 ## About This Role
 
-This product manager position at Faire was posted on 2026-05-29.
+This product manager position at Faire was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

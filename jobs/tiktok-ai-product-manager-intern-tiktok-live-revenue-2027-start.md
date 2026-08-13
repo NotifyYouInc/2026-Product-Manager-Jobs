@@ -1,16 +1,16 @@
-# AI Product Manager Intern (TikTok LIVE-Revenue) - 2027 Start at TikTok
+# AI Product Manager intern  (TikTok LIVE-Revenue) - 2027 Start at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7669698608341780789/detail) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7670157829991287093/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-08-04.
+This product manager position at TikTok was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brooklyn, New York, United States |
+| Location | Tysons, Virginia, United States |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8615649002) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8648918002) |
 
 ## About This Role
 
-This product manager position at Alarm.com was posted on 2026-07-07.
+This product manager position at Alarm.com was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
