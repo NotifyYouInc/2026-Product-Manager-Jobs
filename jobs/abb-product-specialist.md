@@ -1,16 +1,16 @@
-# Product specialist at ABB
+# Product Specialist at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Xiamen, Fujian, China |
+| Location | Luxembourg |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Xiamen-Fujian-China/Product-specialist_JR00031131-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Luxembourg/Product-Specialist_JR00040037-1) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-04-28.
+This product manager position at ABB was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

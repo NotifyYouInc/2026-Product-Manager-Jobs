@@ -5,12 +5,12 @@
 | Company | [BUT](https://scoutify.ai/companies/but?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Émerainville, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BUT2/744000137390044-alternance-chef-de-produit-junior-fhx) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BUT2/744000141873670-alternance-chef-de-produit-junior-fhx) |
 
 ## About This Role
 
-This product manager position at BUT was posted on 2026-07-13.
+This product manager position at BUT was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

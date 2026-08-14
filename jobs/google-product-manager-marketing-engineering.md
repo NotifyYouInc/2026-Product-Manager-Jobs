@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/128965912274313926-product-manager-marketing-engineering?sort_by=date&page=1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQsPX_ZVHp_A1lXnCRtFBoLI0_MVb_laKUwa7eErig4fEjsA1Ny_iw3H2VvHSrD2Ue8EaxA9t25nN6p19-JR2JEO0FEGXySTkMGwsmzKYz9aChbuPUKOvMakeCv8zw%3D%3D_V2&loc=US&title=Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-02-19.
+This product manager position at Google was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

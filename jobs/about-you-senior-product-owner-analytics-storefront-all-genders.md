@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000138328309-senior-product-owner-analytics-storefront-all-genders) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000141932871-senior-product-owner-analytics-storefront-all-genders) |
 
 ## About This Role
 
-This product manager position at About You was posted on 2026-07-17.
+This product manager position at About You was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

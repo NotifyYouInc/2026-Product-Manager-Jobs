@@ -1,16 +1,16 @@
-# Product Manager Sr. at Huntington Bancshares
+# Product Manager Sr at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Minnetonka, Minnesota, United States |
+| Location | Hagerstown, Maryland, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Product-Manager-Sr_R0071134) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Hagerstown-MD/Product-Manager-Sr_R0071683) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-07-16.
+This product manager position at Huntington Bancshares was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

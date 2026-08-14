@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Accounting |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000136224249-dyrektordyrektorka-ds-zarzadzania-produktem-hrpayrollerp) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000141869949-dyrektordyrektorka-ds-zarzadzania-produktem-hrpayrollerp) |
 
 ## About This Role
 
-This accounting position at Unit4 was posted on 2026-07-07.
+This accounting position at Unit4 was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Brand Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000125332499-senior-product-manager-brand-experiences) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000141970459-senior-product-manager-brand-experiences) |
 
 ## About This Role
 
-This brand marketing position at ASOS was posted on 2026-05-08.
+This brand marketing position at ASOS was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

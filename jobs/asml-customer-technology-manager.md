@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Engineering Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Shanghai-China/Customer-Technology-Manager_J-00346874) |
+| Location | Wuhan, Hubei, China |
+| Category | Product Manager |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wuhan-China/Customer-Technology-Manager_J-00349396) |
 
 ## About This Role
 
-This engineering manager position at ASML was posted on 2026-07-06.
+This product manager position at ASML was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

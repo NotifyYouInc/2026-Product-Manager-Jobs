@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Horsham, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Product-Manager--Marketing-Engagement-and-Professional-Education--US-Oncology_R-082436-1) |
+| Location | Horsham, Pennsylvania, United States |
+| Category | Marketing |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Product-Manager--Marketing-Engagement-and-Professional-Education--US-Oncology_R-092499-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-06-15.
+This marketing position at Johnson & Johnson was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

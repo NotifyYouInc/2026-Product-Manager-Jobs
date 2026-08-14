@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Asset-Performance-Management--APM--Specialist_JR00031798) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Asset-Performance-Management--APM--Specialist_JR00042854) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-05-19.
+This asset management / portfolio management position at ABB was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

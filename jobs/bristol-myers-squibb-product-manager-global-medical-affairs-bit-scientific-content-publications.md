@@ -5,12 +5,12 @@
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Princeton, Florida, United States |
 | Category | Content Marketing |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Product-Manager--Global-Medical-Affairs-BI-T---Scientific-Content---Publications_R1601823) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Product-Manager--Global-Medical-Affairs-BI-T---Scientific-Content---Publications_R1605120) |
 
 ## About This Role
 
-This content marketing position at Bristol-Myers Squibb was posted on 2026-08-04.
+This content marketing position at Bristol-Myers Squibb was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
-| Category | AI / ML Research |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Lead-Product-Manager_R0136879) |
+| Location | San Jose, California, United States |
+| Category | Product Manager |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Lead-Product-Manager_R0137208) |
 
 ## About This Role
 
-This ai / ml research position at PayPal was posted on 2026-06-05.
+This product manager position at PayPal was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

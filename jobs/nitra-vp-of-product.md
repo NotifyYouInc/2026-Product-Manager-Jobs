@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nitra](https://scoutify.ai/companies/nitra?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/nitra/0684181b-4860-482e-b03c-4cfa2c3298cf) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.lever.co/nitra/ba5ba9a4-819d-488e-9ef0-c63c10e13d88) |
 
 ## About This Role
 
-This product manager position at Nitra was posted on 2026-05-28.
+This product manager position at Nitra was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

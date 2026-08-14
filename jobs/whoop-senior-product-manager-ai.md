@@ -1,16 +1,16 @@
-# Senior Product Manager, AI at whoop
+# Senior Product Manager, AI at Whoop
 
 | Field | Details |
 |-------|---------|
-| Company | [whoop](https://scoutify.ai/companies/whoop-whoop?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Whoop](https://scoutify.ai/companies/whoop?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/whoop/620270b2-778e-427f-a2f2-c53baeab7891) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/whoop/676afb9d-abad-43c6-b894-6dc72ec7bf92) |
 
 ## About This Role
 
-This product manager position at whoop was posted on 2026-03-24.
+This product manager position at Whoop was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

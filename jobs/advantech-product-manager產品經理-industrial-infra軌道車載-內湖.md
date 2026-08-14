@@ -5,12 +5,12 @@
 | Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Taipei_Neihu/Product-Manager-Industrial-Infra---_JR202607050) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Taipei_Neihu/Product-Manager-Industrial-Infra---_JR202608011) |
 
 ## About This Role
 
-This product manager position at Advantech was posted on 2026-07-15.
+This product manager position at Advantech was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

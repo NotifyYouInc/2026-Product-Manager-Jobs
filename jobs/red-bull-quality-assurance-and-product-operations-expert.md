@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
-| Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000140931159-quality-assurance-and-product-operations-expert) |
+| Category | QA Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000141928579-quality-assurance-and-product-operations-expert) |
 
 ## About This Role
 
-This product manager position at Red Bull was posted on 2026-07-31.
+This qa engineer position at Red Bull was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

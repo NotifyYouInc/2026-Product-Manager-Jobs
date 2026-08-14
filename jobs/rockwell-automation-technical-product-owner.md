@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Verona-Italy/Technical-Product-Owner_R26-2360-1) |
+| Location | Medellín, Antioquia, Colombia |
+| Category | Technical Product Manager |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Colombia-Medellin-remote/Technical-Product-Owner_R26-4577) |
 
 ## About This Role
 
-This product manager position at Rockwell Automation was posted on 2026-04-27.
+This technical product manager position at Rockwell Automation was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/VP--Product-Manager_R-050014) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/VP--Product-Manager_R-052556-1) |
 
 ## About This Role
 
-This product manager position at LPL Financial Holdings was posted on 2026-05-20.
+This product manager position at LPL Financial Holdings was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

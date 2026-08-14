@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Ontario---Toronto/Senior-Product-Manager--Consumer-Products_J00175512) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Ontario---Toronto/Senior-Product-Manager--Consumer-Products_J00172881) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-04-01.
+This product manager position at Equifax was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

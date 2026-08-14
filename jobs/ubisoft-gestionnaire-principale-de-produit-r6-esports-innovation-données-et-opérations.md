@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000138861740-gestionnaire-principale-de-produit-r6-esports-innovation-donnees-et-operations) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000141914199-gestionnaire-principale-de-produit-r6-esports-innovation-donnees-et-operations) |
 
 ## About This Role
 
-This product manager position at Ubisoft was posted on 2026-07-21.
+This product manager position at Ubisoft was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

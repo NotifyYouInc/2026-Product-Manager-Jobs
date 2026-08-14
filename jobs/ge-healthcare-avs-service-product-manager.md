@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/AVS-Service-Product-Manager_R4041767-1) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/AVS-Service-Product-Manager_R4044752-1) |
 
 ## About This Role
 
-This product manager position at GE HealthCare was posted on 2026-05-29.
+This product manager position at GE HealthCare was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

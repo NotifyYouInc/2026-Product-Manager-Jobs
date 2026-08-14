@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000141727870-senior-director-omnichannel-experience-solutions-success-pharma-ad-agency-exp-required) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000141774459-senior-director-omnichannel-experience-solutions-success-pharma-ad-agency-exp-required) |
 
 ## About This Role
 

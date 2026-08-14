@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8010464?gh_jid=8010464) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7993489?gh_jid=7993489) |
 
 ## About This Role
 
-This product manager position at Okta was posted on 2026-06-16.
+This technical product manager position at Okta was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
