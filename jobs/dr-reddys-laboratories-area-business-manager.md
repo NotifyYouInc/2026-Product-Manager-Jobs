@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000127128907-area-business-manager) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000142090099-area-business-manager) |
 
 ## About This Role
 
-This product manager position at Dr. Reddy's Laboratories was posted on 2026-05-19.
+This product manager position at Dr. Reddy's Laboratories was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

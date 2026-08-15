@@ -5,12 +5,12 @@
 | Company | [Axel Springer Corporate Solutions](https://scoutify.ai/companies/axelspringercorporatesolutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000140457359-director-video-social-audio-business-mwd) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000142078324-director-video-social-audio-business-mwd) |
 
 ## About This Role
 
-This product manager position at Axel Springer Corporate Solutions was posted on 2026-07-29.
+This product manager position at Axel Springer Corporate Solutions was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

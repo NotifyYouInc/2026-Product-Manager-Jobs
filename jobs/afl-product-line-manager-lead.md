@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AFL](https://scoutify.ai/companies/afl?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Milton Keynes, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=fe83c607-e3ad-4ce4-a7b9-6f3d8ba69593) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=42bc4d1a-e08a-4691-aa5f-6142f47fc6d0) |
 
 ## About This Role
 
-This product manager position at AFL was posted on 2026-07-31.
+This product manager position at AFL was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

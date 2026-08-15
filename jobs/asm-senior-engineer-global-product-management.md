@@ -5,12 +5,12 @@
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4700936101) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4949089101) |
 
 ## About This Role
 
-This product manager position at ASM was posted on 2026-04-08.
+This product manager position at ASM was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

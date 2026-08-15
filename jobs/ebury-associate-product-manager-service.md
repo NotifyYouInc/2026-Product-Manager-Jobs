@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Valencia, Valencia, Spain |
 | Category | Product Manager |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4945505101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4947779101) |
 
 ## About This Role
 

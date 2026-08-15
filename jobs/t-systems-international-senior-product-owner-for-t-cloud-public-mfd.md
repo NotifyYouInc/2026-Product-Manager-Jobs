@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Granada, Andalusia, Spain |
+| Location | 8 locations |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000134440749-senior-product-owner-for-t-cloud-public-mfd) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000142161314-senior-product-owner-for-t-cloud-public-mfd) |
 
 ## About This Role
 
-This product manager position at T-Systems International was posted on 2026-06-26.
+This product manager position at T-Systems International was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

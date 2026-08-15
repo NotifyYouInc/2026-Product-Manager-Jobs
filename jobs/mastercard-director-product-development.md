@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | O'Fallon, Missouri, United States |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Director--Product-Development_R-281281) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Product-Development_R-265839) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-30.
+This product manager position at Mastercard was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

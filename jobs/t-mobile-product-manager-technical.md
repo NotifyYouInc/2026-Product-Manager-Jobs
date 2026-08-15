@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Technical Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Product-Manager--Technical_REQ352996) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Herndon-Virginia/Product-Manager--Technical_REQ361459) |
 
 ## About This Role
 
-This technical product manager position at T-Mobile was posted on 2026-07-24.
+This technical product manager position at T-Mobile was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

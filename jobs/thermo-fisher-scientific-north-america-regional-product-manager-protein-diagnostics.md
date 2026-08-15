@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | District of Columbia, US |
+| Location | Florida, US |
 | Category | Product Manager |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-District-of-Columbia-USA/North-America-Regional-Product-Manager--Protein-Diagnostics-_R-01358161) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Vermont-USA/North-America-Regional-Product-Manager--Protein-Diagnostics-_R-01358162) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-06-29.
+This product manager position at Thermo Fisher Scientific was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Senior-Product-Manager_10153937) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Senior-Product-Manager_10154583) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-06-24.
+This product manager position at Disney was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

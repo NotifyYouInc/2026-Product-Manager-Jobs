@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Chennai-India/Engineering-Product-Manager_2016948-1) |
+| Location | North Carolina, US |
+| Category | Technical Product Manager |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Engineering-Product-Manager_2021908) |
 
 ## About This Role
 
-This product manager position at Cisco was posted on 2026-07-10.
+This technical product manager position at Cisco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

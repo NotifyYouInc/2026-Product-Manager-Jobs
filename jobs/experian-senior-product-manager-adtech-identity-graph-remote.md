@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138183459-senior-product-manager-adtech-identity-graph-remote) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142189900-senior-product-manager-adtech-identity-graph-remote) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-07-16.
+This product manager position at Experian was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

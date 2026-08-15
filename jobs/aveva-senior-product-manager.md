@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cambridge, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Senior-Product-Manager_R013732) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Bangalore-India/Senior-Product-Manager_R014905-1) |
 
 ## About This Role
 
-This product manager position at AVEVA was posted on 2026-04-15.
+This product manager position at AVEVA was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

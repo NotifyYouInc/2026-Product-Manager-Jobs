@@ -5,12 +5,12 @@
 | Company | [Venn](https://scoutify.ai/companies/venn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/venn/f182265c-248e-4164-9faa-19e8043a7919) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/venn/82a21147-50a9-4ecd-9781-5c332bdaa781) |
 
 ## About This Role
 
-This product manager position at Venn was posted on 2026-07-09.
+This product manager position at Venn was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

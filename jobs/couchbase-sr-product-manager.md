@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Couchbase](https://scoutify.ai/companies/couchbaseinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/couchbaseinc/jobs/4701384006) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/couchbaseinc/jobs/4701380006) |
 
 ## About This Role
 
-This product manager position at Couchbase was posted on 2026-08-05.
+This product manager position at Couchbase was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

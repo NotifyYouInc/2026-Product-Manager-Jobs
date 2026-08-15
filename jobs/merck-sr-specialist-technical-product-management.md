@@ -1,16 +1,16 @@
-# Sr. Specialist , Technical Product Management at Merck
+# Sr. Specialist, Technical Product Management at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Sr-Specialist---Technical-Product-Management_R406921-1) |
+| Location | North Wales, Pennsylvania, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Sr-Specialist--Technical-Product-Management_R410942) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-07-13.
+This technical product manager position at Merck was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Jose, California, United States |
+| Location | Milpitas, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Principal-Product-Management-Engineer_2015597) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Principal-Product-Management-Engineer_2019365) |
 
 ## About This Role
 
-This product manager position at Cisco was posted on 2026-05-29.
+This product manager position at Cisco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000140877653-product-manager-hrhcm) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000142080709-product-manager-hrhcm) |
 
 ## About This Role
 
-This product manager position at Unit4 was posted on 2026-07-31.
+This product manager position at Unit4 was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
