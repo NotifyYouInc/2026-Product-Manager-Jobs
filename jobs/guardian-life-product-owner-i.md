@@ -1,16 +1,16 @@
-# Associate Product Manager - Service at Ebury
+# Product Owner I at Guardian Life
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 3 locations |
 | Category | Product Manager |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4947780101) |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Pittsfield/Product-Owner-I_R000109894) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-08-07.
+This product manager position at Guardian Life was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

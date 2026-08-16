@@ -1,16 +1,16 @@
-# Associate Product Manager - Service at Ebury
+# Product Manager, Business Experience at Snapchat
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [Snapchat](https://scoutify.ai/companies/snapchat?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 4 locations |
 | Category | Product Manager |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4947780101) |
+| Apply | [View on company site](https://snapchat.wd1.myworkdayjobs.com/sourced/job/Palo-Alto-California/Product-Manager--Business-Experience_R0046415) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-08-07.
+This product manager position at Snapchat was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

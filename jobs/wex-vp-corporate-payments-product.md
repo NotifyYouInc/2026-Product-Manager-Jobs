@@ -1,16 +1,16 @@
-# Senior Product Manager at The Home Depot
+# VP, Corporate Payments Product at Wex
 
 | Field | Details |
 |-------|---------|
-| Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/Senior-Product-Manager_Req189448) |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/VP--Corporate-Payments-Product_R22504) |
 
 ## About This Role
 
-This product manager position at The Home Depot was posted on 2026-08-08.
+This product manager position at Wex was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

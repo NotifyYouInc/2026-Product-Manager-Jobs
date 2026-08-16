@@ -1,16 +1,16 @@
-# Associate Product Manager - Service at Ebury
+# Senior Director, LytxOne Product Management at DriveCam
 
 | Field | Details |
 |-------|---------|
-| Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [DriveCam](https://scoutify.ai/companies/drivecam?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4947780101) |
+| Apply | [View on company site](https://lytx.wd1.myworkdayjobs.com/lytx/job/Remote---USA/Senior-Director--LytxOne-Product-Management_R-4262) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-08-07.
+This product manager position at DriveCam was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

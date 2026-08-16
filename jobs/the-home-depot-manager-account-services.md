@@ -1,4 +1,4 @@
-# Senior Product Manager at The Home Depot
+# Manager, Account Services at The Home Depot
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/Senior-Product-Manager_Req189448) |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/Manager--Account-Services_Req189433) |
 
 ## About This Role
 

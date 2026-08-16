@@ -1,16 +1,16 @@
-# Senior Product Manager, Revenue Cloud - Configurator at Salesforce
+# Associate Product Manager - Commercial at Equifax
 
 | Field | Details |
 |-------|---------|
-| Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Senior-Product-Manager--Revenue-Cloud---Configurator_JR355327) |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA-IL-Chicago/Associate-Product-Manager---Commercial_J00178366) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-08-08.
+This product manager position at Equifax was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
