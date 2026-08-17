@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# Senior Product Manager, 1: Many Merchant Growth at Affirm
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Affirm](https://scoutify.ai/companies/affirm-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Canada |
 | Category | Product Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affirm/jobs/7818070003) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at Affirm was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

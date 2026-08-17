@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# Senior Hardware Product Manager  at Samsara
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | California, US |
 | Category | Product Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8036774?gh_jid=8036774) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at Samsara was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

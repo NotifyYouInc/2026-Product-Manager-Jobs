@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# Product Owner at Zensar
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#149051) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at Zensar was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

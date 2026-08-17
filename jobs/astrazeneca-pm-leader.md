@@ -1,16 +1,16 @@
-# Director, Product Management at Coupang
+# PM Leader at AstraZeneca
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Product Manager |
+| Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | China |
+| Category | Program Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8087923) |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/China/PM-Leader_R-257902) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-08-10.
+This program manager position at AstraZeneca was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

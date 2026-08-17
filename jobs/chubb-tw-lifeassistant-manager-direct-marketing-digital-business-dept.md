@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# 【TW Life】Assistant Manager, Direct Marketing Digital Business Dept. at Chubb
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Chubb](https://scoutify.ai/companies/ocs-cx-oj28119?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taiwan |
 | Category | Product Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#35205) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at Chubb was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# Senior Product Manager at Nash
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [Nash](https://scoutify.ai/companies/nash?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nash/cc7c4e72-f14e-48ad-8b55-3228ee7c3893) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at Nash was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

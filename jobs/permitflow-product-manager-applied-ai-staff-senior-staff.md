@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Product Manager, Applied AI (Staff / Senior Staff) at PermitFlow
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [PermitFlow](https://scoutify.ai/companies/permitflow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-08-09 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8118761) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/permitflow/6acf9264-aed4-45b3-854c-ed19283c16d0) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-08-09.
+This product manager position at PermitFlow was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

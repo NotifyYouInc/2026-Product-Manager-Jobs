@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Internet Solutions Commercial Manager at Teliacompany
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Product Manager |
 | Posted | 2026-08-09 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8118761) |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Vilnius/Internet-Solutions-Commercial-Manager_62588) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-08-09.
+This product manager position at Teliacompany was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

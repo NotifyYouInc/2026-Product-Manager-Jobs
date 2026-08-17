@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7942635?gh_jid=7942635) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7952652?gh_jid=7952652) |
 
 ## About This Role
 
-This product manager position at Coupang Internal was posted on 2026-05-21.
+This product manager position at Coupang Internal was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

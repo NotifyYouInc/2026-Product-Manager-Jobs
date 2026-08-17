@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carefeed](https://scoutify.ai/companies/carefeed?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Product Manager |
+| Category | Customer Success |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/carefeed/jobs/5382945008) |
 
 ## About This Role
 
-This product manager position at Carefeed was posted on 2026-08-07.
+This customer success position at Carefeed was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

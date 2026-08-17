@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# Senior Staff Product Manager at The Trade Desk
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Los Angeles, California, United States |
 | Category | Product Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5207768007) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at The Trade Desk was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

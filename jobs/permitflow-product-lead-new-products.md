@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# Product Lead, New Products at PermitFlow
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [PermitFlow](https://scoutify.ai/companies/permitflow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/permitflow/961291a4-6928-4c29-a21c-649c92966e04) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at PermitFlow was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

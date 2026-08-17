@@ -1,16 +1,16 @@
-# [쿠팡] 카탈로그 Taxonomy 및 데이터 분석 PM at Coupang
+# Product Manager VOIX (h/f) en CDI à Paris  at Sewan
 
 | Field | Details |
 |-------|---------|
-| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Sewan](https://scoutify.ai/companies/sewan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-08-09 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8118761) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEWAN/744000142508749-product-manager-voix-hf-en-cdi-a-paris) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-08-09.
+This product manager position at Sewan was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

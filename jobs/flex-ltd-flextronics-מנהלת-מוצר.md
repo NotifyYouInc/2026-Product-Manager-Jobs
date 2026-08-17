@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# מנהל/ת מוצר at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Israel |
 | Category | Product Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Israel-Migdal-Ha-Emek/--_WD226011) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at FLEX LTD. Flextronics was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

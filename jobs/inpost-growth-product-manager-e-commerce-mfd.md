@@ -1,16 +1,16 @@
-# Product Owner (H/F) at ALTEN Canada
+# Growth Product Manager - e-Commerce (m/f/d) at INPOST
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000142565060-growth-product-manager-e-commerce-mfd) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at INPOST was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
