@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Product Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#77671) |
+| Location | Pune, Maharashtra, India |
+| Category | Technical Product Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#80475) |
 
 ## About This Role
 
-This product manager position at BNY was posted on 2026-06-18.
+This technical product manager position at BNY was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

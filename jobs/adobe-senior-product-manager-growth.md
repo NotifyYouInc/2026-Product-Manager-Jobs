@@ -1,16 +1,16 @@
-# Senior Product Manager - Growth at Adobe
+# Senior Product Manager, Growth at Adobe
 
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Manager---Growth_R166043-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Product-Manager--Growth_R170742) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-03-24.
+This product manager position at Adobe was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

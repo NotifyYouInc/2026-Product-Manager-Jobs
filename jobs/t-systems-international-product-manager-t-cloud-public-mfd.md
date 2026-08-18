@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Granada, Andalusia, Spain |
+| Location | 7 locations |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000124617339-product-manager-t-cloud-public-mfd) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000142642649-product-manager-t-cloud-public-mfd) |
 
 ## About This Role
 
-This product manager position at T-Systems International was posted on 2026-05-05.
+This product manager position at T-Systems International was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

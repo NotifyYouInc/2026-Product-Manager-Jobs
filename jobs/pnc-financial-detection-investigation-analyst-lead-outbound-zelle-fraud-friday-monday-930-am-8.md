@@ -1,16 +1,16 @@
-# Detection & Investigation Analyst Lead:  Outbound Zelle Fraud:  Friday - Monday:  9:30 am - 8:00 pm ET at PNC Financial
+# Detection & Investigation Analyst Lead: Outbound Zelle Fraud: Friday - Monday: 9:30 am - 8:00 pm ET at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Texas, US |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/Detection---Investigation-Analyst-Lead---Outbound-Zelle-Fraud---Friday---Monday---9-30-am---8-00-pm-ET_R229077-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/Detection---Investigation-Analyst-Lead--Outbound-Zelle-Fraud--Friday---Monday--9-30-am---8-00-pm-ET_R230826-1) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-07-27.
+This product manager position at PNC Financial was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Corporate Development & M&A |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141750319-senior-product-strategy-lead-digital-ma-product-launches) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142713889-senior-product-strategy-lead-digital-ma-product-launches) |
 
 ## About This Role
 
-This corporate development & m&a position at ServiceNow was posted on 2026-08-05.
+This corporate development & m&a position at ServiceNow was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

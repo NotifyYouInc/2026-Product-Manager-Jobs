@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000142140579-principal-product-manager-money-laundering-detection) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000142609319-principal-product-manager-money-laundering-detection) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-08-07.
+This product manager position at WISE was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

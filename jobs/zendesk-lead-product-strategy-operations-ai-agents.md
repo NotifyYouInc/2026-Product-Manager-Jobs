@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Berlin-Germany/Lead--Product-Strategy---Operations---AI-Agents_R35185) |
 
 ## About This Role
 
-This operations position at Zendesk was posted on 2026-08-07.
+This strategy & operations position at Zendesk was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

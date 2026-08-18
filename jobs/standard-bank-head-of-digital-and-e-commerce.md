@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Douglas, Douglas, Isle of Man |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000129780539-head-of-digital-and-e-commerce) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000142799595-head-of-digital-and-e-commerce) |
 
 ## About This Role
 
-This product manager position at Standard Bank was posted on 2026-06-02.
+This product manager position at Standard Bank was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

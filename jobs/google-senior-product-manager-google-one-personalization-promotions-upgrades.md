@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckddQRPNN1CRnYEYdzRTom-jPYi_wkBI0gxy86SyiUhHrEjsACxwdTPFYjy_8XlBXYBjZmpB69x2-GqIsvhQGnYsy0nILcMOL_O-cML6fn4sosYlXQnZNET230iw_aQ%3D%3D_V2&loc=IN&title=Senior+Product+Manager) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdAk1WCt_dyLrvuu_zpwLCrgN0jCaaJ8IWg4OA5GlkWFEjsA1Ny_i04Q6niQGselTp8PorCmQoBzueg14p1lFsC5CBB_fpgJNbCw-KztldfFf2CI__OuZBZJFW0crA%3D%3D_V2&loc=IN&title=Senior+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-04-24.
+This product manager position at Google was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

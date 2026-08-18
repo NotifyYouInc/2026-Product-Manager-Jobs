@@ -1,16 +1,16 @@
-# Product Owner - Product  management at Desjardins
+# Product Owner, Product  management at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--ServiceNow-ITOM-Health_R2609759) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-Produit-TI--Plateforme-de-Donnes-Mouvement_R2609965) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-08-06.
+This product manager position at Desjardins was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

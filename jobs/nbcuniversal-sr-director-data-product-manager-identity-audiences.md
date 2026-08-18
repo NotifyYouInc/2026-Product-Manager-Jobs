@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000137922193-sr-director-data-product-manager-identity-audiences) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000142709419-sr-director-data-product-manager-identity-audiences) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-07-15.
+This technical product manager position at NBCUniversal was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

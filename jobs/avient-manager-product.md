@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avient](https://scoutify.ai/companies/ocs-cx-oj8350?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | Shenzhen, Guangdong, China |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#40000900) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#40001257) |
 
 ## About This Role
 
-This product manager position at Avient was posted on 2026-05-07.
+This product manager position at Avient was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

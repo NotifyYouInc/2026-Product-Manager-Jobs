@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Manager--Global-Payment-Network_R246357) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Manager--Product-Manager--Global-Payment-Network_R248841-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-07-08.
+This product manager position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

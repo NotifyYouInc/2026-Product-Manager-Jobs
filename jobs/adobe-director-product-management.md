@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Director--Product-Management_R165397) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Director--Product-Management_R170967-1) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-02-20.
+This product manager position at Adobe was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager at Playtech
+# Product Manager  at Playtech
 
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000141444809-product-manager) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000142580249-product-manager) |
 
 ## About This Role
 
-This product manager position at Playtech was posted on 2026-08-04.
+This product manager position at Playtech was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

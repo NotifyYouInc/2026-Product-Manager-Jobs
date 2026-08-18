@@ -5,12 +5,12 @@
 | Company | [GWI](https://scoutify.ai/companies/gwi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Operations |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/globalwebindex/jobs/8559444002) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/globalwebindex/jobs/8693180002) |
 
 ## About This Role
 
-This operations position at GWI was posted on 2026-06-02.
+This operations position at GWI was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

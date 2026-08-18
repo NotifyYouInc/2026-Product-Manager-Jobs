@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432830/sr-product-manager-fleet-telematics-fixed-term-contract-fleet-safety-technology) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10496670/sr-product-manager-fleet-telematics-fixed-term-contract-fleet-safety-technology) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-05-28.
+This product manager position at Amazon was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

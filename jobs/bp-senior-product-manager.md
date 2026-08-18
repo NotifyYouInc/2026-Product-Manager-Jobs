@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-States-of-America---Illinois---Chicago/Senior-Product-Manager_RQ112121) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Senior-Product-Manager_RQ114133-1) |
 
 ## About This Role
 
-This product manager position at BP was posted on 2026-06-24.
+This product manager position at BP was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

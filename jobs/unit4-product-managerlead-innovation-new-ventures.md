@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000140011349-product-managerlead-innovation-new-ventures) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000142603039-product-managerlead-innovation-new-ventures) |
 
 ## About This Role
 
-This product manager position at Unit4 was posted on 2026-07-27.
+This product manager position at Unit4 was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Bavariannordic](https://scoutify.ai/companies/bavariannordic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bavaria, DE |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://bavariannordic.wd103.myworkdayjobs.com/bavariannordic/job/Martinsried/Senior-Product-Manager-DACH--f-m-d-_JR101412) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://bavariannordic.wd103.myworkdayjobs.com/bavariannordic/job/Martinsried/Senior-Product-Manager-DACH--f-m-d-_JR101493) |
 
 ## About This Role
 
-This product manager position at Bavariannordic was posted on 2026-06-10.
+This product manager position at Bavariannordic was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

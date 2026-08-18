@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000139936979-junior-produktmanager-mwd-supplier-flug) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000142793574-junior-produktmanager-mwd-supplier-flug) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-07-27.
+This product manager position at CHECK24 was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

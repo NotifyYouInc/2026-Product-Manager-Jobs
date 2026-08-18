@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Georgia, US |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Georgia/Sr-Product-Manager--DMS-Data---Reporting_R202680821) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Georgia/Sr-Product-Manager--DMS-Data---Reporting_R202680818) |
 
 ## About This Role
 
-This product manager position at Cox was posted on 2026-08-06.
+This product manager position at Cox was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

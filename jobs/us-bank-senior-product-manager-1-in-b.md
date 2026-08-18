@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Product-Manager--1----IN-B_2026-0022930-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Senior-Product-Manager--1----IN-B_2026-0023354) |
 
 ## About This Role
 
-This product manager position at U.S. Bank was posted on 2026-07-31.
+This product manager position at U.S. Bank was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

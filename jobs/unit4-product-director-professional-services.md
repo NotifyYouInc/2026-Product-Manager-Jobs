@@ -5,12 +5,12 @@
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000137485639-product-director-professional-services) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000142601359-product-director-professional-services) |
 
 ## About This Role
 
-This product manager position at Unit4 was posted on 2026-07-13.
+This product manager position at Unit4 was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000130100199-product-manager) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000142778669-product-manager) |
 
 ## About This Role
 
-This product manager position at Informa was posted on 2026-06-03.
+This product manager position at Informa was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

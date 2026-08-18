@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Phoenix, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/AL---Birmingham-35233/Detection---Investigation-Analyst-Lead--Inbound-Zelle---Sunday---Thursday-8-30---5-00-pm_R228621-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Phoenix---East-Camelback-Exec-Suite-AZ014/Detection---Investigation-Analyst-Lead--Inbound-Zelle---Sunday---Thursday-8-30---5-00-pm_R229780-1) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-07-13.
+This product manager position at PNC Financial was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

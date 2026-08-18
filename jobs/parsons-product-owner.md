@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Product-Owner_R182938-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---Remote-Any-Location/Product-Owner_R184480-1) |
 
 ## About This Role
 
-This product manager position at Parsons was posted on 2026-07-07.
+This product manager position at Parsons was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

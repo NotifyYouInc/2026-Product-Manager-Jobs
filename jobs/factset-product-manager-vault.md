@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Sofia-BGR/Product-Manager---Vault_R30606) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/London-GBR/Product-Manager---Vault_R32846) |
 
 ## About This Role
 
-This product manager position at FactSet was posted on 2026-02-04.
+This product manager position at FactSet was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

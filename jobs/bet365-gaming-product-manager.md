@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000122551119-gaming-product-manager) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000142681018-gaming-product-manager) |
 
 ## About This Role
 
-This product manager position at bet365 was posted on 2026-04-23.
+This product manager position at bet365 was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

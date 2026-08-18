@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcw3zQDwfW_N_XV0jQod1Ou5143ZbLLjKJ35aZE3AXHIEjsA1Ny_i-W0MFO095fSfTEf4Nd4DsoEQie30wtTTcf0DMw2JPyWxMEzmzI6AZLNTuu6PNruK-hLAL8lbw%3D%3D_V2&loc=IL&title=Group+Product+Manager) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRq1mNFNO6fF3m3IhnLlIHSUYpdapf6I7NhD94rc8ROrEjsA1Ny_izNxH6Oo_ebpmEGE2UakhNmnXpbRCvUB1n_dMejLgkBwmxOsCXRe-Wcab4xsJAG_OiIWVsyYpw%3D%3D_V2&loc=IL&title=Group+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-07-13.
+This product manager position at Google was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

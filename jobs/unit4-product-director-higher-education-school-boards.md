@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unit4](https://scoutify.ai/companies/unit44?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Granada, Andalusia, Spain |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000140405269-product-director-higher-education-school-boards) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Unit44/744000142602159-product-director-higher-education-school-boards) |
 
 ## About This Role
 
-This product manager position at Unit4 was posted on 2026-07-29.
+This product manager position at Unit4 was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
