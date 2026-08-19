@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Hoevelaken/Product-Manager_R0056921-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Coppell-TX/Product-Manager_R0058792) |
 
 ## About This Role
 
-This product manager position at Wolters Kluwer was posted on 2026-06-15.
+This product manager position at Wolters Kluwer was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

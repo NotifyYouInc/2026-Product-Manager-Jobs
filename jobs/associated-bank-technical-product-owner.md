@@ -5,12 +5,12 @@
 | Company | [Associated Bank](https://scoutify.ai/companies/associatedbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Illinois, US |
 | Category | Technical Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/US-WI-Remote/Technical-Product-Owner_JR106204) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://associatedbank.wd1.myworkdayjobs.com/external_careers/job/US-WI-Remote/Technical-Product-Owner_JR106244) |
 
 ## About This Role
 
-This technical product manager position at Associated Bank was posted on 2026-08-07.
+This technical product manager position at Associated Bank was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

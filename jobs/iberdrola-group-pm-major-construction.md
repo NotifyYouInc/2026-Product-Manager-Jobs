@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Rochester, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-New-York-Rochester/PM---Major-Construction_R-24299) |
+| Location | Augusta, Georgia, United States |
+| Category | Project Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-States-Of-America-Maine-Augusta/PM---Major-Construction_R-32081-2) |
 
 ## About This Role
 
-This product manager position at Iberdrola Group was posted on 2026-07-30.
+This project manager position at Iberdrola Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

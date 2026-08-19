@@ -1,16 +1,16 @@
-# Product Manager,  Employee Experience & Productivity at Apple
+# Product Manager, Employee Experience & Productivity at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Culver City, California, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200652916/product-manager-employee-experience-productivity) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200677380/product-manager-employee-experience-productivity) |
 
 ## About This Role
 
-This human resources / people ops position at Apple was posted on 2026-03-26.
+This human resources / people ops position at Apple was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

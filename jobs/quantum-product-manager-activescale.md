@@ -5,12 +5,12 @@
 | Company | [Quantum](https://scoutify.ai/companies/recruiting2-ultipro-com-oj87063?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/qua1014quam/JobBoard/ca0ab154-0d7f-47e3-af84-cd9bd79768dc/OpportunityDetail?opportunityId=0b5811d5-8992-4bdd-addf-9d991692e151) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/qua1014quam/JobBoard/ca0ab154-0d7f-47e3-af84-cd9bd79768dc/OpportunityDetail?opportunityId=090d5707-c358-4dce-ad51-ab7c597ace9c) |
 
 ## About This Role
 
-This product manager position at Quantum was posted on 2026-06-11.
+This product manager position at Quantum was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

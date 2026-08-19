@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Breuninger](https://scoutify.ai/companies/breuninger?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EBreuningerGmbHCo/744000133029860-onsite-planning-performance-managerin-remote-moglich) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EBreuningerGmbHCo/744000143043139-onsite-planning-performance-managerin-remote-moglich) |
 
 ## About This Role
 
-This product manager position at Breuninger was posted on 2026-06-19.
+This product manager position at Breuninger was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

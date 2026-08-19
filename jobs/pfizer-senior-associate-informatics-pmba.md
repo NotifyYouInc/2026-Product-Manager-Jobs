@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pearl River, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---Pearl-River/Senior-Associate--Informatics-PM-BA_4960313-1) |
+| Category | Business Analyst |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---Pearl-River/Senior-Associate--Informatics-PM-BA_4961073-1) |
 
 ## About This Role
 
-This product manager position at Pfizer was posted on 2026-07-20.
+This business analyst position at Pfizer was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

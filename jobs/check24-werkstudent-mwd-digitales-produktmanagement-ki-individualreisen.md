@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Product Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000113514156-werkstudent-mwd-digitales-produktmanagement-ki-individualreisen) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000142863713-werkstudent-mwd-digitales-produktmanagement-ki-individualreisen) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-03-09.
+This product manager position at CHECK24 was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

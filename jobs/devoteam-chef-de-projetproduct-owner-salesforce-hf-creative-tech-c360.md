@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
-| Category | Customer Success |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000127394194-chef-de-projetproduct-owner-salesforce-hf-creative-tech-c360) |
+| Category | Product Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000142823691-chef-de-projetproduct-owner-salesforce-hf-creative-tech-c360) |
 
 ## About This Role
 
-This customer success position at Devoteam was posted on 2026-05-20.
+This product manager position at Devoteam was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

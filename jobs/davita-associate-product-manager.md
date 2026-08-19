@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | Denver, Colorado, United States |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/19511---Pennsylvania-Remote/Associate-Product-Manager_R0461470) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Associate-Product-Manager_R0472994) |
 
 ## About This Role
 
-This product manager position at DaVita was posted on 2026-06-10.
+This product manager position at DaVita was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

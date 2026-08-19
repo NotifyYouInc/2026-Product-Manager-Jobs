@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ford Motor Company](https://scoutify.ai/companies/em5-cx-oj40213?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Allen Park, Michigan, United States |
+| Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#63581) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#68393) |
 
 ## About This Role
 
-This product manager position at Ford Motor Company was posted on 2026-06-28.
+This product manager position at Ford Motor Company was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

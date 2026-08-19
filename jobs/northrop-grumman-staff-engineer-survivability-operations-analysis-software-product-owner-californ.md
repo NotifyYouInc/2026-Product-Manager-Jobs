@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-Engineer-Survivability---Operations-Analysis-Software-Product-Owner--California-_R10244408) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-Engineer-Survivability---Operations-Analysis-Software-Product-Owner--California-_R10245037) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-08-07.
+This software engineer position at Northrop Grumman was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

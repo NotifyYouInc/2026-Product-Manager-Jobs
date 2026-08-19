@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | AI / ML Research |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ9S9I1UHpUK_QtTN0s_VcpDK7cU0QiCu4QQWDyHaAkQEjsA1Ny_iyVB5udSllYSfCft87WFT_28fdJ6DBaDvj7Pksf2uoKBj-CLsX6_leA8O60JSNgx8R_CBLoBKQ%3D%3D_V2&loc=IN&title=Senior+Product+Manager) |
+| Category | Product Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcJ5keMOYdFmH1a5wWDioo1mxbEjDQryeNjtxRj9CdxaEjsA1Ny_i-hEkTCMyOE3LThjMAqqrzPeGNDly2yDUOR3OFR9uthozUM00Dp3Bb4gh73yBQi-NhSex0kt8w%3D%3D_V2&loc=IN&title=Senior+Product+Manager) |
 
 ## About This Role
 
-This ai / ml research position at Google was posted on 2026-06-16.
+This product manager position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Consultant, Product Management at TransUnion
+# Sr Consultant Product Management at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Sr-Consultant--Product-Management_19041580-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical Product Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Sr-Consultant-Product-Management_19041613) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-07-29.
+This technical product manager position at TransUnion was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

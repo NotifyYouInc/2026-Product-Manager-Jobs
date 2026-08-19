@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Senior-Product-Manager_R0025528) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Philadelphia---Pennsylvania/Senior-Product-Manager_R0026297) |
 
 ## About This Role
 
-This product manager position at Nasdaq was posted on 2026-03-13.
+This product manager position at Nasdaq was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Leeds, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000142214449-senior-product-manager) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000142839784-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Netcompany was posted on 2026-08-07.
+This product manager position at Netcompany was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

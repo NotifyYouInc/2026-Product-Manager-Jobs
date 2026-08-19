@@ -5,12 +5,12 @@
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Product-Manager_JR202637221) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Product-Manager_JR202638467-1) |
 
 ## About This Role
 
-This product manager position at Auto Club Enterprises was posted on 2026-06-18.
+This product manager position at Auto Club Enterprises was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

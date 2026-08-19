@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/CAN---ON-GTA-Remote/Principal-Digital-Product-Manager_R32849) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Blr-Sez-1-3Rd-6Th--7Th-Floor/Principal-Digital-Product-Manager_R32848-1) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-07-23.
+This product manager position at Allstate was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

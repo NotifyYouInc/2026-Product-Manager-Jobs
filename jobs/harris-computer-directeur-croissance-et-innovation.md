@@ -5,12 +5,12 @@
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Quebec, CA |
 | Category | Product Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Quebec-Canada/Directeur--Croissance-et-innovation_R0040649) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Quebec-Canada/Directeur--Croissance-et-innovation_R0045611-2) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-03-20.
+This product manager position at Harris Computer was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

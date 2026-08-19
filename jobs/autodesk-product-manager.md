@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Tel-Aviv-ISR/Product-Manager_26WD98131-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Product-Manager_26WD100504) |
 
 ## About This Role
 
-This product manager position at Autodesk was posted on 2026-05-07.
+This product manager position at Autodesk was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

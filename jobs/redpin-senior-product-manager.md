@@ -5,12 +5,12 @@
 | Company | [Redpin](https://scoutify.ai/companies/redpin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4899456101) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/currenciesdirect/jobs/4919663101) |
 
 ## About This Role
 
-This product manager position at Redpin was posted on 2026-06-26.
+This product manager position at Redpin was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

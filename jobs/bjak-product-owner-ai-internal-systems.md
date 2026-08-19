@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | China |
+| Location | United States |
 | Category | Product Manager |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/705d2156-d34f-4f2b-9266-f78de0e09c60) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/838642be-6645-44dd-9fc5-027558b141a8) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Sr-Digital-Product-Manager_112220) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Sr-Digital-Product-Manager_112982) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-07-31.
+This product manager position at Gartner was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
-| Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Technical-Product-Owner_R000649977) |
+| Location | Michigan, US |
+| Category | Technical Product Manager |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Michigan/Technical-Product-Owner_R000689576) |
 
 ## About This Role
 
-This product manager position at Meijer was posted on 2026-03-30.
+This technical product manager position at Meijer was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Specialist, Technical Product Management at Merck
+# Specialist , Technical Product Management at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Specialist--Technical-Product-Management_R407969-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Technical Product Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist---Technical-Product-Management_R409975-1) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-07-15.
+This technical product manager position at Merck was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
