@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Doha/Product-Management-Manager_R00347730) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Doha/Product-Management-Manager_R00349747) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-08-05.
+This product manager position at Accenture was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

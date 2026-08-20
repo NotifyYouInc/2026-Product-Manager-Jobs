@@ -5,12 +5,12 @@
 | Company | [R+V Versicherung](https://scoutify.ai/companies/rvallgemeineversicherungenag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000142870959-customer-journey-stratege-mwd) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000143139072-customer-journey-stratege-mwd) |
 
 ## About This Role
 
-This product manager position at R+V Versicherung was posted on 2026-08-11.
+This product manager position at R+V Versicherung was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

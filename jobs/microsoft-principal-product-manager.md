@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Redmond, Washington, United States |
-| Category | Technical Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556953823) |
+| Location | United States |
+| Category | Product Manager |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556961607) |
 
 ## About This Role
 
-This technical product manager position at Microsoft was posted on 2026-08-05.
+This product manager position at Microsoft was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

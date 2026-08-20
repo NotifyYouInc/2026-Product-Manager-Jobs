@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Lead-Product-Manager_10156330) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Singapore-Singapore/Lead-Product-Manager_10154386) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-08-10.
+This product manager position at Disney was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brookfield](https://scoutify.ai/companies/brookfield?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Los-Angeles-California/Associate--Product-Strategy---Development_R2050939) |
+| Location | Singapore, Singapore |
+| Category | Strategy & Operations |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://brookfield.wd5.myworkdayjobs.com/brookfield/job/Singapore/Associate--Product-Strategy---Development_R2052076) |
 
 ## About This Role
 
-This product manager position at Brookfield was posted on 2026-06-12.
+This strategy & operations position at Brookfield was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# PL/SR Product Owner  at ília
+# PL/SR Product Owner at ília
 
 | Field | Details |
 |-------|---------|
 | Company | [ília](https://scoutify.ai/companies/lia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ilia/jobs/5840928004) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ilia/jobs/6142353004) |
 
 ## About This Role
 
-This product manager position at ília was posted on 2026-04-07.
+This product manager position at ília was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

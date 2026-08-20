@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000113117242-product-manager) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000143228039-product-manager) |
 
 ## About This Role
 
-This product manager position at Gameloft was posted on 2026-03-06.
+This product manager position at Gameloft was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

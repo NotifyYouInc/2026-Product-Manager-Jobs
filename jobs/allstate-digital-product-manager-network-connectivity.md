@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
-| Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Digital-Product-Manager--Network-Connectivity-_R33774) |
+| Location | Canada |
+| Category | Technical Product Manager |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Canadian-Head-Office-It/Digital-Product-Manager--Network-Connectivity-_R33777) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-08-07.
+This technical product manager position at Allstate was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Location | Towson, Maryland, United States |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Rosh-HaAyin-Center-District-Israel/Product-Manager_REQ-1000050149) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Product-Manager_REQ-1000051157) |
 
 ## About This Role
 
-This product manager position at Stanley Black & Decker was posted on 2026-08-06.
+This product manager position at Stanley Black & Decker was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

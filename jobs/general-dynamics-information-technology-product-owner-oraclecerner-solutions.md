@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Product-Owner---Oracle-Cerner-Solutions_RQ223584-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Product-Owner---Oracle-Cerner-Solutions_RQ226260-1) |
 
 ## About This Role
 
-This product manager position at General Dynamics Information Technology was posted on 2026-07-02.
+This product manager position at General Dynamics Information Technology was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Alpharetta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Data-Product-Owner_J00176911-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Data-Product-Owner_J00178385) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-05-12.
+This product manager position at Equifax was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

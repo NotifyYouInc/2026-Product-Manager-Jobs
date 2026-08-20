@@ -1,16 +1,16 @@
-# Insurance Product Manager  at Next Insurance
+# Insurance Product Manager at Next Insurance
 
 | Field | Details |
 |-------|---------|
 | Company | [Next Insurance](https://scoutify.ai/companies/next-insurance?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nextinsurance66/jobs/7645311003) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nextinsurance66/jobs/7856597003) |
 
 ## About This Role
 
-This product manager position at Next Insurance was posted on 2026-03-30.
+This product manager position at Next Insurance was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

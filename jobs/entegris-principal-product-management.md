@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bedford, Texas, United States |
+| Location | Taiwan |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bedford-MA/Principal--Product-Management_REQ-13437) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Hsinchu-City-Taiwan/Principal--Product-Management_REQ-13855) |
 
 ## About This Role
 
-This product manager position at Entegris was posted on 2026-07-16.
+This product manager position at Entegris was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

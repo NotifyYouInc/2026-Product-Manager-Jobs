@@ -1,16 +1,16 @@
-# Senior Manager- Digital Product at CVS Health
+# Senior Manager, Digital Product at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Texas, US |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Senior-Manager--Digital-Product_R1000063) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Manager--Digital-Product_R0995135-1) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-08-06.
+This product manager position at CVS Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

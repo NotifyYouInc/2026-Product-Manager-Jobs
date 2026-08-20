@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Voya Financial](https://scoutify.ai/companies/godirect?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | AI / ML Research |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Boston-MA/Lead-AI-Product-Manager_JR0032839) |
+| Location | New York City, New York, United States |
+| Category | Product Manager |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/CT-WorkHome-Connecticut/Lead-AI-Product-Manager_JR0033040) |
 
 ## About This Role
 
-This ai / ml research position at Voya Financial was posted on 2026-06-22.
+This product manager position at Voya Financial was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

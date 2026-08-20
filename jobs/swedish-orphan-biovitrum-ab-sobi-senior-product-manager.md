@@ -5,12 +5,12 @@
 | Company | [Swedish Orphan Biovitrum AB (Sobi)](https://scoutify.ai/companies/swedishorphanbiovitrumabsobi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000142901926-senior-product-manager) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sobi/744000143127846-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Swedish Orphan Biovitrum AB (Sobi) was posted on 2026-08-11.
+This product manager position at Swedish Orphan Biovitrum AB (Sobi) was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

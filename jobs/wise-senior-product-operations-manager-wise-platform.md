@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Operations |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133026346-senior-product-operations-manager-wise-platform) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143110374-senior-product-operations-manager-wise-platform) |
 
 ## About This Role
 
-This operations position at WISE was posted on 2026-06-19.
+This strategy & operations position at WISE was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

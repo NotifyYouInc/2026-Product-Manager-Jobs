@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Wilmington-Delaware-United-States/New-Benefits-Development--Vice-President--Hybrid-_26950268-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Wilmington-Delaware-United-States/New-Benefits-Development--Vice-President--Hybrid-_26984706-1) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-04-09.
+This product manager position at Citigroup was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

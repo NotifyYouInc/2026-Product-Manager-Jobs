@@ -5,12 +5,12 @@
 | Company | [Brooksauto](https://scoutify.ai/companies/brooksauto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chelmsford, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://brooksauto.wd1.myworkdayjobs.com/brooks_external_site/job/Chelmsford-MA/Product-Manager--Semiconductor-Automation---Vacuum-Robots-_R8709) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://brooksauto.wd1.myworkdayjobs.com/brooks_external_site/job/Chelmsford-MA/Product-Manager--Semiconductor-Automation---Vacuum-Robots-_R9999-1) |
 
 ## About This Role
 
-This product manager position at Brooksauto was posted on 2026-04-20.
+This product manager position at Brooksauto was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

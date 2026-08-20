@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Senior-Product-Manager_R025473-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-Colorado-Colorado-Springs-4420-Arrowswest-Drive/Senior-Product-Manager_R026790) |
 
 ## About This Role
 
-This product manager position at Broadcom was posted on 2026-03-31.
+This product manager position at Broadcom was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

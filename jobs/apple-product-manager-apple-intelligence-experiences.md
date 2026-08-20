@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cupertino, California, United States |
 | Category | Product Manager |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200618440/product-manager-apple-intelligence-experiences) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200676399/product-manager-apple-intelligence-experiences) |
 
 ## About This Role
 
-This product manager position at Apple was posted on 2026-08-03.
+This product manager position at Apple was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

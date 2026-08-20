@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Canopy](https://scoutify.ai/companies/canopycare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Canopy](https://scoutify.ai/companies/canopy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Draper, Utah, United States |
 | Category | Product Manager |
-| Posted | 2025-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/canopycare/jobs/4692482008) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/canopytax/jobs/4339570009) |
 
 ## About This Role
 
-This product manager position at Canopy was posted on 2025-07-07.
+This product manager position at Canopy was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

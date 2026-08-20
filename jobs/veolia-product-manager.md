@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | England, GB |
+| Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127166779-product-manager) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143085369-product-manager) |
 
 ## About This Role
 
-This product manager position at Veolia was posted on 2026-05-19.
+This product manager position at Veolia was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

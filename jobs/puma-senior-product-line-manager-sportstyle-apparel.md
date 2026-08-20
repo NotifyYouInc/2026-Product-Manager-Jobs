@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PGS-China---Shanghai/Senior-Product-Line-Manager-Sportstyle-Apparel_R40493) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/PUMA-Way-Headquarters/Senior-Product-Line-Manager-Sportstyle-Apparel_R42522) |
 
 ## About This Role
 
-This product manager position at Puma was posted on 2026-03-23.
+This product manager position at Puma was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
