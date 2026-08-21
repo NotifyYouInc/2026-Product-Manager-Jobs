@@ -1,16 +1,16 @@
-# Senior Product Manager (Ongoing Monitoring) at Careers at Tide
+# Senior Product Manager, Ongoing Monitoring at Careers at Tide
 
 | Field | Details |
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7775820003) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7863571003) |
 
 ## About This Role
 
-This product manager position at Careers at Tide was posted on 2026-06-21.
+This product manager position at Careers at Tide was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

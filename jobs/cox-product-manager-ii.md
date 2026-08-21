@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Carmel, Indiana, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-II_R202679934) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Product-Manager-II_R202680968) |
 
 ## About This Role
 
-This product manager position at Cox was posted on 2026-07-16.
+This product manager position at Cox was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

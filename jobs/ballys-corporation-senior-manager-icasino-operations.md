@@ -5,12 +5,12 @@
 | Company | [Bally's Corporation](https://scoutify.ai/companies/bally-s-corporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://recruiting.ultipro.com/twi1006trwh/JobBoard/81558f08-2fad-4ff9-ac95-f1622f6fa6b6/OpportunityDetail?opportunityId=f18ac799-ae3c-46dd-8334-4a7fd0ff0d2d) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://recruiting.ultipro.com/twi1006trwh/JobBoard/81558f08-2fad-4ff9-ac95-f1622f6fa6b6/OpportunityDetail?opportunityId=77f7cc69-3315-4143-aca6-40d1d2aa7332) |
 
 ## About This Role
 
-This product manager position at Bally's Corporation was posted on 2026-06-04.
+This product manager position at Bally's Corporation was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

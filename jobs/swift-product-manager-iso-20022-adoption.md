@@ -1,16 +1,16 @@
-# Product Manager ISO 20022 adoption at Swift
+# Product manager ISO 20022 adoption at Swift
 
 | Field | Details |
 |-------|---------|
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/London-United-Kingdom/Product-Manager-ISO-20022-adoption_2026-16427) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Brussels-area-Belgium/Product-manager-ISO-20022-adoption_2026-16248) |
 
 ## About This Role
 
-This product manager position at Swift was posted on 2026-08-12.
+This product manager position at Swift was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

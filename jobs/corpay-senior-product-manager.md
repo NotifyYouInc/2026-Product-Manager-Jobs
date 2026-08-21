@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corpay](https://scoutify.ai/companies/corpay?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Swindon, England, United Kingdom |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Swindon/Senior-Product-Manager_R08380) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://corpay.wd103.myworkdayjobs.com/ext_001/job/Berlin---IVP/Senior-Product-Manager_R09095) |
 
 ## About This Role
 
-This product manager position at Corpay was posted on 2026-05-18.
+This product manager position at Corpay was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

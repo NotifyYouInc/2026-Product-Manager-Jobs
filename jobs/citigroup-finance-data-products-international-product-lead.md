@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Finance-Data-Products---International-Product-Lead_26968420) |
+| Category | Program Manager |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/GRZYBOWSKA-60/Finance-Data-Products---International-Product-Lead_26987155) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-07-16.
+This program manager position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Data-Product-Management-Consultant----Auto-Data---Insights_R-556973) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Lead-Data-Product-Management-Consultant----Auto-Data---Insights_R-568215) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-07-14.
+This product manager position at Wells Fargo was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

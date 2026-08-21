@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flexerasoftware](https://scoutify.ai/companies/flexerasoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://flexerasoftware.wd1.myworkdayjobs.com/flexerasoftware/job/Home-United-Kingdom/Senior-Product-Manager_17498) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical Product Manager |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://flexerasoftware.wd1.myworkdayjobs.com/flexerasoftware/job/Bangalore/Senior-Product-Manager_17543) |
 
 ## About This Role
 
-This product manager position at Flexerasoftware was posted on 2026-07-30.
+This technical product manager position at Flexerasoftware was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

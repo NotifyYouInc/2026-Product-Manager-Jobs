@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Electronics-Technician--1st-Shift---M-F-6-15-AM---3-00-PM-_R4044182-1) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Electronics-Technician--1st-Shift---M-F-6-15-AM---3-00-PM-_R4044887-1) |
 
 ## About This Role
 
-This product manager position at GE HealthCare was posted on 2026-07-28.
+This electrical / hardware engineer position at GE HealthCare was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

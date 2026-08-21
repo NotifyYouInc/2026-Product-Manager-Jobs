@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000137973799-sr-pavement-engineer-pm) |
+| Category | Project Manager |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143382089-sr-pavement-engineer-pm) |
 
 ## About This Role
 
-This product manager position at AECOM was posted on 2026-07-15.
+This project manager position at AECOM was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

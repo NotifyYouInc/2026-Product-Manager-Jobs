@@ -5,12 +5,12 @@
 | Company | [Catawiki](https://scoutify.ai/companies/catawiki?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/8083359) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/8127699) |
 
 ## About This Role
 
-This product manager position at Catawiki was posted on 2026-07-24.
+This product manager position at Catawiki was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

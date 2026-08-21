@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Kalmar, Kalmar, Sweden |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Shanghai/Product-Manager_WD220908-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Sweden-Kalmar/Product-Manager_WD227256) |
 
 ## About This Role
 
-This product manager position at FLEX LTD. Flextronics was posted on 2026-05-12.
+This product manager position at FLEX LTD. Flextronics was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

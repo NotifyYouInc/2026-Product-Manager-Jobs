@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meijer](https://scoutify.ai/companies/meijer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Michigan, US |
+| Location | Grand Rapids, Michigan, United States |
 | Category | Technical Product Manager |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Michigan/Technical-Product-Owner_R000689576) |
+| Apply | [View on company site](https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Technical-Product-Owner_R000691906) |
 
 ## About This Role
 

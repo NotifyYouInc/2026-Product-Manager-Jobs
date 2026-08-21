@@ -1,16 +1,16 @@
-# Manager, Consumer Products - Home & Baby at Mattel
+# Manager, Consumer Products - Home & Baby  at Mattel
 
 | Field | Details |
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000142012829-manager-consumer-products-home-baby) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000143436339-manager-consumer-products-home-baby) |
 
 ## About This Role
 
-This product manager position at Mattel was posted on 2026-08-06.
+This product manager position at Mattel was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

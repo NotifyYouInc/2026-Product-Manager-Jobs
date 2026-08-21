@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Poland |
+| Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000141535049-product-manager) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000143340366-product-manager) |
 
 ## About This Role
 
-This product manager position at INPOST was posted on 2026-08-04.
+This product manager position at INPOST was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

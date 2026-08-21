@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143036906-lead-product-manager-transaction-platform) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143241569-lead-product-manager-transaction-platform) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-08-12.
+This product manager position at Grab was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

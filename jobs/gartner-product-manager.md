@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Product-Manager_111655-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Product-Manager_113339-1) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-07-24.
+This product manager position at Gartner was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

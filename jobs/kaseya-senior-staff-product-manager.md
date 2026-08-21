@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6130639004/?gh_jid=6130639004) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6142948004/?gh_jid=6142948004) |
 
 ## About This Role
 
-This product manager position at Kaseya was posted on 2026-07-30.
+This product manager position at Kaseya was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

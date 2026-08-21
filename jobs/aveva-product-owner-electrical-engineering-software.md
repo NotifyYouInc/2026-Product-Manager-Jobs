@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cambridge, England, United Kingdom |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Cambridge-United-Kingdom/Product-Owner--Electrical-Engineering-Software_R014096) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Hyderabad-India/Product-Owner--Electrical-Engineering-Software_R015093) |
 
 ## About This Role
 
-This product manager position at AVEVA was posted on 2026-08-04.
+This product manager position at AVEVA was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

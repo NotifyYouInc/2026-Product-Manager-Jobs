@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131487780-regional-portfolio-expert) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143273037-regional-portfolio-expert) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-06-10.
+This product manager position at Robert Bosch was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

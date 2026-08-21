@@ -1,16 +1,16 @@
-# Senior Product Manager at Truecaller
+# Senior Product Manager  at Truecaller
 
 | Field | Details |
 |-------|---------|
 | Company | [Truecaller](https://scoutify.ai/companies/truecaller?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sweden |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8095903) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8127804) |
 
 ## About This Role
 
-This product manager position at Truecaller was posted on 2026-07-30.
+This product manager position at Truecaller was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

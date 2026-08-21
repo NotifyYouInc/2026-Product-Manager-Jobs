@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Director--Product-Management_2010550) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Director--Product-Management_2021909) |
 
 ## About This Role
 
-This product manager position at Cisco was posted on 2026-06-21.
+This product manager position at Cisco was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

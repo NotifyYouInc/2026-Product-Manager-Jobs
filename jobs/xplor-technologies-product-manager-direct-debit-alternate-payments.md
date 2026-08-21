@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000140886369-product-manager-direct-debit-alternate-payments) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000143440649-product-manager-direct-debit-alternate-payments) |
 
 ## About This Role
 
-This product manager position at Xplor Technologies was posted on 2026-07-31.
+This product manager position at Xplor Technologies was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

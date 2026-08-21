@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brighton, England, United Kingdom |
+| Location | Mānesar, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000142848634-wfm-product-manager-verint) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000143297819-wfm-product-manager-verint) |
 
 ## About This Role
 
-This product manager position at Lions Candle-Dispatch Solution was posted on 2026-08-11.
+This product manager position at Lions Candle-Dispatch Solution was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Marketing Operations |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001307828-product-manager-marketing-technology-6-month-fixed-term-contract) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001310901-product-manager-marketing-technology-6-month-fixed-term-contract) |
 
 ## About This Role
 
-This marketing operations position at Canva was posted on 2026-08-12.
+This marketing operations position at Canva was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

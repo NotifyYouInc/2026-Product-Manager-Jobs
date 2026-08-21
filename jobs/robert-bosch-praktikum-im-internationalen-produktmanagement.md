@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Leinfelden-Echterdingen, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141910608-praktikum-im-internationalen-produktmanagement) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143321385-praktikum-im-internationalen-produktmanagement) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-08-06.
+This product manager position at Robert Bosch was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

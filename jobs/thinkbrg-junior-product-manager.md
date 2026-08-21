@@ -5,12 +5,12 @@
 | Company | [Thinkbrg](https://scoutify.ai/companies/thinkbrg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Junior-Product-Manager_JR100723-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Junior-Product-Manager_JR100993) |
 
 ## About This Role
 
-This product manager position at Thinkbrg was posted on 2026-04-28.
+This product manager position at Thinkbrg was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

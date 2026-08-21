@@ -5,12 +5,12 @@
 | Company | [Cricut](https://scoutify.ai/companies/cricut?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | South Jordan, Utah, United States |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000142975249-global-product-manager-hardware) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cricut/744000143179279-global-product-manager-hardware) |
 
 ## About This Role
 
-This product manager position at Cricut was posted on 2026-08-11.
+This product manager position at Cricut was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

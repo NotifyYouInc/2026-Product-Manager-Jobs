@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/NPO-Product-Manager--HBM-_JR99965) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/NPO-Product-Manager--HBM-_JR108457) |
 
 ## About This Role
 
-This product manager position at Micron was posted on 2026-05-14.
+This product manager position at Micron was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
