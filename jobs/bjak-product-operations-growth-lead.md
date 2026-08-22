@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | China |
-| Category | Operations |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/58e0c770-5605-419a-b808-93d5c629d50e) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a7321f35-8583-4949-83f7-a22ea15cb4bb) |
 
 ## About This Role
 
-This operations position at Bjak was posted on 2026-08-02.
+This strategy & operations position at Bjak was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

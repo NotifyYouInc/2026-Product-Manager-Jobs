@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Brand Marketing |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Private-Brand-Product-Manager--Consumer-Products_R579271) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B152-Charlotte-NC/Private-Brand-Product-Manager--Consumer-Products_R612767-1) |
 
 ## About This Role
 
-This brand marketing position at Alimentation Couche-Tard was posted on 2026-04-10.
+This brand marketing position at Alimentation Couche-Tard was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

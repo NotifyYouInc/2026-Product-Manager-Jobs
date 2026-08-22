@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143160829-product-manager-digital-multiphase-products-high-performance-ai-and-compute-power) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143340030-product-manager-digital-multiphase-products-high-performance-ai-and-compute-power) |
 
 ## About This Role
 
-This product manager position at Renesas Electronics was posted on 2026-08-12.
+This product manager position at Renesas Electronics was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

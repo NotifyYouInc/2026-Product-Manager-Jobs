@@ -1,16 +1,16 @@
-# Product Manager-Senior at Huntington Bancshares
+# Product Manager Senior at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Akron, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Product-Manager-Senior_R0069771) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Akron-OH/Product-Manager-Senior_R0074861) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-03-04.
+This product manager position at Huntington Bancshares was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

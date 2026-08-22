@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000139599316-principal-product-manager) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000143480329-principal-product-manager) |
 
 ## About This Role
 
-This product manager position at Version 1 was posted on 2026-07-24.
+This product manager position at Version 1 was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

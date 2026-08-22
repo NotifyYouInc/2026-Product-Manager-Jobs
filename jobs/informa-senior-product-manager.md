@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000141441519-senior-product-manager) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000143463019-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Informa was posted on 2026-08-04.
+This product manager position at Informa was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

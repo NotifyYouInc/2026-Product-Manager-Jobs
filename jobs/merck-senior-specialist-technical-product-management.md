@@ -1,16 +1,16 @@
-# Senior. Specialist, Technical Product Management at Merck
+# Senior Specialist, Technical Product Management at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Customer Success |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Technical-Product-Management_R409973-1) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Technical-Product-Management_R410597-1) |
 
 ## About This Role
 
-This customer success position at Merck was posted on 2026-08-12.
+This technical product manager position at Merck was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

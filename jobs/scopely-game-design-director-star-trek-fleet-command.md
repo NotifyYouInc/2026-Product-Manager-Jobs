@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scopely](https://scoutify.ai/companies/scopely?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5196257008) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scopely/jobs/5390694008?gh_jid=5390694008) |
 
 ## About This Role
 
-This product manager position at Scopely was posted on 2026-04-24.
+This product manager position at Scopely was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

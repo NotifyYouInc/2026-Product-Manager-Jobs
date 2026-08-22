@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Istanbul, TR |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Besiktas-Istanbul-Turkey/Vice-President--Product-Management--Advanced-Analytics-and-AI_R-271794) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dubai-United-Arab-Emirates/Vice-President--Product-Management--Advanced-Analytics-and-AI_R-287463-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-03-10.
+This product manager position at Mastercard was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

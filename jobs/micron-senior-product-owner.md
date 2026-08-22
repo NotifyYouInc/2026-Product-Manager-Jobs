@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Product-Owner_JR96686) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Product-Owner_JR109017-1) |
 
 ## About This Role
 
-This product manager position at Micron was posted on 2026-03-31.
+This product manager position at Micron was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

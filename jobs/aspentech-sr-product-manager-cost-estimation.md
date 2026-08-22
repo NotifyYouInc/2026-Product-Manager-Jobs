@@ -1,16 +1,16 @@
-# Sr. Product Manager - Cost Estimation at Aspentech
+# Sr Product Manager - Cost Estimation at Aspentech
 
 | Field | Details |
 |-------|---------|
 | Company | [Aspentech](https://scoutify.ai/companies/aspentech?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bedford, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Sr-Product-Manager---Cost-Estimation_R9304) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Sr-Product-Manager---Cost-Estimation_R9254-1) |
 
 ## About This Role
 
-This product manager position at Aspentech was posted on 2026-08-07.
+This product manager position at Aspentech was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

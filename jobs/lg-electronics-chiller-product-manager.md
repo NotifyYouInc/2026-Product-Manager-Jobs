@@ -5,12 +5,12 @@
 | Company | [LG Electronics](https://scoutify.ai/companies/lg-electronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Alpharetta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5213493008) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5387848008) |
 
 ## About This Role
 
-This product manager position at LG Electronics was posted on 2026-05-08.
+This product manager position at LG Electronics was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

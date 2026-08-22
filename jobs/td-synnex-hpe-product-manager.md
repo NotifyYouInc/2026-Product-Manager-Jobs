@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Jakarta-Indonesia/HPE-Product-Manager_R54228) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Ho-Chi-Minh-City-Vietnam/HPE-Product-Manager_R55186) |
 
 ## About This Role
 
-This product manager position at TD Synnex was posted on 2026-07-23.
+This product manager position at TD Synnex was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fieldguide](https://scoutify.ai/companies/fieldguide?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/fieldguide/0c667ac5-4aaf-4fca-9c8f-bddc4caefc80) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/fieldguide/716f6d0e-6796-4747-989f-c0e639bae10e) |
 
 ## About This Role
 
-This product manager position at Fieldguide was posted on 2026-06-23.
+This product manager position at Fieldguide was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

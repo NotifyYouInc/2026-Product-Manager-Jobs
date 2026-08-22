@@ -1,16 +1,16 @@
-# Intermediate Product Manager at AB InBev  | Growth Group
+# Intermediate Product Manager  at AB InBev  | Growth Group
 
 | Field | Details |
 |-------|---------|
 | Company | [AB InBev  | Growth Group](https://scoutify.ai/companies/ab-inbev-growth-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Campinas, São Paulo, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8672399002) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/abinbev/jobs/8716182002) |
 
 ## About This Role
 
-This product manager position at AB InBev  | Growth Group was posted on 2026-08-07.
+This product manager position at AB InBev  | Growth Group was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

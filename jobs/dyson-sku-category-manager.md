@@ -5,12 +5,12 @@
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Johor Bahru, Johor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Malaysia---Global-Development-Campus-Johor-Bahru/SKU-Category-Manager_JR37141) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Malaysia---Global-Development-Campus-Johor-Bahru/SKU-Category-Manager_JR37140) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-07-20.
+This product manager position at Dyson was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

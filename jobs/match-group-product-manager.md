@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Match Group](https://scoutify.ai/companies/matchgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.lever.co/matchgroup/6d1230d3-f44d-421a-97ef-3ff2080c5c9e) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.lever.co/matchgroup/af478895-db01-4dbe-b394-54d58201b082) |
 
 ## About This Role
 
-This product manager position at Match Group was posted on 2026-02-04.
+This product manager position at Match Group was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

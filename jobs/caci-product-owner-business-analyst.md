@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-CO-Colorado-Springs/Product-Owner---Business-Analyst_325854) |
+| Category | Business Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO-US/Product-Owner---Business-Analyst_330583) |
 
 ## About This Role
 
-This product manager position at CACI was posted on 2026-05-07.
+This business analyst position at CACI was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

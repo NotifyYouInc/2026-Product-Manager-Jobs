@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Technical-Product-Owner---Cloud-Networking_10320408) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Technical-Product-Owner---Cloud-Networking_10333255) |
 
 ## About This Role
 
-This product manager position at Toyota was posted on 2026-05-19.
+This technical product manager position at Toyota was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

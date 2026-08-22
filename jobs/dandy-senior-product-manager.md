@@ -5,12 +5,12 @@
 | Company | [Dandy](https://scoutify.ai/companies/dandy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/dandy/f4f8d6e3-9db4-4f90-adf8-0f45c1e993a6) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/dandy/4e9a10d3-ed95-4a8f-ba4d-14d5c21ac8d4) |
 
 ## About This Role
 
-This product manager position at Dandy was posted on 2026-02-11.
+This product manager position at Dandy was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

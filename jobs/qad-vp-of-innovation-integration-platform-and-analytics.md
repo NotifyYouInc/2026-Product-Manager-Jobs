@@ -5,12 +5,12 @@
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Miami, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000141810088-vp-of-innovation-integration-platform-and-analytics) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000143544983-vp-of-innovation-integration-platform-and-analytics) |
 
 ## About This Role
 
-This product manager position at QAD was posted on 2026-08-05.
+This product manager position at QAD was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
