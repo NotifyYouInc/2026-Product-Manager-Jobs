@@ -1,16 +1,16 @@
-# Lead Product Manager at BlueOptima
+# Agent Product Manager (Remote - US East Coast) at Quadrivia
 
 | Field | Details |
 |-------|---------|
-| Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Quadrivia](https://scoutify.ai/companies/quadrivia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000143309469-lead-product-manager) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/quadrivia/de5c384e-f49e-4710-bc60-f525cb46aa6f) |
 
 ## About This Role
 
-This product manager position at BlueOptima was posted on 2026-08-13.
+This product manager position at Quadrivia was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

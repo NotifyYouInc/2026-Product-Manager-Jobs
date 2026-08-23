@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hartford, Connecticut, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Product Manager |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Lead-Director---Product-Portfolio-Management_R1006693) |
 
 ## About This Role
 
-This asset management / portfolio management position at CVS Health was posted on 2026-08-13.
+This product manager position at CVS Health was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Lead Product Manager at BlueOptima
+# Product Manager, Editing Foundations at Photoroom
 
 | Field | Details |
 |-------|---------|
-| Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Photoroom](https://scoutify.ai/companies/photoroom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000143309469-lead-product-manager) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/4886fd85-2b2c-4dca-bf48-1dbc370629bc) |
 
 ## About This Role
 
-This product manager position at BlueOptima was posted on 2026-08-13.
+This product manager position at Photoroom was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

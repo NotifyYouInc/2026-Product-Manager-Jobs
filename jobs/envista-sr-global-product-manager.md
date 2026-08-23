@@ -1,12 +1,12 @@
-# Global Product Manager at Envista
+# Sr. Global Product Manager at Envista
 
 | Field | Details |
 |-------|---------|
 | Company | [Envista](https://scoutify.ai/companies/envista?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Product Manager |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Global-Product-Manager_R5026957) |
+| Apply | [View on company site](https://envista.wd1.myworkdayjobs.com/envistacareers/job/United-States-of-America--California--Brea/Sr-Global-Product-Manager_R5026956) |
 
 ## About This Role
 

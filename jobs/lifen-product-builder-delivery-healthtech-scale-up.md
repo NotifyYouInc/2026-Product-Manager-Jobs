@@ -1,16 +1,16 @@
-# Lead Product Manager at BlueOptima
+# Product Builder Delivery - Healthtech Scale up at lifen
 
 | Field | Details |
 |-------|---------|
-| Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [lifen](https://scoutify.ai/companies/lifen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000143309469-lead-product-manager) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lifen/d4bf4229-4da1-4f21-ba57-d79dbdf18324) |
 
 ## About This Role
 
-This product manager position at BlueOptima was posted on 2026-08-13.
+This product manager position at lifen was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

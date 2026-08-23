@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Asset Management / Portfolio Management |
+| Category | Growth Marketing |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Senior-Manager--Portfolio-Growth---Optimisation_R-15990033) |
 
 ## About This Role
 
-This asset management / portfolio management position at Absa was posted on 2026-08-13.
+This growth marketing position at Absa was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

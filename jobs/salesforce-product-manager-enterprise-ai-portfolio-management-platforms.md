@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 5 locations |
-| Category | Asset Management / Portfolio Management |
+| Category | Product Manager |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington---Seattle/Product-Manager--Enterprise-AI---Portfolio-Management-Platforms_JR354037) |
 
 ## About This Role
 
-This asset management / portfolio management position at Salesforce was posted on 2026-08-14.
+This product manager position at Salesforce was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
