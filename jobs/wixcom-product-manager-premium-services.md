@@ -1,16 +1,16 @@
-# Group Product Manager, Product Solutions (Remote) at Unframe
+# Product Manager - Premium Services at Wix.com
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4953503101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000143689929-product-manager-premium-services) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-08-16.
+This product manager position at Wix.com was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

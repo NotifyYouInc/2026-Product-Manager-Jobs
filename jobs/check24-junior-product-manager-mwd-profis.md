@@ -1,16 +1,16 @@
-# Product Owner (Growth) at Toss
+# (Junior) Product Manager (m/w/d) - Profis at CHECK24
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7884093003) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000143758068-junior-product-manager-mwd-profis) |
 
 ## About This Role
 
-This product manager position at Toss was posted on 2026-08-17.
+This product manager position at CHECK24 was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

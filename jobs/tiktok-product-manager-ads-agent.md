@@ -1,16 +1,16 @@
-# Group Product Manager, Product Solutions (Remote) at Unframe
+# Product Manager, Ads Agent at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4953503101) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7674027219115772165/detail) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-08-16.
+This product manager position at TikTok was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

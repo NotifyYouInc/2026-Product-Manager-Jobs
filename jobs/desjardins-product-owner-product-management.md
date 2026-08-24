@@ -1,16 +1,16 @@
-# Product Owner, Product  management at Desjardins
+# Product Owner - Product  management at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit-Plateforme-de-gouvernance-IA_R2610152) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Responsable-de-produit--Plateforme-Azure_R2610067) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-08-13.
+This product manager position at Desjardins was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

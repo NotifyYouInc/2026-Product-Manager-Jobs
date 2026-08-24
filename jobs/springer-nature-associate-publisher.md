@@ -1,16 +1,16 @@
-# Product Owner (Growth) at Toss
+# Associate Publisher at Springer Nature
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Springer Nature](https://scoutify.ai/companies/springer-nature?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 3 locations |
 | Category | Product Manager |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7884093003) |
+| Apply | [View on company site](https://springernature.wd3.myworkdayjobs.com/springernaturecareers/job/Nanjing/Associate-Publisher_JR106896) |
 
 ## About This Role
 
-This product manager position at Toss was posted on 2026-08-17.
+This product manager position at Springer Nature was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

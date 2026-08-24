@@ -1,16 +1,16 @@
-# Group Product Manager, Product Solutions (Remote) at Unframe
+# Firmware Software Product Marking PM at Jabil
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Taiwan |
 | Category | Product Manager |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4953503101) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sanchong/Firmware-Software-Product-Marking-PM_J2461609) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-08-16.
+This product manager position at Jabil was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

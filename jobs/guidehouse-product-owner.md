@@ -1,16 +1,16 @@
-# Group Product Manager, Product Solutions (Remote) at Unframe
+# Product Owner at Guidehouse
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | McLean, Virginia, United States |
 | Category | Product Manager |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4953503101) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Product-Owner_42865) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-08-16.
+This product manager position at Guidehouse was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

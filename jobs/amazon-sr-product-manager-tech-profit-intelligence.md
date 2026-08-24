@@ -1,16 +1,16 @@
-# Product Owner (Growth) at Toss
+# Sr. Product Manager - Tech, Profit Intelligence at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7884093003) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10503329/sr-product-manager-tech-profit-intelligence) |
 
 ## About This Role
 
-This product manager position at Toss was posted on 2026-08-17.
+This product manager position at Amazon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

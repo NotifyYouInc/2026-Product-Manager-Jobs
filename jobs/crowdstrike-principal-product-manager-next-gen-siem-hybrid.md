@@ -1,16 +1,16 @@
-# WFM Product Manager (Verint) at Lions Candle-Dispatch Solution
+# Principal Product Manager - Next-Gen SIEM (Hybrid) at CrowdStrike
 
 | Field | Details |
 |-------|---------|
-| Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000143455959-wfm-product-manager-verint) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---London/Principal-Product-Manager---Next-Gen-SIEM--Hybrid-_R29805) |
 
 ## About This Role
 
-This product manager position at Lions Candle-Dispatch Solution was posted on 2026-08-14.
+This product manager position at CrowdStrike was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

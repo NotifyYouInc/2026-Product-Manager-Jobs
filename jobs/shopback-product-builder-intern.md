@@ -1,16 +1,16 @@
-# Group Product Manager, Product Solutions (Remote) at Unframe
+# Product Builder Intern at ShopBack
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [ShopBack](https://scoutify.ai/companies/shopback?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4953503101) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.lever.co/shopback-2/5e5c78b0-1b9a-4c09-843d-49ea41e991fe) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-08-16.
+This product manager position at ShopBack was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Group Product Manager, Product Solutions (Remote) at Unframe
+# Product Owner (원장 Platform) at Toss
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-08-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4953503101) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7883992003) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-08-16.
+This product manager position at Toss was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

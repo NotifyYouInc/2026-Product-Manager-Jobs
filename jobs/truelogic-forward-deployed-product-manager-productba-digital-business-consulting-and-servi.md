@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truelogic](https://scoutify.ai/companies/truelogic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/af8dee7c-0510-4359-8918-a465c66d4889) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/truelogic/56116373-76b1-4e43-bafc-b6bb821b8d93) |
 
 ## About This Role
 

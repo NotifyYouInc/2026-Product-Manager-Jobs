@@ -1,16 +1,16 @@
-# Product Owner (Growth) at Toss
+# PUBGM西欧游戏运营（产品运营方向） at Tencent
 
 | Field | Details |
 |-------|---------|
-| Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shenzhen, Guangdong, China |
 | Category | Product Manager |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7884093003) |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/PUBGM--_R107969-2) |
 
 ## About This Role
 
-This product manager position at Toss was posted on 2026-08-17.
+This product manager position at Tencent was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
