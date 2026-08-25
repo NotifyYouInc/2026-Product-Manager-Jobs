@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hanoi, Hanoi, Vietnam |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000143228039-product-manager) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000143998716-product-manager) |
 
 ## About This Role
 
-This product manager position at Gameloft Montreal was posted on 2026-08-13.
+This product manager position at Gameloft Montreal was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Israel---Tel-Aviv-Yafo/Games-Product-Manager_R0020875) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Israel---Tel-Aviv-Yafo/Games-Product-Manager_R0021963) |
 
 ## About This Role
 
-This product manager position at Aristocrat Leisure was posted on 2026-04-19.
+This product manager position at Aristocrat Leisure was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

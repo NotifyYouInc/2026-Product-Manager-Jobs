@@ -5,12 +5,12 @@
 | Company | [Luxury Escapes](https://scoutify.ai/companies/luxuryescapes?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LuxuryEscapes/6000000001120913-associate-product-manager) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LuxuryEscapes/6000000001322622-associate-product-manager) |
 
 ## About This Role
 
-This product manager position at Luxury Escapes was posted on 2026-06-01.
+This product manager position at Luxury Escapes was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

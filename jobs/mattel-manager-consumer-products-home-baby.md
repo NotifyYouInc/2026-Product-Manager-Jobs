@@ -6,7 +6,7 @@
 | Location | El Segundo, California, United States |
 | Category | Product Manager |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000143436339-manager-consumer-products-home-baby) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000143568694-manager-consumer-products-home-baby) |
 
 ## About This Role
 

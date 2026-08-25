@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-25 |
+| Category | Product Manager |
+| Posted | 2026-08-17 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Vice-President--Asset-Tokenization-Product-Manager_R-527547) |
 
 ## About This Role
 
-This asset management / portfolio management position at Wells Fargo was posted on 2026-03-25.
+This product manager position at Wells Fargo was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

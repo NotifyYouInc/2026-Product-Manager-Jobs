@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Manager--Product-Management--Card-Data_R241474) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Manager--Product-Management--Card-Data_R248844-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-05-11.
+This product manager position at Capital One was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

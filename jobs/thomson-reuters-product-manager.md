@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Canada-Toronto-Ontario/Product-Manager_JREQ201439) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Product-Manager_JREQ202410) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-07-07.
+This product manager position at Thomson Reuters was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

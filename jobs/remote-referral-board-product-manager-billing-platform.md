@@ -5,12 +5,12 @@
 | Company | [Remote - Referral Board](https://scoutify.ai/companies/remote-22738?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7820383003) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7885115003) |
 
 ## About This Role
 
-This product manager position at Remote - Referral Board was posted on 2026-07-29.
+This product manager position at Remote - Referral Board was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

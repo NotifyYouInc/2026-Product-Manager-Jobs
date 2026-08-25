@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferring](https://scoutify.ai/companies/ferring?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Marketing |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Taipei-Taiwan/Associate-Product-Manager_R0036668) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Product Manager |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Mumbai-India/Associate-Product-Manager_R0038178) |
 
 ## About This Role
 
-This marketing position at Ferring was posted on 2026-04-03.
+This product manager position at Ferring was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

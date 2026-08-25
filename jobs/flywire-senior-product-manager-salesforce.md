@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000138192587-senior-product-manager-salesforce) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000143838879-senior-product-manager-salesforce) |
 
 ## About This Role
 
-This product manager position at Flywire was posted on 2026-07-16.
+This product manager position at Flywire was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

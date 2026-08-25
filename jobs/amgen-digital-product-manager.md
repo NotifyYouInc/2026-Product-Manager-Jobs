@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Digital-Product-Manager_R-236695) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Digital-Product-Manager_R-251695) |
 
 ## About This Role
 
-This product manager position at Amgen was posted on 2026-02-09.
+This product manager position at Amgen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

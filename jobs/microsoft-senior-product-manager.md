@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556957770) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical Product Manager |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556962532) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-08-13.
+This technical product manager position at Microsoft was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

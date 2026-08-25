@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Koblenz, Rheinland-Pfalz, Germany |
+| Location | Köln, North Rhine-Westphalia, Germany |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Koblenz/Product-Manager--m-w-d-_JR109354) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Kln/Product-Manager--m-w-d-_JR110141) |
 
 ## About This Role
 
-This product manager position at Cgm was posted on 2026-04-13.
+This product manager position at Cgm was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

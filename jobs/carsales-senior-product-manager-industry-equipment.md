@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Gold Coast, Queensland, Australia |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000143438489-senior-product-manager-industry-equipment) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000143704519-senior-product-manager-industry-equipment) |
 
 ## About This Role
 
-This product manager position at carsales was posted on 2026-08-14.
+This product manager position at carsales was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/56aa7ccd-e950-4289-99ba-420c6bb4bcef) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d2e0af1c-4647-4d15-a597-281dcd815f37) |
 
 ## About This Role
 
-This product manager position at Jerry.ai was posted on 2026-07-27.
+This product manager position at Jerry.ai was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

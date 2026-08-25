@@ -5,12 +5,12 @@
 | Company | [Wemolo](https://scoutify.ai/companies/wemolo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/wemolo/eec6df23-bb4e-4c5e-89c2-f2ed6c60a399) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/wemolo/92522445-aa42-4381-ac51-8d1a5ddb9847) |
 
 ## About This Role
 
-This product manager position at Wemolo was posted on 2026-06-25.
+This product manager position at Wemolo was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

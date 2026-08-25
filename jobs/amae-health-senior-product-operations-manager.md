@@ -5,12 +5,12 @@
 | Company | [Amae Health](https://scoutify.ai/companies/amae-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/amaehealth/jobs/4240358009) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/amaehealth/jobs/4371962009) |
 
 ## About This Role
 
-This product manager position at Amae Health was posted on 2026-05-07.
+This product manager position at Amae Health was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

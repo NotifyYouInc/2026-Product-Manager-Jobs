@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Senior-Digital-Analyst_R59546-1) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Business Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sao-Paulo-Sao-Paulo-Brazil/Senior-Digital-Analyst_R74593-1) |
 
 ## About This Role
 
-This product manager position at Medtronic was posted on 2026-03-04.
+This business analyst position at Medtronic was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

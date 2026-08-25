@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4931107101) |
+| Category | Operations |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4954542101) |
 
 ## About This Role
 
-This product manager position at Fever was posted on 2026-07-17.
+This operations position at Fever was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

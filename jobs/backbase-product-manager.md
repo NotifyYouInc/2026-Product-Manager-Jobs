@@ -1,16 +1,16 @@
-# Product Manager at Backbase
+# Product Manager  at Backbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7411087) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/8124647) |
 
 ## About This Role
 
-This product manager position at Backbase was posted on 2026-03-13.
+This product manager position at Backbase was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

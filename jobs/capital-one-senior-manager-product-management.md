@@ -1,16 +1,16 @@
-# Senior Manager, Product Management at Capital One
+# Senior Manager - Product Management at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Senior-Manager--Product-Management_R248801) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Senior-Manager---Product-Management_R249181-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-08-11.
+This product manager position at Capital One was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

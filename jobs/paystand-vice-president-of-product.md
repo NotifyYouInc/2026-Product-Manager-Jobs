@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Paystand](https://scoutify.ai/companies/paystand?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Santa Cruz, California, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://paystand.com/job-listing/?gh_jid=7830258003) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://paystand.com/job-listing/?gh_jid=7830346003) |
 
 ## About This Role
 
-This product manager position at Paystand was posted on 2026-08-07.
+This product manager position at Paystand was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

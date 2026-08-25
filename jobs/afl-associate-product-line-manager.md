@@ -5,12 +5,12 @@
 | Company | [AFL](https://scoutify.ai/companies/afl?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=c5f90304-1410-4a11-9975-d1c3bdf40528) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=fbe282a7-4d1c-491f-a13d-022dab592269) |
 
 ## About This Role
 
-This product manager position at AFL was posted on 2026-06-30.
+This product manager position at AFL was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

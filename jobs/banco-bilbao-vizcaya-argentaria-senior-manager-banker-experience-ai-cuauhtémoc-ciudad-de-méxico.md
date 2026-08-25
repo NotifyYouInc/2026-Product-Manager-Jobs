@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
-| Category | Machine Learning Engineer |
+| Category | Product Manager |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/Senior-Manager--Banker-Experience---AI--Cuauhtmoc--Ciudad-de-Mxico-_JR00111406) |
 
 ## About This Role
 
-This machine learning engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-17.
+This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

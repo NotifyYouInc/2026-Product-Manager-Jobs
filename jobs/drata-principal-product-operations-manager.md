@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Drata](https://scoutify.ai/companies/drata?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/drata/803bebd0-0c94-4092-a219-a681aef788cc) |
 
 ## About This Role
 
-This strategy & operations position at Drata was posted on 2026-08-14.
+This operations position at Drata was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

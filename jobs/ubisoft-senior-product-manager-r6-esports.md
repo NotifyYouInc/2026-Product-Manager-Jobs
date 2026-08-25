@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000143098323-senior-product-manager-r6-esports) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000143841630-senior-product-manager-r6-esports) |
 
 ## About This Role
 
-This product manager position at Ubisoft was posted on 2026-08-12.
+This product manager position at Ubisoft was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

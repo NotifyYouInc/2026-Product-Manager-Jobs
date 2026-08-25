@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Maryland, US |
-| Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Field-Location/AI-Product-Manager_R179959-1) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Field-Location/AI-Product-Engineer_R184856) |
 
 ## About This Role
 
-This product manager position at Parsons was posted on 2026-04-29.
+This technical product manager position at Parsons was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

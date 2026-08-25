@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Singapore-Singapore/Product-Manager--Analytics-Cloudera_R49719) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Singapore-Singapore/Product-Manager--Analytics-Cloudera_R55291) |
 
 ## About This Role
 
-This product manager position at TD Synnex was posted on 2026-04-06.
+This product manager position at TD Synnex was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

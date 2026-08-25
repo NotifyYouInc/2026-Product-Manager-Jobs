@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axalta](https://scoutify.ai/companies/axalta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Guntramsdorf, Lower Austria, Austria |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://axalta.wd1.myworkdayjobs.com/axalta/job/Guntramsdorf-Lower-Austria/Product-Manager-GI-Liquid-EMEA_2026-19033) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://axalta.wd1.myworkdayjobs.com/axalta/job/Wuppertal/Product-Manager-GI-Liquid-EMEA_2026-19201) |
 
 ## About This Role
 
-This product manager position at Axalta was posted on 2026-08-13.
+This product manager position at Axalta was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

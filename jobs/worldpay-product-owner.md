@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Cincinnati, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/LONDON--UNITED-KINGDOM/Product-Owner_JR0609842) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/CINCINNATI-OHIO/Product-Owner_JR0611068) |
 
 ## About This Role
 
-This product manager position at Worldpay was posted on 2026-06-04.
+This product manager position at Worldpay was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

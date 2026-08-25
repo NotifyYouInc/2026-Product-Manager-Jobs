@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Product-Manager--Citi-Velocity---AVP_26979018) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Product-Manager--Citi-Velocity---AVP_26987544) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-07-14.
+This product manager position at Citigroup was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

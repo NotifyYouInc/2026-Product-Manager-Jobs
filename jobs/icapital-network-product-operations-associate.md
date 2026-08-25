@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8648980002) |
 
 ## About This Role
 
-This strategy & operations position at iCapital Network was posted on 2026-08-14.
+This operations position at iCapital Network was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
