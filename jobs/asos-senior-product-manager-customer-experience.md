@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000143107069-senior-product-manager-customer-experience) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000144152849-senior-product-manager-customer-experience) |
 
 ## About This Role
 
-This product manager position at ASOS was posted on 2026-08-12.
+This product manager position at ASOS was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

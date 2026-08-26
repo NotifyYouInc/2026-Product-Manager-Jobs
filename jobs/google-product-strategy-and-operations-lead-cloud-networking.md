@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Operations |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckffSoWJubbqiwRCtSo-02n7rx2K_T1Y6BT6mh_ATNobMEjsACxwdTIu6gk-l3QNxV2ChTRCdtD1CcWMVycMN8QYlbf1j5QtGH0iwmnB9r9EOHXbIxtiaGJcfLDTUog%3D%3D_V2&loc=US&title=Product+Strategy+and+Operations+Lead) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd5zuUCnoIPpShfGtQ4tWHEOdZ06TusQgqF9rOIsyY3_EjsA1Ny_i3cSeW8MXp9GgTv_7_x02n5-BShTXoViys7mb_6xLqfDJV2S2Vxdic1ZL6E7ZbWdmlM1WqPrpg%3D%3D_V2&loc=US&title=Product+Strategy+and+Operations+Lead) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-05-25.
+This operations position at Google was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

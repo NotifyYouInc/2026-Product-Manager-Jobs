@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Birmingham, Alabama, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Product-Manager_R26_0000023978) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/Milton-Keynes-Buckinghamshire-United-Kingdom/Product-Manager_R26_0000026338) |
 
 ## About This Role
 
-This product manager position at Genuine Parts Company was posted on 2026-07-30.
+This product manager position at Genuine Parts Company was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

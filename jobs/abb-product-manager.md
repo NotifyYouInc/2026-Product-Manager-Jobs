@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Coleshill-Warwickshire-United-Kingdom/Product-Manager_JR00043151-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Product-Manager_JR00043904) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-08-04.
+This product manager position at ABB was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

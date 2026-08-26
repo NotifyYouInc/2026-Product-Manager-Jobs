@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-03-13 |
+| Category | Accounting |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Specialist--US-Payroll--5-00-PM-to-2-00-AM-IST-_R27525) |
 
 ## About This Role
 
-This corporate finance position at CrowdStrike was posted on 2026-03-13.
+This accounting position at CrowdStrike was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

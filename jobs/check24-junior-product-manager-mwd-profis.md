@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000143758068-junior-product-manager-mwd-profis) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000144051263-junior-product-manager-mwd-profis) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-08-17.
+This product manager position at CHECK24 was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 6 locations |
-| Category | Product Manager |
-| Posted | 2026-05-30 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Technical-Product-Management-Specialist_JR2026512668-1) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Technical-Product-Management-Specialist_JR2026522455-1) |
 
 ## About This Role
 
-This product manager position at Boeing was posted on 2026-05-30.
+This technical product manager position at Boeing was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

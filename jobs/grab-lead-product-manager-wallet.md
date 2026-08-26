@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000129659666-lead-product-manager-wallet) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000144225389-lead-product-manager-wallet) |
 
 ## About This Role
 
-This product manager position at Grab was posted on 2026-06-02.
+This product manager position at Grab was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

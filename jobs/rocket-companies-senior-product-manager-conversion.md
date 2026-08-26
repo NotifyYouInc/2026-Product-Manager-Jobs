@@ -1,16 +1,16 @@
-# Senior Product Manager - Conversion at Rocket Companies
+# Senior Product Manager, Conversion at Rocket Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Rocket Companies](https://scoutify.ai/companies/quickenloans?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/Senior-Product-Manager---Conversion_R-082543) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---US/Senior-Product-Manager--Conversion_R-084258) |
 
 ## About This Role
 
-This product manager position at Rocket Companies was posted on 2026-05-01.
+This product manager position at Rocket Companies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Principal-Product-Manager_R-105203) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Product-Manager_R-108571-1) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-05-06.
+This product manager position at Expedia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-PA-Pittsburgh-Holiday-Drive/Product-Manager_R026271) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Product-Manager_R026754) |
 
 ## About This Role
 
-This product manager position at Broadcom was posted on 2026-06-24.
+This product manager position at Broadcom was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

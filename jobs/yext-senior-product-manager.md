@@ -1,16 +1,16 @@
-# Senior Product Manager  at Yext
+# Senior Product Manager at Yext
 
 | Field | Details |
 |-------|---------|
 | Company | [Yext](https://scoutify.ai/companies/yext?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/yext/jobs/7815397) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yext/jobs/8074743) |
 
 ## About This Role
 
-This product manager position at Yext was posted on 2026-05-20.
+This product manager position at Yext was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

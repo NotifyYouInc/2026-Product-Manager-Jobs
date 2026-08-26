@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
-| Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Manager-Lead_R0116494-1) |
+| Location | 2 locations |
+| Category | Technical Product Manager |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Manager-Lead_R0119904) |
 
 ## About This Role
 
-This product manager position at USAA was posted on 2026-04-03.
+This technical product manager position at USAA was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

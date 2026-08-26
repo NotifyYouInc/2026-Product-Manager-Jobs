@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New Jersey, US |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000142687649-agile-product-manager) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000144125800-agile-product-manager) |
 
 ## About This Role
 
-This product manager position at Endava was posted on 2026-08-10.
+This product manager position at Endava was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

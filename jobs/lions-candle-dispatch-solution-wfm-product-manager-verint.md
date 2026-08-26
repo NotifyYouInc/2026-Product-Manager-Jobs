@@ -5,12 +5,12 @@
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000143455959-wfm-product-manager-verint) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000144033649-wfm-product-manager-verint) |
 
 ## About This Role
 
-This product manager position at Lions Candle-Dispatch Solution was posted on 2026-08-14.
+This product manager position at Lions Candle-Dispatch Solution was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

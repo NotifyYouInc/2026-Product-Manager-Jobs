@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vietnam |
-| Category | Product Manager |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138262910-bd-senior-it-product-manager-business-workflow-platform) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144238440-bd-senior-it-product-manager-business-workflow-platform) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-07-17.
+This technical product manager position at Robert Bosch was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

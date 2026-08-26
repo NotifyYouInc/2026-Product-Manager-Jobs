@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Regional-Product-Ops-Testing-Lead--Digital-Go-To-Market-_3166738-2) |
+| Category | Project Manager |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Singapore-South-West-Singapore/College-Intern---Regional-Product-Ops-Testing-Lead--Digital-Go-To-Market-_3166739-1) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard (HP) was posted on 2026-07-30.
+This project manager position at Hewlett Packard (HP) was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

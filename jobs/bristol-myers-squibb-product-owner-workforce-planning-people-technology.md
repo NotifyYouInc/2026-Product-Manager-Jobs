@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Princeton, Florida, United States |
-| Category | Human Resources / People Ops |
+| Category | Product Manager |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Product-Owner--Workforce-Planning--People-Technology-_R1605351) |
 
 ## About This Role
 
-This human resources / people ops position at Bristol-Myers Squibb was posted on 2026-08-17.
+This product manager position at Bristol-Myers Squibb was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

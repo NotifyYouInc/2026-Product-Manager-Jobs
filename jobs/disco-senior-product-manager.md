@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DISCO](https://scoutify.ai/companies/disco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8657772002) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8657774002) |
 
 ## About This Role
 
-This product manager position at DISCO was posted on 2026-07-30.
+This product manager position at DISCO was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

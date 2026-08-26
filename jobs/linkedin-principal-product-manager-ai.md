@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Mountain View, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000133996654-principal-product-manager-ai) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000144154559-principal-product-manager-ai) |
 
 ## About This Role
 
-This product manager position at LinkedIn was posted on 2026-06-24.
+This product manager position at LinkedIn was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

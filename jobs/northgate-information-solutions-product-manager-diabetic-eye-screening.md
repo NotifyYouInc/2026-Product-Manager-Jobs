@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000142588249-product-manager-diabetic-eye-screening) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000144015659-product-manager-diabetic-eye-screening) |
 
 ## About This Role
 
-This product manager position at Northgate Information Solutions was posted on 2026-08-10.
+This product manager position at Northgate Information Solutions was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

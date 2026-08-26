@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142690999-product-manager) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144183299-product-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-08-10.
+This product manager position at Experian was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

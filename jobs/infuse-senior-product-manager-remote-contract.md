@@ -5,12 +5,12 @@
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Slovakia |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4720208005) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4725279005) |
 
 ## About This Role
 
-This product manager position at INFUSE was posted on 2026-07-31.
+This product manager position at INFUSE was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

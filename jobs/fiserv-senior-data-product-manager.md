@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berkeley Heights, New Jersey, United States |
-| Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Senior-Data-Product-Manager_R-10396886) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Senior-Data-Product-Manager_R-10400236) |
 
 ## About This Role
 
-This product manager position at Fiserv was posted on 2026-06-16.
+This technical product manager position at Fiserv was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
