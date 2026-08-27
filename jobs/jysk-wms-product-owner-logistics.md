@@ -5,12 +5,12 @@
 | Company | [JYSK](https://scoutify.ai/companies/jysk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Uldum, Central Jutland, Denmark |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000135312309-wms-product-owner-logistics) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000144462995-wms-product-owner-logistics) |
 
 ## About This Role
 
-This product manager position at JYSK was posted on 2026-07-01.
+This product manager position at JYSK was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

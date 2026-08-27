@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ipsen](https://scoutify.ai/companies/ipsen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Shanghai/Senior-Product-Manager_R-21559) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Cambridge-US/Senior-Product-Manager_R-22104-1) |
 
 ## About This Role
 
-This product manager position at Ipsen was posted on 2026-05-21.
+This product manager position at Ipsen was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

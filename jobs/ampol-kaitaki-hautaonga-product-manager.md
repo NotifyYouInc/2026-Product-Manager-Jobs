@@ -1,16 +1,16 @@
-# Kaitaki Hautaonga Product Manager at Ampol
+# Kaitaki Hautaonga Product Manager at Ampol
 
 | Field | Details |
 |-------|---------|
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Wellington, Wellington Region, New Zealand |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000000904739-kaitaki-hautaonga-product-manager) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001333064-kaitaki-hautaonga-product-manager) |
 
 ## About This Role
 
-This product manager position at Ampol was posted on 2026-03-02.
+This product manager position at Ampol was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

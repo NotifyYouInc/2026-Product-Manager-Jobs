@@ -5,12 +5,12 @@
 | Company | [Pebl](https://scoutify.ai/companies/pebl?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pebl/91b7c932-74cd-4168-843e-b26589706228) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pebl/6c249fff-5499-4001-b188-44be0001e280) |
 
 ## About This Role
 
-This product manager position at Pebl was posted on 2026-08-07.
+This product manager position at Pebl was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

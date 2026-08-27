@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagright.com](https://scoutify.ai/companies/flagrightcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/flagright.com/cdc0b71f-fb24-49bf-babe-de63bdaacb7e) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37) |
 
 ## About This Role
 
-This product manager position at Flagright.com was posted on 2026-06-17.
+This product manager position at Flagright.com was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

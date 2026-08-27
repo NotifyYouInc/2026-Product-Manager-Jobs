@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-PM-Analyst_26974309) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Digital-PM-Analyst_26987689) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-07-01.
+This product manager position at Citigroup was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

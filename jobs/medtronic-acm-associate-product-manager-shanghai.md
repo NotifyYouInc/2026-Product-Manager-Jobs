@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shanghai-Shanghai-China/ACM--Associate--Product-Manager-Shanghai_R73303-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shanghai-Shanghai-China/ACM--Associate--Product-Manager-Shanghai_R75348-1) |
 
 ## About This Role
 
-This product manager position at Medtronic was posted on 2026-07-30.
+This product manager position at Medtronic was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brwinów, Mazovia, Poland |
-| Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000131143730-innovation-lead) |
+| Location | Vinhedo, São Paulo, Brazil |
+| Category | Program Manager |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000144599659-innovation-lead) |
 
 ## About This Role
 
-This product manager position at Avery Dennison Corporation was posted on 2026-06-09.
+This program manager position at Avery Dennison Corporation was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

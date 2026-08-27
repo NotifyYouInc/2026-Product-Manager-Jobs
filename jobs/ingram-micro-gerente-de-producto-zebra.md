@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bogota-DC-Colombia/Gerente-de-Producto-Zebra_R-113674) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bogota-DC-Colombia/Gerente-de-Producto-Zebra_R-117066) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-03-02.
+This product manager position at Ingram Micro was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

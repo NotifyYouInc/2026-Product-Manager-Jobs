@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140105579-data-impact-specialist) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144405249-data-impact-specialist) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-07-27.
+This product manager position at Experian was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

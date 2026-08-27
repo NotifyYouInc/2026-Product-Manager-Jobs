@@ -5,12 +5,12 @@
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-04 |
+| Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8483831002) |
 
 ## About This Role
 
-This product manager position at AlphaSense was posted on 2026-04-04.
+This product manager position at AlphaSense was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager – Network Automation at Hewlett Packard Enterprise
+# Product Manager -Network Automation at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Idaho, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/All-Idaho-United-States-of-America/Product-Manager---Network-Automation_1205548) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Product-Manager--Network-Automation_1210146) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard Enterprise was posted on 2026-05-01.
+This product manager position at Hewlett Packard Enterprise was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

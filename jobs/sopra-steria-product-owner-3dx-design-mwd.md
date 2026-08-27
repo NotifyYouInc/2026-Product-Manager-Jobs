@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134454869-product-owner-3dx-design-mwd) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144530844-product-owner-3dx-design-mwd) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-06-26.
+This product manager position at Sopra Steria was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

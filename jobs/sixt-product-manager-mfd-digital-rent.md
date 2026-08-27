@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000142870910-product-manager-mfd-digital-rent) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000144608969-product-manager-mfd-digital-rent) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-08-11.
+This product manager position at Sixt was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

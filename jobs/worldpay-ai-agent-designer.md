@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Cincinnati, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/LONDON--UNITED-KINGDOM/AI-Agent-Designer_JR0610802-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/CINCINNATI-OHIO/AI-Agent-Designer_JR0611262-1) |
 
 ## About This Role
 
-This product manager position at Worldpay was posted on 2026-07-28.
+This product manager position at Worldpay was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

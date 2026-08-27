@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Red Bank, New Jersey, United States |
+| Location | Orlando, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6009436004/?gh_jid=6009436004) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6119031004/?gh_jid=6119031004) |
 
 ## About This Role
 
-This product manager position at Kaseya was posted on 2026-06-10.
+This product manager position at Kaseya was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

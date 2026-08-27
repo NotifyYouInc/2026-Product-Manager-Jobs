@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Custody-Product-Transformation---Senior-Product-Manager--Vice-President-_26958505) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Custody-Product-Transformation---Senior-Product-Manager--Vice-President-_26987824-1) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-04-29.
+This strategy & operations position at Citigroup was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

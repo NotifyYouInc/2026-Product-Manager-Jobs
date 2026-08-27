@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/ASSOCIATE---RCP---BANCA-EMPRESAS-E-INSTITUCIONES_JR00110951) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/ASSOCIATE---RCP---BANCA-EMPRESAS-E-INSTITUCIONES_JR00112479) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-31.
+This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

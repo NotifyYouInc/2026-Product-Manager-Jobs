@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Windsor, Connecticut, United States |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/New-York-NY/Product-Manager_R42140) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Windsor-CT/Product-Manager_R45800) |
 
 ## About This Role
 
-This product manager position at SS&C Technologies was posted on 2026-04-02.
+This product manager position at SS&C Technologies was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

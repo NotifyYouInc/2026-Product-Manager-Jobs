@@ -5,12 +5,12 @@
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shanghai-Shanghai-China/Senior-Product-Management-Engineer_JR-022855) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Shanghai-Shanghai-China/Senior-Product-Management-Engineer_JR-024072) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-06-17.
+This product manager position at Avnet was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

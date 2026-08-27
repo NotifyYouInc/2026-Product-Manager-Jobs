@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000143337725-senior-product-manager-ai-platform-b2c-exp-in-retail-investing) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000144453089-senior-product-manager-ai-platform-b2c-exp-in-retail-investing) |
 
 ## About This Role
 
-This product manager position at Versant was posted on 2026-08-13.
+This product manager position at Versant was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

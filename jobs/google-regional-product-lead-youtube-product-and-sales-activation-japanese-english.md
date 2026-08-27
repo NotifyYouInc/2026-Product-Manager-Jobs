@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/123473138192130758-regional-product-lead-youtube-product-and-sales-activation-japanese-english?sort_by=date&page=1) |
+| Category | Marketing |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUXaakIwtfM3kpPKQhoJXi2IuF_vlfOv8loAnslPfLK3EjsA1Ny_i9H9HtPj_tF0L7JAJKWexOhUfcSQaWES8qo0lCy5J5bqXu1ZCeDh-uNfTPdg-abyvipehFf_0w%3D%3D_V2&loc=JP&title=Regional+Product+Lead) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-26.
+This marketing position at Google was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

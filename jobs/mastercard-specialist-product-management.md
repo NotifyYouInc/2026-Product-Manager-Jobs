@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Australia |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Specialist--Product-Management_R-287290) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Specialist--Product-Management_R-288623) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-08-07.
+This product manager position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

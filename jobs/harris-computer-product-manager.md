@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Florida, New York, United States |
+| Location | Spain |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Florida-United-States/Product-Manager_R0043821-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Product-Manager_R0045762) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-06-11.
+This product manager position at Harris Computer was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

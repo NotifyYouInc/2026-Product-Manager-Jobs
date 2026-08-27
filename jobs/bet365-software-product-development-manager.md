@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Manchester, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000139099177-software-product-development-manager) |
+| Category | Product Manager |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000144475869-software-product-development-manager) |
 
 ## About This Role
 
-This engineering manager position at bet365 was posted on 2026-07-22.
+This product manager position at bet365 was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

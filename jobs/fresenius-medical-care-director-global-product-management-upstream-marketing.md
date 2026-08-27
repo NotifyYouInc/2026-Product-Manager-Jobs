@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Gurugram-HR/Director--Global-Product-Management_R0247455) |
 
 ## About This Role
 
-This product marketing position at Fresenius Medical Care was posted on 2026-08-19.
+This marketing position at Fresenius Medical Care was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

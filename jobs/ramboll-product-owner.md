@@ -5,12 +5,12 @@
 | Company | [Ramboll](https://scoutify.ai/companies/ramboll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000131932990-product-owner) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ramboll3/744000144496370-product-owner) |
 
 ## About This Role
 
-This product manager position at Ramboll was posted on 2026-06-12.
+This product manager position at Ramboll was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

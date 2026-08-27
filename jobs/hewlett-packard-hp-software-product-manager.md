@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Software-Product-Manager_3165691-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Software-Product-Manager_3165692-1) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard (HP) was posted on 2026-08-17.
+This product manager position at Hewlett Packard (HP) was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

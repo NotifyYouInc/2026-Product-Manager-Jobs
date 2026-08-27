@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000140493936-sap-consultant-pm-mwd-energiewirtschaft) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144509736-sap-consultant-pm-mwd-energiewirtschaft) |
 
 ## About This Role
 
-This product manager position at Devoteam was posted on 2026-07-29.
+This product manager position at Devoteam was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

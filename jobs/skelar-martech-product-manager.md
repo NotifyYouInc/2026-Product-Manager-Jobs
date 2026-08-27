@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
-| Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/15d48d0e-8ff3-45ae-8894-c3f0979e9900) |
+| Location | Not specified |
+| Category | Marketing Operations |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/eb799a5e-1e7e-4981-82df-45441f949c08) |
 
 ## About This Role
 
-This product manager position at SKELAR was posted on 2026-07-29.
+This marketing operations position at SKELAR was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

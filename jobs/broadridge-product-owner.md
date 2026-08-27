@@ -5,12 +5,12 @@
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Product-Owner_JR1081301) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Product-Owner_JR1084593-1) |
 
 ## About This Role
 
-This product manager position at Broadridge was posted on 2026-04-22.
+This product manager position at Broadridge was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
-| Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249315-1) |
+| Location | 6 locations |
+| Category | Product Manager |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst--Product-Strategy_R249318-2) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-08-14.
+This product manager position at Capital One was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

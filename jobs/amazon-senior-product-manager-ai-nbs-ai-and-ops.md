@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, CN |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10491318/senior-product-manager-ai-nbs-ai-and-ops) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10507838/senior-product-manager-ai-nbs-ai-and-ops) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-08-04.
+This product manager position at Amazon was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

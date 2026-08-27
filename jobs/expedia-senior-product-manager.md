@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Product-Manager_R-107410) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Senior-Product-Manager_R-108701) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-07-30.
+This product manager position at Expedia was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

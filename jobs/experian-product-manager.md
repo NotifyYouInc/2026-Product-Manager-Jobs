@@ -6,7 +6,7 @@
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Product Manager |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144183299-product-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144323744-product-manager) |
 
 ## About This Role
 

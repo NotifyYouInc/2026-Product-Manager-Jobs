@@ -1,16 +1,16 @@
-# Senior Product Manager at Too Good To Go
+# Senior Product Manager  at Too Good To Go
 
 | Field | Details |
 |-------|---------|
 | Company | [Too Good To Go](https://scoutify.ai/companies/too-good-to-go?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Denmark |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/toogoodtogo/jobs/7780037003) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/toogoodtogo/jobs/7917599003) |
 
 ## About This Role
 
-This product manager position at Too Good To Go was posted on 2026-06-22.
+This product manager position at Too Good To Go was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

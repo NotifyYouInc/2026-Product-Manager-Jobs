@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000139116281-ai-product-manager) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000144416329-ai-product-manager) |
 
 ## About This Role
 
-This product manager position at Mattel was posted on 2026-07-22.
+This product manager position at Mattel was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

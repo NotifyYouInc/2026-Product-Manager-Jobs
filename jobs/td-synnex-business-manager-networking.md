@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/New-Delhi-India/Business-Manager--Networking_R50012) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mumbai-India/Business-Manager--Networking_R55180) |
 
 ## About This Role
 
-This product manager position at TD Synnex was posted on 2026-06-09.
+This product manager position at TD Synnex was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

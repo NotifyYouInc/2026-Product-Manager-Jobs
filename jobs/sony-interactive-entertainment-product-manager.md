@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Waterloo, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985055004) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6147053004) |
 
 ## About This Role
 
-This product manager position at Sony Interactive Entertainment was posted on 2026-04-30.
+This product manager position at Sony Interactive Entertainment was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

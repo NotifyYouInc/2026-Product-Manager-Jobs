@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000130385140-product-manager-data-hf) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000144327218-product-manager-data-hf) |
 
 ## About This Role
 
-This product manager position at Everience was posted on 2026-06-05.
+This product manager position at Everience was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

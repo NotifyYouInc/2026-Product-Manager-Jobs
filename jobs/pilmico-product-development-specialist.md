@@ -5,12 +5,12 @@
 | Company | [Pilmico](https://scoutify.ai/companies/pilmico?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Philippines |
 | Category | Product Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000143986729-product-development-specialist) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilmicoFoodsCorporation/744000144250522-product-development-specialist) |
 
 ## About This Role
 
-This product manager position at Pilmico was posted on 2026-08-18.
+This product manager position at Pilmico was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

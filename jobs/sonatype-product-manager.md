@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sonatype](https://scoutify.ai/companies/sonatype?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Colombia |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.lever.co/sonatype/0c39a922-b861-4f3b-a1e0-430c94ef005c) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.lever.co/sonatype/dd736788-9c3d-4177-bc7a-d49cfe56269e) |
 
 ## About This Role
 
-This product manager position at Sonatype was posted on 2026-05-01.
+This product manager position at Sonatype was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

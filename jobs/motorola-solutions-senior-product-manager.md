@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Schaumburg, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Senior-Product-Manager_R66093) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Senior-Product-Manager_R62266-1) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-08-05.
+This product manager position at Motorola Solutions was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

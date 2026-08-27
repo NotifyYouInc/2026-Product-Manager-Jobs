@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132669539-data-product-manager-dynamic-assortment-quick-commerce) |
+| Category | Technical Product Manager |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000144256779-data-product-manager-dynamic-assortment-quick-commerce) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-06-17.
+This technical product manager position at Delivery Hero was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

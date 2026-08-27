@@ -5,12 +5,12 @@
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000143895752-associate-product-manager-platform-ai) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000144394950-associate-product-manager-platform-ai) |
 
 ## About This Role
 
-This product manager position at Acumatica was posted on 2026-08-17.
+This product manager position at Acumatica was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

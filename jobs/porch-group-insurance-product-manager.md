@@ -5,12 +5,12 @@
 | Company | [Porch Group](https://scoutify.ai/companies/porch-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Washington, US |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/US-WA-Remote---Non-Seattle/Insurance-Product-Manager_JR101337) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://porch.wd1.myworkdayjobs.com/careers/job/US-WA-Remote---Non-Seattle/Insurance-Product-Manager_JR101432-1) |
 
 ## About This Role
 
-This product manager position at Porch Group was posted on 2026-06-17.
+This product manager position at Porch Group was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

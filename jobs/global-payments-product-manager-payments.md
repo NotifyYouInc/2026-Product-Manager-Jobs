@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CHARLOTTE-NORTH-CAROLINA/Product-Manager---Payments_R0072136) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CHARLOTTE-NORTH-CAROLINA/Product-Manager---Payments_R0074183) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-05-21.
+This product manager position at Global Payments was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000143406589-product-manager-platforms) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000144608839-product-manager-platforms) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-08-13.
+This product manager position at NBCUniversal was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

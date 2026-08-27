@@ -5,12 +5,12 @@
 | Company | [Torq](https://scoutify.ai/companies/torq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/torq/jobs/5995117004) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/torq/jobs/6147498004) |
 
 ## About This Role
 
-This product manager position at Torq was posted on 2026-05-13.
+This product manager position at Torq was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

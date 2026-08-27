@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Marketing |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hong-Kong/XMLNAME--Senior--Product-Manager_R2822201) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hong-Kong/XMLNAME--Senior--Product-Manager---Hematology_R2868623) |
 
 ## About This Role
 
-This marketing position at Sanofi was posted on 2026-02-26.
+This marketing position at Sanofi was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

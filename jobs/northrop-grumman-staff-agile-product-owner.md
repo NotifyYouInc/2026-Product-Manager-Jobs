@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Staff-Agile-Product-Owner_R10244682) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Staff-Agile-Product-Owner_R10246236) |
 
 ## About This Role
 
-This product manager position at Northrop Grumman was posted on 2026-08-10.
+This product manager position at Northrop Grumman was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

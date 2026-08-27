@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000138056220-product-manager) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000144451819-product-manager) |
 
 ## About This Role
 
-This product manager position at Smiths Group was posted on 2026-07-16.
+This product manager position at Smiths Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

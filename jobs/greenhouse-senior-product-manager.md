@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Greenhouse](https://scoutify.ai/companies/greenhouse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Ontario, CA |
+| Location | Ireland |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/greenhouse/jobs/8114997?gh_jid=8114997) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/greenhouse/jobs/8126408?gh_jid=8126408) |
 
 ## About This Role
 
-This product manager position at Greenhouse was posted on 2026-08-12.
+This product manager position at Greenhouse was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

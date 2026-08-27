@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Intern-Transaction-Service-Product-Management---Wholesale-Banking--f-m-x-_REQ-10112269) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Intern-Transaction-Service-Product-Management---Wholesale-Banking--f-m-x-_REQ-10120020) |
 
 ## About This Role
 
-This product manager position at ING was posted on 2026-03-30.
+This product manager position at ING was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

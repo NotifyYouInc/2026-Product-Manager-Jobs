@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Treasury-Product-Manager-I_26029870) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Treasury-Product-Manager-I_26030192) |
 
 ## About This Role
 
-This product manager position at Bank of America was posted on 2026-08-17.
+This product manager position at Bank of America was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 
