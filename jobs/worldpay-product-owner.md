@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cincinnati, Ohio, United States |
+| Location | Bucharest, București, Romania |
 | Category | Product Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/CINCINNATI-OHIO/Product-Owner_JR0611068) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/BUCHAREST--ROMANIA/Product-Owner_JR0610925-1) |
 
 ## About This Role
 
-This product manager position at Worldpay was posted on 2026-08-18.
+This product manager position at Worldpay was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

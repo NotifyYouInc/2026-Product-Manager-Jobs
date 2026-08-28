@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uber Freight](https://scoutify.ai/companies/uber-freight?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/uberfreight/jobs/5385093008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/uberfreight/jobs/5396417008) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Alameda, California, United States |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Alameda/Senior-Product-Manager_31155577-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Trkiye---stanbul/Senior-Product-Manager_31159216) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-07-14.
+This product manager position at Abbott was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

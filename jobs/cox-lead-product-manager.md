@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Lead-Product-Manager_R202678846) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Lead-Product-Manager_R202680983) |
 
 ## About This Role
 
-This product manager position at Cox was posted on 2026-06-23.
+This product manager position at Cox was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

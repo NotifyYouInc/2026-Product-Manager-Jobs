@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138576019-senior-product-manager) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144754736-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-07-20.
+This product manager position at Experian was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

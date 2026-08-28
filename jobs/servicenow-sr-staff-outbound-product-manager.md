@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | San Diego, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138058820-sr-staff-outbound-product-manager) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000144823729-sr-staff-outbound-product-manager) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-07-16.
+This product manager position at ServiceNow was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Bournemouth, England, United Kingdom |
 | Category | Technical Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Clyde-Place/Technical-Product-Owner_JR-0000128083) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Technical-Product-Owner_JR-0000114393-1) |
 
 ## About This Role
 
-This technical product manager position at Barclays was posted on 2026-08-14.
+This technical product manager position at Barclays was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

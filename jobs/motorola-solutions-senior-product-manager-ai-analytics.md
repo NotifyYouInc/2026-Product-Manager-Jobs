@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | British Columbia, CA |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Senior-Product-Manager--AI---Analytics_R67501) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/British-Columbia-Remote-Work/Senior-Product-Manager--AI---Analytics_R67973) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-08-13.
+This product manager position at Motorola Solutions was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

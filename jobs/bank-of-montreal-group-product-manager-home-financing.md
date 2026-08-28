@@ -1,16 +1,16 @@
-# Group Product Manager, Home Financing at Bank of Montreal
+# Group Product Manager - Home Financing at Bank of Montreal
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Group-Product-Manager--Home-Financing_R260016182) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Group-Product-Manager---Home-Financing_R260024404) |
 
 ## About This Role
 
-This product manager position at Bank of Montreal was posted on 2026-06-05.
+This product manager position at Bank of Montreal was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

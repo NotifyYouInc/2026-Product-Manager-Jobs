@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Product Manager |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000144576049-senior-product-manager-people-systems) |
 
 ## About This Role
 
-This product manager position at Flywire was posted on 2026-08-20.
+This human resources / people ops position at Flywire was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

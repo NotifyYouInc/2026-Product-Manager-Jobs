@@ -5,12 +5,12 @@
 | Company | [Lakeshore Learning](https://scoutify.ai/companies/lakeshorelearning?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Carson, California, United States |
 | Category | Product Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000144180499-associate-product-developer-on-site) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lakeshore/744000144657959-associate-product-developer-on-site) |
 
 ## About This Role
 
-This product manager position at Lakeshore Learning was posted on 2026-08-18.
+This product manager position at Lakeshore Learning was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

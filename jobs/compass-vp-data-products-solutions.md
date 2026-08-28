@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Compass](https://scoutify.ai/companies/compass?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Dallas, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://www.compass.com/careers?gh_jid=8140301) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://www.compass.com/careers?gh_jid=8140452) |
 
 ## About This Role
 
-This product manager position at Compass was posted on 2026-08-19.
+This product manager position at Compass was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

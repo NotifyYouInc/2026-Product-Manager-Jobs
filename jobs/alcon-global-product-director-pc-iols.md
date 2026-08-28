@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Fort Worth, Texas, United States |
-| Category | Marketing |
+| Category | Product Manager |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Global-Product-Director--PC-IOLs_R-2026-48996-1) |
 
 ## About This Role
 
-This marketing position at Alcon was posted on 2026-08-20.
+This product manager position at Alcon was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

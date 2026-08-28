@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vertex Pharmaceuticals](https://scoutify.ai/companies/vrtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Marketing |
+| Category | Product Manager |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/5000---Vertex-US---Fan-Pier/Senior-Director--US-New-Product-Planning_REQ-29868-1) |
 
 ## About This Role
 
-This marketing position at Vertex Pharmaceuticals was posted on 2026-08-20.
+This product manager position at Vertex Pharmaceuticals was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

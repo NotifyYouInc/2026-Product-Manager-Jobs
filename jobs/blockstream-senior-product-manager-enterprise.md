@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blockstream](https://scoutify.ai/companies/blockstream?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Poland |
-| Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/blockstream/db997f96-5bb3-4597-a841-9273ab664d78) |
+| Location | Switzerland |
+| Category | Technical Product Manager |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/blockstream/24bb168a-97ca-49b2-abbd-a1c8bc3c6f61) |
 
 ## About This Role
 
-This product manager position at Blockstream was posted on 2026-03-24.
+This technical product manager position at Blockstream was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

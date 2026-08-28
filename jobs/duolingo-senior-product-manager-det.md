@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duolingo](https://scoutify.ai/companies/duolingo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.duolingo.com/jobs/8530395002?gh_jid=8530395002) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://careers.duolingo.com/jobs/8737859002?gh_jid=8737859002) |
 
 ## About This Role
 
-This product manager position at Duolingo was posted on 2026-04-29.
+This product manager position at Duolingo was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

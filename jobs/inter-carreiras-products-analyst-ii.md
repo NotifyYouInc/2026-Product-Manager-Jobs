@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4672459005?gh_jid=4672459005) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4725029005?gh_jid=4725029005) |
 
 ## About This Role
 
-This product manager position at Inter Carreiras was posted on 2026-04-28.
+This product manager position at Inter Carreiras was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

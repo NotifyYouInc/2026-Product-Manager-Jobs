@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
-| Category | Technical Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000144260974-product-manager-for-cct-data) |
+| Location | Gurugram, Haryana, India |
+| Category | Product Manager |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000144497819-product-manager-for-cct-data) |
 
 ## About This Role
 
-This technical product manager position at Lions Candle-Dispatch Solution was posted on 2026-08-19.
+This product manager position at Lions Candle-Dispatch Solution was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

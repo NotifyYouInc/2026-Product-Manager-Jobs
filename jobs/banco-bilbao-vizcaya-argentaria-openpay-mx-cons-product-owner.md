@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/OPENPAY-MX---CONS-PRODUCT-OWNER_JR00108509) |
+| Location | Mexico |
+| Category | Technical Product Manager |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/PARQUES-BBVA-BANCOMER/OPENPAY-MX---CONS-PRODUCT-OWNER_JR00112609-2) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-13.
+This technical product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

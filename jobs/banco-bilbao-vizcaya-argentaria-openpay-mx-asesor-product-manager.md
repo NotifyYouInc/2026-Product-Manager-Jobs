@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Miguel Hidalgo, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/OPENPAY-MX---ASESOR-PRODUCT-MANAGER_JR00112421) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/OPENPAY-MX---ASESOR-PRODUCT-MANAGER_JR00112511) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-19.
+This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

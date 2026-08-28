@@ -1,16 +1,16 @@
-# Product Manager, Support Experience at Stripe
+# Product Manager, Support Experience  at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7920028) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8143563) |
 
 ## About This Role
 
-This product manager position at Stripe was posted on 2026-05-20.
+This product manager position at Stripe was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

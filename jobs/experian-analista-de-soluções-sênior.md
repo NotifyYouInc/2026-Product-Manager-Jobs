@@ -1,16 +1,16 @@
-# Analista de Soluções Sênior at Experian
+# Analista de Soluções Sênior  at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000141331699-analista-de-solucoes-senior) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144825291-analista-de-solucoes-senior) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-08-03.
+This product manager position at Experian was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ipsen](https://scoutify.ai/companies/ipsen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Marketing |
+| Category | Product Manager |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Shanghai/Senior-Product-Manager--Somatuline_R-22249) |
 
 ## About This Role
 
-This marketing position at Ipsen was posted on 2026-08-20.
+This product manager position at Ipsen was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

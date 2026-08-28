@@ -1,0 +1,22 @@
+# Manager, Business Analyst, MarTech Product Management at Novartis
+
+| Field | Details |
+|-------|---------|
+| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Hyderabad, Telangana, India |
+| Category | Marketing Operations |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Manager--Business-Analysis--MarTech-Product-Management_REQ-10083111) |
+
+## About This Role
+
+This marketing operations position at Novartis was posted on 2026-08-21.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
