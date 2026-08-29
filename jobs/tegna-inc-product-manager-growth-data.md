@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TEGNA Inc.](https://scoutify.ai/companies/tegna-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Growth Marketing |
+| Category | Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://boards.greenhouse.io/tegnainc/jobs/5216516007?gh_jid=5216516007) |
 
 ## About This Role
 
-This growth marketing position at TEGNA Inc. was posted on 2026-08-21.
+This marketing position at TEGNA Inc. was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

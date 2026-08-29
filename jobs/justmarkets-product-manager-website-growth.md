@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JustMarkets](https://scoutify.ai/companies/justmarkets?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
-| Category | Growth Marketing |
+| Category | Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/justmarkets/jobs/4806310101) |
 
 ## About This Role
 
-This growth marketing position at JustMarkets was posted on 2026-08-20.
+This marketing position at JustMarkets was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

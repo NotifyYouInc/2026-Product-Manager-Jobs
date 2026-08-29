@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | UX Researcher |
+| Category | Product Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Product-Market-Research-Lead_72347) |
 
 ## About This Role
 
-This ux researcher position at Brown Brothers Harriman was posted on 2026-08-20.
+This product marketing position at Brown Brothers Harriman was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

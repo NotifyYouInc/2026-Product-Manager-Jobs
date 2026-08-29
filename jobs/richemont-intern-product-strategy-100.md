@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Schaffhausen, Schaffhausen, Switzerland |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SCHAFFHAUSEN/Intern-Product-Strategy--100--_JR132491) |
 
 ## About This Role
 
-This product manager position at Richemont was posted on 2026-08-21.
+This product marketing position at Richemont was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

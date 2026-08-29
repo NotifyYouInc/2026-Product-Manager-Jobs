@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cantina](https://scoutify.ai/companies/cantina?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | California, US |
-| Category | Growth Marketing |
+| Category | Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/cantina/2658cf22-7b84-4f71-9dc1-987d05781fb8) |
 
 ## About This Role
 
-This growth marketing position at Cantina was posted on 2026-08-20.
+This marketing position at Cantina was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

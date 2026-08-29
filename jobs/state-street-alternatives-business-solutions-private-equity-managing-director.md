@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | Product Manager |
+| Category | Venture Capital / Private Equity |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Alternatives-Business-Solutions---Private-Equity--Managing-Director_R-796405-1) |
 
 ## About This Role
 
-This product manager position at State Street was posted on 2026-08-20.
+This venture capital / private equity position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

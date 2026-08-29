@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irvine, California, United States |
-| Category | Marketing |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-47823) |
+| Category | Product Marketing |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-50234) |
 
 ## About This Role
 
-This marketing position at Edwards Lifesciences was posted on 2026-05-11.
+This product marketing position at Edwards Lifesciences was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

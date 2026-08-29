@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 6 locations |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQgU8Sth0Orqr7unMGGoYNR3EgAZuXswPoyrcxRUj_sOEjsA1Ny_i4PVIDb7wQpuHmRrWYy1MbINm9HTl3lOIG8QbZ8BJ7oGbRScTC1Tpp8s2faOGQgZRXVOQVGbmA%3D%3D_V2&loc=US&title=Principal+Lead) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-08-21.
+This product marketing position at Google was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

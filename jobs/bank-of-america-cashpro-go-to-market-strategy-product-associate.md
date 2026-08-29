@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
-| Category | Strategy & Operations |
+| Category | Product Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/CashPro-Go-To-Market-Strategy-Product-Associate_26030436) |
 
 ## About This Role
 
-This strategy & operations position at Bank of America was posted on 2026-08-20.
+This product marketing position at Bank of America was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

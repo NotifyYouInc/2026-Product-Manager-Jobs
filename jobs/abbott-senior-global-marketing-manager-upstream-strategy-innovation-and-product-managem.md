@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lake Forest, California, United States |
-| Category | Strategy & Operations |
+| Category | Product Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Global-Marketing-Manager--Upstream-Strategy--Innovation-and-Product-Management_31155833-1) |
 
 ## About This Role
 
-This strategy & operations position at Abbott was posted on 2026-08-20.
+This product marketing position at Abbott was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

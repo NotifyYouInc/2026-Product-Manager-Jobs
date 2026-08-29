@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eve](https://scoutify.ai/companies/eve?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Growth Marketing |
+| Category | Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/eve/jobs/4377938009) |
 
 ## About This Role
 
-This growth marketing position at Eve was posted on 2026-08-21.
+This marketing position at Eve was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

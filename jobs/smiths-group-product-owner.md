@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000144451560-product-owner) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000144481835-product-owner) |
 
 ## About This Role
 

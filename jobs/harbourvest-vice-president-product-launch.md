@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/London/Vice-President--Product-Launch_R2511-1) |
 
 ## About This Role
 
-This product manager position at HarbourVest was posted on 2026-08-21.
+This product marketing position at HarbourVest was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

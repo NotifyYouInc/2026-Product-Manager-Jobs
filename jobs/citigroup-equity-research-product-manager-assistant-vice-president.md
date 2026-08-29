@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | UX Researcher |
+| Category | Investment Banking |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Equity-Research-Product-Manager--Assistant-Vice-President_26989060) |
 
 ## About This Role
 
-This ux researcher position at Citigroup was posted on 2026-08-20.
+This investment banking position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

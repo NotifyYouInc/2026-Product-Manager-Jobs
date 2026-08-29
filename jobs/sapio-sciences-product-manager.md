@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sapio Sciences](https://scoutify.ai/companies/sapiosciences?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.lever.co/sapiosciences/b3d3cccf-866f-4f57-8035-a07c7285a68a) |
 
 ## About This Role
 
-This product manager position at Sapio Sciences was posted on 2026-08-20.
+This product marketing position at Sapio Sciences was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

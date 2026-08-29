@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chandler, Arizona, United States |
-| Category | Product Manager |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/GNC-Engineer--Modeling---Simulation-Product-Lead---GPI--Level-4-5----Secret_R10246864) |
 
 ## About This Role
 
-This product manager position at Northrop Grumman was posted on 2026-08-20.
+This software engineer position at Northrop Grumman was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

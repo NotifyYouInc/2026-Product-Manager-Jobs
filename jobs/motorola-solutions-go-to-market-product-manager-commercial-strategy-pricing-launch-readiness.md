@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irvine, California, United States |
-| Category | Strategy & Operations |
+| Category | Product Marketing |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Go-To-Market-Product-Manager----Commercial-Strategy--Pricing---Launch-Readiness-_R67861) |
 
 ## About This Role
 
-This strategy & operations position at Motorola Solutions was posted on 2026-08-20.
+This product marketing position at Motorola Solutions was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
