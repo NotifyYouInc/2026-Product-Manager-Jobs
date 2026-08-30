@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Business Development |
+| Category | Strategic Partnerships |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/openai/1aa89889-9323-44eb-a3fb-042c68c45252) |
 
 ## About This Role
 
-This business development position at OpenAI was posted on 2026-08-21.
+This strategic partnerships position at OpenAI was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

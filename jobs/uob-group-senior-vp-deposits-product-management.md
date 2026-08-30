@@ -1,16 +1,16 @@
-# Product manager for Power Electronics_EM at Robert Bosch
+# Senior VP, Deposits Product Management at UOB Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Singapore |
 | Category | Product Manager |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145026980-product-manager-for-power-electronics-em) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/Senior-VP--Deposits-Product-Management_JR93921) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-08-23.
+This product manager position at UOB Group was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Human Interest](https://scoutify.ai/companies/human-interest?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Business Development |
+| Category | Strategic Partnerships |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/8144988) |
 
 ## About This Role
 
-This business development position at Human Interest was posted on 2026-08-20.
+This strategic partnerships position at Human Interest was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

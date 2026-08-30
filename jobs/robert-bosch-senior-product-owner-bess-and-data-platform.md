@@ -1,16 +1,16 @@
-# Product manager for Power Electronics_EM at Robert Bosch
+# Senior Product Owner  - BESS and Data Platform at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
-| Category | Product Manager |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical Product Manager |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145026980-product-manager-for-power-electronics-em) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145028788-senior-product-owner-bess-and-data-platform) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-08-23.
+This technical product manager position at Robert Bosch was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

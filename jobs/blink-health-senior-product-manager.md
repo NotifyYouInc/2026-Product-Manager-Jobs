@@ -1,16 +1,16 @@
-# Product manager for Power Electronics_EM at Robert Bosch
+# Senior Product Manager at Blink Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | India |
 | Category | Product Manager |
 | Posted | 2026-08-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145026980-product-manager-for-power-electronics-em) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8740412002) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-08-23.
+This product manager position at Blink Health was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 
