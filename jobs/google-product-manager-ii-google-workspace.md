@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWyzzznjEF4Z0bB439YvHt087D0tHyUTq2gi_TuC35btEjsACxwdTFzCk9sXMQO1HzuhfcqlrN2v18cy1YyAJcr6vgybgGEH_N5sEmghKiEOqE3Cd5Q9O_th_WC3Vg%3D%3D_V2&loc=US&title=Product+Manager+II) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRZmy1uW1DI21Gh8zUquQva2Ckdj1pjTwg_KIl58unj5EjsA1Ny_ixh-gg0YizpOCSk2Yvja-1MFZOv1T_KoxNdSe78zD01CEf8GilTOEqJ1gaioDhoFzx3eSu6FsA%3D%3D_V2&loc=US&title=Product+Manager+II) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-04-27.
+This product manager position at Google was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

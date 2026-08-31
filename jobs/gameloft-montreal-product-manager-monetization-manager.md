@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hanoi, Hanoi, Vietnam |
 | Category | Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000144475349-product-manager-monetization-manager) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000144738369-product-manager-monetization-manager) |
 
 ## About This Role
 
-This product manager position at Gameloft Montreal was posted on 2026-08-20.
+This product manager position at Gameloft Montreal was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Shanghai-China/Product-Innovation-Manager--Product-Strategist---Facilitator_R-259305-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Tokyo-Japan/Product-Innovation-Manager--Product-Strategist---Facilitator_R-287032) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-02-24.
+This product manager position at Mastercard was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

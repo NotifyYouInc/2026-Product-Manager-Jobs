@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Product-Manager_2020066-1) |
+| Location | San Jose, California, United States |
+| Category | Product Marketing |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Product-Manager_2020982-1) |
 
 ## About This Role
 
-This product manager position at Cisco was posted on 2026-08-07.
+This product marketing position at Cisco was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

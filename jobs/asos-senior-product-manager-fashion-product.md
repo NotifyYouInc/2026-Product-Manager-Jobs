@@ -1,16 +1,16 @@
-# Senior Product Manager - Fashion Product at ASOS
+# Senior Product Manager (Fashion Product) at ASOS
 
 | Field | Details |
 |-------|---------|
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000144398989-senior-product-manager-fashion-product) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000145292859-senior-product-manager-fashion-product) |
 
 ## About This Role
 
-This product manager position at ASOS was posted on 2026-08-19.
+This product manager position at ASOS was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

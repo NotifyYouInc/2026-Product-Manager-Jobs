@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JYSK](https://scoutify.ai/companies/jysk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Denmark |
-| Category | Human Resources / People Ops |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000133265760-product-owner-and-people-lead-hcm) |
+| Category | Product Manager |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000145202942-product-owner-and-people-lead-hcm) |
 
 ## About This Role
 
-This human resources / people ops position at JYSK was posted on 2026-06-22.
+This product manager position at JYSK was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

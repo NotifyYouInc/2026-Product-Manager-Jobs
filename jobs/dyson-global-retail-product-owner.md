@@ -5,12 +5,12 @@
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Global-Retail-Product-Owner_JR35128) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Global-Retail-Product-Owner_JR38222) |
 
 ## About This Role
 
-This product manager position at Dyson was posted on 2026-03-22.
+This product manager position at Dyson was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

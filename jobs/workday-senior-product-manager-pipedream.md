@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0107616) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0109100) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-06-15.
+This product manager position at Workday was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

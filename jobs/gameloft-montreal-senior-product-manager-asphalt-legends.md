@@ -6,7 +6,7 @@
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
 | Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000144494236-senior-product-manager-asphalt-legends) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000144563459-senior-product-manager-asphalt-legends) |
 
 ## About This Role
 
