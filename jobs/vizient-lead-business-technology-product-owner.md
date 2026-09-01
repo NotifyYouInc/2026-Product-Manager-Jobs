@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Lead-Business-Technology-Product-Owner_32477R) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Lead-Business-Technology-Product-Owner_34880R) |
 
 ## About This Role
 
-This product manager position at Vizient was posted on 2026-03-19.
+This product manager position at Vizient was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

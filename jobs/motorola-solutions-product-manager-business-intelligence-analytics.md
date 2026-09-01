@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Product-Manager---Business-Intelligence---Analytics_R62892) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Product-Manager---Business-Intelligence---Analytics_R67654) |
 
 ## About This Role
 
-This product manager position at Motorola Solutions was posted on 2026-05-15.
+This product manager position at Motorola Solutions was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

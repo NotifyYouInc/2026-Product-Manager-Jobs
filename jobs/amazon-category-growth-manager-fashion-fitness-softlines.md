@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Growth Marketing |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408700/category-growth-manager-fashion-fitness-softlines) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426119/category-growth-manager-fashion-fitness-softlines) |
 
 ## About This Role
 
-This growth marketing position at Amazon was posted on 2026-05-04.
+This growth marketing position at Amazon was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

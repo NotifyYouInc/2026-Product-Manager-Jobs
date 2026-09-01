@@ -6,7 +6,7 @@
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
 | Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000144791069-associate-product-manager-mfx) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000144797299-associate-product-manager-mfx) |
 
 ## About This Role
 

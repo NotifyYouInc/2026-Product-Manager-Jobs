@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Berlin-Office/Senior-Group-Product-Manager_R_052593-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Amsterdam-Office/Senior-Group-Product-Manager_R_053060) |
 
 ## About This Role
 
-This product manager position at Just Eat Takeaway.com was posted on 2026-08-18.
+This product manager position at Just Eat Takeaway.com was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Senior-Digital-Product-Owner---Lending_R-0000182425-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Senior-Digital-Product-Owner---Lending_R-0000185449-2) |
 
 ## About This Role
 
-This product manager position at Royal Bank of Canada was posted on 2026-08-11.
+This product manager position at Royal Bank of Canada was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

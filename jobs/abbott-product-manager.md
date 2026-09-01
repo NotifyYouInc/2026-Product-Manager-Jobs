@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tashkent, Tashkent, Uzbekistan |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Uzbekistan---Tashkent/Product-Manager_31157921) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China--Shanghai--388-W-Nanjing-Road-Ciros-Plaza/Product-Manager_31158816-1) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-07-31.
+This product manager position at Abbott was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

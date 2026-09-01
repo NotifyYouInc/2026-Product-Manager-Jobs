@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Product-Manager--Customer-Success_JR353507) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Product-Manager--Customer-Success_JR354315) |
 
 ## About This Role
 
-This product manager position at Salesforce was posted on 2026-08-05.
+This product manager position at Salesforce was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product-and-Proposition-Manager---Credit-Cards_JR-0000106427) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-05-27.
+This product manager position at Barclays was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

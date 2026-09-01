@@ -5,12 +5,12 @@
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/TB066-Product-Manager---Tech-Delivery_26022474) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Product-Manager---Tech-Delivery_26027852) |
 
 ## About This Role
 
-This product manager position at Bank of America was posted on 2026-07-06.
+This product manager position at Bank of America was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

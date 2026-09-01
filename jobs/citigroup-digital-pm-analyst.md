@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Digital-PM-Analyst_26987689) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Digital-PM-Analyst_26988331-1) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-08-19.
+This product manager position at Citigroup was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

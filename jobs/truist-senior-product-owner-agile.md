@@ -1,16 +1,16 @@
-# Senior Product Owner Agile at Truist
+# Senior Product Owner- Agile at Truist
 
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Owner-Agile_R0114786) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Owner--Agile_R0118265) |
 
 ## About This Role
 
-This product manager position at Truist was posted on 2026-05-19.
+This product manager position at Truist was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Product-Manager_JREQ202410) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Product-Manager_JREQ202241) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-08-17.
+This product manager position at Thomson Reuters was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Director--Casual-Games-Studio-Partnership_R107382-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Director--Casual-Games-Studio-Partnership_R107382-1) |
 
 ## About This Role
 
-This product manager position at Tencent was posted on 2026-04-23.
+This product manager position at Tencent was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

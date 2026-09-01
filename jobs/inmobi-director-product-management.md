@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Mateo, California, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7873845) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/8156127) |
 
 ## About This Role
 
-This product manager position at InMobi was posted on 2026-05-26.
+This product manager position at InMobi was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

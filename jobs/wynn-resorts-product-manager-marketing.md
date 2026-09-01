@@ -5,12 +5,12 @@
 | Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000107793062-product-manager-marketing) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000145335409-product-manager-marketing) |
 
 ## About This Role
 
-This product manager position at Wynn Resorts was posted on 2026-02-06.
+This product manager position at Wynn Resorts was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

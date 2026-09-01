@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Münster, North Rhine-Westphalia, Germany |
 | Category | Product Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000144709029-werkstudent-mwd-digitales-produktmanagement-web-und-app-hotel) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000145426498-werkstudent-mwd-digitales-produktmanagement-web-und-app-hotel) |
 
 ## About This Role
 
-This product manager position at CHECK24 was posted on 2026-08-21.
+This product manager position at CHECK24 was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-05-27 |
+| Category | Strategy & Operations |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Product-Manager---WCIB-Transformation-Office_2026-0012621) |
 
 ## About This Role
 
-This product manager position at U.S. Bancorp was posted on 2026-05-27.
+This strategy & operations position at U.S. Bancorp was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
