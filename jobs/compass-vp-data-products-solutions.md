@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Compass](https://scoutify.ai/companies/compass?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://www.compass.com/careers?gh_jid=8140452) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.compass.com/careers?gh_jid=8156277) |
 
 ## About This Role
 
-This product manager position at Compass was posted on 2026-08-20.
+This product manager position at Compass was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

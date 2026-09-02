@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Technical Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000142205019-senior-product-manager-financial-systems) |
+| Location | Boston, Massachusetts, United States |
+| Category | Product Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000145575170-senior-product-manager-financial-systems) |
 
 ## About This Role
 
-This technical product manager position at Flywire was posted on 2026-08-07.
+This product manager position at Flywire was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

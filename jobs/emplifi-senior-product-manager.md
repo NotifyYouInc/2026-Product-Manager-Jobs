@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Emplifi](https://scoutify.ai/companies/emplifi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://emplifi.io/careers/open-positions/detail/?gh_jid=7762940003) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/emplifi/jobs/7870583003) |
 
 ## About This Role
 
-This product manager position at Emplifi was posted on 2026-06-17.
+This product manager position at Emplifi was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

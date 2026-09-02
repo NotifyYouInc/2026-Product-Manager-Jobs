@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Strategy & Operations |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000145321269-senior-product-manager-erp-transformation-12-month-ftc) |
+| Category | Product Manager |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000145680899-senior-product-manager-erp-transformation-12-month-ftc) |
 
 ## About This Role
 
-This strategy & operations position at ASOS was posted on 2026-08-24.
+This product manager position at ASOS was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

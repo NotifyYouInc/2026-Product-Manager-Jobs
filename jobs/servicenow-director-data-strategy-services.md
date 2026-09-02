@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142944238-director-data-strategy-services) |
+| Category | Product Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145574214-director-data-strategy-services) |
 
 ## About This Role
 
-This strategy & operations position at ServiceNow was posted on 2026-08-11.
+This product manager position at ServiceNow was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

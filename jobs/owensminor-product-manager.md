@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Owensminor](https://scoutify.ai/companies/owensminor?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | India |
 | Category | Product Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/Remote---US/Product-Manager_REQ_26_31991) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/3609-OM-Halyard-India/Product-Manager_REQ_26_33250) |
 
 ## About This Role
 
-This product manager position at Owensminor was posted on 2026-05-27.
+This product manager position at Owensminor was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

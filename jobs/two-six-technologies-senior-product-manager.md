@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Technical Product Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6148167004) |
+| Category | Product Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6147611004) |
 
 ## About This Role
 
-This technical product manager position at Two Six Technologies was posted on 2026-08-21.
+This product manager position at Two Six Technologies was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

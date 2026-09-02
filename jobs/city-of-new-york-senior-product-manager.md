@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Technical Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014628994-senior-product-manager) |
+| Category | Product Manager |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014863436-senior-product-manager) |
 
 ## About This Role
 
-This technical product manager position at City of New York was posted on 2026-08-17.
+This product manager position at City of New York was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

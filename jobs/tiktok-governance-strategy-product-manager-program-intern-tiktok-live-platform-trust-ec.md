@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Strategy & Operations |
+| Category | Product Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7677492581429283125/detail) |
 
 ## About This Role
 
-This strategy & operations position at TikTok was posted on 2026-08-25.
+This product manager position at TikTok was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

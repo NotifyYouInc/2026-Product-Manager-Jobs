@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Portugal |
+| Location | Poland |
 | Category | Product Manager |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8155329&gh_jid=8155329) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8155330&gh_jid=8155330) |
 
 ## About This Role
 

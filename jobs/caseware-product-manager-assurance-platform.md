@@ -5,12 +5,12 @@
 | Company | [Caseware](https://scoutify.ai/companies/caseware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.lever.co/caseware/fe248420-88ea-4c52-9ec7-cf2337e1833d) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.lever.co/caseware/21db6ea3-e03c-45ca-98d8-f31e1a7c280f) |
 
 ## About This Role
 
-This product manager position at Caseware was posted on 2026-05-05.
+This product manager position at Caseware was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

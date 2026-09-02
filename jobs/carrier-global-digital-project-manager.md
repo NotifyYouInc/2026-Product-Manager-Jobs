@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Holding-International-GmbH-Viessmannstrae-1-35107-Allendorf-Eder-Germany/Digital-Project-Manager_30204554) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Viessmann-Holding-International-GmbH-Viessmannstrae-1-35107-Allendorf-Eder-Germany/Digital-Project-Manager_30216220) |
 
 ## About This Role
 
-This product manager position at Carrier Global was posted on 2026-05-05.
+This product manager position at Carrier Global was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/98899405498655430-group-product-manager-information-and-infrastructure-protection?sort_by=date&page=1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb5LYiHqPbWh5B6FslPQvoO5LxyM8GevXLM9XkoQRoO-EjsA1Ny_i3r41TIhOFOXNZ3OI-sYu8ZrbtWO8IOnO9oRSVkLXVyElZqwn63i8HJqTK3OnfETWt6pdlynhQ%3D%3D_V2&loc=SG&title=Group+Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-24.
+This product manager position at Google was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

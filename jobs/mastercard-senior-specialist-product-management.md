@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Turkey |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Besiktas-Istanbul-Turkey/Senior-Specialist--Product-Management_R-287417) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Specialist--Product-Management_R-286677) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-08-17.
+This product manager position at Mastercard was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pennsylvania, US |
 | Category | Product Manager |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Product-Owner_R0036574-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Product-Owner_R0037230-1) |
 
 ## About This Role
 
-This product manager position at SEI Investments was posted on 2026-07-08.
+This product manager position at SEI Investments was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

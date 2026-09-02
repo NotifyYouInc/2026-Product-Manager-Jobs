@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taiwan |
+| Location | China |
 | Category | Product Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/TWN-Client/PM-II_25106483) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/CHN-Client/PM-II_25111943) |
 
 ## About This Role
 
-This product manager position at Syneoshealth was posted on 2026-03-18.
+This product manager position at Syneoshealth was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager, Cash Platform at Stripe
+# Product Manager, Cash Platform  at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8064900) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8148025) |
 
 ## About This Role
 
-This product manager position at Stripe was posted on 2026-07-14.
+This product manager position at Stripe was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

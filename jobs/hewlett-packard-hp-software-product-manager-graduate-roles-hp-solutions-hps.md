@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Product-Manager-Graduate-Roles---HP-Solutions--HPS-_3167274-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Product-Manager-Graduate-Roles---HP-Solutions--HPS-_3168008-1) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard (HP) was posted on 2026-08-21.
+This product manager position at Hewlett Packard (HP) was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

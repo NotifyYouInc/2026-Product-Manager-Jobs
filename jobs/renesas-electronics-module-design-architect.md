@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Plano, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000133655781-module-design-architect) |
+| Location | Austin, Texas, United States |
+| Category | Product Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145518330-module-design-architect) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Renesas Electronics was posted on 2026-06-23.
+This product manager position at Renesas Electronics was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

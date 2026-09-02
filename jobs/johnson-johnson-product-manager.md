@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Porto Salvo, Lisbon, Portugal |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Porto-Salvo-Portugal/Product-Manager_R-087174) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Product-Manager_R-095452) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-07-26.
+This product manager position at Johnson & Johnson was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

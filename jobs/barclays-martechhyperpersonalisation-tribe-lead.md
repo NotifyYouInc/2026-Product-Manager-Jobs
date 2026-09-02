@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canary Wharf, England, United Kingdom |
-| Category | Marketing Operations |
+| Category | Product Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Martech-Hyperpersonalisation-Tribe-Lead_JR-0000123512) |
 
 ## About This Role
 
-This marketing operations position at Barclays was posted on 2026-08-25.
+This product manager position at Barclays was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

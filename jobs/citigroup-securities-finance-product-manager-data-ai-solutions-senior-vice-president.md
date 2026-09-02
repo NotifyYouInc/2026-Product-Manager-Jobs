@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Technical Product Manager |
+| Category | Product Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Securities-Finance-Product-Manager---Data---AI-Solutions--Senior-Vice-President-_26989868) |
 
 ## About This Role
 
-This technical product manager position at Citigroup was posted on 2026-08-25.
+This product manager position at Citigroup was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Manager - Active Fixed Income  at Legal & General
+# Senior Product Manager - Active Fixed Income at Legal & General
 
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000140197779-senior-product-manager-active-fixed-income) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000145511119-senior-product-manager-active-fixed-income) |
 
 ## About This Role
 
-This product manager position at Legal & General was posted on 2026-07-28.
+This product manager position at Legal & General was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

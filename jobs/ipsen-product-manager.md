@@ -5,12 +5,12 @@
 | Company | [Ipsen](https://scoutify.ai/companies/ipsen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Mississauga/Product-Manager_R-21794-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Mississauga/Product-Manager_R-22152-1) |
 
 ## About This Role
 
-This product manager position at Ipsen was posted on 2026-07-06.
+This product manager position at Ipsen was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

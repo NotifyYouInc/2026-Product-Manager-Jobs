@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000144475469-chief-product-officer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000145683781-chief-product-officer) |
 
 ## About This Role
 
-This product manager position at SmartDev was posted on 2026-08-20.
+This product manager position at SmartDev was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

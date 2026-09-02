@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | Product Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Johannesburg-South-Africa/Manager--Product-Development--Technical-Lead_R-175337-1) |
 
 ## About This Role
 
-This software engineer position at Mondelez International was posted on 2026-08-25.
+This product manager position at Mondelez International was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

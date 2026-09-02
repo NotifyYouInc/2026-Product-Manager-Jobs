@@ -5,12 +5,12 @@
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Melbourne-Australia/Principal-Product-Manager_R35027-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Melbourne-Australia/Principal-Product-Manager_R35324-1) |
 
 ## About This Role
 
-This product manager position at Zendesk was posted on 2026-06-16.
+This product manager position at Zendesk was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | Project Manager |
+| Category | Product Manager |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Project---Product-Manager--2027-Grads-_R000157914) |
 
 ## About This Role
 
-This project manager position at Procter & Gamble was posted on 2026-08-24.
+This product manager position at Procter & Gamble was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

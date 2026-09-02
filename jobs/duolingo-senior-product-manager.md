@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duolingo](https://scoutify.ai/companies/duolingo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://careers.duolingo.com/jobs/8675670002?gh_jid=8675670002) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://careers.duolingo.com/jobs/8747131002?gh_jid=8747131002) |
 
 ## About This Role
 
-This product manager position at Duolingo was posted on 2026-08-04.
+This product manager position at Duolingo was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

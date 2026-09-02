@@ -5,12 +5,12 @@
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Product-Manager_R-108571-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Product-Manager_R-109046-1) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-08-19.
+This product manager position at Expedia was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

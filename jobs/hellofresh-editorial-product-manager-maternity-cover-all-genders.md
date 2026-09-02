@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Capital Region, DK |
-| Category | Content Marketing |
+| Category | Product Manager |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8152752?gh_jid=8152752) |
 
 ## About This Role
 
-This content marketing position at HelloFresh was posted on 2026-08-25.
+This product manager position at HelloFresh was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

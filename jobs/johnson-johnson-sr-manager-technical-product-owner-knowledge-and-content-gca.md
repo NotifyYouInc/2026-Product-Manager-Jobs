@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New Brunswick, New Jersey, United States |
-| Category | Content Marketing |
+| Category | Product Manager |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Sr-Manager--Technical-Product-Owner--Knowledge-and-Content-GCA_R-094857-1) |
 
 ## About This Role
 
-This content marketing position at Johnson & Johnson was posted on 2026-08-24.
+This product manager position at Johnson & Johnson was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

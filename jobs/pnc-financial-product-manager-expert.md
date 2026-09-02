@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/DE---Wilmington-19801/Product-Manager-Expert_R226122-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Columbus-43215/Product-Manager-Expert_R233915-1) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-06-17.
+This product manager position at PNC Financial was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

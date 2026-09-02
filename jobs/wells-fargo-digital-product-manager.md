@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-04-15 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Digital-Product-Manager_R-535136) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-04-15.
+This product manager position at Wells Fargo was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

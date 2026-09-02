@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Circle](https://scoutify.ai/companies/circle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Delhi, Delhi, India |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://circle.wd1.myworkdayjobs.com/circle/job/Bangalore---remote-first-in-India/Principal-Product-Manager--Core-Network_JR101005) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://circle.wd1.myworkdayjobs.com/circle/job/Delhi---remote-first-in-India/Principal-Product-Manager--Core-Network_JR101117) |
 
 ## About This Role
 
-This product manager position at Circle was posted on 2026-05-01.
+This product manager position at Circle was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

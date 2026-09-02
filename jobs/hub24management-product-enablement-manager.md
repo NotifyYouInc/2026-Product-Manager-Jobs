@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Learning & Development |
-| Posted | 2026-06-03 |
+| Category | Product Manager |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Product-Enablement-Manager_JR100802) |
 
 ## About This Role
 
-This learning & development position at Hub24management was posted on 2026-06-03.
+This product manager position at Hub24management was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

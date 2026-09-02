@@ -5,12 +5,12 @@
 | Company | [Werner & Mertz](https://scoutify.ai/companies/wernermertz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hallein, Salzburg, Austria |
 | Category | Product Manager |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WernerMertzGmbH/744000145201501-produktmanager-fmcg-mwd) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WernerMertzGmbH/744000145496539-produktmanager-fmcg-mwd) |
 
 ## About This Role
 
-This product manager position at Werner & Mertz was posted on 2026-08-24.
+This product manager position at Werner & Mertz was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

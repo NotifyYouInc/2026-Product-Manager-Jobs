@@ -1,16 +1,16 @@
-# Sr Product Manager, Technical at T-Mobile
+# Sr. Product Manager, Technical at T-Mobile
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Product-Manager--Technical_REQ361021) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Product-Manager--Technical_REQ363701-1) |
 
 ## About This Role
 
-This product manager position at T-Mobile was posted on 2026-07-22.
+This product manager position at T-Mobile was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

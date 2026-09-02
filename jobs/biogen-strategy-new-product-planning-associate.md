@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Maidenhead, England, United Kingdom |
-| Category | Strategy & Operations |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Maidenhead-United-Kingdom/Strategy---New-Product-Planning-Associate_REQ23963) |
+| Category | Product Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Maidenhead-United-Kingdom/Strategy---New-Product-Planning-Associate_REQ23993) |
 
 ## About This Role
 
-This strategy & operations position at Biogen was posted on 2026-08-20.
+This product manager position at Biogen was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
