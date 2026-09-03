@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Personal-Financial-Services--Product---Portfolio-Management---Mortgage-_JR0000023394-1) |
+| Location | Malaysia |
+| Category | Product Manager |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/HLT-Hong-Leong-Tower/Manager---Personal-Financial-Services--Product---Portfolio-Management---Mortgage-_JR0000026108) |
 
 ## About This Role
 
-This asset management / portfolio management position at Hong Leong Bank was posted on 2026-03-18.
+This product manager position at Hong Leong Bank was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

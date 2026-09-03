@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sliema, Tas-Sliema, Malta |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000139611177-head-of-in-house-games) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000145946908-head-of-in-house-games) |
 
 ## About This Role
 
-This product manager position at bet365 was posted on 2026-07-24.
+This product manager position at bet365 was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hello Heart](https://scoutify.ai/companies/hello-heart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.helloheart.com/about/careers?gh_jid=8635253002) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.helloheart.com/about/careers?gh_jid=8750414002) |
 
 ## About This Role
 
-This product manager position at Hello Heart was posted on 2026-08-11.
+This product manager position at Hello Heart was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
-| Category | Product Manager |
+| Category | Strategy & Operations |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000145716232-senior-product-operations-specialist-savings-investments) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-08-26.
+This strategy & operations position at WISE was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

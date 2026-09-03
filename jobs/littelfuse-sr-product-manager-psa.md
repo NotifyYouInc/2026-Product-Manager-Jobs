@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Zhongshan, Guangdong, China |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Shanghai-South/Sr-Product-Manager--PSA_JR-111992) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Zhongshan/Sr-Product-Manager--PSA_JR-112414) |
 
 ## About This Role
 
-This product manager position at Littelfuse was posted on 2026-07-01.
+This product manager position at Littelfuse was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

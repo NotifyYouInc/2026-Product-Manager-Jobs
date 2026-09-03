@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Lead-Product-Owner_R0000381484) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Lead-Product-Owner_R0000390125) |
 
 ## About This Role
 
-This product manager position at Caterpillar was posted on 2026-07-16.
+This product manager position at Caterpillar was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

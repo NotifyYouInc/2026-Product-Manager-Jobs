@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/IT-PM---Scrum-Master---TS-SCI-with-Polygraph_RQ223782) |
+| Category | Scrum Master & Agile Coach |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/IT-PM---Scrum-Master---TS-SCI-with-Polygraph_RQ224336) |
 
 ## About This Role
 
-This product manager position at General Dynamics Information Technology was posted on 2026-07-07.
+This scrum master & agile coach position at General Dynamics Information Technology was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

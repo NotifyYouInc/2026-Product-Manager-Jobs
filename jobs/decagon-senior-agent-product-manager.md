@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Decagon](https://scoutify.ai/companies/decagon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
+| Location | Brazil |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/3a417528-0fbc-4780-8e76-1ad32429e861) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/decagon/2e561f25-77bd-4199-b5c4-3618f1743a0d) |
 
 ## About This Role
 
-This product manager position at Decagon was posted on 2026-07-29.
+This product manager position at Decagon was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

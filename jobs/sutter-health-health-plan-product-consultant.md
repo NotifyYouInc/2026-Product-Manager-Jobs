@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Sacramento, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Health-Plan-Product-Consultant_R-132138) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Health-Plan-Product-Consultant_R-135120) |
 
 ## About This Role
 
-This product manager position at Sutter Health was posted on 2026-06-08.
+This product manager position at Sutter Health was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

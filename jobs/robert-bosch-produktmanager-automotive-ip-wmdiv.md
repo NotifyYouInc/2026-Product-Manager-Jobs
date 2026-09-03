@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Reutlingen, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145424189-produktmanager-automotive-ip-wmdiv) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145693489-produktmanager-automotive-ip-wmdiv) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-08-25.
+This product manager position at Robert Bosch was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

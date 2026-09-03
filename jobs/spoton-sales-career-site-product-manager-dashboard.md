@@ -5,12 +5,12 @@
 | Company | [SpotOn: Sales (Career Site)](https://scoutify.ai/companies/spoton-sales-career-site?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/0ee17498-c47e-4a16-8946-471a4a1c689f) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/spoton/df69b773-51e0-457e-8b6b-986a4003f72b) |
 
 ## About This Role
 
-This product manager position at SpotOn: Sales (Career Site) was posted on 2026-07-29.
+This product manager position at SpotOn: Sales (Career Site) was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

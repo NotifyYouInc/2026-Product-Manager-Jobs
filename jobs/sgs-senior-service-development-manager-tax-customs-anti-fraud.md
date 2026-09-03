@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000143461491-senior-service-development-manager-tax-customs-anti-fraud) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000145960322-senior-service-development-manager-tax-customs-anti-fraud) |
 
 ## About This Role
 
-This product manager position at SGS was posted on 2026-08-14.
+This product manager position at SGS was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

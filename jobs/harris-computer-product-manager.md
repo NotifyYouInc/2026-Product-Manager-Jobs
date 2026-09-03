@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Texas, US |
+| Location | Washington, District of Columbia, United States |
 | Category | Product Manager |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Product-Manager_R0045564) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Washington-DC/Product-Manager_R0046212-1) |
 
 ## About This Role
 
-This product manager position at Harris Computer was posted on 2026-08-22.
+This product manager position at Harris Computer was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

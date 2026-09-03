@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/USA--BNA--Reading--Pottsville-Pike/Product-Manager_JR110785) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/BogotColombia/Product-Manager_JR111417) |
 
 ## About This Role
 
-This product manager position at Brenntag was posted on 2026-08-05.
+This product manager position at Brenntag was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

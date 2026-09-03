@@ -5,12 +5,12 @@
 | Company | [Upstart](https://scoutify.ai/companies/upstart?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.upstart.com/jobs?gh_jid=7597055) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://careers.upstart.com/jobs?gh_jid=8159588) |
 
 ## About This Role
 
-This product manager position at Upstart was posted on 2026-02-26.
+This product manager position at Upstart was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

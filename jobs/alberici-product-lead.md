@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alberici](https://scoutify.ai/companies/alberici?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/jsa1000ac/JobBoard/5944dc74-3d77-4d96-85ad-fb9e18823498/OpportunityDetail?opportunityId=fa5c41d5-78ef-4ee2-b21e-4adaa1e0bfe9) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/jsa1000ac/JobBoard/5944dc74-3d77-4d96-85ad-fb9e18823498/OpportunityDetail?opportunityId=bb3dc34b-95de-40e6-8e36-b25f2e3ada43) |
 
 ## About This Role
 
-This product manager position at Alberici was posted on 2026-06-03.
+This product manager position at Alberici was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

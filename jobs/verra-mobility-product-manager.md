@@ -1,16 +1,16 @@
-# Product Manager at Verra Mobility
+#  Product Manager at Verra Mobility
 
 | Field | Details |
 |-------|---------|
 | Company | [Verra Mobility](https://scoutify.ai/companies/verra-mobility?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/verramobility/jobs/4697959006) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/verramobility/jobs/4708746006) |
 
 ## About This Role
 
-This product manager position at Verra Mobility was posted on 2026-07-28.
+This product manager position at Verra Mobility was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

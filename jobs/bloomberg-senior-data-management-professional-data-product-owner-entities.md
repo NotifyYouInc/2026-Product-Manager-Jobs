@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Princeton, Florida, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Data-Management-Professional-Data-Product-Owner-Entities/20892) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Data-Management-Professional-Data-Product-Owner-Entities/21442) |
 
 ## About This Role
 
-This product manager position at Bloomberg was posted on 2026-07-16.
+This product manager position at Bloomberg was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

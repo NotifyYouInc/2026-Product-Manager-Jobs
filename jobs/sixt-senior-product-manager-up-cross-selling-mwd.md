@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000140390399-senior-product-manager-up-cross-selling-mwd) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000145738348-senior-product-manager-up-cross-selling-mwd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-07-29.
+This product manager position at Sixt was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

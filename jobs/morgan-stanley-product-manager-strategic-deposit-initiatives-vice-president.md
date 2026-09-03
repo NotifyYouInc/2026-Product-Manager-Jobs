@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Purchase, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/Product-Manager-Strategic-Deposit-Initiatives-Vice-President_PT-JR036825) |
+| Location | New York City, New York, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Product-Manager-Strategic-Deposit-Initiatives-Vice-President_PT-JR042843) |
 
 ## About This Role
 
-This product manager position at Morgan Stanley was posted on 2026-05-11.
+This strategy & operations position at Morgan Stanley was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

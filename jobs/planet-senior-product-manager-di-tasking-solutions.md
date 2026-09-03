@@ -1,16 +1,16 @@
-#  Senior Product Manager, D&I Tasking Solutions at Planet
+# Senior Product Manager, D&I Tasking Solutions at Planet
 
 | Field | Details |
 |-------|---------|
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Arlington, Texas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8140255) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8160743) |
 
 ## About This Role
 
-This human resources / people ops position at Planet was posted on 2026-08-22.
+This human resources / people ops position at Planet was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# AI Product Manager - Business Line Execution, Senior Vice President at Citigroup
+# AI Product Manager - Business Line Execution (Senior Vice President) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/AI-Product-Manager---Business-Line-Execution--Senior-Vice-President_26987377) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/AI-Product-Manager---Business-Line-Execution--Senior-Vice-President-_26990439) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-08-13.
+This product manager position at Citigroup was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

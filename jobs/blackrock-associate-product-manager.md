@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Shanghai-China/Associate--Product-Manager_R265341) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/San-Francisco-CA/Associate--Product-Manager_R266218) |
 
 ## About This Role
 
-This product manager position at Blackrock was posted on 2026-07-16.
+This product manager position at Blackrock was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

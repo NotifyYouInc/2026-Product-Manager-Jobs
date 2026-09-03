@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Product Manager |
+| Category | Treasury & Capital Markets |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Dublin-2-Grand-Canal-Square/Product-Manager-Corporate-Bank-Institutional-Cash-Management_R0422545) |
 
 ## About This Role
 
-This product manager position at Deutsche Bank was posted on 2026-08-26.
+This treasury & capital markets position at Deutsche Bank was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

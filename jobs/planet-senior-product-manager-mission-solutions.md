@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Arlington, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8140259) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8160746) |
 
 ## About This Role
 
-This product manager position at Planet was posted on 2026-08-22.
+This product manager position at Planet was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

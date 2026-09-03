@@ -1,16 +1,16 @@
-# Senior Product Manager – Vaccines at Merck
+# Senior Product Manager - Vaccines at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/MEX---Federal-District---Mexico-City/Senior-Product-Manager---Vaccines_R388856) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/BRA---Sao-Paulo---Sao-Paulo-Torre-Z/Senior-Product-Manager---Vaccines_R414197) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-03-11.
+This product manager position at Merck was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

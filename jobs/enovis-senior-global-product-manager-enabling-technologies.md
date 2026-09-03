@@ -5,12 +5,12 @@
 | Company | [ENOVIS](https://scoutify.ai/companies/enovis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Senior-Global-Product-Manager--Enabling-Technologies_R0033750) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://enovis.wd5.myworkdayjobs.com/enovis/job/USA-Texas-Austin/Senior-Global-Product-Manager--Enabling-Technologies_R0034118) |
 
 ## About This Role
 
-This product manager position at ENOVIS was posted on 2026-07-30.
+This product manager position at ENOVIS was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Evooq](https://scoutify.ai/companies/evooq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lausanne, Vaud, Switzerland |
 | Category | Product Manager |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/evooq/744000141162357-senior-product-manager) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/evooq/744000145739309-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Evooq was posted on 2026-08-03.
+This product manager position at Evooq was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
