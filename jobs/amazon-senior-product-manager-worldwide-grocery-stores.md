@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10443925/senior-product-manager-worldwide-grocery-stores) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10517702/senior-product-manager-worldwide-grocery-stores) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-06-09.
+This product manager position at Amazon was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

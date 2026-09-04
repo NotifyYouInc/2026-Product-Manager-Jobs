@@ -5,12 +5,12 @@
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/2050-Derry-Rd-W-Mississauga-Canada/Senior-Manager--Product-Management_R118431) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/2050-Derry-Rd-W-Mississauga-Canada/Senior-Manager--Product-Management_R119964) |
 
 ## About This Role
 
-This product manager position at Samsung was posted on 2026-07-21.
+This product manager position at Samsung was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

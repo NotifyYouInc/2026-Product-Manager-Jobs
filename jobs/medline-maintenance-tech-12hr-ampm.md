@@ -5,12 +5,12 @@
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hartland, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Hartland-Wisconsin/Maintenance-Technician_R2400160) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Hartland-Wisconsin/Maintenance-Tech-12HR-AM-PM_R2617236) |
 
 ## About This Role
 
-This product manager position at Medline was posted on 2026-07-15.
+This product manager position at Medline was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

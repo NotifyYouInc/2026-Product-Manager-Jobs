@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ontario, CA |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000140229531-product-manager) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000146023710-product-manager) |
 
 ## About This Role
 
-This product manager position at UAP was posted on 2026-07-28.
+This product manager position at UAP was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

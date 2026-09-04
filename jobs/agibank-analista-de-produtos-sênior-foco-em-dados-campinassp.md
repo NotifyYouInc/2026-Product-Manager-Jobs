@@ -1,16 +1,16 @@
-# Analista de Produtos Sênior - Foco em Dados  - Campinas/SP at Agibank
+# Analista de Produtos Sênior - Foco em Dados - Campinas/SP at Agibank
 
 | Field | Details |
 |-------|---------|
 | Company | [Agibank](https://scoutify.ai/companies/agibank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5148663008) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agibank/jobs/5406511008) |
 
 ## About This Role
 
-This product manager position at Agibank was posted on 2026-03-11.
+This product manager position at Agibank was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

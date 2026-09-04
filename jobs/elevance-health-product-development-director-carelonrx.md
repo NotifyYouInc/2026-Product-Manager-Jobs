@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | 14 locations |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CT-WALLINGFORD-108-LEIGUS-RD/Product-Development-Director---CarelonRx_JR191868-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NJ-ISELIN-111-S-WOOD-AVE-STE-220/Product-Development-Director---CarelonRx_JR204956) |
 
 ## About This Role
 
-This product manager position at Elevance Health was posted on 2026-05-15.
+This product manager position at Elevance Health was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

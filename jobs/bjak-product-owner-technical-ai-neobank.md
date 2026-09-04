@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/22486467-9269-45a7-bca3-f4b2526d72ef) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f661421e-1e96-4efd-a25a-6b87fd5ac988) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-08-27.
+This product manager position at Bjak was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

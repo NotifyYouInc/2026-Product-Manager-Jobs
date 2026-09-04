@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Toronto-Ontario-Canada/Product-Portfolio-Manager---Group-Benefits-Administration_R-22385) |
+| Location | Atlanta, Georgia, United States |
+| Category | Product Manager |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Product-Portfolio-Manager---Group-Benefits-Administration_R-23127) |
 
 ## About This Role
 
-This asset management / portfolio management position at TELUS was posted on 2026-06-11.
+This product manager position at TELUS was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

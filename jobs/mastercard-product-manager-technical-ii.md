@@ -1,16 +1,16 @@
-# Product Manager- Technical II at Mastercard
+# Product Manager - Technical II at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Technical Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Manager--Technical-II_R-288436) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Product Manager |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Product-Manager---Technical-II_R-282450) |
 
 ## About This Role
 
-This technical product manager position at Mastercard was posted on 2026-08-14.
+This product manager position at Mastercard was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

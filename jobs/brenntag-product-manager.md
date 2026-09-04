@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Leeds, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/BogotColombia/Product-Manager_JR111417) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Product-Manager_JR111884) |
 
 ## About This Role
 
-This product manager position at Brenntag was posted on 2026-08-26.
+This product manager position at Brenntag was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

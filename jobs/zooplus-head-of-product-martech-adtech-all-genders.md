@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zooplus](https://scoutify.ai/companies/zooplusse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Marketing Operations |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000144283549-head-of-product-martech-adtech-all-genders) |
+| Category | Product Manager |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000146131419-head-of-product-martech-adtech-all-genders) |
 
 ## About This Role
 
-This marketing operations position at Zooplus was posted on 2026-08-19.
+This product manager position at Zooplus was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Unified-Communications--Product-Planning---Operations_R66610) |
+| Location | Allen, Texas, United States |
+| Category | Product Manager |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Unified-Communications--Product-Planning---Operations_R67558) |
 
 ## About This Role
 
-This technical product manager position at Motorola Solutions was posted on 2026-08-11.
+This product manager position at Motorola Solutions was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

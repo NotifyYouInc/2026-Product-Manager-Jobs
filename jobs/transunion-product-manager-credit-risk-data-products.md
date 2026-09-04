@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/So-Paulo/Product-Manager---Credit---Risk--Data-Products-_19039345) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/So-Paulo/Product-Manager---Credit---Risk--Data-Products-_19042068) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-02-19.
+This product manager position at TransUnion was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

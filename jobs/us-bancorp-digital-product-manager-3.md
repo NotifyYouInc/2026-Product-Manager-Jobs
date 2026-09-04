@@ -5,12 +5,12 @@
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Digital-Product-Manager--3-_2026-0011532) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Digital-Product-Manager--3-_2026-0019365) |
 
 ## About This Role
 
-This product manager position at U.S. Bancorp was posted on 2026-08-26.
+This product manager position at U.S. Bancorp was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

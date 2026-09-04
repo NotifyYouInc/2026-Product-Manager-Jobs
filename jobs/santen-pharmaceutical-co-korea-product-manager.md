@@ -5,12 +5,12 @@
 | Company | [Santen Pharmaceutical Co.](https://scoutify.ai/companies/santenpharmaceuticalco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000134914775-korea-product-manager) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Santen/744000146136569-korea-product-manager) |
 
 ## About This Role
 
-This product manager position at Santen Pharmaceutical Co. was posted on 2026-06-30.
+This product manager position at Santen Pharmaceutical Co. was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

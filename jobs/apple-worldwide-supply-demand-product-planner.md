@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659153/worldwide-supply-demand-product-planner) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680292/worldwide-supply-demand-product-planner) |
 
 ## About This Role
 
-This product manager position at Apple was posted on 2026-04-27.
+This product manager position at Apple was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

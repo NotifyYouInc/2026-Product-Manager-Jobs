@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/d6580c6f-979d-4144-b4c4-6b81d36ad1c9) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/2f49acec-0182-44b5-b18e-5997dbaf2119) |
 
 ## About This Role
 
-This product manager position at Delinea was posted on 2026-07-21.
+This product manager position at Delinea was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

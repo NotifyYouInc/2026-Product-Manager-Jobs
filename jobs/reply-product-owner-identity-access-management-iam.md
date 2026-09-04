@@ -5,12 +5,12 @@
 | Company | [Reply](https://scoutify.ai/companies/reply?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.lever.co/reply/636e234f-54bd-4c35-b74a-bff500b1e41e) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.lever.co/reply/de654c66-566d-4e90-9fd9-7d05ba091558) |
 
 ## About This Role
 
-This product manager position at Reply was posted on 2026-06-01.
+This product manager position at Reply was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

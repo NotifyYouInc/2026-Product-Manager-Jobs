@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Technical Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Digital-Product-Manager_R-567333) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Manager |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Digital-Product-Manager_R-570582) |
 
 ## About This Role
 
-This technical product manager position at Wells Fargo was posted on 2026-08-12.
+This product manager position at Wells Fargo was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

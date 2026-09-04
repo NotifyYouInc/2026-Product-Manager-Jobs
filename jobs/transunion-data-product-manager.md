@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Product-Manager_19040704) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Data-Product-Manager_19042144-1) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-06-02.
+This product manager position at TransUnion was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

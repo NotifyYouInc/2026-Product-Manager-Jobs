@@ -5,12 +5,12 @@
 | Company | [Topline Pro](https://scoutify.ai/companies/topline-pro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/topline-pro/990a6b98-1855-4091-9aea-cc9b59fb2e24) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/topline-pro/a8773c79-c78b-4b58-86bc-9e907b547b08) |
 
 ## About This Role
 
-This product manager position at Topline Pro was posted on 2026-04-14.
+This product manager position at Topline Pro was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
