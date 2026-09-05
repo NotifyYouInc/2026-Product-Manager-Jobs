@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/Product-Management-Specialist_R00345686) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Boston-888-Boylston-Corp/Product-Management-Specialist_14695248-1) |
 
 ## About This Role
 
-This product manager position at Accenture was posted on 2026-08-10.
+This product manager position at Accenture was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

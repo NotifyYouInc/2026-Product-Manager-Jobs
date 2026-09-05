@@ -1,16 +1,16 @@
-# Principal Product Leader, Therapeutics Discovery at Genentech
+# Principal Product Leader- Therapeutics Discovery at Genentech
 
 | Field | Details |
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | South San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Product-Leader--Therapeutics-Discovery_202606-114878-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Principal-Product-Leader--Therapeutics-Discovery_202608-122034-1) |
 
 ## About This Role
 
-This product manager position at Genentech was posted on 2026-06-11.
+This product manager position at Genentech was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Drata](https://scoutify.ai/companies/drata?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/drata/08fa01d9-ceaf-42d9-8182-f47fa48bb82d) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/drata/0851570c-afd8-403f-9eb8-0bd23a6d0438) |
 
 ## About This Role
 
-This product manager position at Drata was posted on 2026-04-21.
+This product manager position at Drata was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

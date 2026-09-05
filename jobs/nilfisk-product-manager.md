@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nilfisk](https://scoutify.ai/companies/nilfisk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hadsund, North Denmark, Denmark |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://nilfisk.wd3.myworkdayjobs.com/nilfisk/job/Hadsund/Product-Manager_R017102) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://nilfisk.wd3.myworkdayjobs.com/nilfisk/job/Plymouth-MN/Product-Manager_R017601) |
 
 ## About This Role
 
-This product manager position at Nilfisk was posted on 2026-05-26.
+This product manager position at Nilfisk was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

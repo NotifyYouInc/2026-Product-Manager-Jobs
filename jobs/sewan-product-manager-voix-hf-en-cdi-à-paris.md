@@ -5,12 +5,12 @@
 | Company | [Sewan](https://scoutify.ai/companies/sewan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEWAN/744000144083115-product-manager-voix-hf-en-cdi-a-paris) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEWAN/744000146209972-product-manager-voix-hf-en-cdi-a-paris) |
 
 ## About This Role
 
-This product manager position at Sewan was posted on 2026-08-18.
+This product manager position at Sewan was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

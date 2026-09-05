@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | Frederick, Maryland, United States |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Product-Manager_R-01361453) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Frederick-Maryland-USA/Product-Manager_R-01364450) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-07-27.
+This product manager position at Thermo Fisher Scientific was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

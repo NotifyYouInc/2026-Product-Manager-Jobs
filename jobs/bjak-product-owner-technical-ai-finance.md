@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Vietnam |
 | Category | Product Manager |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/88b8960e-8ac1-4e29-8060-8bc223d0ecf5) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/699d1aa1-fe63-48da-aa79-98f614dcb840) |
 
 ## About This Role
 

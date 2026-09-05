@@ -1,0 +1,22 @@
+# Senior Director, Product, Model Services and Consumer Verticals, DeepMind at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Mountain View, California, United States |
+| Category | Product Manager |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUS_P9bjKKTe-rwShxuSgVCgaVUS2zPwXK6QjW4IKhPiEjsA1Ny_i4-m-qEW9UT0-0Is4hCh6EpYURFuKaC79_6Ot91C-j5d0BzUZIcgc90zTb0CjeVwsvf-SwKblQ%3D%3D_V2&loc=US&title=Senior+Director) |
+
+## About This Role
+
+This product manager position at Google was posted on 2026-08-28.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

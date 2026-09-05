@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e9d362ec-52aa-4302-b7c1-a9f15bdef845) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/3ea43776-ba3d-4ea8-ac18-1638aafbec09) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-07-28.
+This product manager position at Bjak was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

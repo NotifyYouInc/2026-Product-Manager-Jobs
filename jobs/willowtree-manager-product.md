@@ -1,16 +1,16 @@
-# Manager, Product   at WillowTree
+# Manager, Product at WillowTree
 
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/89e380de-72b5-4344-9bab-419846b68263) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/6e965ffd-9b61-42ef-9327-e83e5737c3c9) |
 
 ## About This Role
 
-This product manager position at WillowTree was posted on 2026-07-20.
+This product manager position at WillowTree was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Portugal |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000142820824-product-owner-central-key-user-sap-pm-puma) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000146215845-product-owner-central-key-user-sap-pm-puma) |
 
 ## About This Role
 
-This product manager position at Continental was posted on 2026-08-11.
+This product manager position at Continental was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Product-Manager--Private-Markets_328952-1) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Product-Manager--Private-Markets_331027-1) |
 
 ## About This Role
 
-This product manager position at S&P Global was posted on 2026-07-14.
+This product manager position at S&P Global was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

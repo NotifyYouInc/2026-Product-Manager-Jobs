@@ -5,12 +5,12 @@
 | Company | [Remitly](https://scoutify.ai/companies/remitly?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Senior-Product-Manager--Post-Submit-Experience_R_106687) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://remitly.wd5.myworkdayjobs.com/remitly_careers/job/Seattle-Washington-United-States/Senior-Product-Manager--Post-Submit-Experience_R_106769) |
 
 ## About This Role
 
-This product manager position at Remitly was posted on 2026-07-29.
+This product manager position at Remitly was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/3902b2d5-6f73-43bd-913b-c3e65a50500f) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e7dd2b10-ba1e-4f2b-80d9-70b188672ddd) |
 
 ## About This Role
 

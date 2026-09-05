@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Purchase, New York, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Manager--Product-Development_R-284537) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Manager--Product-Development_R-288731-1) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-08-05.
+This product manager position at Mastercard was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
