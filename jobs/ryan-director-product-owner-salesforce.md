@@ -1,16 +1,16 @@
-# Product Development Manager at Epiqsystems
+# Director, Product Owner, Salesforce at Ryan
 
 | Field | Details |
 |-------|---------|
-| Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Poland |
+| Company | [Ryan](https://scoutify.ai/companies/ryan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Plano, Texas, United States |
 | Category | Product Manager |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/POL---Poland-Remote-Office/Product-Development-Manager_R0034930) |
+| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Director--Product-Owner--Salesforce_R0020249-1) |
 
 ## About This Role
 
-This product manager position at Epiqsystems was posted on 2026-08-29.
+This product manager position at Ryan was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Owner, Technical - AI Neobank at Bjak
+# Senior Product Manager - AI Usage control at Akamai
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
+| Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Israel |
 | Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/48b4d58a-e895-4daa-b0b7-1cc9b95f6a07) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3796) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-08-28.
+This product manager position at Akamai was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

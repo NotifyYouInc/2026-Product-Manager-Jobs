@@ -1,16 +1,16 @@
-# Product Development Manager at Epiqsystems
+# Group Manager, Product Management - LinkedIn Learning at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Poland |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/POL---Poland-Remote-Office/Product-Development-Manager_R0034930) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146312669-group-manager-product-management-linkedin-learning) |
 
 ## About This Role
 
-This product manager position at Epiqsystems was posted on 2026-08-29.
+This product manager position at LinkedIn was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

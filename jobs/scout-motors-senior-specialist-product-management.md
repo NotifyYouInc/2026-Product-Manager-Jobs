@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Scout Motors](https://scoutify.ai/companies/scout-motors?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Novi, Michigan, United States |
-| Category | Product Manager |
+| Category | Program Manager |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/scoutmotors/jobs/5046782007) |
 
 ## About This Role
 
-This product manager position at Scout Motors was posted on 2026-08-28.
+This program manager position at Scout Motors was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

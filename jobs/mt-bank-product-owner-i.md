@@ -1,16 +1,16 @@
-# Product Owner, Technical - AI Neobank at Bjak
+# Product Owner I at M&T Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
+| Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 6 locations |
 | Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/48b4d58a-e895-4daa-b0b7-1cc9b95f6a07) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Product-Owner-I_R88783-1) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-08-28.
+This product manager position at M&T Bank was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 
