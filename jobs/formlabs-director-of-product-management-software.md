@@ -5,12 +5,12 @@
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Somerville, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://careers.formlabs.com/job/8041522/apply/?gh_jid=8041522) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://careers.formlabs.com/job/8166172/apply/?gh_jid=8166172) |
 
 ## About This Role
 
-This product manager position at Formlabs was posted on 2026-07-01.
+This product manager position at Formlabs was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

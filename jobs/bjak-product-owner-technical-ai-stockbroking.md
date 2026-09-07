@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/dfdb9918-11c7-4d92-8b61-15a507f7fd5d) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/fbc0a0fc-36d5-4d47-8117-e68dc10d51ec) |
 
 ## About This Role
 

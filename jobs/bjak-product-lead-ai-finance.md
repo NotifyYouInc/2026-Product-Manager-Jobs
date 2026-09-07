@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Thailand |
 | Category | Product Manager |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e7dd2b10-ba1e-4f2b-80d9-70b188672ddd) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/013a0a7f-70ea-4594-ba58-54e85649f1ef) |
 
 ## About This Role
 

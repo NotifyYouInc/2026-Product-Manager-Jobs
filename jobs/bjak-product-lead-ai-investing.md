@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sweden |
+| Location | Spain |
 | Category | Product Manager |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f7ea798d-3c2b-4e17-86d5-34133ee2a1f8) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/99fcc4ba-43b8-4d4b-bfe3-feeeefa5c4f1) |
 
 ## About This Role
 

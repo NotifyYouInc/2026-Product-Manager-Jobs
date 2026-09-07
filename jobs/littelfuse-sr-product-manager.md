@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Littelfuse](https://scoutify.ai/companies/littelfuse?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Taipei/Sr-Product-Manager_JR-112352) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://littelfuse.wd1.myworkdayjobs.com/littelfuse-careers/job/Chicago/Sr-Product-Manager_JR-112369-1) |
 
 ## About This Role
 
-This product manager position at Littelfuse was posted on 2026-08-14.
+This product manager position at Littelfuse was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

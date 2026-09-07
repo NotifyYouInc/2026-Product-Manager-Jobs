@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139569981-senior-product-manager-behavioral-analytics) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146406989-senior-product-manager-behavioral-analytics) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-07-24.
+This product manager position at Experian was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Product Manager |
+| Category | Marketing Operations |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Telangana-Sandoz/Global-Associate-Director--Marketing-Automation-Solutions_REQ-10030128) |
 
 ## About This Role
 
-This product manager position at Sandoz was posted on 2026-08-28.
+This marketing operations position at Sandoz was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

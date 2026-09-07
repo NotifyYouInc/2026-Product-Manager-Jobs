@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Product-Owner_R239856-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Applications-Engineer-II_R234187) |
 
 ## About This Role
 
-This product manager position at Arrow Electronics was posted on 2026-02-09.
+This product manager position at Arrow Electronics was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

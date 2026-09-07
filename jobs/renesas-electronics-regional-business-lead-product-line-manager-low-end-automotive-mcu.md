@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143431329-regional-business-lead-product-line-manager-low-end-automotive-mcu) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000146414849-regional-business-lead-product-line-manager-low-end-automotive-mcu) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Renesas Electronics was posted on 2026-08-14.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

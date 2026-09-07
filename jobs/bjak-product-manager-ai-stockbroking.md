@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vietnam |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
 | Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/f1a8b7e7-1e60-4240-a1e0-e3f282dd19c5) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/2f400d37-50a3-45c1-80ad-776a54fa30dd) |
 
 ## About This Role
 
