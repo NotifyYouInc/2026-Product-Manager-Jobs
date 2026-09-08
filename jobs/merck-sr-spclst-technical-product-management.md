@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad/Sr-Spclst---Technical-Product-Management_R407424-2) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Sr-Spclst---Technical-Product-Management_R413898) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-07-23.
+This product manager position at Merck was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

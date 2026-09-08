@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Scrum Master & Agile Coach |
+| Category | Product Manager |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Agile-Product-Owner-Lead-Analyst_26009194) |
 
 ## About This Role
 
-This scrum master & agile coach position at Cigna was posted on 2026-08-31.
+This product manager position at Cigna was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

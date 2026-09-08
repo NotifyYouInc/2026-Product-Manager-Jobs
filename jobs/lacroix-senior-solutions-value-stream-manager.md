@@ -5,12 +5,12 @@
 | Company | [LACROIX](https://scoutify.ai/companies/lacroix1?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LACROIX1/744000142091959-senior-solutions-value-stream-manager) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LACROIX1/744000146499679-senior-solutions-value-stream-manager) |
 
 ## About This Role
 
-This product manager position at LACROIX was posted on 2026-08-07.
+This product manager position at LACROIX was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

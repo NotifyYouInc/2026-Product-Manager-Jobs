@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Pittsford, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#156562) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#156155) |
 
 ## About This Role
 
-This product manager position at Honeywell was posted on 2026-08-27.
+This product manager position at Honeywell was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

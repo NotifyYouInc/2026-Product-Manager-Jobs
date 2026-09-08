@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-Software-Product-Owner--Agile-SAFe-_R-00190630) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-Software-Product-Owner--Agile-SAFe-_R-00191052) |
 
 ## About This Role
 
-This product manager position at Leidos was posted on 2026-08-26.
+This product manager position at Leidos was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hong Kong |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Wanchai-Hong-Kong/Manager--Products-and-Solutions---Stablecoin---Web3-Solution_R-279025) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-29.
+This product manager position at Mastercard was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

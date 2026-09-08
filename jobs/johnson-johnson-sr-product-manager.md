@@ -1,16 +1,16 @@
-# Sr Product Manager at Johnson & Johnson
+# Sr Product manager at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bogot-Distrito-Capital-Colombia/Sr-Product-Manager_R-076042) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Mumbai-India/Sr-Product-manager_R-068390-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-05-14.
+This product manager position at Johnson & Johnson was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

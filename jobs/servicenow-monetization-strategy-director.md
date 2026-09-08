@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Waltham, Massachusetts, United States |
-| Category | Product Manager |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000119442172-monetization-strategy-director) |
+| Location | San Diego, California, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146501509-monetization-strategy-director) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-04-08.
+This strategy & operations position at ServiceNow was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

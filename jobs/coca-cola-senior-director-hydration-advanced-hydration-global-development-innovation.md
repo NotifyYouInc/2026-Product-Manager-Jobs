@@ -5,12 +5,12 @@
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Director--Hydration---Advanced-Hydration--Global-Development---Innovation_R-136011) |
 
 ## About This Role
 
-This product manager position at Coca-Cola was posted on 2026-06-08.
+This product manager position at Coca-Cola was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

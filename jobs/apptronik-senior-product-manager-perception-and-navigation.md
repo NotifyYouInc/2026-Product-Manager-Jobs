@@ -1,16 +1,16 @@
-# Senior Product Manager, Perception and Navigation at Apptronik
+#  Senior Product Manager, Perception and Navigation at Apptronik
 
 | Field | Details |
 |-------|---------|
 | Company | [Apptronik](https://scoutify.ai/companies/apptronik?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/apptronik/jobs/6119221004?gh_jid=6119221004) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://boards.greenhouse.io/apptronik/jobs/6119223004?gh_jid=6119223004) |
 
 ## About This Role
 
-This product manager position at Apptronik was posted on 2026-07-18.
+This product manager position at Apptronik was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

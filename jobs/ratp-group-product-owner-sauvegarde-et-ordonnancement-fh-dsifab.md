@@ -5,12 +5,12 @@
 | Company | [RATP Group](https://scoutify.ai/companies/ratp-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Noisy-le-Grand, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-25 |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://ratp.wd3.myworkdayjobs.com/ratp_externe/job/BATIMENT-NOISY-LE-GRAND/Product-Owner-Sauvegarde-et-Ordonnancement--F-H--DSI-FAB-_R0018377) |
 
 ## About This Role
 
-This product manager position at RATP Group was posted on 2026-02-25.
+This product manager position at RATP Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

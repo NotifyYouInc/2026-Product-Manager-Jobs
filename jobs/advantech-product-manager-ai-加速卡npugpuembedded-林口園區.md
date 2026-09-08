@@ -5,12 +5,12 @@
 | Company | [Advantech](https://scoutify.ai/companies/advantech-global-solutions-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taiwan |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/Product-Manager---AI--NPU-GPU--Embedded---_JR202602015) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://advantech.wd3.myworkdayjobs.com/External/job/Linkou/Product-Manager---AI--NPU-GPU--Embedded---_JR202609003) |
 
 ## About This Role
 
-This product manager position at Advantech was posted on 2026-02-06.
+This product manager position at Advantech was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanilla](https://scoutify.ai/companies/vanilla?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Bellevue, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vanilla/0afd87b5-5769-4ba3-88b3-18c6262dec40) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vanilla/ce33f818-cd40-4318-af84-bb2b032e3956) |
 
 ## About This Role
 
-This product manager position at Vanilla was posted on 2026-05-05.
+This product manager position at Vanilla was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

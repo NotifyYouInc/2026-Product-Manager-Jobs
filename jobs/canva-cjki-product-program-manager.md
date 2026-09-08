@@ -5,12 +5,12 @@
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Product Manager |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001355965-cjki-product-program-manager) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001365762-cjki-product-program-manager) |
 
 ## About This Role
 
-This product manager position at Canva was posted on 2026-08-27.
+This product manager position at Canva was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

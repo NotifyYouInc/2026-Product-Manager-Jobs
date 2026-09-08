@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbTenWsqMvHM63TzcOjijtuDRcEabjk6r0d6y9AHIz9yEjsA1Ny_i1v6vKfGeO6Xc9WV4Bzl9lgqrnNeBawj0_SsR1XjjPIN1gQUkXzE8IGktwPoDqrhRH0dNgHtKw%3D%3D_V2&loc=JP&title=Product+Manager+II) |
+| Category | Content Marketing |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWxRDZnCnh0VCBIkk8W2oZXO3cbl8C3cqbFxvU2CmxmKEjsA1Ny_i6Icr-hTcblLPxA3piK0Mc_36feXL7sx1ATr7bbQNaPiBmTs6a0rIrEoyK6g5F75i-oKg4wyuA%3D%3D_V2&loc=JP&title=Product+Manager+II) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-07-24.
+This content marketing position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

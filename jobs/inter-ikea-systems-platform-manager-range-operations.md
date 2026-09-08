@@ -5,12 +5,12 @@
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Malmö, Skåne, Sweden |
 | Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000146182629-platform-manager-range-operations) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000146479539-platform-manager-range-operations) |
 
 ## About This Role
 
-This product manager position at Inter Ikea Systems was posted on 2026-08-28.
+This product manager position at Inter Ikea Systems was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

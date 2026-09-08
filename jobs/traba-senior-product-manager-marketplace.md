@@ -5,12 +5,12 @@
 | Company | [Traba](https://scoutify.ai/companies/traba?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/traba/3559d1b8-c6a8-4525-9c08-b43762dc1021) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/traba/d1fd2da3-7c26-4797-ba88-311621764b93) |
 
 ## About This Role
 
-This product manager position at Traba was posted on 2026-08-03.
+This product manager position at Traba was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

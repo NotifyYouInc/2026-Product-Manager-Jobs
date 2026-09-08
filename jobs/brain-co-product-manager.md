@@ -5,12 +5,12 @@
 | Company | [Brain Co.](https://scoutify.ai/companies/brain-co?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2025-10-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/brainco/fe8d9afb-afd6-424e-aae4-9f31d6d60426) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/brainco/2bc9aece-f614-47d5-b415-d873f5910b4a) |
 
 ## About This Role
 
-This product manager position at Brain Co. was posted on 2025-10-09.
+This product manager position at Brain Co. was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

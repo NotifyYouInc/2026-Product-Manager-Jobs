@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Singapore, Singapore |
 | Category | Accounting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Kelana-Centre-Point-Malaysia/Product-Manager-II--AP-_R49362) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Singapore-Singapore/Product-Manager-II--AP-_R55657) |
 
 ## About This Role
 
-This accounting position at TD Synnex was posted on 2026-03-30.
+This accounting position at TD Synnex was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

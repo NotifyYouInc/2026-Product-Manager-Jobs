@@ -1,16 +1,16 @@
-# Senior Product Manager  at Guidepoint
+# Senior Product Manager at Guidepoint
 
 | Field | Details |
 |-------|---------|
 | Company | [Guidepoint](https://scoutify.ai/companies/guidepoint?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/guidepoint/jobs/8532888002) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/guidepoint/jobs/8751110002) |
 
 ## About This Role
 
-This product manager position at Guidepoint was posted on 2026-05-19.
+This product manager position at Guidepoint was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Product-Manager---Time---Attendance-and-Scheduling_R173233) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Product-Manager---Time---Attendance-and-Scheduling_R194562) |
 
 ## About This Role
 
-This product manager position at A.P. Moller - Maersk was posted on 2026-02-16.
+This product manager position at A.P. Moller - Maersk was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# GERENTE DE PRODUTOS III at Ingram Micro
+# Gerente de Produtos III at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barueri, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Barueri-Brazil/GERENTE-DE-PRODUTOS-III_R-113059) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Barueri-Brazil/Gerente-de-Produtos-III_R-117137) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-04-22.
+This product manager position at Ingram Micro was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

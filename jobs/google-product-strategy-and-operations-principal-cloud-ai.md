@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUGc1lTsNcxPDBJHtbrrt4mDv1WjRrtVWUZjXp9tN-KhEjsA1Ny_i4ZH_xSebA4ThiMphS4jX-G4FufhMWlhuV2-KdtsZ-agOTlvokWiYa_59TZFEuaZhceq2kZb5A%3D%3D_V2&loc=US&title=Product+Strategy+and+Operations+Principal) |
+| Category | Strategy & Operations |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTRgDJFcP1ZNvQVU56s0q6pBoordct0sgUoD9DpAX8W9EjsA1Ny_i7TWi4LcaEqcUhy9qWotLFBmInURDTy5UTXWtWMDAmXuxYCZcRhwoePKYqmXUP-1nZEVs_lFcw%3D%3D_V2&loc=US&title=Product+Strategy+and+Operations+Principal) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-07-30.
+This strategy & operations position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

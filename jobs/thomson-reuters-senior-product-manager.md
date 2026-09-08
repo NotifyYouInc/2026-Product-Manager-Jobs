@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Eagan, Minnesota, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Product-Manager_JREQ202572) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Product-Manager_JREQ202406-1) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-08-11.
+This product manager position at Thomson Reuters was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

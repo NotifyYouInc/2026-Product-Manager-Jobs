@@ -5,12 +5,12 @@
 | Company | [Hunkemöller](https://scoutify.ai/companies/hunkem-ller?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://hkm.wd3.myworkdayjobs.com/hunkemoller_external_career_site/job/Headquarters-International/Digital-Product-Manager--Easy-to-Buy-_JR76410) |
 
 ## About This Role
 
-This product manager position at Hunkemöller was posted on 2026-06-02.
+This product manager position at Hunkemöller was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

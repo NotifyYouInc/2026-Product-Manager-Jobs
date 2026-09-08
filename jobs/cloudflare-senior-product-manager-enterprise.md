@@ -1,16 +1,16 @@
-# Senior Product Manager - Enterprise at Cloudflare
+# Senior Product Manager, Enterprise at Cloudflare
 
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/7589006?gh_jid=7589006) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8158527?gh_jid=8158527) |
 
 ## About This Role
 
-This product manager position at Cloudflare was posted on 2026-02-09.
+This product manager position at Cloudflare was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
