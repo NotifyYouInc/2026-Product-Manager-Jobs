@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBP of Panhandle](https://scoutify.ai/companies/ibp-of-panhandle?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
-| Category | Product Manager |
-| Posted | 2026-01-16 |
-| Apply | [View on company site](https://recruiting.ultipro.com/ibp1000ibp/JobBoard/bfc73ebf-09a2-4831-a2a8-5d7cb5926e1a/OpportunityDetail?opportunityId=d4f510fd-7345-4306-9d95-a0ba86e67416) |
+| Category | Project Manager |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://recruiting.ultipro.com/ibp1000ibp/JobBoard/bfc73ebf-09a2-4831-a2a8-5d7cb5926e1a/OpportunityDetail?opportunityId=63ebbabc-8c7b-4b6a-843a-351972d2778a) |
 
 ## About This Role
 
-This product manager position at IBP of Panhandle was posted on 2026-01-16.
+This project manager position at IBP of Panhandle was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wealth-Omni-Digital-Strategist_R0112329) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wealth-Omni-Digital-Strategist_R0118685) |
 
 ## About This Role
 
-This product manager position at Truist was posted on 2026-03-12.
+This product manager position at Truist was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

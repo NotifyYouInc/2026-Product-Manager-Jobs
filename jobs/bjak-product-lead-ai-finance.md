@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Thailand |
+| Location | China |
 | Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/013a0a7f-70ea-4594-ba58-54e85649f1ef) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e57f9f8a-a212-4690-bd74-aad623a3e4c5) |
 
 ## About This Role
 
-This product manager position at Bjak was posted on 2026-08-28.
+This product manager position at Bjak was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

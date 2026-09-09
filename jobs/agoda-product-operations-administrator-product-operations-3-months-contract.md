@@ -5,12 +5,12 @@
 | Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/7253460) |
 
 ## About This Role
 
-This product manager position at Agoda was posted on 2026-04-27.
+This product manager position at Agoda was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

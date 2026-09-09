@@ -5,12 +5,12 @@
 | Company | [Truecaller](https://scoutify.ai/companies/truecaller?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sweden |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8127804) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/truecaller/jobs/8169251) |
 
 ## About This Role
 
-This product manager position at Truecaller was posted on 2026-08-13.
+This product manager position at Truecaller was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

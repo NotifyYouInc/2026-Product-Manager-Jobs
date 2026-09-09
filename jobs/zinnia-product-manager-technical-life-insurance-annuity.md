@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zinnia](https://scoutify.ai/companies/zinnia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zinnia/jobs/4706419006) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zinnia/jobs/4710029006) |
 
 ## About This Role
 
-This product manager position at Zinnia was posted on 2026-08-26.
+This product manager position at Zinnia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | New York, US |
 | Category | Product Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---NC-Remote/Product-Management--Technical--Expert_R28629-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---NY-Remote/Product-Management--Technical--Expert_R34393-1) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-04-17.
+This product manager position at Allstate was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

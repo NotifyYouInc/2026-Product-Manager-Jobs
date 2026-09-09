@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Baroda, Madhya Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Baroda-India-Office/Product-Owner-II_R-108175-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Product-Owner-II_R-108854) |
 
 ## About This Role
 
-This product manager position at MRI Software was posted on 2026-06-30.
+This product manager position at MRI Software was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Argentina |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Garin-Argentina/Scent-Design-Manager_R15931) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Mumbai-India/Scent-Design-Manager_R21488) |
 
 ## About This Role
 
-This product manager position at International Flavors & Fragrances was posted on 2026-03-06.
+This product manager position at International Flavors & Fragrances was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

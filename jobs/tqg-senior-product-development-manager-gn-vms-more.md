@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TQG](https://scoutify.ai/companies/tqg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
-| Category | Engineering Manager |
-| Posted | 2026-06-02 |
+| Category | Product Manager |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/thequalitygroupgmbh2/jobs/4865882101) |
 
 ## About This Role
 
-This engineering manager position at TQG was posted on 2026-06-02.
+This product manager position at TQG was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

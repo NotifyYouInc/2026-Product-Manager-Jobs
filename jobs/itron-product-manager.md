@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mâcon, Bourgogne, France |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/France-Macon/Product-Manager_JR102720) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Illinois-Chicago/Product-Manager_JR102871-1) |
 
 ## About This Role
 
-This product manager position at Itron was posted on 2026-07-23.
+This product manager position at Itron was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

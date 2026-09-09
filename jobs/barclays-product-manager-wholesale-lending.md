@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Canary Wharf, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product-Manager---Wholesale-Lending_JR-0000113623) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-05-29.
+This product manager position at Barclays was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

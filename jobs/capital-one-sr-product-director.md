@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-06-11 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Cambridge-MA/Sr-Product-Director_R244369-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-06-11.
+This product manager position at Capital One was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

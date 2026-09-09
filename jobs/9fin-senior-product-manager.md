@@ -5,12 +5,12 @@
 | Company | [9Fin](https://scoutify.ai/companies/9fin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/9fin/3ee82e36-2e5f-4437-b2e4-4cb74f33385a) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/9fin/a4c8a3f6-fee2-43d0-a3c6-7114ff71e905) |
 
 ## About This Role
 
-This product manager position at 9Fin was posted on 2026-08-18.
+This product manager position at 9Fin was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

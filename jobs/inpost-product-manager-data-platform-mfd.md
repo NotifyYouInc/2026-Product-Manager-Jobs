@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Poland |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000140484816-product-manager-data-platform-mfd) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000146747721-product-manager-data-platform-mfd) |
 
 ## About This Role
 
-This product manager position at INPOST was posted on 2026-07-29.
+This product manager position at INPOST was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

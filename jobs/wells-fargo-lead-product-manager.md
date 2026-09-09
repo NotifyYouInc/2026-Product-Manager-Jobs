@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Irving, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Product-Manager_R-570005) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Product-Manager_R-571373-1) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-08-25.
+This product manager position at Wells Fargo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

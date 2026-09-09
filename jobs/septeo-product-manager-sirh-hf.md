@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000146120359-product-manager-sirh-hf) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000146967939-product-manager-sirh-hf) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-08-28.
+This product manager position at SEPTEO was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

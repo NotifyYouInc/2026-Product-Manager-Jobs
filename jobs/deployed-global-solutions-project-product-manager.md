@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deployed Global Solutions](https://scoutify.ai/companies/mydgs-rec-pro-ukg-net?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Project Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://mydgs.rec.pro.ukg.net/DEP1004DGSO/JobBoard/f15dfe84-dee1-483e-8b92-490f56ef68bc/OpportunityDetail?opportunityId=78fddcb8-a7ea-4aec-a22d-8281e4ac1f93) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://mydgs.rec.pro.ukg.net/DEP1004DGSO/JobBoard/f15dfe84-dee1-483e-8b92-490f56ef68bc/OpportunityDetail?opportunityId=470437f9-937b-4eff-b8a4-127b9d3a4961) |
 
 ## About This Role
 
-This project manager position at Deployed Global Solutions was posted on 2026-08-05.
+This project manager position at Deployed Global Solutions was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Product Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Boise/Product-Manager_R10279-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Product-Manager_R12073) |
 
 ## About This Role
 
-This product manager position at Clearwateranalytics was posted on 2026-06-25.
+This product manager position at Clearwateranalytics was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

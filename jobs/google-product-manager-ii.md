@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/75349481339396806-product-manager-ii?sort_by=date&page=1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUoHwIs4dGMgsl8PIOQ5_oIB4sjsfpUQMYDfWSnkSpBeEjsA1Ny_i-K_HrDvVHFauSRX7QguLa8G2bR9EtfaCNnl-CF-ovhB3yHNYfZlH5Ng5DSQUNUHmd3PZ1RZIg%3D%3D_V2&loc=US&title=Product+Manager+II) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-03-26.
+This product manager position at Google was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Zagreb, Zagreb, Croatia |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122614244-director-product-leadership) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000146708914-director-product-leadership) |
 
 ## About This Role
 
-This product manager position at NielsenIQ was posted on 2026-04-24.
+This product manager position at NielsenIQ was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/636d03ab-ddb6-4cd8-bba5-f9ccee1441bc) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/7a8d2c13-4bca-45a9-ae80-6193f3759b4a) |
 
 ## About This Role
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mozilla](https://scoutify.ai/companies/mozilla?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | Sweden |
 | Category | Product Manager |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8136490) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8170976) |
 
 ## About This Role
 

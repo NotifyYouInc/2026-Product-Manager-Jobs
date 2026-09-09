@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Product-Manager_JREQ202406-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-Kingdom-London/Senior-Product-Manager_JREQ203217) |
 
 ## About This Role
 
-This product manager position at Thomson Reuters was posted on 2026-08-31.
+This product manager position at Thomson Reuters was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

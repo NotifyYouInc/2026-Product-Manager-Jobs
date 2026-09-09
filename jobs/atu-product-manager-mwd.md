@@ -5,12 +5,12 @@
 | Company | [ATU](https://scoutify.ai/companies/atu?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ATUAuto-Teile-Unger/744000126311342-product-manager-mwd) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ATUAuto-Teile-Unger/744000146727179-product-manager-mwd) |
 
 ## About This Role
 
-This product manager position at ATU was posted on 2026-05-13.
+This product manager position at ATU was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

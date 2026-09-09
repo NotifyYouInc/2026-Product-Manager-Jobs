@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Auderghem, Brussels Capital, Belgium |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000140184859-product-manager) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000146805239-product-manager) |
 
 ## About This Role
 
-This product manager position at Entain was posted on 2026-07-28.
+This product manager position at Entain was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

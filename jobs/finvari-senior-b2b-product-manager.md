@@ -5,12 +5,12 @@
 | Company | [Finvari](https://scoutify.ai/companies/finvari?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/finvari/21b86856-cf05-4c6a-82eb-e3f3c1f48c23) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/finvari/8a419877-622c-4f82-b12b-1c1e42427db6) |
 
 ## About This Role
 
-This product manager position at Finvari was posted on 2026-08-13.
+This product manager position at Finvari was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

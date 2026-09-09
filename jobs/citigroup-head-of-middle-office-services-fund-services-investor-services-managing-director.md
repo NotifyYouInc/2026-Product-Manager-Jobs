@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Boston-Massachusetts-United-States/Head-of-Middle-Office-Services---Fund-Services--Investor-Services-Managing-Director_26990682) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Head-of-Middle-Office-Services---Fund-Services--Investor-Services-Managing-Director_26990688) |
 
 ## About This Role
 
-This product manager position at Citigroup was posted on 2026-08-28.
+This product manager position at Citigroup was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

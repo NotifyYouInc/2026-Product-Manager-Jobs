@@ -5,12 +5,12 @@
 | Company | [BDO](https://scoutify.ai/companies/bdo4?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Eindhoven, North Brabant, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BDO4/744000145445054-it-product-owneranalist) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BDO4/744000146913709-it-product-owneranalist) |
 
 ## About This Role
 
-This product manager position at BDO was posted on 2026-08-25.
+This product manager position at BDO was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

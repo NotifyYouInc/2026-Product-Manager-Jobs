@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146312669-group-manager-product-management-linkedin-learning) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000146712154-group-manager-product-management-linkedin-learning) |
 
 ## About This Role
 
-This product manager position at LinkedIn was posted on 2026-08-29.
+This product manager position at LinkedIn was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

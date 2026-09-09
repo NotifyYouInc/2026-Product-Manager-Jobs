@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Product Manager |
+| Category | Program Manager |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8156118) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-09-01.
+This program manager position at Coupang was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
