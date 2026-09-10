@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SquareTrade](https://scoutify.ai/companies/squaretrade1?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SquareTrade1/744000144650869-digital-product-manager) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SquareTrade1/744000147094209-digital-product-manager) |
 
 ## About This Role
 
-This product manager position at SquareTrade was posted on 2026-08-20.
+This product manager position at SquareTrade was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

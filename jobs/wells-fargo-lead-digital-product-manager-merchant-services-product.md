@@ -1,16 +1,16 @@
-# Lead Digital Product Manager - Merchant Services Product at Wells Fargo
+# Lead Digital Product Manager, Merchant Services Product at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WEST-DES-MOINES-IA/Lead-Digital-Product-Manager---Merchant-Services-Product_R-532262) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WEST-DES-MOINES-IA/Lead-Digital-Product-Manager--Merchant-Services-Product_R-563848) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-03-27.
+This product manager position at Wells Fargo was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

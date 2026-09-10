@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Duisburg-Germany/Product-Manager---Acute-Care---Sage---GSA_R571238) |
 
 ## About This Role
 
-This product manager position at Stryker was posted on 2026-09-02.
+This product marketing position at Stryker was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

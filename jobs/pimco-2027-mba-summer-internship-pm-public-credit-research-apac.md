@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PIMCO](https://scoutify.ai/companies/pimco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Product Manager |
+| Category | Corporate Finance |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Hong-Kong/XMLNAME-2027-MBA-Summer-Internship--PM---Public---Credit-Research-APAC_R106834) |
 
 ## About This Role
 
-This product manager position at PIMCO was posted on 2026-09-02.
+This corporate finance position at PIMCO was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

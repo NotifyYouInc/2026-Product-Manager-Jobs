@@ -5,12 +5,12 @@
 | Company | [Interac](https://scoutify.ai/companies/interac?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Associate-Product-Manager_REQ-2172) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Associate-Product-Manager_REQ-2347-1) |
 
 ## About This Role
 
-This product manager position at Interac was posted on 2026-04-23.
+This product manager position at Interac was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Product Manager - Consumer at Plaid
+# Senior Product Manager, Consumer at Plaid
 
 | Field | Details |
 |-------|---------|
 | Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/ecfa7ea5-8849-4666-9bed-8fe9f57f20cf) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/780fdd2e-5c29-4f25-831a-8f30e24923cd) |
 
 ## About This Role
 
-This product manager position at Plaid was posted on 2026-06-02.
+This product manager position at Plaid was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

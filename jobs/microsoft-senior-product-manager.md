@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556979496) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556984528) |
 
 ## About This Role
 
-This product manager position at Microsoft was posted on 2026-08-31.
+This product manager position at Microsoft was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

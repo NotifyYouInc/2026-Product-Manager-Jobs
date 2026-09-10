@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Needham, Massachusetts, United States |
-| Category | Engineering Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4656501006) |
+| Category | Product Manager |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4709612006) |
 
 ## About This Role
 
-This engineering manager position at SharkNinja was posted on 2026-02-24.
+This product manager position at SharkNinja was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

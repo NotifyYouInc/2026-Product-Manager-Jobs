@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Senior-Consumer-Lending-Digital-Sales---Product-Manager---Retail-Banking--w-m-d-_REQ-10112267-2) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Frankfurt/Senior-Consumer-Lending-Digital-Sales---Product-Manager---Retail-Banking--w-m-d-_REQ-10120555-1) |
 
 ## About This Role
 
-This product manager position at ING was posted on 2026-04-30.
+This product manager position at ING was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

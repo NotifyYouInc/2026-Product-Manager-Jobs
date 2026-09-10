@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Enkhuizen, North Holland, The Netherlands |
-| Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000136847434-head-of-product-optimizer-marketing) |
+| Category | Product Marketing |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000147162895-head-of-product-optimizer-marketing) |
 
 ## About This Role
 
-This product manager position at Syngenta was posted on 2026-07-09.
+This product marketing position at Syngenta was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

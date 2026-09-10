@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Auckland-New-Zealand/Product-Manager_R-275509-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal/Product-Manager_R-287369) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-04-16.
+This product manager position at Mastercard was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

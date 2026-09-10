@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China--Shanghai--388-W-Nanjing-Road-Ciros-Plaza/Product-Manager_31158816-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Chile---Santiago/Product-Manager_31160934) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-08-25.
+This product manager position at Abbott was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Outfit7](https://scoutify.ai/companies/outfit7?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://outfit7.com/careers/jobs?gh_jid=7984220003) |
 
 ## About This Role
 
-This product manager position at Outfit7 was posted on 2026-09-02.
+This product marketing position at Outfit7 was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

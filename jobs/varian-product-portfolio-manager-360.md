@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cary, North Carolina, United States |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Product-Portfolio-Manager--360_R-30001-1) |
 
 ## About This Role
 
-This product manager position at Varian was posted on 2026-09-02.
+This product marketing position at Varian was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

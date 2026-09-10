@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cengage](https://scoutify.ai/companies/cengage?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ohio, US |
-| Category | Content Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://cengage.wd5.myworkdayjobs.com/cengagenorthamericacareers/job/Ohio-USA/Sr-Director--Portfolio-and-Content-at-Ed2go_R2026-1101) |
 
 ## About This Role
 
-This content marketing position at Cengage was posted on 2026-09-01.
+This product manager position at Cengage was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

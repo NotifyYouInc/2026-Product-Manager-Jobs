@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
+| Category | Corporate Finance |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/PM-and-Research--Equities---Tech_R260700667-1) |
 
 ## About This Role
 
-This product manager position at TIAA was posted on 2026-09-01.
+This corporate finance position at TIAA was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

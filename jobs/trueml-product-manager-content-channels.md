@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trueml](https://scoutify.ai/companies/trueml?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Content Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://jobs.lever.co/trueml/5722d1ca-acc2-4d54-871b-3176eb82b528) |
 
 ## About This Role
 
-This content marketing position at Trueml was posted on 2026-09-01.
+This product manager position at Trueml was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

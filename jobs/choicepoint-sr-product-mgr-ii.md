@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Georgia, US |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Georgia/Sr-Product-Mgr-II_R110682) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Dayton-OH/Sr-Product-Mgr-II_R115778-1) |
 
 ## About This Role
 
-This product manager position at ChoicePoint was posted on 2026-03-26.
+This product manager position at ChoicePoint was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

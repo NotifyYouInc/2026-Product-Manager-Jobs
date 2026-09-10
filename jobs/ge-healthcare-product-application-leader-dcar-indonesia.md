@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Product Manager |
+| Category | Product Marketing |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IDN05-01-Jakarta--JlR-A-Kartini-Kav-8/Product---Application-Leader---DCAR--Indonesia_R4045804-1) |
 
 ## About This Role
 
-This product manager position at GE HealthCare was posted on 2026-09-02.
+This product marketing position at GE HealthCare was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

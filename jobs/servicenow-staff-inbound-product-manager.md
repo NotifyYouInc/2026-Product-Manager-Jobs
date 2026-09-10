@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Technical Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141575829-staff-inbound-product-manager) |
+| Location | Hyderabad, Telangana, India |
+| Category | Product Manager |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147142359-staff-inbound-product-manager) |
 
 ## About This Role
 
-This technical product manager position at ServiceNow was posted on 2026-08-04.
+This product manager position at ServiceNow was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

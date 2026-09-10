@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affinidi](https://scoutify.ai/companies/affinidi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7977852003) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7985214003) |
 
 ## About This Role
 
-This product manager position at Affinidi was posted on 2026-08-26.
+This product manager position at Affinidi was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

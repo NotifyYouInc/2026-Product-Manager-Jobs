@@ -5,12 +5,12 @@
 | Company | [Brex](https://scoutify.ai/companies/brex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.brex.com/careers/8616324002?gh_jid=8616324002) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.brex.com/careers/8780829002?gh_jid=8780829002) |
 
 ## About This Role
 
-This product manager position at Brex was posted on 2026-07-01.
+This product manager position at Brex was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

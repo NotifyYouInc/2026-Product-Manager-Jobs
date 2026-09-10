@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Galderma](https://scoutify.ai/companies/galderma?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Carlsbad, California, United States |
-| Category | Product Manager |
+| Category | UX Researcher |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://galderma.wd3.myworkdayjobs.com/external/job/Carlsbad/Product-Research---Innovation-Lead---Alastin_JR020375-1) |
 
 ## About This Role
 
-This product manager position at Galderma was posted on 2026-09-01.
+This ux researcher position at Galderma was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

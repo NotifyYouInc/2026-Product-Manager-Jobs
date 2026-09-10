@@ -5,12 +5,12 @@
 | Company | [Vonage](https://scoutify.ai/companies/vonage?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
 | Category | Product Manager |
-| Posted | 2026-05-10 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/vonage/jobs/8532845002) |
 
 ## About This Role
 
-This product manager position at Vonage was posted on 2026-05-10.
+This product manager position at Vonage was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

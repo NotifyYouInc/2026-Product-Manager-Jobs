@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674450/product-manager-customer-support-shopping-applications-apple-store-online) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681188/product-manager-customer-support-shopping-applications-apple-store-online) |
 
 ## About This Role
 
-This product manager position at Apple was posted on 2026-07-28.
+This product manager position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

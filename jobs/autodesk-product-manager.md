@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Product-Manager_26WD100504) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Product-Manager_26WD100734-1) |
 
 ## About This Role
 
-This product manager position at Autodesk was posted on 2026-08-11.
+This product manager position at Autodesk was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

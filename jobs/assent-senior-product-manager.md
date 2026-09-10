@@ -5,12 +5,12 @@
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000144573630-senior-product-manager) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000147053039-senior-product-manager) |
 
 ## About This Role
 
-This product manager position at Assent was posted on 2026-08-20.
+This product manager position at Assent was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

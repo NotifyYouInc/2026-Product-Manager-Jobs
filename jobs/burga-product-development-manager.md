@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Burga](https://scoutify.ai/companies/burga?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kaunas, Kaunas, Lithuania |
-| Category | Engineering Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.lever.co/burga/3c43a6de-0a55-49e1-bb78-cf3f9fa155cc) |
+| Category | Product Manager |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.lever.co/burga/4638d096-0bea-4b91-8fee-6e43448474f1) |
 
 ## About This Role
 
-This engineering manager position at Burga was posted on 2026-06-12.
+This product manager position at Burga was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

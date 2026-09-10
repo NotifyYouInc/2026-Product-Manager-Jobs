@@ -5,12 +5,12 @@
 | Company | [The Scion Group](https://scoutify.ai/companies/thesciongroupllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8541753002) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thesciongroupllc/jobs/8777917002) |
 
 ## About This Role
 
-This product manager position at The Scion Group was posted on 2026-05-08.
+This product manager position at The Scion Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Macquarie-Park-New-South-Wales-Australia/Senior-Product-Manager_R64840-2) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Sydney-New-South-Wales-Australia/Senior-Product-Manager_R74698-1) |
 
 ## About This Role
 
-This product manager position at Medtronic was posted on 2026-05-28.
+This product manager position at Medtronic was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

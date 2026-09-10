@@ -5,12 +5,12 @@
 | Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#250797) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#255885) |
 
 ## About This Role
 
-This product manager position at Kotak Mahindra Bank was posted on 2026-07-24.
+This product manager position at Kotak Mahindra Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

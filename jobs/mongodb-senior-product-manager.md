@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8094528) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8143805) |
 
 ## About This Role
 
-This product manager position at MongoDB was posted on 2026-09-01.
+This product manager position at MongoDB was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

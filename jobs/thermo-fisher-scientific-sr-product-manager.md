@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Sr-Product-Manager_R-01359090) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pittsburgh-Pennsylvania-USA/Sr-Product-Manager_R-01365021-1) |
 
 ## About This Role
 
-This product manager position at Thermo Fisher Scientific was posted on 2026-07-28.
+This product manager position at Thermo Fisher Scientific was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

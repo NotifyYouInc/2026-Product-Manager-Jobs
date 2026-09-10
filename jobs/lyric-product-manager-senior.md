@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lyric](https://scoutify.ai/companies/lyric?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Hyderabad-India/Product-Manager--Senior_JR841) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Remote---US/Product-Manager--Senior_JR897) |
 
 ## About This Role
 
-This product manager position at Lyric was posted on 2026-06-01.
+This product manager position at Lyric was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

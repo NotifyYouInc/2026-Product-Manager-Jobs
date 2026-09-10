@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Rome-Italy/Director--Product-Management_R-287487) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Director--Product-Management_R-288827) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-09-01.
+This product manager position at Mastercard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
