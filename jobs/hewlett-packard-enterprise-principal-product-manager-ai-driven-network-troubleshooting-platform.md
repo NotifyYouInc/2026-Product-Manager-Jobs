@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Juan, Texas, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Juan-Puerto-Rico-Puerto-Rico/Principal-Product-Manager---AI-DRIVEN-NETWORK-TROUBLESHOOTING-PLATFORM---_1212248-6) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard Enterprise was posted on 2026-09-02.
+This technical product manager position at Hewlett Packard Enterprise was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

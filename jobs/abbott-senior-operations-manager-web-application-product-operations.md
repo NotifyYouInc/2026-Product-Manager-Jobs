@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Sylmar, California, United States |
 | Category | Program Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sunnyvale/Senior-Operations-Manager---Web-Application---Product-Operations_31148472-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Senior-Operations-Manager---Web-Application---Product-Operations_31159940-2) |
 
 ## About This Role
 
-This program manager position at Abbott was posted on 2026-04-24.
+This program manager position at Abbott was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

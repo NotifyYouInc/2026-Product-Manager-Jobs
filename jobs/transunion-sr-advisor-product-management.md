@@ -1,16 +1,16 @@
-# Sr Advisor Product Management at TransUnion
+# Sr. Advisor, Product Management at TransUnion
 
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bogota/Sr-Advisor-Product-Management_19040709) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Burlington-Canada/Sr-Advisor--Product-Management_19042142) |
 
 ## About This Role
 
-This product manager position at TransUnion was posted on 2026-05-22.
+This product manager position at TransUnion was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

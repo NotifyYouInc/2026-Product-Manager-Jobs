@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pleasanton, California, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Sr-Product-Manager---Observability_JR-0109669) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-09-02.
+This technical product manager position at Workday was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

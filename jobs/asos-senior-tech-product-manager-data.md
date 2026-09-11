@@ -5,12 +5,12 @@
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000147009894-senior-tech-product-manager-data) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000147175240-senior-tech-product-manager-data) |
 
 ## About This Role
 
-This product manager position at ASOS was posted on 2026-09-02.
+This product manager position at ASOS was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://careers.datadoghq.com/detail/8174592/?gh_jid=8174592) |
 
 ## About This Role
 
-This product manager position at Datadog was posted on 2026-09-02.
+This technical product manager position at Datadog was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

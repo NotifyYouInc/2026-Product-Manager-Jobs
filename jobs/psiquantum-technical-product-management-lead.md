@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PsiQuantum](https://scoutify.ai/companies/psiquantum?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://www.psiquantum.com/apply?gh_jid=7984551003) |
 
 ## About This Role
 
-This product manager position at PsiQuantum was posted on 2026-09-02.
+This technical product manager position at PsiQuantum was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

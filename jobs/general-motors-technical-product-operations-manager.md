@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Technical-Product-Operations-Manager_JR-202602596) |
 
 ## About This Role
 
-This product manager position at General Motors was posted on 2026-09-02.
+This technical product manager position at General Motors was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

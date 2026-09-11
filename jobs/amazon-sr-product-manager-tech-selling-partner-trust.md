@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10528086/sr-product-manager-tech-selling-partner-trust) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-09-03.
+This technical product manager position at Amazon was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Rome, Lazio, Italy |
+| Location | Arlington, Texas, United States |
 | Category | Product Manager |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Rome-Italy/Specialist--Product-Management_R-287371) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Arlington-Virginia/Specialist--Product-Management_R-288635) |
 
 ## About This Role
 

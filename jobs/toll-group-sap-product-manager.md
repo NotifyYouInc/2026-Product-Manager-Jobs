@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Melbourne, Victoria, Australia |
-| Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Melbourne-Victoria-Australia/SAP-Product-Manager_R000076649) |
+| Location | Bayan Lepas, Penang, Malaysia |
+| Category | Technical Product Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Bayan-Lepas/SAP-Product-Manager_R000077961-1) |
 
 ## About This Role
 
-This product manager position at Toll Group was posted on 2026-06-02.
+This technical product manager position at Toll Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

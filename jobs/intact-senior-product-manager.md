@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Gestionnaire-de-produit-principal_R152295) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/Gestionnaire-de-produit-principal-e-_R155432) |
 
 ## About This Role
 
-This product manager position at Intact was posted on 2026-03-12.
+This product manager position at Intact was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

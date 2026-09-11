@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
-| Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Boston-MA/Product-Manager_2026-0026423) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Data Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Product-Manager_2026-0015799) |
 
 ## About This Role
 
-This product manager position at U.S. Bancorp was posted on 2026-08-28.
+This data engineer position at U.S. Bancorp was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

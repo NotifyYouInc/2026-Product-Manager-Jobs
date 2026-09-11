@@ -1,16 +1,16 @@
-# AI Product Owner at Barclays
+# AI- Product Owner at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Product-Owner_JR-0000113695-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/AI-Product-Owner_JR-0000089041-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-06-08.
+This product manager position at Barclays was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

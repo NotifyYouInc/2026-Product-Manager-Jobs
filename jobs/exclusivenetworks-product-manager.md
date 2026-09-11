@@ -1,16 +1,16 @@
-# Product  Manager at Exclusivenetworks
+# Product Manager at Exclusivenetworks
 
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Bangalore/Product--Manager_JR1962-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Singapore/Product-Manager_JR2450-1) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-08-04.
+This product manager position at Exclusivenetworks was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

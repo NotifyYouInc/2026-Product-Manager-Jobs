@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Charlotte-NC---CENTS/Bank-Agile-Product-Owner-Senior_R0116504) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Bank-Agile-Product-Owner-Senior_R0119744) |
 
 ## About This Role
 
-This product manager position at USAA was posted on 2026-08-05.
+This product manager position at USAA was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

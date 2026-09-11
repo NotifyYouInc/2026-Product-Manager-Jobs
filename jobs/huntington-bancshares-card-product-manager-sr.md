@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 6 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Minnetonka-MN/Card-Product-Manager-Sr_R0069477) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Card-Product-Manager-Sr_R0075483) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-02-27.
+This product manager position at Huntington Bancshares was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

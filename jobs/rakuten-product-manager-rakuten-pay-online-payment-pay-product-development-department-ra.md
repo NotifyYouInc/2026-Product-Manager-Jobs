@@ -1,16 +1,16 @@
-# Product Manager, Rakuten Pay (Online Payment) - Pay Product Development Department, Rakuten Payment, Inc. at Rakuten
+# Product Manager, Rakuten Pay (Online Payment) - Pay Product Development Department, Rakuten Payment, Inc.(Secondment) at Rakuten
 
 | Field | Details |
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Product-Manager--Rakuten-Pay--Online-Payment----Pay-Product-Development-Department--Rakuten-Payment--Inc_1033004-48) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Product-Manager--Rakuten-Pay--Online-Payment----Pay-Product-Development-Department--Rakuten-Payment--Inc-Secondment-_1036636-1) |
 
 ## About This Role
 
-This product manager position at Rakuten was posted on 2026-04-28.
+This product manager position at Rakuten was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Product Manager - Imagery and Remote Sensing  at Esri
+# Product Manager - Imagery and Remote Sensing at Esri
 
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Redlands, California, United States |
 | Category | Product Manager |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.esri.com/careers/5035239007?gh_jid=5035239007) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.esri.com/careers/5167747007?gh_jid=5167747007) |
 
 ## About This Role
 
-This product manager position at Esri was posted on 2026-02-13.
+This product manager position at Esri was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Technical-Product-Management_R410597-1) |
+| Category | Product Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Technical-Product-Management_R412830-2) |
 
 ## About This Role
 
-This technical product manager position at Merck was posted on 2026-08-14.
+This product manager position at Merck was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

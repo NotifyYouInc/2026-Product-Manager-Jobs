@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Principal-Product-Manager_R-108840) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Principal-Product-Manager_R-109286) |
 
 ## About This Role
 
-This product manager position at Expedia was posted on 2026-08-31.
+This product manager position at Expedia was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

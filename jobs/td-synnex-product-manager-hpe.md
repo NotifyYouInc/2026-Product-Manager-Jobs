@@ -1,16 +1,16 @@
-# Product Manager, HPE at TD Synnex
+# Product Manager HPE at TD Synnex
 
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bucharest, București, Romania |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Singapore-Singapore/Product-Manager_R43823) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bucharest-Romania/Product-Manager-HPE_R55792) |
 
 ## About This Role
 
-This product manager position at TD Synnex was posted on 2026-03-30.
+This product manager position at TD Synnex was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

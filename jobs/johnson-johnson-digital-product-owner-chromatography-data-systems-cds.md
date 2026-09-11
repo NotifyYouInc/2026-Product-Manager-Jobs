@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Business-System-Owner--BSO----Chromatography-Data-Systems--CDS-_R-072255) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-09-03.
+This technical product manager position at Johnson & Johnson was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

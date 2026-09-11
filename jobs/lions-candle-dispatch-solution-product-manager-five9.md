@@ -5,12 +5,12 @@
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brighton, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000144080619-product-manager-five9) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000147310074-product-manager-five9) |
 
 ## About This Role
 
-This product manager position at Lions Candle-Dispatch Solution was posted on 2026-08-18.
+This product manager position at Lions Candle-Dispatch Solution was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

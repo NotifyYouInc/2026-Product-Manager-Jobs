@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000147092309-senior-product-manager-digital-multiphase-products) |
 
 ## About This Role
 
-This product manager position at Renesas Electronics was posted on 2026-09-02.
+This technical product manager position at Renesas Electronics was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

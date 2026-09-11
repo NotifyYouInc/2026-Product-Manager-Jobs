@@ -1,16 +1,16 @@
-# Associate Director, CRM Innovation Labs at Novartis
+# Associate Director - CRM Innovation Labs at Novartis
 
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | East Hanover, New Jersey, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/East-Hanover/Associate-Director--CRM-Innovation-Labs_REQ-10082052-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Associate-Director---CRM-Innovation-Labs_REQ-10087151) |
 
 ## About This Role
 
-This product manager position at Novartis was posted on 2026-06-26.
+This product manager position at Novartis was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Technical Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Cyber-Product-Owner_R247694-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Cyber-Product-Owner_R999847-1) |
 
 ## About This Role
 
-This technical product manager position at Capital One was posted on 2026-07-24.
+This technical product manager position at Capital One was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

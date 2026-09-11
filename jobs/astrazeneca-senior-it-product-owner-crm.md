@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gaithersburg, Maryland, United States |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-02 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Senior-IT-Product-Owner---CRM_R-259330-1) |
 
 ## About This Role
 
-This product manager position at AstraZeneca was posted on 2026-09-02.
+This technical product manager position at AstraZeneca was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

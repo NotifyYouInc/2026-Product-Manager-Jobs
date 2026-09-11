@@ -5,12 +5,12 @@
 | Company | [Fictiv](https://scoutify.ai/companies/fictiv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Oakland, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8640054002) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/fictiv/jobs/8783533002) |
 
 ## About This Role
 
-This product manager position at Fictiv was posted on 2026-07-19.
+This product manager position at Fictiv was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

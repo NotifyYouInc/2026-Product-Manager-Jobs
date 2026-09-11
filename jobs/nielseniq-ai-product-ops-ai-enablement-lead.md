@@ -1,0 +1,22 @@
+# AI Product Ops & AI Enablement Lead at NielsenIQ
+
+| Field | Details |
+|-------|---------|
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Learning & Development |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000147488499-ai-product-ops-ai-enablement-lead) |
+
+## About This Role
+
+This learning & development position at NielsenIQ was posted on 2026-09-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

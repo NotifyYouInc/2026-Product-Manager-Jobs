@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000141350046-vp-product-payments-experience-customer-loyalty) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000147350236-vp-product-payments-experience-customer-loyalty) |
 
 ## About This Role
 
-This product manager position at Flywire was posted on 2026-08-03.
+This product manager position at Flywire was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

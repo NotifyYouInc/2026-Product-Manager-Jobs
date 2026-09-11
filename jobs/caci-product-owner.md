@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Springfield-VA-US/Product-Owner_328534) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/St-Louis-MO-US/Product-Owner_331585) |
 
 ## About This Role
 
-This product manager position at CACI was posted on 2026-07-02.
+This product manager position at CACI was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
