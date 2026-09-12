@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Springdale, Arkansas, United States |
-| Category | Product Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate-JTL-Building---Springdale-Arkansas/Senior-IT-Product-Owner_R0461604) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Tyson-Emma---Springdale-Arkansas/Senior-IT-Product-Owner_R0483616) |
 
 ## About This Role
 
-This product manager position at Tyson Foods was posted on 2026-05-14.
+This technical product manager position at Tyson Foods was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

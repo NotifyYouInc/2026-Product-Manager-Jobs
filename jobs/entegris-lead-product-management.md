@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Billerica, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Singapore-Singapore/Lead--Product-Management_REQ-12245) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lead--Product-Management_REQ-14241) |
 
 ## About This Role
 
-This product manager position at Entegris was posted on 2026-06-04.
+This product manager position at Entegris was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

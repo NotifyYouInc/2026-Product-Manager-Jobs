@@ -6,7 +6,7 @@
 | Location | Lesquin, Hauts-de-France, France |
 | Category | Product Manager |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000147203039-responsable-offre-care-services-post-achat) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000147204220-responsable-offre-care-services-post-achat) |
 
 ## About This Role
 

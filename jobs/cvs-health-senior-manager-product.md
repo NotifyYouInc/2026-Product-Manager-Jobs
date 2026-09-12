@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Senior-Manager--Product_R1009183-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Senior-Manager--Product_R1024430) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-08-20.
+This product manager position at CVS Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

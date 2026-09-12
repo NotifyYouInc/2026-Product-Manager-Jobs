@@ -5,12 +5,12 @@
 | Company | [Prudential Financial](https://scoutify.ai/companies/prudential-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Rio-de-Janeiro-Brazil/ANALISTA-TI-SR_R-123776-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://pru.wd5.myworkdayjobs.com/Careers/job/Rio-de-Janeiro-Brazil/ANALISTA-TI-SR_R-124965-1) |
 
 ## About This Role
 
-This product manager position at Prudential Financial was posted on 2026-02-27.
+This product manager position at Prudential Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

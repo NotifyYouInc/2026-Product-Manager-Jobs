@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000145575909-senior-product-manager-people-systems) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000147557959-senior-product-manager-people-systems) |
 
 ## About This Role
 
-This product manager position at Flywire was posted on 2026-08-25.
+This human resources / people ops position at Flywire was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager Technical Product Management at Johnson & Johnson
+# Manager, Technical Product Management at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Allschwil, Basel-Landschaft, Switzerland |
-| Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Allschwil-Basel-Country-Switzerland/Manager-Technical-Product-Management_R-050824-1) |
+| Location | 2 locations |
+| Category | Technical Product Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Manager--Technical-Product-Management_R-097848-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-05-19.
+This technical product manager position at Johnson & Johnson was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

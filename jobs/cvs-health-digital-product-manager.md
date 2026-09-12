@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Maryland, US |
+| Location | Marietta, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MD---Work-from-home/Digital-Product-Manager_R0995217) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/GA---Marietta/Digital-Product-Manager_R1028487) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-08-06.
+This product manager position at CVS Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

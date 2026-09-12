@@ -1,16 +1,16 @@
-# Senior Director, Product Management- Consumer Developer Experience at Capital One
+# Senior Director, Product Management -  Consumer & Developer Experience at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
-| Category | Developer Relations |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Director--Product-Management--Consumer-Developer-Experience_R247434-1) |
+| Location | 6 locations |
+| Category | Product Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Director--Product-Management----Consumer---Developer-Experience_R1000016-1) |
 
 ## About This Role
 
-This developer relations position at Capital One was posted on 2026-07-21.
+This product manager position at Capital One was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

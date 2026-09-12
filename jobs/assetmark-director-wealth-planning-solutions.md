@@ -1,0 +1,22 @@
+# Director, Wealth & Planning Solutions at Assetmark
+
+| Field | Details |
+|-------|---------|
+| Company | [Assetmark](https://scoutify.ai/companies/assetmark?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | 2 locations |
+| Category | Product Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Charlotte-NC/Director--Wealth---Planning-Solutions_Req-003958) |
+
+## About This Role
+
+This product manager position at Assetmark was posted on 2026-09-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

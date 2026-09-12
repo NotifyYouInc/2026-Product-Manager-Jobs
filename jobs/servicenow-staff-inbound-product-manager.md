@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Technical Product Manager |
+| Location | Kirkland, Washington, United States |
+| Category | Product Manager |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147142359-staff-inbound-product-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147360683-staff-inbound-product-manager) |
 
 ## About This Role
 
-This technical product manager position at ServiceNow was posted on 2026-09-03.
+This product manager position at ServiceNow was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

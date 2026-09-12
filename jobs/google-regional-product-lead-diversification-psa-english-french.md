@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRMEKyboPcPA-TEn2G1bKoybAQCYHEbByCevCJ2ni_gQEjsA1Ny_iy6g6PbWMB_JlSbKYUPMY2IPuGGkP9jDiIGQq-Ku1QF6c9Y2emfQgaatieocuvPCRUmxcuQROg%3D%3D_V2&loc=IE&title=Regional+Product+Lead) |
 
 ## About This Role
 
-This product marketing position at Google was posted on 2026-09-03.
+This marketing position at Google was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

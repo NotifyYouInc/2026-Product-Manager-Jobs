@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Senior-Digital-Product-Manager_2026-0022456-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Senior-Digital-Product-Manager_2026-0027382) |
 
 ## About This Role
 
-This product manager position at U.S. Bancorp was posted on 2026-08-06.
+This product manager position at U.S. Bancorp was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

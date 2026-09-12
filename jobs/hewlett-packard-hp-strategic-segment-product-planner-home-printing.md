@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vancouver, Washington, United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Strategic-Segment-Product-Planner---Home-Printing_3164525-1) |
 
 ## About This Role
 
-This product marketing position at Hewlett Packard (HP) was posted on 2026-09-03.
+This marketing position at Hewlett Packard (HP) was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

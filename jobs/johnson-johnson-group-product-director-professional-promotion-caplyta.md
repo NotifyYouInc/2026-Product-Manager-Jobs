@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Titusville, Florida, United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Group-Product-Director--Professional-Promotion--CAPLYTA_R-097050-1) |
 
 ## About This Role
 
-This product marketing position at Johnson & Johnson was posted on 2026-09-03.
+This marketing position at Johnson & Johnson was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

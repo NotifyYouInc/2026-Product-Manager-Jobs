@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ocean Optics](https://scoutify.ai/companies/halma?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Havant, England, United Kingdom |
+| Location | Scottsdale, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://halma.wd3.myworkdayjobs.com/halma/job/Havant/Product-Manager_JR26_000138-2) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://halma.wd3.myworkdayjobs.com/halma/job/Scottsdale/Product-Manager_JR26_001013) |
 
 ## About This Role
 
-This product manager position at Ocean Optics was posted on 2026-05-12.
+This product manager position at Ocean Optics was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

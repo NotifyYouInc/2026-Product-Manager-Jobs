@@ -5,12 +5,12 @@
 | Company | [GovWorx](https://scoutify.ai/companies/govworx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/govworx/cc0da0b3-0a65-4cfb-a64c-90d7aaf1d2b8) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/govworx/be3d8c1d-932d-410a-ba57-1d4c3ccf3127) |
 
 ## About This Role
 
-This product manager position at GovWorx was posted on 2026-04-13.
+This product manager position at GovWorx was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

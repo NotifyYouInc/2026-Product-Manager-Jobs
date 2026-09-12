@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Woonsocket, Rhode Island, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Assistant-Product-Development-Manager_R0920788) |
+| Category | Product Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Assistant-Product-Development-Manager_R1011648) |
 
 ## About This Role
 
-This engineering manager position at CVS Health was posted on 2026-05-27.
+This product manager position at CVS Health was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

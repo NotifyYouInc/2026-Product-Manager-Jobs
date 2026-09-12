@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Foster City, California, United States |
-| Category | Data Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--IT-Data-and-AI-Product-Owner---Clinical-Development_R0052717-1) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Director--IT-Data-and-AI-Product-Owner---Clinical-Development_R0054846-2) |
 
 ## About This Role
 
-This data engineer position at Gilead Sciences was posted on 2026-06-12.
+This technical product manager position at Gilead Sciences was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

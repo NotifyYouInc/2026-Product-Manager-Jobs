@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147202429-head-of-product) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147235219-head-of-product) |
 
 ## About This Role
 

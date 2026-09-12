@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Product Manager |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000146735654-product-owner-mfh) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000147558689-product-owner-mfh) |
 
 ## About This Role
 
-This product manager position at Everience was posted on 2026-09-01.
+This product manager position at Everience was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
