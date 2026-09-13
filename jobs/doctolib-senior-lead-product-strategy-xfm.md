@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Doctolib](https://scoutify.ai/companies/doctolib?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Marketing |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/doctolib/jobs/7986187003) |
 
 ## About This Role
 
-This marketing position at Doctolib was posted on 2026-09-04.
+This strategy & operations position at Doctolib was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

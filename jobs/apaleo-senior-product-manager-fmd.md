@@ -1,16 +1,16 @@
-# Product Manager at Unframe
+# Senior Product Manager (f/m/d)  at Apaleo
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Apaleo](https://scoutify.ai/companies/apaleo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4969400101) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/apaleo/jobs/6492829003) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-09-06.
+This product manager position at Apaleo was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

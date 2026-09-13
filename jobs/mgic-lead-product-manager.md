@@ -1,16 +1,16 @@
-# Product Manager at Unframe
+# Lead Product Manager at Mgic
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [Mgic](https://scoutify.ai/companies/mgic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Product Manager |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4969400101) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mgic.wd5.myworkdayjobs.com/mgic/job/Milwaukee-WI/Lead-Product-Manager_R2202-1) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-09-06.
+This product manager position at Mgic was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

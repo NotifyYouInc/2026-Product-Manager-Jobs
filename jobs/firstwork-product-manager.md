@@ -1,16 +1,16 @@
-# Product Manager at Unframe
+# Product Manager at FirstWork
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
+| Company | [FirstWork](https://scoutify.ai/companies/firstwork?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4969400101) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/firstwork/jobs/9RCMhSt-product-manager) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-09-06.
+This product manager position at FirstWork was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

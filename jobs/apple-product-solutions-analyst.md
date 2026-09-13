@@ -1,16 +1,16 @@
-# Product Manager at Unframe
+# Product Solutions Analyst at Apple
 
 | Field | Details |
 |-------|---------|
-| Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Israel |
-| Category | Product Manager |
+| Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Shanghai, Shanghai, China |
+| Category | Data Analyst |
 | Posted | 2026-09-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4969400101) |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680652/product-solutions-analyst) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-09-06.
+This data analyst position at Apple was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 
