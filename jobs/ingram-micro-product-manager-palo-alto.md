@@ -1,16 +1,16 @@
-# Product Manager - Palo Alto at Ingram Micro
+# Product Manager, Palo Alto at Ingram Micro
 
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Kwun Tong, Kwun Tong District, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kwun-Tong-Hong-Kong/Product-Manager---Palo-Alto_R-117062) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kwun-Tong-Hong-Kong/Product-Manager--Palo-Alto_R-117087) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-08-14.
+This product manager position at Ingram Micro was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

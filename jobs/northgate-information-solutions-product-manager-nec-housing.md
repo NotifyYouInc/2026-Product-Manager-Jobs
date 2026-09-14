@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000120337587-product-manager-nec-housing) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000147849699-product-manager-nec-housing) |
 
 ## About This Role
 
-This product manager position at Northgate Information Solutions was posted on 2026-04-13.
+This product manager position at Northgate Information Solutions was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

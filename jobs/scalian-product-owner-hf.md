@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Nantes, Pays de la Loire, France |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000133369849-product-owner-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147865971-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at Scalian was posted on 2026-06-22.
+This product manager position at Scalian was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

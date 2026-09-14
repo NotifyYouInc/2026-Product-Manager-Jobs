@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical Product Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014733626-lead-product-manager) |
+| Category | Product Manager |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990015096846-lead-product-manager) |
 
 ## About This Role
 
-This technical product manager position at The Nielsen Company was posted on 2026-08-21.
+This product manager position at The Nielsen Company was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

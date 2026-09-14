@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bournemouth, England, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | Technical Product Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Technical-Product-Owner_JR-0000114393-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Technical-Product-Owner_JR-0000099669) |
 
 ## About This Role
 
-This technical product manager position at Barclays was posted on 2026-08-21.
+This technical product manager position at Barclays was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

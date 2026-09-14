@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147235219-head-of-product) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147527769-head-of-product) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-09-03.
+This product manager position at Experian was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

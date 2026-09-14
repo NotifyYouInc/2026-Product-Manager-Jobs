@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SharkNinja](https://scoutify.ai/companies/sharkninjaoperatingllc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Needham, Massachusetts, United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4710700006) |
 
 ## About This Role
 
-This strategy & operations position at SharkNinja was posted on 2026-09-03.
+This operations position at SharkNinja was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | 6 locations |
 | Category | Product Manager |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000147305009-senior-product-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000147339146-senior-product-manager) |
 
 ## About This Role
 

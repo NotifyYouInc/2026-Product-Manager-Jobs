@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Portsmouth, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Marlborough-Massachusetts-United-States/Sr-Product-Manager--Production-Stirred-tank-Bioreactor-Platform_R1315518-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Portsmouth-United-Kingdom/Sr-Product-Manager--Production-Stirred-tank-Bioreactor-Platform_R1318255-1) |
 
 ## About This Role
 
-This product manager position at Danaher was posted on 2026-09-03.
+This product manager position at Danaher was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

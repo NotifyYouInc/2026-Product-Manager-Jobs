@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Program Manager |
+| Category | Project Manager |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200680280/engineering-project-manager-bpr-supply-chain) |
 
 ## About This Role
 
-This program manager position at Apple was posted on 2026-09-03.
+This project manager position at Apple was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

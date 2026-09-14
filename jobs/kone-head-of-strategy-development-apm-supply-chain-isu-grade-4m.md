@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai/Head-of-Strategy---Development---APM-Supply-Chain--ISU--Grade---4M_R0664099-1) |
 
 ## About This Role
 
-This strategy & operations position at Kone was posted on 2026-09-04.
+This operations position at Kone was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

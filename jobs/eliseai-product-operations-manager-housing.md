@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Eliseai](https://scoutify.ai/companies/eliseai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/eliseai/85db5edc-d93e-4b7b-be46-3895046f1dab) |
 
 ## About This Role
 
-This strategy & operations position at Eliseai was posted on 2026-09-04.
+This operations position at Eliseai was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

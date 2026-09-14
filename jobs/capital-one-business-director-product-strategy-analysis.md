@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 5 locations |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Director--Product-Strategy---Analysis_R1000080-1) |
 
 ## About This Role
 
-This strategy & operations position at Capital One was posted on 2026-09-04.
+This operations position at Capital One was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

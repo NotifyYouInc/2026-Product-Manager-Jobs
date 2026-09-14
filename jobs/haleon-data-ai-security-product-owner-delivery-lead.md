@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Manager |
-| Posted | 2026-05-14 |
+| Category | Technical Product Manager |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Data---AI-Security-Product-Owner--Delivery-Lead-_542340-1) |
 
 ## About This Role
 
-This product manager position at Haleon was posted on 2026-05-14.
+This technical product manager position at Haleon was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Specialist--Product-Development_R-287819) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lisbon-Portugal-DeHouse/Senior-Specialist--Product-Development_R-290009) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-08-12.
+This product manager position at Mastercard was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

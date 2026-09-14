@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Product Manager |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Los-Angeles/Principal-Product-Manager---Investment-Analytics--Fixed-Income-_JR7221-1) |
 
 ## About This Role
 
-This product manager position at Capital Group was posted on 2026-09-04.
+This asset management / portfolio management position at Capital Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

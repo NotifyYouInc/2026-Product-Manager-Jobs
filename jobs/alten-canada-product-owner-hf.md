@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000142575609-product-owner-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000147852179-product-owner-hf) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-08-10.
+This product manager position at ALTEN Canada was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

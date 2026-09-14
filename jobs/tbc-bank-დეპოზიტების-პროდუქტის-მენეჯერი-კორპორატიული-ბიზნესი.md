@@ -5,12 +5,12 @@
 | Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Georgia |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000135451055-) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000147875381-) |
 
 ## About This Role
 
-This product manager position at TBC Bank was posted on 2026-07-02.
+This product manager position at TBC Bank was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [UiPath](https://scoutify.ai/companies/uipath?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/365a9dee-9762-4f12-8287-cd31ef3325c4) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/uipath/156df09a-6227-477a-9b91-0b44ce5d8232) |
 
 ## About This Role
 
-This product manager position at UiPath was posted on 2026-06-03.
+This product manager position at UiPath was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

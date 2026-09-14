@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckd9QKfcS6FpPwtYJGJv9G4vP_Sr6xkY3QOn3I_cejW1rEjsA1Ny_i_gic9auHS_pKtuUXk-GCQv4Bjt_la1S7vNx1oQB-7mVdZ0LdEVndYQHnoAxfb-waHdrSZRkXA%3D%3D_V2&loc=SG&title=Product+Manager) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdRIC5TOexUopaUs0K5918lQ3D1XOYE_rSXWqk4FIWsmEjsA1Ny_i8RRvSm65cLEDkdGMML0ANT8eYTBQaWAv5Knu6dddc_Txsrp71RGM-HyQyF4YN3XzYTopIByZw%3D%3D_V2&loc=SG&title=Product+Manager) |
 
 ## About This Role
 
-This product manager position at Google was posted on 2026-07-02.
+This product manager position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8177640) |
 
 ## About This Role
 
-This strategy & operations position at Stripe was posted on 2026-09-03.
+This operations position at Stripe was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

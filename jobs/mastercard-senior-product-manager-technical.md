@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Pune, Maharashtra, India |
 | Category | Technical Product Manager |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Product-Manager---Technical_R-282181) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Product-Manager---Technical_R-288002) |
 
 ## About This Role
 
-This technical product manager position at Mastercard was posted on 2026-08-05.
+This technical product manager position at Mastercard was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Poland |
+| Location | Milan, Lombardy, Italy |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/Product-Owner_REQ-10114865-2) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Product-Owner_REQ-10119172-1) |
 
 ## About This Role
 
-This product manager position at ING was posted on 2026-05-13.
+This product manager position at ING was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

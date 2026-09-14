@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000144002749-plm-product-owner) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147862899-plm-product-owner) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-08-18.
+This product manager position at Sopra Steria was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
