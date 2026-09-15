@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Product Manager |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---Bellandur-GTP/Finacle-Product-Engineer_JR1043858) |
 
 ## About This Role
 
-This software engineer position at Synechron was posted on 2026-09-04.
+This product manager position at Synechron was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Weert, Limburg, The Netherlands |
+| Location | Bristol, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000146434809-product-manager-service) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000147948322-product-manager-service) |
 
 ## About This Role
 
-This product manager position at Syntegon Technology was posted on 2026-08-31.
+This product manager position at Syntegon Technology was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

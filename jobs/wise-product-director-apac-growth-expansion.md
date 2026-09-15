@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000133296979-product-director-apac-growth-expansion) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000148137604-product-director-apac-growth-expansion) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-06-22.
+This product manager position at WISE was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

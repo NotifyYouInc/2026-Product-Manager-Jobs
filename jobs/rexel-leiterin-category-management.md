@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Zürich, Zurich, Switzerland |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000126267147-leiterin-category-management) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000147964569-leiterin-category-management) |
 
 ## About This Role
 
-This product manager position at REXEL was posted on 2026-05-13.
+This product manager position at REXEL was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

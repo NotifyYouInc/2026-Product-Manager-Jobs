@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Product Manager |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Digital-Product-Manager_R-570582) |
+| Location | Hyderabad, Telangana, India |
+| Category | QA Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Digital-Product-Manager_R-568691-1) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-08-27.
+This qa engineer position at Wells Fargo was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

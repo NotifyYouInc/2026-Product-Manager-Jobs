@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Getafe, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Product-Manager-Comms_JR10407052-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Product-Manager-Comms_JR10434203-1) |
 
 ## About This Role
 
-This product manager position at Airbus was posted on 2026-05-11.
+This product manager position at Airbus was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

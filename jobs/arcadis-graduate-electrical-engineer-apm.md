@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arcadis](https://scoutify.ai/companies/em2-cx-oj5670?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Electrical / Hardware Engineer |
+| Category | Product Manager |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://ebcs.fa.em2.oraclecloud.com/jobs/#43680) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Arcadis was posted on 2026-09-07.
+This product manager position at Arcadis was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

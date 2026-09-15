@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Singapore, Singapore |
+| Location | Singapore |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/Lead-Product-Manager_JR-10000048050) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Temasek-Polytechnic/Lead-Product-Manager_JR-10000055265-1) |
 
 ## About This Role
 
-This product manager position at Economic Development Board was posted on 2026-02-27.
+This product manager position at Economic Development Board was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

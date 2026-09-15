@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Gent, Flanders, Belgium |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Customer-Journey-Expert---Product-Management-II_REQ-10111504-1) |
 
 ## About This Role
 
-This product manager position at ING was posted on 2026-04-02.
+This product manager position at ING was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol-Harbourside/Product-Owner_152819-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Product-Owner_161200-2) |
 
 ## About This Role
 
-This product manager position at Lloyds Bank was posted on 2026-05-06.
+This product manager position at Lloyds Bank was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

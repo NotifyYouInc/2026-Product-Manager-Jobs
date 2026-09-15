@@ -5,12 +5,12 @@
 | Company | [PHMG](https://scoutify.ai/companies/phmg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | Technical Product Manager |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://careers.phmg.com/open-positions/?gh_jid=8742379002) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://careers.phmg.com/open-positions/?gh_jid=8785651002) |
 
 ## About This Role
 
-This technical product manager position at PHMG was posted on 2026-08-24.
+This technical product manager position at PHMG was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

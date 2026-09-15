@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cincinnati, Ohio, United States |
-| Category | Technical Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Digital-Product-Manager_R000155779) |
+| Location | Hyderabad, Telangana, India |
+| Category | Product Manager |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Digital-Product-Manager_R000158487) |
 
 ## About This Role
 
-This technical product manager position at Procter & Gamble was posted on 2026-08-20.
+This product manager position at Procter & Gamble was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

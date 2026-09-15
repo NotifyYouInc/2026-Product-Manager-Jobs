@@ -1,16 +1,16 @@
-# Product Owner at Experian
+# Product owner at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000111885210-product-owner) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147975259-product-owner) |
 
 ## About This Role
 
-This product manager position at Experian was posted on 2026-02-27.
+This product manager position at Experian was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

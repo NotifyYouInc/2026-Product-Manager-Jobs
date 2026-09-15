@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
-| Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Technical-Product-Owner_J00175990-1) |
+| Location | Kerala, IN |
+| Category | Technical Product Manager |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Technical-Product-Owner_J00178485) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-05-29.
+This technical product manager position at Equifax was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

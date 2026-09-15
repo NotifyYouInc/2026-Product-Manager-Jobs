@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Re-Leased](https://scoutify.ai/companies/released?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Napier, Hawke's Bay Region, New Zealand |
-| Category | Product Manager |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/released/jobs/7796516003) |
+| Category | Product Designer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/released/jobs/7988176003) |
 
 ## About This Role
 
-This product manager position at Re-Leased was posted on 2026-07-07.
+This product designer position at Re-Leased was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

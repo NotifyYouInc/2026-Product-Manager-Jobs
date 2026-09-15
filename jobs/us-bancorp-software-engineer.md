@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | Product Manager |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Software-Engineer_2026-0017266) |
 
 ## About This Role
 
-This software engineer position at U.S. Bancorp was posted on 2026-09-04.
+This product manager position at U.S. Bancorp was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

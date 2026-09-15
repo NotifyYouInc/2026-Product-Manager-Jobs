@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Poland |
-| Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4908163101?gh_jid=4908163101) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4969710101?gh_jid=4969710101) |
 
 ## About This Role
 
-This product manager position at N-iX was posted on 2026-06-26.
+This technical product manager position at N-iX was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

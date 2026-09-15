@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Product Manager |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000107458875-product-manager-wow) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000148163629-product-manager-wow) |
 
 ## About This Role
 
-This product manager position at Wix.com was posted on 2026-02-05.
+This product manager position at Wix.com was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

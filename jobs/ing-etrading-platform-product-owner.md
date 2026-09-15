@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-03-30 |
+| Category | Technical Product Manager |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/eTrading-Platform-Product-Owner_REQ-10110763-3) |
 
 ## About This Role
 
-This product manager position at ING was posted on 2026-03-30.
+This technical product manager position at ING was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

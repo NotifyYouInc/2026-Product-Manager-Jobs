@@ -1,16 +1,16 @@
-# R&D Product owner at ABB
+# R&D  Product Owner at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Industrial Automation |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/R-D-Product-owner_JR00037497) |
+| Location | Nuevo León, MX |
+| Category | Product Manager |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/R-D--Product-Owner_JR00045566) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-06-16.
+This product manager position at ABB was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/India-Pune/Senior-Regulatory-Product-Manager_R0025734) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Sao-Paulo-WeWork/Senior-Regulatory-Product-Manager_R0026790) |
 
 ## About This Role
 
-This product manager position at Nasdaq was posted on 2026-05-01.
+This product manager position at Nasdaq was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

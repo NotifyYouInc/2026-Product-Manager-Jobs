@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Chef-ou-cheffe-de-produit--Carte-de-crdit-aux-entreprises_R2609578) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Chef-ou-cheffe-de-produit_R2610566) |
 
 ## About This Role
 
-This product manager position at Desjardins was posted on 2026-07-29.
+This product manager position at Desjardins was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-GA/Product-Manager_R57192) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Germany---Stuttgart/Product-Manager_R57372-1) |
 
 ## About This Role
 
-This product manager position at Trimble was posted on 2026-07-29.
+This product manager position at Trimble was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

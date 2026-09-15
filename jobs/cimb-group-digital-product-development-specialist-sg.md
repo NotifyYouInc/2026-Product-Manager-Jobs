@@ -5,12 +5,12 @@
 | Company | [CIMB Group](https://scoutify.ai/companies/ap1-cx-oj21920?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#37038) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ejox.fa.ap1.oraclecloud.com/jobs/#37299) |
 
 ## About This Role
 
-This product manager position at CIMB Group was posted on 2026-08-19.
+This product manager position at CIMB Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

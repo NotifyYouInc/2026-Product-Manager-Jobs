@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Circles](https://scoutify.ai/companies/circles?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | United Arab Emirates |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/JP-Tokyo/Product-Manager_R-100419) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/United-Arab-Emirates/Product-Manager_R-100021) |
 
 ## About This Role
 
-This product manager position at Circles was posted on 2026-08-12.
+This product manager position at Circles was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
