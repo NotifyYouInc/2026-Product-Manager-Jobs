@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales |
+| Category | Business Development |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000147907889-head-of-global-partnerships-cards) |
 
 ## About This Role
 
-This sales position at WISE was posted on 2026-09-07.
+This business development position at WISE was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

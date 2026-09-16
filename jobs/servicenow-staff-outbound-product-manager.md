@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Customer Success |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000146998019-staff-outbound-product-manager) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148345044-staff-outbound-product-manager) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-09-02.
+This customer success position at ServiceNow was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

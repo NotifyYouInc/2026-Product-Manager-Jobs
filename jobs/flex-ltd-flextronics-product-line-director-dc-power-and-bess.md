@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-Remote/Product-Line-Director--DC-Power-and-BESS_WD228032) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-Remote/Product-Line-Director--DC-Power-and-BESS_WD229281-1) |
 
 ## About This Role
 
-This product manager position at FLEX LTD. Flextronics was posted on 2026-08-26.
+This product manager position at FLEX LTD. Flextronics was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

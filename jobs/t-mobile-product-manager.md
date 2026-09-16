@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Product-Manager_REQ361649) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Product-Manager_REQ370984-1) |
 
 ## About This Role
 
-This product manager position at T-Mobile was posted on 2026-07-14.
+This product manager position at T-Mobile was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

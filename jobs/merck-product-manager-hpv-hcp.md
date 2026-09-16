@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/VNM---Ho-Chi-Minh---Ho-Chi-Minh-City-Le-Duan/Product-Manager--HPV-HCP_R416818-2) |
 
 ## About This Role
 
-This marketing position at Merck was posted on 2026-09-08.
+This product marketing position at Merck was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

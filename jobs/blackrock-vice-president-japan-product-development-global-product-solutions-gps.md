@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Product Manager |
-| Posted | 2026-06-24 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Tokyo-Japan/Global-Product-Solutions--GPS--Japan-Product-Development--Vice-President_R257240-1) |
 
 ## About This Role
 
-This product manager position at Blackrock was posted on 2026-06-24.
+This product manager position at Blackrock was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

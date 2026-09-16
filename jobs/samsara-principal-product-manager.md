@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/7604461?gh_jid=7604461) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8186913?gh_jid=8186913) |
 
 ## About This Role
 
-This product manager position at Samsara was posted on 2026-04-24.
+This product manager position at Samsara was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

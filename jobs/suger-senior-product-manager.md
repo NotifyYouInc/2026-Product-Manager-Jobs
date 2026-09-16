@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Suger](https://scoutify.ai/companies/suger?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.lever.co/suger/77e37fb9-3bb8-4090-8058-69b1cd2cf142) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/suger/e377df2d-2776-4638-ad98-2f16683eba6f) |
 
 ## About This Role
 
-This product manager position at Suger was posted on 2026-07-10.
+This product manager position at Suger was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

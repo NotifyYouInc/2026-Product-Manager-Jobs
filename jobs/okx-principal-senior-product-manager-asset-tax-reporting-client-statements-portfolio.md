@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OKX](https://scoutify.ai/companies/okx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Product Manager |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/okx/jobs/7988766003) |
 
 ## About This Role
 
-This product manager position at OKX was posted on 2026-09-08.
+This asset management / portfolio management position at OKX was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

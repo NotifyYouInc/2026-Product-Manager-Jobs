@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Silicon Laboratories](https://scoutify.ai/companies/silabs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Budapest, Budapest, Hungary |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Senior-Hardware-Product-Manager_20756-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Budapest/Senior-Hardware-Product-Manager---IoT-Wireless_21048-1) |
 
 ## About This Role
 
-This product manager position at Silicon Laboratories was posted on 2026-08-25.
+This product manager position at Silicon Laboratories was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

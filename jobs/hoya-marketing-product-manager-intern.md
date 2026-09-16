@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hoya](https://scoutify.ai/companies/ocs-cx-oj51841?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://fa-esta-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2788) |
 
 ## About This Role
 
-This marketing position at Hoya was posted on 2026-09-07.
+This product marketing position at Hoya was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

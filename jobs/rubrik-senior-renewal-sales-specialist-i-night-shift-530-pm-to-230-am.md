@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rubrik](https://scoutify.ai/companies/rubrik?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Sales |
+| Category | Account Executive |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://www.rubrik.com/company/careers/departments/job.8183993?gh_jid=8183993) |
 
 ## About This Role
 
-This sales position at Rubrik was posted on 2026-09-08.
+This account executive position at Rubrik was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

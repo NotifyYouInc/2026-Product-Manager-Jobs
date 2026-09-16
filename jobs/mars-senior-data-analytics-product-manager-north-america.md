@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Guelph, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/USA-Missouri-Creve-Coeur/Senior-Data---Analytics-Product-Manager---North-America_R151970-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/CAN-Ontario-Guelph/Senior-Data---Analytics-Product-Manager---North-America_R152269-1) |
 
 ## About This Role
 
-This product manager position at Mars was posted on 2026-03-31.
+This product manager position at Mars was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

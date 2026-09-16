@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Product-Manager_R-10396191) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Product-Manager_R-10399960) |
 
 ## About This Role
 
-This product manager position at Fiserv was posted on 2026-06-04.
+This product manager position at Fiserv was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

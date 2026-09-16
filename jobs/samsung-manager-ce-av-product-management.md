@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Empire-Tower-Bangkok-Thailand/Manager--CE-AV-Product-Management_R120422) |
 
 ## About This Role
 
-This marketing position at Samsung was posted on 2026-09-08.
+This product marketing position at Samsung was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

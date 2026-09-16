@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Global-Neurology-Radiopharma-Product-Leader_R4041564-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Global-Neurology-Radiopharma-Product-Leader_R4045965-1) |
 
 ## About This Role
 
-This product manager position at GE HealthCare was posted on 2026-07-13.
+This product manager position at GE HealthCare was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

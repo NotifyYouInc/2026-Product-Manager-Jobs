@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | White Plains, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/White-Plains---Hamilton/Senior-Product-Manager--IT_R_343807) |
+| Location | 123 locations |
+| Category | Technical Product Manager |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/White-Plains---Hamilton/Senior-Product-Manager--IT_R_365117) |
 
 ## About This Role
 
-This product manager position at Marsh & McLennan Companies was posted on 2026-04-16.
+This technical product manager position at Marsh & McLennan Companies was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

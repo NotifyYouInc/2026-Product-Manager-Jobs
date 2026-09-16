@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alation](https://scoutify.ai/companies/alation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Redwood City, California, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Product Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/USA-CA-REDWOOD-CITY/Senior-Product-Manager-II_R10000683) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://alation.wd503.myworkdayjobs.com/ExternalSite/job/IND-CHENNAI/Senior-Product-Manager-II_R10000776) |
 
 ## About This Role
 
-This product manager position at Alation was posted on 2026-04-02.
+This product manager position at Alation was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

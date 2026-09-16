@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sandoz](https://scoutify.ai/companies/sandoz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Marketing |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://sandoz.wd103.myworkdayjobs.com/sandoz_careers/job/Warsaw-Sandoz/Senior-Brand_REQ-10031442) |
 
 ## About This Role
 
-This marketing position at Sandoz was posted on 2026-09-07.
+This asset management / portfolio management position at Sandoz was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

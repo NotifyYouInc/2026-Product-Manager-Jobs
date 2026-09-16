@@ -5,12 +5,12 @@
 | Company | [BlueOptima](https://scoutify.ai/companies/blueoptima?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000145203180-lead-product-manager) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BlueOptima/744000148316179-lead-product-manager) |
 
 ## About This Role
 
-This product manager position at BlueOptima was posted on 2026-08-24.
+This product manager position at BlueOptima was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

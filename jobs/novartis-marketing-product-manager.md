@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Paris-Headquarter-PHARMA/Marketing-Product-manager_REQ-10086693) |
 
 ## About This Role
 
-This marketing position at Novartis was posted on 2026-09-07.
+This product marketing position at Novartis was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

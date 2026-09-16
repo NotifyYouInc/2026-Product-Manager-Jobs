@@ -1,16 +1,16 @@
-# Senior Manager, Technical Product Management at Johnson & Johnson
+# Senior Manager Technical Product Management at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Spring House, Pennsylvania, United States |
-| Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Senior-Manager--Technical-Product-Management_R-094584) |
+| Location | Beerse, Flanders, Belgium |
+| Category | Technical Product Manager |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Beerse-Antwerp-Belgium/Senior-Manager-Technical-Product-Management_R-096607-1) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-08-26.
+This technical product manager position at Johnson & Johnson was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

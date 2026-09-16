@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Product-Owner_R35709-2) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Lisbon/Product-Owner_R37221) |
 
 ## About This Role
 
-This product manager position at Amadeus was posted on 2026-08-13.
+This product manager position at Amadeus was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brenntag](https://scoutify.ai/companies/brenntag?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | Assago, Lombardy, Italy |
 | Category | Product Manager |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/LeedsUnited-Kingdom/Product-Manager_JR111884) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://brenntag.wd3.myworkdayjobs.com/brenntag_jobs/job/AssagoItaly/Product-Manager_JR111846) |
 
 ## About This Role
 
-This product manager position at Brenntag was posted on 2026-08-27.
+This product manager position at Brenntag was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

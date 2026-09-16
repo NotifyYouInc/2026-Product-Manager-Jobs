@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4938123101) |
 
 ## About This Role
 
-This operations position at StraitsX was posted on 2026-09-07.
+This strategy & operations position at StraitsX was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

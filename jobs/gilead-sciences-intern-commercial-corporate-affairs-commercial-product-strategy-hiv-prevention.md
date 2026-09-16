@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Foster City, California, United States |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Commercial---Corporate-Affairs---Commercial-Product-Strategy--HIV-Prevention-_R0054483) |
 
 ## About This Role
 
-This marketing position at Gilead Sciences was posted on 2026-09-08.
+This product marketing position at Gilead Sciences was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

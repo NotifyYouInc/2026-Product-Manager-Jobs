@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexicali, Baja California, Mexico |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/Mexico---Mexicali/Product-Management-Intern_R55029) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) |
 
 ## About This Role
 
-This product manager position at Trimble was posted on 2026-04-06.
+This product manager position at Trimble was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

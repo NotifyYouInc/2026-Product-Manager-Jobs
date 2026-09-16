@@ -1,16 +1,16 @@
-# Product Owner-Payments at Capco
+# Product Owner – Payments at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7823972) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8185818) |
 
 ## About This Role
 
-This product manager position at Capco was posted on 2026-04-27.
+This product manager position at Capco was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

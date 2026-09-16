@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | West Palm Beach, Florida, United States |
-| Category | Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000147281841-senior-staff-inbound-product-manager) |
+| Location | Mountain View, California, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148256339-senior-staff-inbound-product-manager) |
 
 ## About This Role
 
-This product manager position at ServiceNow was posted on 2026-09-03.
+This technical product manager position at ServiceNow was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

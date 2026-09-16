@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Guangzhou, Guangdong, China |
-| Category | Product Manager |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Guangzhou-Guangdong-China/PRODUCT-MANAGER_R72902-1) |
+| Location | 5 locations |
+| Category | Product Marketing |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lausanne-Vaud-Switzerland/Product-Manager_R75096-2) |
 
 ## About This Role
 
-This product manager position at Medtronic was posted on 2026-07-25.
+This product marketing position at Medtronic was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

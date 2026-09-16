@@ -5,12 +5,12 @@
 | Company | [Schonfeld](https://scoutify.ai/companies/schonfeld?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8056185) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/schonfeld/jobs/8186867) |
 
 ## About This Role
 
-This product manager position at Schonfeld was posted on 2026-07-16.
+This product manager position at Schonfeld was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
