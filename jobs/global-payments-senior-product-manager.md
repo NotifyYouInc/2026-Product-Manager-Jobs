@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DUBLIN--IRELAND/Senior-Product-Manager_R0073102) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Senior-Product-Manager_R0074057) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-07-29.
+This product manager position at Global Payments was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

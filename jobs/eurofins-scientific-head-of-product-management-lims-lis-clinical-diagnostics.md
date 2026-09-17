@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000140882779-head-of-product-management-lims-lis-clinical-diagnostics) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000148698833-head-of-product-management-lims-lis-clinical-diagnostics) |
 
 ## About This Role
 
-This product manager position at Eurofins Scientific was posted on 2026-07-31.
+This product manager position at Eurofins Scientific was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

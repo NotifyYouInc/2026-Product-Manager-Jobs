@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132161299-director-product-strategy-emea-central) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000148755564-director-product-strategy-emea-central) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-06-15.
+This strategy & operations position at ServiceNow was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

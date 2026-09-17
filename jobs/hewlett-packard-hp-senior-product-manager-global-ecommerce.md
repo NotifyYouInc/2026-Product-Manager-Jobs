@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Vancouver, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Senior-Product-Manager---Global-Ecommerce_3158873-1) |
 
 ## About This Role
 
-This product manager position at Hewlett Packard (HP) was posted on 2026-04-16.
+This product manager position at Hewlett Packard (HP) was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

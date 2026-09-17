@@ -1,16 +1,16 @@
-# Director of Product, Ecosystem at Nebius
+# DIrector of Product, Ecosystem  at Nebius
 
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
-| Category | Business Development |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4868002101) |
+| Category | Strategic Partnerships |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4969276101) |
 
 ## About This Role
 
-This business development position at Nebius was posted on 2026-05-28.
+This strategic partnerships position at Nebius was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

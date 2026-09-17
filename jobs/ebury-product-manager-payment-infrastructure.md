@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Porto, Porto, Portugal |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4961271101) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4972246101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-08-26.
+This product manager position at Ebury was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Seattle-Washington-United-States-of-America/Lead-Solution-Manager---Parametric_PT-JR035975) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Seattle-Washington-United-States-of-America/Lead-Solution-Manager---Parametric_PT-JR043054) |
 
 ## About This Role
 
-This product manager position at Morgan Stanley was posted on 2026-05-01.
+This product manager position at Morgan Stanley was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

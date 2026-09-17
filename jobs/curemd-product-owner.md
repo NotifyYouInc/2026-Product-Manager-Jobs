@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CureMD](https://scoutify.ai/companies/curemd?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Lahore, Punjab, Pakistan |
-| Category | Product Manager |
-| Posted | 2026-03-25 |
+| Category | QA Engineer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://curemd.wd1.myworkdayjobs.com/curemd/job/Lahore/Product-Owner_JR102135) |
 
 ## About This Role
 
-This product manager position at CureMD was posted on 2026-03-25.
+This qa engineer position at CureMD was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

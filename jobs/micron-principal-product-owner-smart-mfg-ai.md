@@ -1,16 +1,16 @@
-# Principal Product Owner - SMART MFG & AI at Micron
+# Principal Product Owner , SMART MFG & AI at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Principal-Product-Owner---SMART-MFG---AI_JR89849) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Principal-Product-Owner---SMART-MFG---AI_JR111373) |
 
 ## About This Role
 
-This product manager position at Micron was posted on 2026-02-09.
+This product manager position at Micron was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

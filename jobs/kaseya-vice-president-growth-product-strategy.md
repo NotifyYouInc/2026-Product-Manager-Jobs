@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Sunnyvale, California, United States |
 | Category | Strategy & Operations |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6138299004/?gh_jid=6138299004) |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6185486004/?gh_jid=6185486004) |
 
 ## About This Role
 

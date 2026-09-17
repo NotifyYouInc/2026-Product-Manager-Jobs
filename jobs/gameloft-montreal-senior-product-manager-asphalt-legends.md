@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000147861369-senior-product-manager-asphalt-legends) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000148443279-senior-product-manager-asphalt-legends) |
 
 ## About This Role
 
-This product manager position at Gameloft Montreal was posted on 2026-09-07.
+This product manager position at Gameloft Montreal was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

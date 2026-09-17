@@ -1,16 +1,16 @@
-# Product Manager _ MA at Robert Bosch
+# Product Manager _MA at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145475419-product-manager-ma) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148681099-product-manager-ma) |
 
 ## About This Role
 
-This product manager position at Robert Bosch was posted on 2026-08-25.
+This product manager position at Robert Bosch was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Hyderabad-CapitaLand/Product-Manager_R0118686-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Product-Manager_R0122236) |
 
 ## About This Role
 
-This product manager position at LSEG was posted on 2026-06-09.
+This product manager position at LSEG was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

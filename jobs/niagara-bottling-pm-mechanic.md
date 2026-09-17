@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Niagara Bottling](https://scoutify.ai/companies/niagarawater?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hazleton, Pennsylvania, United States |
-| Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Hazleton---Hazle-Township-PA/PM-Mechanic_R52726) |
+| Location | Allentown, Pennsylvania, United States |
+| Category | Industrial Automation |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Allentown---Allentown-PA/PM-Mechanic_R56552) |
 
 ## About This Role
 
-This product manager position at Niagara Bottling was posted on 2026-02-03.
+This industrial automation position at Niagara Bottling was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

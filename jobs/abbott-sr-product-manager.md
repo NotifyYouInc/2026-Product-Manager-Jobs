@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lake Forest, California, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Sr-Product-Manager_31157666-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/China---Shanghai/Sr-Product-Manager_31161791) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-07-31.
+This product manager position at Abbott was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

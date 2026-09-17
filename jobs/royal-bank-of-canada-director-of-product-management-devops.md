@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director-of-Product-Management--DevOps_R-0000159195-1) |
 
 ## About This Role
 
-This devops engineer position at Royal Bank of Canada was posted on 2026-04-27.
+This devops engineer position at Royal Bank of Canada was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

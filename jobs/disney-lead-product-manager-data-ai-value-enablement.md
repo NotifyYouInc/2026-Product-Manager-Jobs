@@ -5,12 +5,12 @@
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Lead-Product-Manager---Data---AI-Value-Enablement_10146925) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Lead-Product-Manager---Data---AI-Value-Enablement_10145558-2) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-03-26.
+This product manager position at Disney was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

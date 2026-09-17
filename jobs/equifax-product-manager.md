@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Barueri, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS-Sydney-Blue-Street/Product-Manager_J00177755) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/BRA-Barueri/Product-Manager_J00178832) |
 
 ## About This Role
 
-This product manager position at Equifax was posted on 2026-07-13.
+This product manager position at Equifax was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

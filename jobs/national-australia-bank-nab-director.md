@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Product Manager |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Director_JR121502) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Director_JR121380) |
 
 ## About This Role
 
-This product manager position at National Australia Bank (NAB) was posted on 2026-09-08.
+This compliance & risk management position at National Australia Bank (NAB) was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

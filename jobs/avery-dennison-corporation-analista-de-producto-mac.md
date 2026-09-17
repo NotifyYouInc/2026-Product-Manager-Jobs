@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tlalnepantla, México, Mexico |
 | Category | Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000144596579-analista-de-producto-mac) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000148549839-analista-de-producto-mac) |
 
 ## About This Role
 
-This product manager position at Avery Dennison Corporation was posted on 2026-08-20.
+This product manager position at Avery Dennison Corporation was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

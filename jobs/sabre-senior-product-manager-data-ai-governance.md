@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Trust & Safety |
-| Posted | 2026-05-25 |
+| Category | Product Manager |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Senior-Product-Manager---Data---AI-Governance_JR108048) |
 
 ## About This Role
 
-This trust & safety position at Sabre was posted on 2026-05-25.
+This product manager position at Sabre was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

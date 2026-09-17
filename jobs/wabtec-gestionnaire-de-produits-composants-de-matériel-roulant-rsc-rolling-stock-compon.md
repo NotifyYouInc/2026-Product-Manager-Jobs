@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014837736-gestionnaire-de-produits-composants-de-materiel-roulant-rsc-rolling-stock-components-rsc-product-manager) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015143136-gestionnaire-de-produits-composants-de-materiel-roulant-rsc-rolling-stock-components-rsc-product-manager) |
 
 ## About This Role
 
-This product manager position at Wabtec was posted on 2026-08-25.
+This product manager position at Wabtec was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

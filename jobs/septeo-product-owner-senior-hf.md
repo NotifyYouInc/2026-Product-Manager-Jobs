@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | Product Manager |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000148192659-product-owner-senior-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000148431820-product-owner-senior-hf) |
 
 ## About This Role
 
-This product manager position at SEPTEO was posted on 2026-09-08.
+This product manager position at SEPTEO was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

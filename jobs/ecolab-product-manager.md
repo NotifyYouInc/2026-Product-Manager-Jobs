@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/EGY---Cairo---Cairo/Product-Manager_R00299939) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/EGY---Cairo---Cairo/Product-Manager_R00302921) |
 
 ## About This Role
 
-This product manager position at Ecolab was posted on 2026-07-16.
+This product manager position at Ecolab was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

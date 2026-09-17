@@ -5,12 +5,12 @@
 | Company | [Wurth Industry North America](https://scoutify.ai/companies/recruiting-ultipro-com-oj120278?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://recruiting.ultipro.com/wur1001wgna/JobBoard/34e6b3d9-3d90-4d17-8e3f-b817be812748/OpportunityDetail?opportunityId=ae9fca96-c75b-4ecf-9a8c-59f2d1c6552d) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://recruiting.ultipro.com/wur1001wgna/JobBoard/34e6b3d9-3d90-4d17-8e3f-b817be812748/OpportunityDetail?opportunityId=9ebdde8e-8a7a-4887-b11e-c534daaf0eb2) |
 
 ## About This Role
 
-This product manager position at Wurth Industry North America was posted on 2026-07-01.
+This product manager position at Wurth Industry North America was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Howrah, West Bengal, India |
+| Location | Nellore, Andhra Pradesh, India |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000133515411-territory-business-manager) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000148720819-territory-business-manager) |
 
 ## About This Role
 
-This product manager position at Dr. Reddy's Laboratories was posted on 2026-06-23.
+This product manager position at Dr. Reddy's Laboratories was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

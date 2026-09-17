@@ -5,12 +5,12 @@
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Senior-Product-Owner_00022823) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/San-Antonio-Texas/Senior-Product-Owner_00023994) |
 
 ## About This Role
 
-This product manager position at Marathon Petroleum was posted on 2026-07-14.
+This product manager position at Marathon Petroleum was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-04-16 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-MADRID/DIGITAL-APPLICATIONS-STRATEGIST_R10089860) |
 
 ## About This Role
 
-This product manager position at Air Liquide was posted on 2026-04-16.
+This product manager position at Air Liquide was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

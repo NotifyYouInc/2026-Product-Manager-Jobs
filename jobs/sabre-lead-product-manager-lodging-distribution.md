@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Product-Manager---Lodging-Distribution_JR108281) |
 
 ## About This Role
 
-This product manager position at Sabre was posted on 2026-06-30.
+This product manager position at Sabre was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

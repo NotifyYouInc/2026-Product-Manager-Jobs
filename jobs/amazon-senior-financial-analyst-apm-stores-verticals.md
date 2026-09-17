@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Corporate Finance |
+| Category | Financial Analyst |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10533662/senior-financial-analyst-apm-stores-verticals) |
 
 ## About This Role
 
-This corporate finance position at Amazon was posted on 2026-09-09.
+This financial analyst position at Amazon was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

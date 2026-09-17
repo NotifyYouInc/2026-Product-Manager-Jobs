@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Staff-Product-Manager--Core-Experiences---Next-Gen-In-Vehicle-XP_JR-202609854) |
 
 ## About This Role
 
-This product manager position at General Motors was posted on 2026-05-13.
+This product manager position at General Motors was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

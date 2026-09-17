@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Universal City, California, United States |
 | Category | Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000147314659-product-manager) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000148618649-product-manager) |
 
 ## About This Role
 
-This product manager position at NBCUniversal was posted on 2026-09-03.
+This product manager position at NBCUniversal was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-OH-Mason/Sr-Product-Manager---VNDLY_JR-0105806) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-OH-Mason/Sr-Product-Manager_JR-0108497) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-05-15.
+This product manager position at Workday was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

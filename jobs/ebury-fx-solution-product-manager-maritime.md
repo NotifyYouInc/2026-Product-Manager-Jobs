@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Product Manager |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4952134101) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ebury/jobs/4972186101) |
 
 ## About This Role
 
-This product manager position at Ebury was posted on 2026-08-13.
+This product manager position at Ebury was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

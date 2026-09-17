@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York, US |
+| Location | Purchase, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Purchase-New-York-United-States-of-America/Digital-Client-Experience---Platforms-Product-Owner---Vice-President_PT-JR032570) |
 
 ## About This Role
 
-This product manager position at Morgan Stanley was posted on 2026-03-31.
+This product manager position at Morgan Stanley was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

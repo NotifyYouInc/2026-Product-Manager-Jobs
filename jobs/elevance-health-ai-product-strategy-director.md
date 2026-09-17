@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 7 locations |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/AI-Product-Strategy-Director_JR202175-1) |
+| Location | 5 locations |
+| Category | Strategy & Operations |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CA-WOODLAND-HILLS-21215-BURBANK-BLVD/AI-Product-Strategy-Director_JR202170-1) |
 
 ## About This Role
 
-This ai / llm engineer position at Elevance Health was posted on 2026-08-31.
+This strategy & operations position at Elevance Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

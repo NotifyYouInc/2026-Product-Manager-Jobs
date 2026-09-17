@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Jose, California, United States |
 | Category | Product Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7679147369590737205/detail) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7683651421602433333/detail) |
 
 ## About This Role
 
-This product manager position at TikTok was posted on 2026-08-31.
+This product manager position at TikTok was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

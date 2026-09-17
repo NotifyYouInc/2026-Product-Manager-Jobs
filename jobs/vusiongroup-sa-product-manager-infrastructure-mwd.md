@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VusionGroup SA](https://scoutify.ai/companies/vusiongroup-sa?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Austria |
-| Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000146145049-product-manager-infrastructure-mwd) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vusiongroupsa/744000148711500-product-manager-infrastructure-mwd) |
 
 ## About This Role
 
-This product manager position at VusionGroup SA was posted on 2026-08-28.
+This technical product manager position at VusionGroup SA was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 
