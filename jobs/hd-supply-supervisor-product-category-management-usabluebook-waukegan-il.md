@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Waukegan, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Waukegan-IL-US/Supervisor--Product-Category-Management--USABlueBook----Waukegan--IL_R26003851) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Waukegan-IL-US/Supervisor--Product-Category-Management--USABlueBook----Waukegan--IL_R26005029) |
 
 ## About This Role
 
-This product manager position at HD Supply was posted on 2026-07-21.
+This product manager position at HD Supply was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

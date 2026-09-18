@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Manager |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Product-Manager---Platform_R26_980) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Product-Manager---Platform_R26_991) |
 
 ## About This Role
 
-This product manager position at Arctic Wolf was posted on 2026-09-02.
+This technical product manager position at Arctic Wolf was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

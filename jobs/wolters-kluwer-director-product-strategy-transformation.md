@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Alphen aan den Rijn, South Holland, The Netherlands |
 | Category | Strategy & Operations |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/GBR---London-Canada-Square/Director--Product-Strategy---Transformation_R0059685) |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Alphen-Aan-Den-Rijn/Director--Product-Strategy---Transformation_R0059896) |
 
 ## About This Role
 

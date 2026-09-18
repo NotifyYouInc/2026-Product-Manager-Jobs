@@ -1,16 +1,16 @@
-# Digital Product Manager - Cyber Platforms, Data, & Tooling at Allstate
+# Digital Product Manager — Cyber Platforms, Data, & Tooling at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Digital-Product-Manager_R34111-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Canadian-Head-Office-It/Digital-Product-Manager---Cyber-Platforms--Data----Tooling_R34546) |
 
 ## About This Role
 
-This product manager position at Allstate was posted on 2026-08-19.
+This product manager position at Allstate was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

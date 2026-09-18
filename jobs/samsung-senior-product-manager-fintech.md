@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New Jersey, US |
+| Location | Englewood Cliffs, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/700-Sylvan-Ave-Englewood-Cliffs-NJ-USA/Senior-Product-Manager---Fintech_R115313) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/700-Sylvan-Ave-Englewood-Cliffs-NJ-USA/Senior-Product-Manager---Fintech_R120478) |
 
 ## About This Role
 
-This product manager position at Samsung was posted on 2026-03-16.
+This product manager position at Samsung was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

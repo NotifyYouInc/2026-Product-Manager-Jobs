@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/Senior-Product-Manager_R-072972) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Mumbai-India/Senior-Product-Manager_R-097483) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-04-30.
+This product manager position at Johnson & Johnson was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

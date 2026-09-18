@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeva](https://scoutify.ai/companies/veeva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Chengdu, Sichuan, China |
 | Category | Product Manager |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.lever.co/veeva/a8ff7e74-4eb2-4e48-8dfd-8c8c2913a7e7) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/veeva/71e0156c-04ec-4041-b109-518e8f353f72) |
 
 ## About This Role
 
-This product manager position at Veeva was posted on 2026-09-08.
+This product manager position at Veeva was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

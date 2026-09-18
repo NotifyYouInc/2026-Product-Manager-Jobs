@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Gurugram, Haryana, India |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Specialist--Product-Management_R-286677) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management_R-290359) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-08-25.
+This product manager position at Mastercard was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Flexport](https://scoutify.ai/companies/flexport?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/flexport/jobs/7740282?gh_jid=7740282) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flexport/jobs/8194418) |
 
 ## About This Role
 
-This product manager position at Flexport was posted on 2026-03-26.
+This product manager position at Flexport was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

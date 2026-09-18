@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dun & Bradstreet](https://scoutify.ai/companies/dnb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Florham Park, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.lever.co/dnb/fd6083d4-f081-4167-967f-7ec612ce9b98) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.lever.co/dnb/35d7a51d-9f7c-468b-9f07-5a42d4595a7e) |
 
 ## About This Role
 
-This product manager position at Dun & Bradstreet was posted on 2026-09-01.
+This product manager position at Dun & Bradstreet was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

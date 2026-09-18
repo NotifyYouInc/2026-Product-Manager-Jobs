@@ -1,16 +1,16 @@
-# NPI Engineer - Product Operations Manager at Arista Networks
+# NPI Engineer - Product Operations Manager  at Arista Networks
 
 | Field | Details |
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
-| Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000139212042-npi-engineer-product-operations-manager) |
+| Location | Santa Clara, California, United States |
+| Category | Program Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000148815417-npi-engineer-product-operations-manager) |
 
 ## About This Role
 
-This product manager position at Arista Networks was posted on 2026-07-23.
+This program manager position at Arista Networks was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

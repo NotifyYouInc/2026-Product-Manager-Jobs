@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Donauwörth, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000137835569-product-manager-all-gender) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148938099-product-manager-all-gender) |
 
 ## About This Role
 
-This product manager position at ALTEN Canada was posted on 2026-07-15.
+This product manager position at ALTEN Canada was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

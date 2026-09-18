@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | McKinney, Texas, United States |
+| Location | Andover, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Product-Manager_01829665) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/Product-Manager_01874048) |
 
 ## About This Role
 
-This product manager position at RTX was posted on 2026-04-09.
+This product manager position at RTX was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

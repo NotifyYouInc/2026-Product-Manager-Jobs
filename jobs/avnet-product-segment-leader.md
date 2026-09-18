@@ -5,12 +5,12 @@
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Richfield, Minnesota, United States |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Richfield-Ohio-United-States-Of-America/Product-Segment-Leader_JR-021645) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Richfield-Ohio-United-States-Of-America/Product-Segment-Leader_JR-023787) |
 
 ## About This Role
 
-This product manager position at Avnet was posted on 2026-03-10.
+This product manager position at Avnet was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

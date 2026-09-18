@@ -1,16 +1,16 @@
-# Product Manager – Electrical Tools    at Stanley Black & Decker
+# Product Manager – Electrical Tools at Stanley Black & Decker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Towson, Maryland, United States |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Product-Manager---Electrical-Tools---_REQ-1000050260) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Product-Manager---Electrical-Tools_REQ-1000050261-1) |
 
 ## About This Role
 
-This product manager position at Stanley Black & Decker was posted on 2026-08-06.
+This product manager position at Stanley Black & Decker was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

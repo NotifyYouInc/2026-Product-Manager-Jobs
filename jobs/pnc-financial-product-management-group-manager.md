@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Product Manager |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Product-Management-Group-Manager_R221985-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Product-Management-Group-Manager_R235510) |
 
 ## About This Role
 
-This product manager position at PNC Financial was posted on 2026-05-12.
+This product manager position at PNC Financial was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Product Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tokyo-Japan/Product-Manager--Trauma-Marketing_R558619-6) |
+| Category | Product Marketing |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tokyo-Japan/Product-Manager--Trauma-Marketing_R573129-11) |
 
 ## About This Role
 
-This product manager position at Stryker was posted on 2026-02-25.
+This product marketing position at Stryker was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

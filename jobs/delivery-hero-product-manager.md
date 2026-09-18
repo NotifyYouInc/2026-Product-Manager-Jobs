@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Product Manager |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148329144-product-manager) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148810759-product-manager) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-09-08.
+This product manager position at Delivery Hero was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United Kingdom |
-| Category | Strategy & Operations |
+| Category | Project Manager |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#150325) |
 
 ## About This Role
 
-This strategy & operations position at Zensar was posted on 2026-09-10.
+This project manager position at Zensar was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

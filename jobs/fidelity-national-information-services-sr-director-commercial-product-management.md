@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
-| Category | Product Manager |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-WI-MKE-4900/Sr-Director--Commercial-Product-Management_JR0306358) |
+| Location | Jacksonville, Florida, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Sr-Director--Commercial-Product-Management_JR0307947) |
 
 ## About This Role
 
-This product manager position at Fidelity National Information Services was posted on 2026-04-23.
+This technical product manager position at Fidelity National Information Services was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

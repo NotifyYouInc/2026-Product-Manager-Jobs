@@ -5,12 +5,12 @@
 | Company | [Asana](https://scoutify.ai/companies/asana?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://www.asana.com/jobs/apply/8113068?gh_jid=8113068) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.asana.com/jobs/apply/8178264?gh_jid=8178264) |
 
 ## About This Role
 
-This product manager position at Asana was posted on 2026-08-06.
+This product manager position at Asana was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

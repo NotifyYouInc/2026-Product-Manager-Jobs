@@ -1,16 +1,16 @@
-# Senior Portfolio Manager - Hybrid at Stryker
+# Senior Portfolio Manager (Hybrid) at Stryker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Portage, Michigan, United States |
+| Location | 2 locations |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Senior-Portfolio-Manager---Hybrid_R569987) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Senior-Portfolio-Manager--Hybrid-_R573114) |
 
 ## About This Role
 
-This asset management / portfolio management position at Stryker was posted on 2026-08-04.
+This asset management / portfolio management position at Stryker was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

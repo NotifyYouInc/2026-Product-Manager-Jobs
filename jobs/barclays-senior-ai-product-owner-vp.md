@@ -1,16 +1,16 @@
-# Senior AI Product Owner – VP at Barclays
+# Senior AI Product Owner - VP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Whippany, New Jersey, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Senior-AI-Product-Owner---VP_JR-0000101330) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Senior-AI-Product-Owner---VP_JR-0000130037) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-07-15.
+This product manager position at Barclays was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

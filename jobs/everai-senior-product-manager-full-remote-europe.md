@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everai](https://scoutify.ai/companies/everai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/everai/67415245-9710-4d32-a544-735d779e1d44) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/everai/62c72683-d708-4d38-81e8-93669c080fe4) |
 
 ## About This Role
 
-This product manager position at Everai was posted on 2026-08-20.
+This product manager position at Everai was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

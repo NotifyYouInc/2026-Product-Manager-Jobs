@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Denver, Colorado, United States |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000136096509-director-of-product-development) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000148866589-director-of-product-development) |
 
 ## About This Role
 
-This product manager position at AIR Communities was posted on 2026-07-06.
+This product manager position at AIR Communities was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

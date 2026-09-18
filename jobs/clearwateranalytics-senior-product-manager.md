@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Senior-Product-Manager_R2413-2) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Mumbai/Senior-Product-Manager_R5285-1-1) |
 
 ## About This Role
 
-This product manager position at Clearwateranalytics was posted on 2026-07-23.
+This product manager position at Clearwateranalytics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

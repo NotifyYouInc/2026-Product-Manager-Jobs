@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Engineering-Product-Manager--Cloud-Control-Studio_2016349) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Engineering-Product-Manager--Cloud-Control-Studio_2024659) |
 
 ## About This Role
 
-This product manager position at Cisco was posted on 2026-06-03.
+This technical product manager position at Cisco was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

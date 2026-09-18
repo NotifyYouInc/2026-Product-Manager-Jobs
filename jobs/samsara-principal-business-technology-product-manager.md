@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samsara](https://scoutify.ai/companies/samsara?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Texas, US |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8060732?gh_jid=8060732) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.samsara.com/company/careers/roles/8179538?gh_jid=8179538) |
 
 ## About This Role
 
-This product manager position at Samsara was posted on 2026-07-23.
+This product manager position at Samsara was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

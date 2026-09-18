@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Porto, Porto, Portugal |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/teya/bd175bf3-f342-4f03-88b4-0237c60b36aa) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teya/1b352561-9c03-4f90-aaf2-7256fc48ba37) |
 
 ## About This Role
 
-This product manager position at Teya was posted on 2026-07-27.
+This product manager position at Teya was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

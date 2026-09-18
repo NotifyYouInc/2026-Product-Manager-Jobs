@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Irvine, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Irvine-CA-United-States-of-America/Sr-Principal--Product-Manager---Unified-Support---AI-Experience_R-115595) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Irvine-CA-United-States-of-America/Sr-Principal--Product-Manager---Unified-Support---AI-Experience_R-117446) |
 
 ## About This Role
 
-This product manager position at Ingram Micro was posted on 2026-05-22.
+This product manager position at Ingram Micro was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

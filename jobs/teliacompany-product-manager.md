@@ -5,12 +5,12 @@
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Oslo, Oslo, Norway |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Oslo/Product-Manager_61807) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Oslo/Product-Manager_62563) |
 
 ## About This Role
 
-This product manager position at Teliacompany was posted on 2026-06-15.
+This product manager position at Teliacompany was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Shanghai, CN |
 | Category | UX Researcher |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10470645/senior-product-customer-insights-manager-customer-experience-and-business-trends-cn-insights) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10537165/senior-product-customer-insights-manager-customer-experience-and-business-trends-cn-insights) |
 
 ## About This Role
 
-This ux researcher position at Amazon was posted on 2026-07-10.
+This ux researcher position at Amazon was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

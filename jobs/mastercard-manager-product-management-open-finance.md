@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Frankfurt-Germany/Manager--Product-Management---Open-Finance_R-275133) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Manager--Product-Management---Open-Finance_R-290167) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-05-07.
+This product manager position at Mastercard was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

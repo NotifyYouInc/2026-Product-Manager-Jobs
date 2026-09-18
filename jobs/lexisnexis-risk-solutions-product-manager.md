@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Austria |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Cape-Town/Product-Manager_R114013-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Trabrennstrae/Product-Manager_R117072) |
 
 ## About This Role
 
-This product manager position at LexisNexis Risk Solutions was posted on 2026-06-22.
+This product manager position at LexisNexis Risk Solutions was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
