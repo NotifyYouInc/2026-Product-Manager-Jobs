@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Zug, Zug, Switzerland |
-| Category | Product Manager |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Zug-Switzerland/Data-Product-Manager_R-058795-1) |
+| Location | 3 locations |
+| Category | Technical Product Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/So-Paulo-Brazil/Data-Product-Manager_R-099202) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-02-17.
+This technical product manager position at Johnson & Johnson was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

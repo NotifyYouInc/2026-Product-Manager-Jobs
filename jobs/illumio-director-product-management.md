@@ -1,16 +1,16 @@
-# Director, Product Management at Illumio
+# Director, Product Management  at Illumio
 
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/12cc5858-f7b2-4e13-a54b-6d21261e71ea) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/7f29bf76-1122-493c-a6ab-43539b025888) |
 
 ## About This Role
 
-This product manager position at Illumio was posted on 2026-08-26.
+This product manager position at Illumio was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

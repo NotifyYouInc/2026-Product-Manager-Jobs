@@ -1,16 +1,16 @@
-# Portfolio Manager - Hybrid at Stryker
+# Portfolio Manager (Hybrid) at Stryker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Fremont, California, United States |
+| Location | Cary, North Carolina, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Portfolio-Manager---Hybrid_R568125-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Portfolio-Manager--Hybrid-_R571392) |
 
 ## About This Role
 
-This asset management / portfolio management position at Stryker was posted on 2026-07-07.
+This asset management / portfolio management position at Stryker was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

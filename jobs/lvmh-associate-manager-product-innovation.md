@@ -5,12 +5,12 @@
 | Company | [LVMH](https://scoutify.ai/companies/lvmhperfumescosmetics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LVMHPerfumesCosmetics/744000148618399-associate-manager-product-innovation) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LVMHPerfumesCosmetics/744000148779599-associate-manager-product-innovation) |
 
 ## About This Role
 
-This product manager position at LVMH was posted on 2026-09-09.
+This product manager position at LVMH was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

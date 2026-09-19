@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Alphen aan den Rijn, South Holland, The Netherlands |
+| Location | Paris, Île-de-France, France |
 | Category | Strategy & Operations |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/NLD---Alphen-Aan-Den-Rijn/Director--Product-Strategy---Transformation_R0059896) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/FRA---Paris-Rue-des-Archives/Director--Product-Strategy---Transformation_R0059932-1) |
 
 ## About This Role
 
-This strategy & operations position at Wolters Kluwer was posted on 2026-09-09.
+This strategy & operations position at Wolters Kluwer was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

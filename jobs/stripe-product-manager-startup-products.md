@@ -1,16 +1,16 @@
-# Product Manager, Startup Products at Stripe
+# Product Manager,  Startup Products at Stripe
 
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7901987) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8176254) |
 
 ## About This Role
 
-This product manager position at Stripe was posted on 2026-05-07.
+This product manager position at Stripe was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

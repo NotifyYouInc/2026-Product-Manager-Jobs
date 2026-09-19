@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014917686-product-manager) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015203304-product-manager) |
 
 ## About This Role
 
-This product manager position at AbbVie was posted on 2026-08-28.
+This product manager position at AbbVie was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

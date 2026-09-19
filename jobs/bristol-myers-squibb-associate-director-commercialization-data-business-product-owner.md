@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Princeton, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Director--Commercialization-Data-Business-Product-Owner_R1604737) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Princeton---NJ---US/Associate-Director--Commercialization-Data-Business-Product-Owner_R1606169) |
 
 ## About This Role
 
-This product manager position at Bristol-Myers Squibb was posted on 2026-07-24.
+This product manager position at Bristol-Myers Squibb was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# ASSOCIATE I - MONETIZACIÓN MASS MARKET -BANCA MINORISTA at Banco Bilbao Vizcaya Argentaria
+# ASSOCIATE I - MONETIZACIÓN MASS MARKET - BANCA MINORISTA at Banco Bilbao Vizcaya Argentaria
 
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/ASSOCIATE-I---MONETIZACIN-MASS-MARKET--BANCA-MINORISTA_JR00103852-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/11001-Bogot-DC-Distrito-Capital-de-Bogot/ASSOCIATE-I---MONETIZACIN-MASS-MARKET---BANCA-MINORISTA_JR00114656) |
 
 ## About This Role
 
-This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-19.
+This product manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

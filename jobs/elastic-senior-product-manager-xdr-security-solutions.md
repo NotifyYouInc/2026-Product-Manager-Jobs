@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elastic](https://scoutify.ai/companies/elastic?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Portugal |
 | Category | Product Manager |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8167771&gh_jid=8167771) |
+| Apply | [View on company site](https://jobs.elastic.co/jobs?gh_jid=8194128&gh_jid=8194128) |
 
 ## About This Role
 

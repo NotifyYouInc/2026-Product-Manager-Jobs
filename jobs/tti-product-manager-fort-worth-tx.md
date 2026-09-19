@@ -5,12 +5,12 @@
 | Company | [TTI](https://scoutify.ai/companies/tti?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Fort Worth, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/tti1000tti/JobBoard/17573315-0f39-4be7-b82a-2deaa977586c/OpportunityDetail?opportunityId=a0946981-25eb-41ca-a409-aededd940d09) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/tti1000tti/JobBoard/17573315-0f39-4be7-b82a-2deaa977586c/OpportunityDetail?opportunityId=6a1c8232-af77-4a00-9fe4-d332567ddc63) |
 
 ## About This Role
 
-This product manager position at TTI was posted on 2026-05-26.
+This product manager position at TTI was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

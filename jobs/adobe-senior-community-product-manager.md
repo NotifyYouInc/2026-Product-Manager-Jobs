@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Community-Product-Manager_R170218) |
+| Location | 2 locations |
+| Category | Marketing |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Senior-Community-Product-Manager_R171758) |
 
 ## About This Role
 
-This product manager position at Adobe was posted on 2026-07-09.
+This marketing position at Adobe was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

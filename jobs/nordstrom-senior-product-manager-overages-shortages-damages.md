@@ -5,12 +5,12 @@
 | Company | [Nordstrom](https://scoutify.ai/companies/nordstrom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Senior-Product-Manager---Overages--Shortages---Damages_R-844289-1) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Senior-Product-Manager---Overages--Shortages---Damages_R-875872) |
 
 ## About This Role
 
-This product manager position at Nordstrom was posted on 2026-05-29.
+This product manager position at Nordstrom was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 5 locations |
-| Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Turnhout-Antwerp-Belgium/Technical-Product-Owner_R-063156-2) |
+| Location | Titusville, Florida, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Technical-Product-Owner_R-096711) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-03-10.
+This technical product manager position at Johnson & Johnson was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

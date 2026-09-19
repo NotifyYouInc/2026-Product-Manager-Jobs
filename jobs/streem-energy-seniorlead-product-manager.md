@@ -5,12 +5,12 @@
 | Company | [Streem Energy](https://scoutify.ai/companies/streemenergy?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StreemEnergy/744000107724837-seniorlead-product-manager) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StreemEnergy/744000149008395-seniorlead-product-manager) |
 
 ## About This Role
 
-This product manager position at Streem Energy was posted on 2026-02-06.
+This product manager position at Streem Energy was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

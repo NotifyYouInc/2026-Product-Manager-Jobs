@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Product Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/HR-Manager---Product-Management_Req186583) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/HR-Manager---Product-Management_Req193093) |
 
 ## About This Role
 
-This product manager position at The Home Depot was posted on 2026-07-13.
+This human resources / people ops position at The Home Depot was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

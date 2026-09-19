@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Technical Product Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Consultant--Technical-Product-Management_R-116618) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Consultant--Technical-Product-Management_R-116658) |
 
 ## About This Role
 
-This technical product manager position at Ingram Micro was posted on 2026-09-10.
+This technical product manager position at Ingram Micro was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

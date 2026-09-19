@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First American](https://scoutify.ai/companies/firstam?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Santa Ana, California, United States |
+| Location | California, US |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Senior-Product-Manager--Remote-_R056433) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Senior-Product-Manager--Remote-_R058710) |
 
 ## About This Role
 
-This product manager position at First American was posted on 2026-05-18.
+This product manager position at First American was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

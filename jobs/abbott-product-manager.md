@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Lake Forest, California, United States |
 | Category | Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Chile---Santiago/Product-Manager_31160934) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Product-Manager_31161026-1) |
 
 ## About This Role
 
-This product manager position at Abbott was posted on 2026-09-03.
+This product manager position at Abbott was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

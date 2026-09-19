@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Idexcorp](https://scoutify.ai/companies/idexcorp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mansfield, Texas, United States |
+| Location | Rochester, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Mansfield-Ohio/Product-Manager_R-09441) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Rochester-New-York/Product-Manager_R-09856) |
 
 ## About This Role
 
-This product manager position at Idexcorp was posted on 2026-07-22.
+This product manager position at Idexcorp was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

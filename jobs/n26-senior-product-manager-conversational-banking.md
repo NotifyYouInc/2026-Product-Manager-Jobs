@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Product Manager |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://n26.com/en-eu/careers/positions/7996650?gh_jid=7996650) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://n26.com/en-eu/careers/positions/8158787?gh_jid=8158787) |
 
 ## About This Role
 
-This product manager position at N26 was posted on 2026-06-10.
+This product manager position at N26 was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allegion](https://scoutify.ai/companies/allegion?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Germany |
+| Location | Farmington, New Mexico, United States |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Mnster-Johann-Krane-Weg-37/Product-Manager_JR35513-2) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Product-Manager_JR37603-3) |
 
 ## About This Role
 
-This product manager position at Allegion was posted on 2026-03-10.
+This product manager position at Allegion was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

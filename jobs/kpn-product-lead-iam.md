@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000143032269-product-lead-iam) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000149080809-product-lead-iam) |
 
 ## About This Role
 
-This product manager position at KPN was posted on 2026-08-12.
+This product manager position at KPN was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

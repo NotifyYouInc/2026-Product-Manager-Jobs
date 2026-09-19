@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Affinidi](https://scoutify.ai/companies/affinidi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Technical Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7985214003) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/affinidi/jobs/7992498003) |
 
 ## About This Role
 
-This technical product manager position at Affinidi was posted on 2026-09-03.
+This technical product manager position at Affinidi was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
