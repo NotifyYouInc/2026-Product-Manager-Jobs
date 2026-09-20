@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Piracicaba, São Paulo, Brazil |
-| Category | Product Manager |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Piracicaba/SAP-PM-QM-PP-PS--DTS----Senior-Associate-2--tag01-_693796WD) |
 
 ## About This Role
 
-This product manager position at PwC was posted on 2026-09-11.
+This technology / it consulting position at PwC was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

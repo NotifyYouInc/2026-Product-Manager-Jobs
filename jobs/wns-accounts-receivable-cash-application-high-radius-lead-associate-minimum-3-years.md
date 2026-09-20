@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000148997579-accounts-receivable-cash-application-high-radius-lead-associate-minimum-3-years-4-years-experience-is-required-sap-experience-mandatory-night-shift-0530-pm-to-0230-am-pune-magarpatta) |
 
 ## About This Role
 
-This accounting position at WNS was posted on 2026-09-11.
+This corporate finance position at WNS was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

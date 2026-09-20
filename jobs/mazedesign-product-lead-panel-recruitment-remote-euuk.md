@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mazedesign](https://scoutify.ai/companies/mazedesign?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Not specified |
-| Category | Product Manager |
+| Category | Talent Acquisition / Recruiting |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/mazedesign/b3b2d6ce-6488-4457-9fe4-d3f08bef23f6) |
 
 ## About This Role
 
-This product manager position at Mazedesign was posted on 2026-09-10.
+This talent acquisition / recruiting position at Mazedesign was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

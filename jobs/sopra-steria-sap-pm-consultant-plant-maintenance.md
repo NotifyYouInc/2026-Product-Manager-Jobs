@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Product Manager |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149059329-sap-pm-consultant-plant-maintenance) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-09-11.
+This technology / it consulting position at Sopra Steria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

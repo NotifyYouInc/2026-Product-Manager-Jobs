@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Product Manager |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000149026840-product-lead-group-financials) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-09-11.
+This technology / it consulting position at WISE was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
