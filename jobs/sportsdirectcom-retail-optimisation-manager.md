@@ -5,12 +5,12 @@
 | Company | [SportsDirect.com Retail](https://scoutify.ai/companies/sportsdirectcomretail?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shirebrook, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000145439989-optimisation-manager) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FrasersGroup/744000149271835-optimisation-manager) |
 
 ## About This Role
 
-This product manager position at SportsDirect.com Retail was posted on 2026-08-25.
+This product manager position at SportsDirect.com Retail was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Unframe](https://scoutify.ai/companies/unframe?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Israel |
 | Category | Product Manager |
-| Posted | 2026-09-06 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4969400101) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/unframe/jobs/4975344101) |
 
 ## About This Role
 
-This product manager position at Unframe was posted on 2026-09-06.
+This product manager position at Unframe was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

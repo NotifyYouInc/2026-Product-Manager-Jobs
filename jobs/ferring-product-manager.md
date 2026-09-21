@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferring](https://scoutify.ai/companies/ferring?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Vietnam |
 | Category | Product Manager |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Mexico-City-Mexico/Product-Manager_R0038031) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Ho-Chi-Minh-Vietnam/Product-Manager_R0038316) |
 
 ## About This Role
 
-This product manager position at Ferring was posted on 2026-07-28.
+This product manager position at Ferring was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canary Wharf, England, United Kingdom |
+| Location | Manchester, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Product-and-Propositions-Manager_JR-0000123628) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Manchester-4-Piccadilly-Place/Product-and-Propositions-Manager_JR-0000124796) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-07-24.
+This product manager position at Barclays was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

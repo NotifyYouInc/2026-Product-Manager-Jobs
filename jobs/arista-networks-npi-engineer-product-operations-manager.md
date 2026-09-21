@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Program Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000148815417-npi-engineer-product-operations-manager) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000149019459-npi-engineer-product-operations-manager) |
 
 ## About This Role
 
-This program manager position at Arista Networks was posted on 2026-09-10.
+This program manager position at Arista Networks was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

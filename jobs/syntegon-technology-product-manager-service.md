@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bristol, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000147948322-product-manager-service) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000149280269-product-manager-service) |
 
 ## About This Role
 
-This product manager position at Syntegon Technology was posted on 2026-09-07.
+This product manager position at Syntegon Technology was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

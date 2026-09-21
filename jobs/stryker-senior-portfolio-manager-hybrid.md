@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Mahwah, New Jersey, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Senior-Portfolio-Manager--Hybrid-_R573114) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Mahwah-New-Jersey/Senior-Portfolio-Manager--Hybrid-_R571807-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Stryker was posted on 2026-09-10.
+This asset management / portfolio management position at Stryker was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

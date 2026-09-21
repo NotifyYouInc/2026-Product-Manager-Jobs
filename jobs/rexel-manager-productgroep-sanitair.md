@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Apeldoorn, Gelderland, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000143541225-manager-productgroep-sanitair) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000149321445-manager-productgroep-sanitair) |
 
 ## About This Role
 
-This product manager position at REXEL was posted on 2026-08-14.
+This product manager position at REXEL was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

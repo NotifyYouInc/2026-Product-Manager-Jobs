@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
-| Category | Product Manager |
-| Posted | 2026-06-17 |
+| Category | Technical Product Manager |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Director--Product-Management--Developer-Experience_R-279947) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-06-17.
+This technical product manager position at Mastercard was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

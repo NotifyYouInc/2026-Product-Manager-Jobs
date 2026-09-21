@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | Program Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143734489-sr-staff-production-pm) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000149233939-sr-staff-production-pm) |
 
 ## About This Role
 
-This program manager position at Renesas Electronics was posted on 2026-08-17.
+This program manager position at Renesas Electronics was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

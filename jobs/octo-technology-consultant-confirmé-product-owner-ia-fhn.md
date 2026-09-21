@@ -5,12 +5,12 @@
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Product Manager |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000148171205-consultant-confirme-product-owner-ia-fhn) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000149273097-consultant-confirme-product-owner-ia-fhn) |
 
 ## About This Role
 
-This product manager position at OCTO Technology was posted on 2026-09-08.
+This product manager position at OCTO Technology was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/SPM_R-097693) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Shanghai-China/SPM_R-033789) |
 
 ## About This Role
 
-This product manager position at Johnson & Johnson was posted on 2026-09-04.
+This product manager position at Johnson & Johnson was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

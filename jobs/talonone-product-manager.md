@@ -1,16 +1,16 @@
-# Product Manager  at Talon.One
+# Product Manager at Talon.One
 
 | Field | Details |
 |-------|---------|
 | Company | [Talon.One](https://scoutify.ai/companies/talonone?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.talon.one/job-listing?gh_jid=4881346101) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.talon.one/job-listing?gh_jid=4975569101) |
 
 ## About This Role
 
-This product manager position at Talon.One was posted on 2026-06-08.
+This product manager position at Talon.One was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

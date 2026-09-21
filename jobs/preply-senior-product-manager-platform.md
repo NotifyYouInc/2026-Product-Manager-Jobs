@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Preply](https://scoutify.ai/companies/preply?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Product Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/preply/f394e555-f628-4c80-b5f6-84ab2a8e42e3) |
+| Location | Barcelona, Catalonia, Spain |
+| Category | Technical Product Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/preply/7f3bf813-415a-4363-b0f1-6f544b22e084) |
 
 ## About This Role
 
-This product manager position at Preply was posted on 2026-04-28.
+This technical product manager position at Preply was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

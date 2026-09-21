@@ -5,12 +5,12 @@
 | Company | [Weis](https://scoutify.ai/companies/weis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Milton, Georgia, United States |
 | Category | Product Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://weis.wd108.myworkdayjobs.com/careers/job/DC---Milton-PA/Product-Owner_JR44982) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://weis.wd108.myworkdayjobs.com/careers/job/DC---Milton-PA/Product-Owner_JR51406) |
 
 ## About This Role
 
-This product manager position at Weis was posted on 2026-05-11.
+This product manager position at Weis was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Welwyn Garden City, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000137117699-product-management-apprentice) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000149271019-product-management-apprentice) |
 
 ## About This Role
 
-This product manager position at Sika was posted on 2026-07-10.
+This product manager position at Sika was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

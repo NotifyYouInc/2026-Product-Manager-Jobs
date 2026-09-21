@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Andover, Minnesota, United States |
+| Location | Richardson, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN2--352-Lowell-St--AN2-HAMPSHIRE-BLDG/Product-Manager_01874048) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-521--1601-N-Plano-Rd--PLANO-BLDG-EOI/Product-Manager_01873362) |
 
 ## About This Role
 
-This product manager position at RTX was posted on 2026-09-10.
+This product manager position at RTX was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

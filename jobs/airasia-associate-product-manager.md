@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Malaysia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/The-Ampwalk/Product-Manager_JR0030142) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Kuala-Lumpur---RedQ/Associate-Product-Manager_JR0035340) |
 
 ## About This Role
 
-This product manager position at Airasia was posted on 2026-03-11.
+This product manager position at Airasia was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
