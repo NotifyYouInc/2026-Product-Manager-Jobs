@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Wrocław, Lower Silesia, Poland |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Product Manager |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Wrocaw/Product-Owner_Req1601034) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Product-Owner_Req1610207) |
 
 ## About This Role
 
-This product manager position at Santander was posted on 2026-08-17.
+This product manager position at Santander was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sleepy Hollow, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/Director--Product-Management_R46269) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/Director--Product-Management_R50115) |
 
 ## About This Role
 
-This product manager position at Regeneron was posted on 2026-07-10.
+This product manager position at Regeneron was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

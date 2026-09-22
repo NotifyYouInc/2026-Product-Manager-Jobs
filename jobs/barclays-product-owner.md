@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Whippany, New Jersey, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Product-Owner_JR-0000111370-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/Product-Owner_JR-0000099488-1) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-09-09.
+This product manager position at Barclays was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

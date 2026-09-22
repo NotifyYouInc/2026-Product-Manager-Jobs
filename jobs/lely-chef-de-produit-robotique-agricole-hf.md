@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | France |
+| Location | Bain-de-Bretagne, Brittany, France |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000116119507-chef-de-produit-robotique-agricole-hf) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000149350004-chef-de-produit-robotique-agricole-hf) |
 
 ## About This Role
 
-This product manager position at Lely was posted on 2026-03-23.
+This product manager position at Lely was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

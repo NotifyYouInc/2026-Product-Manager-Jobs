@@ -5,12 +5,12 @@
 | Company | [Pasito](https://scoutify.ai/companies/pasito?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Argentina |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/pasito/jobs/jt0AkHs-product-owner) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/pasito/jobs/ckQBGYP-product-owner) |
 
 ## About This Role
 
-This product manager position at Pasito was posted on 2026-05-13.
+This product manager position at Pasito was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

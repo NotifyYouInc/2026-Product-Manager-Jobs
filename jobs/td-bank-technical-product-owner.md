@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technical-Product-Owner_R_1452435) |
+| Location | Toronto, Ontario, Canada |
+| Category | Technical Product Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Technical-Product-Owner_R_1510081) |
 
 ## About This Role
 
-This product manager position at TD Bank was posted on 2026-03-24.
+This technical product manager position at TD Bank was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

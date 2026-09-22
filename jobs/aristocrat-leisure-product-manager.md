@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New South Wales, AU |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/North-Ryde-NSW-AU/Product-Manager_R0020261) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/London-United-Kingdom/Product-Manager_R0022368) |
 
 ## About This Role
 
-This product manager position at Aristocrat Leisure was posted on 2026-02-24.
+This product manager position at Aristocrat Leisure was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Mateo, California, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6011556004) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6191807004) |
 
 ## About This Role
 
-This product manager position at Sony Interactive Entertainment was posted on 2026-06-04.
+This product manager position at Sony Interactive Entertainment was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Blue Cross Blue Shield of Arizona](https://scoutify.ai/companies/bcbsaz?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://bcbsaz.wd1.myworkdayjobs.com/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Agile-Product-Owner-II--EDI-27X----Remote_R6103) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bcbsaz.wd1.myworkdayjobs.com/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/Agile-Product-Owner-II--EDI-27X----Remote_R6253) |
 
 ## About This Role
 
-This product manager position at Blue Cross Blue Shield of Arizona was posted on 2026-09-03.
+This product manager position at Blue Cross Blue Shield of Arizona was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Technical Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000144241809-product-manager-adtech) |
+| Category | Product Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149506769-product-manager-adtech) |
 
 ## About This Role
 
-This technical product manager position at carsales was posted on 2026-08-19.
+This product manager position at carsales was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

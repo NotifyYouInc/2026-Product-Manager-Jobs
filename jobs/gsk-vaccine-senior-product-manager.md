@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Taiwan---Taipei/Senior-Product-Manager_447665) |
 
 ## About This Role
 
-This product marketing position at GSK was posted on 2026-09-14.
+This marketing position at GSK was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

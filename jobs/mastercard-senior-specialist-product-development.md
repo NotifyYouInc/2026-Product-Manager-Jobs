@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Product Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vadodara-India/Senior-Specialist--Product-Development_R-290343) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Copenhagen-Denmark-Arne-Jacobsens/Senior-Specialist--Product-Development_R-290329) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-09-10.
+This product manager position at Mastercard was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

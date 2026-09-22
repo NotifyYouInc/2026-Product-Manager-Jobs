@@ -1,0 +1,22 @@
+# Technical Recruiter - Product Management and Engineering at Esri
+
+| Field | Details |
+|-------|---------|
+| Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
+| Location | Redlands, California, United States |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.esri.com/careers/5234881007?gh_jid=5234881007) |
+
+## About This Role
+
+This talent acquisition / recruiting position at Esri was posted on 2026-09-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

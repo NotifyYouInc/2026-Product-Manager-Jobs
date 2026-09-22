@@ -5,12 +5,12 @@
 | Company | [Assetmark](https://scoutify.ai/companies/assetmark?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Charlotte-NC/Product-Manager_Req-003915) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://assetmark.wd5.myworkdayjobs.com/assetmark_careers/job/Charlotte-NC/Product-Manager_Req-003969) |
 
 ## About This Role
 
-This product manager position at Assetmark was posted on 2026-07-25.
+This product manager position at Assetmark was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

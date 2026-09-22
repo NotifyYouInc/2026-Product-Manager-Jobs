@@ -1,16 +1,16 @@
-# Principal Product Manager, Industrial AI - Aerospace and Defense at IFS
+# Principal Product Manager, Industrial AI- Aerospace and Defense at IFS
 
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Itasca, Illinois, United States |
 | Category | Product Manager |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000140056189-principal-product-manager-industrial-ai-aerospace-and-defense) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000149357044-principal-product-manager-industrial-ai-aerospace-and-defense) |
 
 ## About This Role
 
-This product manager position at IFS was posted on 2026-07-27.
+This product manager position at IFS was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

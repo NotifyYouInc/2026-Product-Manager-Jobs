@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Product-Owner--VP_R-00279179-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Product-Owner--VP_R-00279178-1) |
 
 ## About This Role
 
-This product manager position at NatWest Group was posted on 2026-06-02.
+This product manager position at NatWest Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

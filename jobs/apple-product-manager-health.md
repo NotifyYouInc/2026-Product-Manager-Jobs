@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cupertino, California, United States |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-12 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200683303/product-manager-health) |
 
 ## About This Role
 
-This product marketing position at Apple was posted on 2026-09-12.
+This marketing position at Apple was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

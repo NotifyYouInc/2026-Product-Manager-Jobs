@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Singapore |
 | Category | Product Manager |
-| Posted | 2026-03-23 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/FVP--Digital-Wealth-Product-Owner-TMRW_JR81473) |
 
 ## About This Role
 
-This product manager position at UOB Group was posted on 2026-03-23.
+This product manager position at UOB Group was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

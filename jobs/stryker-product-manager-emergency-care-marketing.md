@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Product Marketing |
+| Category | Marketing |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tokyo-Japan/Product-Manager--Emergency-Care-Marketing_R571024-5) |
 
 ## About This Role
 
-This product marketing position at Stryker was posted on 2026-09-14.
+This marketing position at Stryker was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

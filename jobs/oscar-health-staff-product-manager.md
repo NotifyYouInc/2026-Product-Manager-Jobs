@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7921616?gh_jid=7921616) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oscar/jobs/7663589) |
 
 ## About This Role
 
-This product manager position at Oscar Health was posted on 2026-05-13.
+This product manager position at Oscar Health was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

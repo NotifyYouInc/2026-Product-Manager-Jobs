@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000149047782-principal-product-manager-treasury) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000149314974-principal-product-manager-treasury) |
 
 ## About This Role
 
-This product manager position at WISE was posted on 2026-09-11.
+This product manager position at WISE was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Pleasanton, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-OH-Mason/Sr-Product-Manager_JR-0108497) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Sr-Product-Manager_JR-0109825-1) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-07-02.
+This product manager position at Workday was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

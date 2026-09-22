@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | Hagerstown, Maryland, United States |
 | Category | Product Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R39711) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414) |
 
 ## About This Role
 
-This product manager position at Oshkosh was posted on 2026-03-04.
+This product manager position at Oshkosh was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

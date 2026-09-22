@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flagright.com](https://scoutify.ai/companies/flagrightcom?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/flagright.com/b372f2b5-71d1-462f-a63e-f54ab9992d37) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/flagright.com/71321f1b-d6d0-4058-a42f-d01bd9169afe) |
 
 ## About This Role
 
-This product manager position at Flagright.com was posted on 2026-08-19.
+This product manager position at Flagright.com was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

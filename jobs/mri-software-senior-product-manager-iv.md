@@ -5,12 +5,12 @@
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-22 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/London-UK-Office/Senior-Product-Manager-IV_R-108390) |
 
 ## About This Role
 
-This product manager position at MRI Software was posted on 2026-06-22.
+This product manager position at MRI Software was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

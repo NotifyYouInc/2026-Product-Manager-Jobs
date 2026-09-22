@@ -5,12 +5,12 @@
 | Company | [NETWEALTH](https://scoutify.ai/companies/netwealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/netwealth/3a855636-3ccb-41ad-821c-abdff58fe2b9) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/netwealth/8d59163e-f7d7-4401-a3a5-8fefb8485cd7) |
 
 ## About This Role
 
-This product manager position at NETWEALTH was posted on 2026-04-20.
+This product manager position at NETWEALTH was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

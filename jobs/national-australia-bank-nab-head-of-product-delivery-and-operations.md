@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hanoi, Hanoi, Vietnam |
-| Category | Leadership Development Program |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/29-Lieu-Giai-Street-Ngoc-Ha-Ward/Head-of-Product-Delivery-and-Operations_JR119713) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Category | Program Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Head-of-Product-Delivery-and-Operations_JR121611) |
 
 ## About This Role
 
-This leadership development program position at National Australia Bank (NAB) was posted on 2026-06-22.
+This program manager position at National Australia Bank (NAB) was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

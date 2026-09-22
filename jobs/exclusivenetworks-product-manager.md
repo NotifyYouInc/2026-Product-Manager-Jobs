@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exclusivenetworks](https://scoutify.ai/companies/exclusivenetworks?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Waterfall-City/Product-Manager_JR2460-3) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://exclusivenetworks.wd103.myworkdayjobs.com/exclusive-networks-career/job/Singapore/Product-Manager_JR2514) |
 
 ## About This Role
 
-This product manager position at Exclusivenetworks was posted on 2026-09-07.
+This product manager position at Exclusivenetworks was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

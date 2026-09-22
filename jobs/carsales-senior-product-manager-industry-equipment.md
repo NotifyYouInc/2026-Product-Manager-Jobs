@@ -5,12 +5,12 @@
 | Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000144414310-senior-product-manager-industry-equipment) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000149506974-senior-product-manager-industry-equipment) |
 
 ## About This Role
 
-This product manager position at carsales was posted on 2026-08-19.
+This product manager position at carsales was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

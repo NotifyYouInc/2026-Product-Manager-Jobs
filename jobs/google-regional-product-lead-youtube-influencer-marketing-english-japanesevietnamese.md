@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Social Media / Community |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUKjyKhvoJNUyEYpFME_E2QzCk_6zgWWMNIv8RbnJXPiEjsA1Ny_i8FSbssX6aIQRy9Lw7NGlmDOmmvSnQbUD05xHoZ7CsXPdVDLnwPK7tBDyuTZO4QUEE4cPEMWsA%3D%3D_V2&loc=SG&title=Regional+Product+Lead) |
+| Category | Strategic Partnerships |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXDE0fEaCTGs3fHuKEk99BnMLncnwQnsbbN0A5g_aq_VEjsA9yzvgj7VnHNPigFj-fvsyeeztIgs-kSpjh7QoUOozlUqhYWHu61vybM5VKGZWXfxQUscxwVGeQHhLA%3D%3D_V2&loc=SG&title=Regional+Product+Lead) |
 
 ## About This Role
 
-This social media / community position at Google was posted on 2026-08-04.
+This strategic partnerships position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

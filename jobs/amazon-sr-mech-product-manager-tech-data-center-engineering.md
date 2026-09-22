@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Seattle, Washington, United States |
 | Category | Technical Product Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10509699/sr-mech-product-manager-tech-data-center-engineering) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10541192/sr-mech-product-manager-tech-data-center-engineering) |
 
 ## About This Role
 
-This technical product manager position at Amazon was posted on 2026-08-21.
+This technical product manager position at Amazon was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

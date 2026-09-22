@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vancouver, British Columbia, Canada |
-| Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Principal-Product-Manager---Technical_R-277894) |
+| Location | O'Fallon, Missouri, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Principal-Product-Manager---Technical_R-290178) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-07-15.
+This technical product manager position at Mastercard was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

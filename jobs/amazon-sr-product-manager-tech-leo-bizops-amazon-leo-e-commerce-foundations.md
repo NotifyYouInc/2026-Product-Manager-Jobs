@@ -1,16 +1,16 @@
-# Sr Product Manager - Tech , Leo BizOps, Amazon Leo E-Commerce Foundations at Amazon
+# Sr. Product Manager - Tech, Leo BizOps, Amazon Leo E-Commerce Foundations at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10507611/sr-product-manager-tech-leo-bizops-amazon-leo-e-commerce-foundations) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10541171/sr-product-manager-tech-leo-bizops-amazon-leo-e-commerce-foundations) |
 
 ## About This Role
 
-This strategy & operations position at Amazon was posted on 2026-08-20.
+This technical product manager position at Amazon was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

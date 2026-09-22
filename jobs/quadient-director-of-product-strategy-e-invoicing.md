@@ -1,16 +1,16 @@
-# Director of Product & Strategy, E-invoicing at Quadient
+# Director of Product & Strategy, E-invoicing  at Quadient
 
 | Field | Details |
 |-------|---------|
 | Company | [Quadient](https://scoutify.ai/companies/quadient?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000139244339-director-of-product-strategy-e-invoicing) |
+| Location | London, England, United Kingdom |
+| Category | Strategy & Operations |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Quadient1/744000149366665-director-of-product-strategy-e-invoicing) |
 
 ## About This Role
 
-This product manager position at Quadient was posted on 2026-07-23.
+This strategy & operations position at Quadient was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
