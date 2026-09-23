@@ -1,16 +1,16 @@
-# Game Design Director (World of Warships)  at Wargaming
+# Game Design Director (World of Warships) at Wargaming
 
 | Field | Details |
 |-------|---------|
 | Company | [Wargaming](https://scoutify.ai/companies/wargaming?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Nicosia, Nicosia, Cyprus |
 | Category | Product Manager |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wargamingen/jobs/8200604) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wargamingen/jobs/8200609) |
 
 ## About This Role
 
-This product manager position at Wargaming was posted on 2026-09-14.
+This product manager position at Wargaming was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

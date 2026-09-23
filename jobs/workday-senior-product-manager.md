@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Senior-Product-Manager_JR-0105909) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/New-Zealand-Auckland/Senior-Product-Manager_JR-0109901) |
 
 ## About This Role
 
-This product manager position at Workday was posted on 2026-04-07.
+This product manager position at Workday was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

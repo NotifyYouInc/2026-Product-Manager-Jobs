@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000149073430-sr-product-manager-hiring-pro) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000149667691-sr-product-manager-hiring-pro) |
 
 ## About This Role
 
-This product manager position at LinkedIn was posted on 2026-09-11.
+This product manager position at LinkedIn was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Telangana, IN |
-| Category | Technical Product Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Product-Lead_JR1084595) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Product-Owner--Business-Analyst---Tax-Reporting_JR1082123) |
 
 ## About This Role
 
-This technical product manager position at Broadridge was posted on 2026-08-19.
+This product manager position at Broadridge was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

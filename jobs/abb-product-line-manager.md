@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | Beynost, Rhône-Alpes, France |
 | Category | Product Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-North-Carolina-USA/Product-Line-Manager_JR00030357) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beynost-Ain-France/Product-Line-Manager_JR00047239) |
 
 ## About This Role
 
-This product manager position at ABB was posted on 2026-04-21.
+This product manager position at ABB was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

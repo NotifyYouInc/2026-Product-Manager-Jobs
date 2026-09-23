@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EBANX](https://scoutify.ai/companies/ebanx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Curitiba, Paraná, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Product Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ebanx/jobs/7598239003) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ebanx/jobs/7991962003) |
 
 ## About This Role
 
-This product manager position at EBANX was posted on 2026-03-31.
+This product manager position at EBANX was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---New-York/Product-Management-Intern_R12200) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---London/Product-Management-Intern_R12199) |
 
 ## About This Role
 
-This product manager position at Clearwateranalytics was posted on 2026-09-01.
+This product manager position at Clearwateranalytics was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

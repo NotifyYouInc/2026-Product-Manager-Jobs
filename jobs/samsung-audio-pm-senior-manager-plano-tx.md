@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Audio-PM--Senior-Manager--Plano--TX-_R120590) |
 
 ## About This Role
 
-This marketing position at Samsung was posted on 2026-09-14.
+This product marketing position at Samsung was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

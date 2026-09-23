@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Manager-II_10154797) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Manager-II_10160223) |
 
 ## About This Role
 
-This product manager position at Disney was posted on 2026-07-09.
+This product manager position at Disney was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

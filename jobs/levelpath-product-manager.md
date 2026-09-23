@@ -5,12 +5,12 @@
 | Company | [Levelpath](https://scoutify.ai/companies/levelpath?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2025-06-24 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/levelpath/4ed33734-d7f2-480c-a5d7-8ed8a3e8e372) |
 
 ## About This Role
 
-This product manager position at Levelpath was posted on 2025-06-24.
+This product manager position at Levelpath was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

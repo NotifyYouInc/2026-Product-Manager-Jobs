@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-West/Product-Owner--Digital-Solutions_R_353977-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/London---Tower-Place-West/Product-Owner--Digital-Solutions_R_362205-1) |
 
 ## About This Role
 
-This product manager position at Marsh & McLennan Companies was posted on 2026-09-10.
+This product manager position at Marsh & McLennan Companies was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

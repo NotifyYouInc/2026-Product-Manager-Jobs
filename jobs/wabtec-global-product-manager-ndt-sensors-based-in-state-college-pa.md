@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | State College, Pennsylvania, United States |
 | Category | Product Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014136776-global-product-manager-ndt-sensors-based-in-state-college-pa) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015276356-global-product-manager-ndt-sensors-based-in-state-college-pa) |
 
 ## About This Role
 
-This product manager position at Wabtec was posted on 2026-07-16.
+This product manager position at Wabtec was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

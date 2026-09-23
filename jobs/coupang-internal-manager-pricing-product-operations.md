@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Program Manager |
+| Category | Product Manager |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8156119?gh_jid=8156119) |
 
 ## About This Role
 
-This program manager position at Coupang Internal was posted on 2026-09-15.
+This product manager position at Coupang Internal was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000127263090-product-manager) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000149700619-product-manager) |
 
 ## About This Role
 
-This product manager position at Intuitive Surgical was posted on 2026-05-19.
+This product manager position at Intuitive Surgical was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Product Manager |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000149412973-vice-president-product-and-design) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000149498999-vice-president-product-and-design) |
 
 ## About This Role
 
-This product manager position at Versant was posted on 2026-09-14.
+This product manager position at Versant was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

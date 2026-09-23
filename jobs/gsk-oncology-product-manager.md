@@ -1,16 +1,16 @@
-# Oncology Product Manager at GSK
+# Oncology - Product Manager at GSK
 
 | Field | Details |
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/GSK-Tres-Cantos-Madrid/Oncology-Product-Manager_441617-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Taiwan---Taipei/Product-Manager_447899) |
 
 ## About This Role
 
-This product manager position at GSK was posted on 2026-05-22.
+This product manager position at GSK was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

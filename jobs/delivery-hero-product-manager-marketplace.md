@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146468825-product-manager-marketplace) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000149594269-product-manager-marketplace) |
 
 ## About This Role
 
-This product manager position at Delivery Hero was posted on 2026-08-31.
+This product manager position at Delivery Hero was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

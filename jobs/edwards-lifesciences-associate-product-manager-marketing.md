@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Irvine, California, United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | Product Marketing |
-| Posted | 2026-08-22 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Product-Manager--Marketing_Req-50234) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/Canada-Mississauga/Associate-Product-Manager--Marketing_Req-50845) |
 
 ## About This Role
 
-This product marketing position at Edwards Lifesciences was posted on 2026-08-22.
+This product marketing position at Edwards Lifesciences was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
+| Category | Product Marketing |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/New-York-City/Summer-2027-Internship-Program---Product-Strategy-Intern_Job_Req_55317) |
 
 ## About This Role
 
-This marketing position at Dow Jones was posted on 2026-09-15.
+This product marketing position at Dow Jones was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

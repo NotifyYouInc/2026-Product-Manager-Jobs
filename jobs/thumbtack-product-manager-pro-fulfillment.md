@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thumbtack](https://scoutify.ai/companies/thumbtack?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Canada |
+| Location | Ontario, CA |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
+| Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/thumbtack/20b7b151-75bf-4265-995d-30c081e86b7d) |
 
 ## About This Role
 
-This product manager position at Thumbtack was posted on 2026-05-07.
+This product manager position at Thumbtack was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

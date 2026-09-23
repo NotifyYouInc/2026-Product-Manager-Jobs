@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Austin, Texas, United States |
 | Category | Product Manager |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-II_R202681429) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Manager-II_R202682266) |
 
 ## About This Role
 
-This product manager position at Cox was posted on 2026-08-21.
+This product manager position at Cox was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

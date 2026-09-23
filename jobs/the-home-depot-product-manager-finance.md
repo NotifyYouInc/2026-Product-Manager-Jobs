@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cumberland, Rhode Island, United States |
 | Category | Product Manager |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/CUMBERLAND-PKWY-OFFICE---1147/Product-Manager---Finance_Req185174) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/CUMBERLAND-PKWY-OFFICE---1147/Product-Manager---Finance_Req193512) |
 
 ## About This Role
 
-This product manager position at The Home Depot was posted on 2026-06-26.
+This product manager position at The Home Depot was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

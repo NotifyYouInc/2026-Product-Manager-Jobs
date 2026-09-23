@@ -5,12 +5,12 @@
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
 | Category | Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Management_R0137479) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Management_R0137803) |
 
 ## About This Role
 
-This product manager position at PayPal was posted on 2026-09-03.
+This product manager position at PayPal was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

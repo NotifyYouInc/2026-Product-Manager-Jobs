@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Product Manager |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000138924864-marketing-product-manager) |
+| Category | Product Marketing |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000149619919-marketing-product-manager) |
 
 ## About This Role
 
-This product manager position at Ubisoft was posted on 2026-07-21.
+This product marketing position at Ubisoft was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

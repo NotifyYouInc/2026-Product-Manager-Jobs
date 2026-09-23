@@ -5,12 +5,12 @@
 | Company | [Ncontracts](https://scoutify.ai/companies/ncontracts?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | United States |
 | Category | Product Manager |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ncontracts/8f55f4c1-70af-4043-81ba-420f68bcc7d6) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/ncontracts/b40a26da-f242-4a0c-9934-15afeffaaa60) |
 
 ## About This Role
 
-This product manager position at Ncontracts was posted on 2026-09-04.
+This product manager position at Ncontracts was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

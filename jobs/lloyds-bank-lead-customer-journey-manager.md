@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
-| Category | Product Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Bristol/Lead-Customer-Journey-Manager_161327-2) |
+| Location | Douglas, Douglas, Isle of Man |
+| Category | Customer Success Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/St-Helier-9-Broad-Street-Office/Lead-Customer-Journey-Manager_162461) |
 
 ## About This Role
 
-This product manager position at Lloyds Bank was posted on 2026-08-11.
+This customer success manager position at Lloyds Bank was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

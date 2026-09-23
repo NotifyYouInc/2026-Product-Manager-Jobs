@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United Kingdom |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000140241357-senior-product-manager-enterprise-asset-management-agentic-ai) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000149845481-senior-product-manager-enterprise-asset-management-agentic-ai) |
 
 ## About This Role
 
-This asset management / portfolio management position at IFS was posted on 2026-07-28.
+This asset management / portfolio management position at IFS was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

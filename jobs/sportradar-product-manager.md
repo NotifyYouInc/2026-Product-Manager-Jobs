@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000133521449-product-manager) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000149848669-product-manager) |
 
 ## About This Role
 
-This product manager position at Sportradar was posted on 2026-06-23.
+This product manager position at Sportradar was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

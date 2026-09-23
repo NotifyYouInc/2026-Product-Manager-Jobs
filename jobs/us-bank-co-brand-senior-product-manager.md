@@ -1,16 +1,16 @@
-# Co-brand; Senior Product Manager at U.S. Bank
+# Co-brand Senior Product Manager at U.S. Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 12 locations |
-| Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Fargo-ND/Co-brand--Senior-Product-Manager_2026-0021462) |
+| Location | 2 locations |
+| Category | Brand Marketing |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Co-brand-Senior-Product-Manager_2026-0028732) |
 
 ## About This Role
 
-This product manager position at U.S. Bank was posted on 2026-07-23.
+This brand marketing position at U.S. Bank was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

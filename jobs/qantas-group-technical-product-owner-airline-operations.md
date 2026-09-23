@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Technical Product Manager |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001392164-technical-product-owner-airline-operations) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001413824-technical-product-owner-airline-operations) |
 
 ## About This Role
 
-This technical product manager position at Qantas Group was posted on 2026-09-09.
+This technical product manager position at Qantas Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

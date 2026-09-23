@@ -5,12 +5,12 @@
 | Company | [DKatalis](https://scoutify.ai/companies/dkatalis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dkatalislabs/jobs/7720708003) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dkatalislabs/jobs/7996792003) |
 
 ## About This Role
 
-This product manager position at DKatalis was posted on 2026-04-30.
+This product manager position at DKatalis was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

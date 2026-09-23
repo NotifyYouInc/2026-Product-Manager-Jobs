@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cheras, Selangor, Malaysia |
+| Location | Subang Jaya, Selangor, Malaysia |
 | Category | Product Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Cheras/Mortgage-Product---MGR_JR00004187) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Subang-Jaya/Mortgage-Product---MGR_JR00007485) |
 
 ## About This Role
 
-This product manager position at OCBC was posted on 2026-02-26.
+This product manager position at OCBC was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
