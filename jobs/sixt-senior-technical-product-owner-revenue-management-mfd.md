@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Product Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000146162994-senior-technical-product-owner-revenue-management-mfd) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000150061719-senior-technical-product-owner-revenue-management-mfd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-08-28.
+This technical product manager position at Sixt was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

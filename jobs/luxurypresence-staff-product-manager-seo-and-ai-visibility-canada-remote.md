@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Luxurypresence](https://scoutify.ai/companies/luxurypresence?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Canada |
-| Category | Product Manager |
+| Category | Technical Product Manager |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.lever.co/luxurypresence/262ae59d-60b9-4667-9703-2b924ce956f4) |
 
 ## About This Role
 
-This product manager position at Luxurypresence was posted on 2026-09-15.
+This technical product manager position at Luxurypresence was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Kansas, US |
-| Category | Product Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---New-York-US/Senior-Product-Manager_R46045) |
+| Location | Florida, US |
+| Category | Technical Product Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Missouri-US/Senior-Product-Manager_R45681) |
 
 ## About This Role
 
-This product manager position at SS&C Technologies was posted on 2026-09-10.
+This technical product manager position at SS&C Technologies was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

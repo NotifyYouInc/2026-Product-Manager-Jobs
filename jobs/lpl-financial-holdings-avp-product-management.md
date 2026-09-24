@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Austin, Texas, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/AVP--Product-Management_R-048684) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/AVP--Product-Management_R-053515) |
 
 ## About This Role
 
-This product manager position at LPL Financial Holdings was posted on 2026-02-03.
+This product manager position at LPL Financial Holdings was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Univeris](https://scoutify.ai/companies/univeris?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Madrid, Madrid, Spain |
 | Category | Product Manager |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.lever.co/univeris.com/ed2e8da2-faf0-400a-94f5-23c50b18fe25) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.lever.co/univeris.com/70c52a89-d5c8-47bb-96df-7a897e6e660f) |
 
 ## About This Role
 
-This product manager position at Univeris was posted on 2026-09-11.
+This product manager position at Univeris was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

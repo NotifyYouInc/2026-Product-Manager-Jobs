@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Product Manager |
-| Posted | 2026-05-05 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Consumer-Card-Product-Director_R0071573) |
 
 ## About This Role
 
-This product manager position at Huntington Bancshares was posted on 2026-05-05.
+This product manager position at Huntington Bancshares was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

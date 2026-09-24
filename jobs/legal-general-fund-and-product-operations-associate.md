@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Corporate Finance |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000143769442-fund-and-product-operations-associate) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000150032284-fund-and-product-operations-associate) |
 
 ## About This Role
 
-This corporate finance position at Legal & General was posted on 2026-08-17.
+This corporate finance position at Legal & General was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

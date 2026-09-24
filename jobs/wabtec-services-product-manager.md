@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Duncan, Oklahoma, United States |
 | Category | Product Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015175366-services-product-manager) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015316876-services-product-manager) |
 
 ## About This Role
 
-This product manager position at Wabtec was posted on 2026-09-10.
+This product manager position at Wabtec was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

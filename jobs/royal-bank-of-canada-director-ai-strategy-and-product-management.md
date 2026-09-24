@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Operations |
-| Posted | 2026-06-02 |
+| Category | Strategy & Operations |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director--AI-Strategy-and-Product-Management_R-0000174810) |
 
 ## About This Role
 
-This operations position at Royal Bank of Canada was posted on 2026-06-02.
+This strategy & operations position at Royal Bank of Canada was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

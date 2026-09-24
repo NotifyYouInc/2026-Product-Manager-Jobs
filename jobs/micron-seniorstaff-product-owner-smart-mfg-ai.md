@@ -1,16 +1,16 @@
-# Senior/Staff Product Owner, SMART MFG & AI at Micron
+# Senior/Staff Product Owner,  SMART MFG & AI at Micron
 
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Taichung, Taiwan, Taiwan |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Staff-Product-Owner--SMART-MFG---AI_JR107061) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Taichung---Fab-16-Taiwan/Senior-Staff-Product-Owner---SMART-MFG---AI_JR111508) |
 
 ## About This Role
 
-This product manager position at Micron was posted on 2026-08-25.
+This product manager position at Micron was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8139229) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8195266) |
 
 ## About This Role
 
-This product manager position at Coupang was posted on 2026-08-27.
+This product manager position at Coupang was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

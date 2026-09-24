@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204153/senior-product-manager-amazon-sub-same-day) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10551513/senior-product-manager-amazon-sub-same-day) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-03-13.
+This product manager position at Amazon was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

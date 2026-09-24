@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vestwell](https://scoutify.ai/companies/vestwell?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Manager |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vestwell/jobs/7674979003) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vestwell/jobs/7992851003) |
 
 ## About This Role
 
-This product manager position at Vestwell was posted on 2026-03-22.
+This technical product manager position at Vestwell was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

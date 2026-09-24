@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Keyloop](https://scoutify.ai/companies/keyloop?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Product Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.lever.co/keyloop/eb6625ac-8107-4ca8-be97-1cb46c8c7503) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.lever.co/keyloop/ac529ccb-42e3-477b-9321-d864745d380b) |
 
 ## About This Role
 
-This product manager position at Keyloop was posted on 2026-05-07.
+This product manager position at Keyloop was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Not specified |
+| Location | Prague, Prague, Czechia |
 | Category | Product Manager |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Senior-Product-Manager_R0074057) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PRAGUE--CZECHIA/Senior-Product-Manager_R0074276) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-09-10.
+This product manager position at Global Payments was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000140984394-associate-market-solutions-manager-open-to-hiring-at-other-levels) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000149922679-associate-market-solutions-manager-open-to-hiring-at-other-levels) |
 
 ## About This Role
 
-This product manager position at Wellmark, Inc. was posted on 2026-07-31.
+This product manager position at Wellmark, Inc. was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

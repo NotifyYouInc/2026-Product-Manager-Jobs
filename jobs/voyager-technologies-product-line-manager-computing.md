@@ -5,12 +5,12 @@
 | Company | [Voyager Technologies](https://scoutify.ai/companies/voyager-technologies?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Diego, California, United States |
 | Category | Product Manager |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4289368009) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4408150009) |
 
 ## About This Role
 
-This product manager position at Voyager Technologies was posted on 2026-07-15.
+This product manager position at Voyager Technologies was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cork, Munster, Ireland |
-| Category | QA Engineer |
+| Category | Leadership Development Program |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200684056/test-engineer-product-operations-graduate-programme) |
 
 ## About This Role
 
-This qa engineer position at Apple was posted on 2026-09-16.
+This leadership development program position at Apple was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

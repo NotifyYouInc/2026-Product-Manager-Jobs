@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Haifa, Haifa, Israel |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa/AI-Product-Owner_R4036602-2) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa/AI-Product-Owner_R4046352-1) |
 
 ## About This Role
 
-This product manager position at GE HealthCare was posted on 2026-03-03.
+This product manager position at GE HealthCare was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

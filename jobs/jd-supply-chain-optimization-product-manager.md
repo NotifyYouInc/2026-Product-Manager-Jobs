@@ -5,12 +5,12 @@
 | Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/GBR-London/Supply-Chain-Optimization-Product-Manager_JR103886) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/GBR-London/Supply-Chain-Optimization-Product-Manager_JR104031) |
 
 ## About This Role
 
-This product manager position at Jd was posted on 2026-09-09.
+This product manager position at Jd was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

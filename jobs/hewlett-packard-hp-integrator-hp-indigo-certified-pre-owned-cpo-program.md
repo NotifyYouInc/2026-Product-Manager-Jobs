@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Alpharetta, Georgia, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | Product Manager |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Alpharetta-Georgia-United-States-of-America/Integrator---HP-Indigo-Certified-Pre-Owned--CPO--Program_3162359-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hewlett Packard (HP) was posted on 2026-09-15.
+This product manager position at Hewlett Packard (HP) was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

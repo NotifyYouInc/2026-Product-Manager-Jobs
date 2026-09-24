@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000145776009-product-manager-eu-funds-dublin) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000150076504-product-manager-eu-funds-dublin) |
 
 ## About This Role
 
-This product manager position at Legal & General was posted on 2026-08-26.
+This product manager position at Legal & General was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

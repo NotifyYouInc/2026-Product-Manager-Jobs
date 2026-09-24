@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Revenue / Sales Operations |
+| Category | Product Manager |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA---303-Peachtree-Center-Avenue---Garden-Offices/Product-Owner--Agile---Sales-Enablement_R0119118) |
 
 ## About This Role
 
-This revenue / sales operations position at Truist was posted on 2026-09-15.
+This product manager position at Truist was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

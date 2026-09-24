@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Product Manager |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DUBLIN--IRELAND/Product-Manager_R0074054) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/WARSAW--POLAND/Product-Manager_R0073895) |
 
 ## About This Role
 
-This product manager position at Global Payments was posted on 2026-09-03.
+This product manager position at Global Payments was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

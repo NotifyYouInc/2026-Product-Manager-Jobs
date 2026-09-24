@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ipsen](https://scoutify.ai/companies/ipsen?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Product Manager |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Mississauga/Product-Manager_R-22152-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Bogota/Product-Manager_R-22379) |
 
 ## About This Role
 
-This product manager position at Ipsen was posted on 2026-08-25.
+This product manager position at Ipsen was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

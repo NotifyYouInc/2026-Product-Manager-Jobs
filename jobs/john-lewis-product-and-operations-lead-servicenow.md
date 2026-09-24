@@ -5,12 +5,12 @@
 | Company | [John Lewis](https://scoutify.ai/companies/john-lewis?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bracknell, England, United Kingdom |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jlp.wd3.myworkdayjobs.com/jlpjobs_careers/job/Bracknell/Product-and-Operations-Lead---ServiceNow_R-204970) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jlp.wd3.myworkdayjobs.com/jlpjobs_careers/job/Bracknell/Product-and-Operations-Lead---ServiceNow_R-212110-1) |
 
 ## About This Role
 
-This product manager position at John Lewis was posted on 2026-06-17.
+This product manager position at John Lewis was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

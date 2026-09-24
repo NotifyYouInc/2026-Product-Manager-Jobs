@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Germany |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Frankfurt-Taunus-Turm/Payments-Product-Manager---Fintech_JR-0000110399) |
 
 ## About This Role
 
-This product manager position at Barclays was posted on 2026-06-19.
+This product manager position at Barclays was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

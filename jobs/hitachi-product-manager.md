@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 3 locations |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Samut-Prakan-Samut-Prakan-Thailand/Product-Manager_R0134296-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Shanghai-China/Product-Manager_R0144067) |
 
 ## About This Role
 
-This product manager position at Hitachi was posted on 2026-06-19.
+This product manager position at Hitachi was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

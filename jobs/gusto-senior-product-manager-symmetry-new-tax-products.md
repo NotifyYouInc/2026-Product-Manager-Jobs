@@ -5,12 +5,12 @@
 | Company | [Gusto](https://scoutify.ai/companies/gusto?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-02-04 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gusto/jobs/7532277) |
 
 ## About This Role
 
-This product manager position at Gusto was posted on 2026-02-04.
+This product manager position at Gusto was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

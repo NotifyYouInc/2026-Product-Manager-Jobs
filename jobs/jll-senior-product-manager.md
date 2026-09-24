@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Product-Manager_REQ520840) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Senior-Product-Manager_REQ536433) |
 
 ## About This Role
 
-This product manager position at JLL was posted on 2026-07-24.
+This product manager position at JLL was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

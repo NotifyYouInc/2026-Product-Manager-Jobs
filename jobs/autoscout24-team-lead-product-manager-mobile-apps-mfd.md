@@ -5,12 +5,12 @@
 | Company | [AutoScout24](https://scoutify.ai/companies/autoscout24?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/autoscout24/jobs/7773011003) |
 
 ## About This Role
 
-This product manager position at AutoScout24 was posted on 2026-06-15.
+This product manager position at AutoScout24 was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

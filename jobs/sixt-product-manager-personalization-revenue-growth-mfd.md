@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Product Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000139247889-product-manager-personalization-revenue-growth-mfd) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000149863006-product-manager-personalization-revenue-growth-mfd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-07-23.
+This product manager position at Sixt was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

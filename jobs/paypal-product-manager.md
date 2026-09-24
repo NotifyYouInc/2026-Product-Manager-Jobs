@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | New York City, New York, United States |
 | Category | Product Manager |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Product-Manager_R0137766) |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/New-York-City-New-York-United-States-of-America/Product-Manager_R0137804) |
 
 ## About This Role
 
