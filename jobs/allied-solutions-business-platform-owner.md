@@ -5,12 +5,12 @@
 | Company | [Allied Solutions](https://scoutify.ai/companies/alliedsolutions?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Carmel, Indiana, United States |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Business-Platform-Owner_R-010797) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Business-Platform-Owner_R-011125) |
 
 ## About This Role
 
-This product manager position at Allied Solutions was posted on 2026-05-08.
+This product manager position at Allied Solutions was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Arkansas, US |
-| Category | Product Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Illinois/Senior-Product-Manager_R0871252) |
+| Location | Galway, Connacht, Ireland |
+| Category | Technical Product Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IRL---Galway/Senior-Product-Manager_R1040485) |
 
 ## About This Role
 
-This product manager position at CVS Health was posted on 2026-04-03.
+This technical product manager position at CVS Health was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

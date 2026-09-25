@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-25 |
+| Posted | 2026-09-18 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Indianapolis-Indiana-United-States/Senior-Director-Automated---Connected-Lab-Portfolio_R1307040) |
 
 ## About This Role
 
-This asset management / portfolio management position at Danaher was posted on 2026-03-25.
+This asset management / portfolio management position at Danaher was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

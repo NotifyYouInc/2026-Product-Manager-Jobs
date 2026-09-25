@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Singapore, Singapore |
 | Category | Product Manager |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Senior-Specialist--Product-Management---Operational-Intelligence-Commercialisation_R-290736) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Senior-Specialist--Product-Management---Operational-Intelligence-Commercialisation_R-290765) |
 
 ## About This Role
 
-This product manager position at Mastercard was posted on 2026-09-16.
+This product manager position at Mastercard was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

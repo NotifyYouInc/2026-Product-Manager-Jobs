@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Product Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Kharadi-EON-II/Product-Owner_JR1038811-1) |
+| Location | 2 locations |
+| Category | Scrum Master & Agile Coach |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Gurugram/Product-Owner_JR1044172-1) |
 
 ## About This Role
 
-This product manager position at Synechron was posted on 2026-05-25.
+This scrum master & agile coach position at Synechron was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

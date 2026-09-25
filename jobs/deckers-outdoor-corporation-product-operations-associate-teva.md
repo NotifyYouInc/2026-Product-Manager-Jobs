@@ -5,12 +5,12 @@
 | Company | [Deckers Outdoor Corporation](https://scoutify.ai/companies/deckers?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Goleta, California, United States |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://deckers.wd5.myworkdayjobs.com/deckers/job/Goleta-California/Product-Operations-Associate---Teva_20474-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://deckers.wd5.myworkdayjobs.com/deckers/job/Goleta-California/Product-Operations-Associate---Teva_21728) |
 
 ## About This Role
 
-This product manager position at Deckers Outdoor Corporation was posted on 2026-04-27.
+This product manager position at Deckers Outdoor Corporation was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

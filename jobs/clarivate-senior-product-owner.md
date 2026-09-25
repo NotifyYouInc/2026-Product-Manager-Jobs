@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R155-Belgrade/Senior-Product-Owner_JREQ136123-2) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Product-Owner_JREQ136663) |
 
 ## About This Role
 
-This product manager position at Clarivate was posted on 2026-07-31.
+This product manager position at Clarivate was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

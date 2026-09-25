@@ -5,12 +5,12 @@
 | Company | [Videa Health](https://scoutify.ai/companies/videa-health?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Product Manager |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/videa.ai/d8e4a37f-96de-4324-a2d1-3ab1a3c0064d) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/videa.ai/cf3f8f18-2c6b-4910-8ee2-5774fdc7360f) |
 
 ## About This Role
 
-This product manager position at Videa Health was posted on 2026-07-22.
+This product manager position at Videa Health was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

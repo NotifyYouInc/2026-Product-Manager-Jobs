@@ -5,12 +5,12 @@
 | Company | [Hato Hone St John](https://scoutify.ai/companies/hatohonestjohn?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 3 locations |
 | Category | Product Manager |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HatoHoneStJohn/6000000001411622-product-manager) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HatoHoneStJohn/6000000001417718-product-manager) |
 
 ## About This Role
 
-This product manager position at Hato Hone St John was posted on 2026-09-16.
+This product manager position at Hato Hone St John was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

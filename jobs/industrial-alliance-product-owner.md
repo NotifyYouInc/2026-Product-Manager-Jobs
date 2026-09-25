@@ -5,12 +5,12 @@
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Propritaire-de-produit_JR10027362-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Montreal-Quebec/Responsable-de-produit--PO-_JR10027711) |
 
 ## About This Role
 
-This product manager position at Industrial Alliance was posted on 2026-08-07.
+This product manager position at Industrial Alliance was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

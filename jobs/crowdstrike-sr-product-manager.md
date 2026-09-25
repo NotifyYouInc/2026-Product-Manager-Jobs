@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Product Manager |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Sr-Product-Manager_R29194) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Sr-Product-Manager_R30126) |
 
 ## About This Role
 
-This product manager position at CrowdStrike was posted on 2026-06-30.
+This product manager position at CrowdStrike was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

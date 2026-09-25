@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Adelaide, South Australia, Australia |
 | Category | Product Manager |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001409507-product-manager) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001415279-product-manager) |
 
 ## About This Role
 
-This product manager position at Qantas Group was posted on 2026-09-16.
+This product manager position at Qantas Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

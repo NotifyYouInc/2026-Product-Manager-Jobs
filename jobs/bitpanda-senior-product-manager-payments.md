@@ -5,12 +5,12 @@
 | Company | [Bitpanda](https://scoutify.ai/companies/bitpanda?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | Product Manager |
-| Posted | 2026-06-15 |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/bitpanda/jobs/4898110101) |
 
 ## About This Role
 
-This product manager position at Bitpanda was posted on 2026-06-15.
+This product manager position at Bitpanda was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

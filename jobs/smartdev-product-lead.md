@@ -5,12 +5,12 @@
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hải Châu, Da Nang City, Vietnam |
 | Category | Product Manager |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000149766899-product-lead) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000150340209-product-lead) |
 
 ## About This Role
 
-This product manager position at SmartDev was posted on 2026-09-16.
+This product manager position at SmartDev was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

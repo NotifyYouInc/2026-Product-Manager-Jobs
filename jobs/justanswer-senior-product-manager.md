@@ -5,12 +5,12 @@
 | Company | [JustAnswer](https://scoutify.ai/companies/justanswer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ukraine |
 | Category | Product Manager |
-| Posted | 2026-07-06 |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/justanswer/jobs/8501363002) |
 
 ## About This Role
 
-This product manager position at JustAnswer was posted on 2026-07-06.
+This product manager position at JustAnswer was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

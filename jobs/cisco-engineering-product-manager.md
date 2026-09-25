@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Lysaker, Akershus, Norway |
-| Category | Product Manager |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Lysaker-Norway/Engineering-Product-Manager_2021808-1) |
+| Location | San Jose, California, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Engineering-Product-Manager_2021895) |
 
 ## About This Role
 
-This product manager position at Cisco was posted on 2026-09-08.
+This technical product manager position at Cisco was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

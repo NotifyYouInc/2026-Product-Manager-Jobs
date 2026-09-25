@@ -1,16 +1,16 @@
-# AI Manager at Toss
+# AI Manager  at Toss
 
 | Field | Details |
 |-------|---------|
 | Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7827198003) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7998166003) |
 
 ## About This Role
 
-This product manager position at Toss was posted on 2026-08-14.
+This product manager position at Toss was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

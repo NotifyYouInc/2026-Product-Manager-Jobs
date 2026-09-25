@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwool International](https://scoutify.ai/companies/rockwool-international?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Roermond, Limburg, The Netherlands |
 | Category | Product Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Chicago-Illinois/Product-Manager_R0034711) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://rockwoolgroup.wd3.myworkdayjobs.com/rockwool/job/Roermond/Product-Manager_R0036226-2) |
 
 ## About This Role
 
-This product manager position at Rockwool International was posted on 2026-04-07.
+This product manager position at Rockwool International was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

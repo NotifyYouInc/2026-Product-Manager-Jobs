@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Cardiff, Wales, United Kingdom |
+| Location | Isle of Man |
 | Category | Product Manager |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Cardiff/Senior-Product-Owner_159523-2) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/St-Helier/Senior-Product-Owner_157098) |
 
 ## About This Role
 
-This product manager position at Lloyds Bank was posted on 2026-07-14.
+This product manager position at Lloyds Bank was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

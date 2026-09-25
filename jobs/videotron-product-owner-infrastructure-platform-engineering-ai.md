@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Videotron](https://scoutify.ai/companies/videotron?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Product Manager |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000148238390-product-owner-infrastructure-platform-engineering-ai) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000150157219-product-owner-infrastructure-platform-engineering-ai) |
 
 ## About This Role
 
-This product manager position at Videotron was posted on 2026-09-08.
+This technical product manager position at Videotron was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Asset Management / Portfolio Management |
+| Category | Human Resources / People Ops |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200683668/product-portfolio-manager-employee-experience-productivity) |
 
 ## About This Role
 
-This asset management / portfolio management position at Apple was posted on 2026-09-16.
+This human resources / people ops position at Apple was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

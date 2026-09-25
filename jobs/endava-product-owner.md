@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000133582069-product-owner) |
+| Location | Plano, Texas, United States |
+| Category | Technical Product Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000150114014-product-owner) |
 
 ## About This Role
 
-This product manager position at Endava was posted on 2026-06-23.
+This technical product manager position at Endava was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

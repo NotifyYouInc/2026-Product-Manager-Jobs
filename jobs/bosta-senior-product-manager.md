@@ -5,12 +5,12 @@
 | Company | [Bosta](https://scoutify.ai/companies/bosta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | Product Manager |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.lever.co/Bosta/a1243c28-87b2-4f7a-9cd4-0ea0a0a0f8fd) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.lever.co/Bosta/11f1e884-73da-4fc2-b715-0ebdf446c078) |
 
 ## About This Role
 
-This product manager position at Bosta was posted on 2026-03-10.
+This product manager position at Bosta was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Clermont-Ferrand, Rhône-Alpes, France |
-| Category | Product Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133908983-business-analyst-product-owner-developpement-regional-clermont-ferrand) |
+| Location | Aubière, Rhône-Alpes, France |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000150312308-business-analyst-product-owner-developpement-regional-clermont-ferrand) |
 
 ## About This Role
 
-This product manager position at Sopra Steria was posted on 2026-06-24.
+This technology / it consulting position at Sopra Steria was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

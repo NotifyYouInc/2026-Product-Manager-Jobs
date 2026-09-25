@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Product Manager |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8126618) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8177496) |
 
 ## About This Role
 
-This product manager position at MongoDB was posted on 2026-08-14.
+This product manager position at MongoDB was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

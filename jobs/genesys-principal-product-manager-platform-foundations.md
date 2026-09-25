@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Ireland |
-| Category | Product Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Ireland/Principal-Product-Manager--Platform-Foundations_JR111207-1) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Ireland/Principal-Product-Manager--Platform-Foundations_JR112365-1) |
 
 ## About This Role
 
-This product manager position at Genesys was posted on 2026-06-08.
+This technical product manager position at Genesys was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

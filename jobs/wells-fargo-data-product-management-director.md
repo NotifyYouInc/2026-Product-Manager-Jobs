@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 4 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Product Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/NEW-YORK-NY/Data-Product-Management-Director_R-528412) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Data-Product-Management-Director_R-568842) |
 
 ## About This Role
 
-This product manager position at Wells Fargo was posted on 2026-03-30.
+This product manager position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

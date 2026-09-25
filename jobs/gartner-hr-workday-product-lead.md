@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Manager |
+| Category | Human Resources / People Ops |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/HR---Workday-Product-Lead_114153-1) |
 
 ## About This Role
 
-This product manager position at Gartner was posted on 2026-09-17.
+This human resources / people ops position at Gartner was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

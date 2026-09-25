@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Product Manager |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/HYDERABAD-OFFICE-INDIA-PSC-PGH/Digital-Product-Manager_R000158487) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/JAKARTA-GENERAL-OFFICE/Digital-Project-Manager_R000158684) |
 
 ## About This Role
 
-This product manager position at Procter & Gamble was posted on 2026-09-08.
+This product manager position at Procter & Gamble was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

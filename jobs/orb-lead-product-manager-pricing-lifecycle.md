@@ -5,12 +5,12 @@
 | Company | [Orb](https://scoutify.ai/companies/orb?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Product Manager |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/orb/ae7f40b7-305f-4907-9a4c-f348ab61b379) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/orb/7d6f8c12-4d40-467e-9614-958f3b956a61) |
 
 ## About This Role
 
-This product manager position at Orb was posted on 2026-05-08.
+This product manager position at Orb was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

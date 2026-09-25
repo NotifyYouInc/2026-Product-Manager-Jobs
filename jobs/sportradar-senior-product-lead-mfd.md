@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Vienna, Vienna, Austria |
+| Location | Ljubljana, Ljubljana, Slovenia |
 | Category | Product Manager |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000149848069-senior-product-lead-mfd) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000150084829-senior-product-lead-mfd) |
 
 ## About This Role
 
-This product manager position at Sportradar was posted on 2026-09-16.
+This product manager position at Sportradar was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

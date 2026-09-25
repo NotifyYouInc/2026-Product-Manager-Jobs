@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | Product Manager |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5237796007) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5241113007) |
 
 ## About This Role
 
-This product manager position at Xometry was posted on 2026-09-14.
+This product manager position at Xometry was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
