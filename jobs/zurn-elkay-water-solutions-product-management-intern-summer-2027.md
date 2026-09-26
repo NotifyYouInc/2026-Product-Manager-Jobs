@@ -1,16 +1,16 @@
-# Product Management Intern - Summer 2027 at Zurn Elkay Water Solutions
+# Product Management Intern (Summer 2027) at Zurn Elkay Water Solutions
 
 | Field | Details |
 |-------|---------|
 | Company | [Zurn Elkay Water Solutions](https://scoutify.ai/companies/elkay?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Erie, Pennsylvania, United States |
+| Location | Paso Robles, California, United States |
 | Category | Product Manager |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) |
 
 ## About This Role
 
-This product manager position at Zurn Elkay Water Solutions was posted on 2026-09-16.
+This product manager position at Zurn Elkay Water Solutions was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

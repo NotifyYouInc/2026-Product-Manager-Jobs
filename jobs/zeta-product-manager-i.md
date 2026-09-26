@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [zeta](https://scoutify.ai/companies/zeta?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Product Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.lever.co/zeta/ffc67958-ce58-442d-a76d-1e8417d31279) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.lever.co/zeta/8623c195-f912-4d87-952f-7114cd258413) |
 
 ## About This Role
 
-This product manager position at zeta was posted on 2026-05-18.
+This product manager position at zeta was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

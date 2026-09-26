@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regal Rexnord](https://scoutify.ai/companies/regalrexnord?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Milwaukee-Wisconsin-United-States/Product-Manager-II_R26_00943) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Fort-Wayne-Indiana-United-States/Product-Manager-II_R26_04761) |
 
 ## About This Role
 
-This product manager position at Regal Rexnord was posted on 2026-03-03.
+This product manager position at Regal Rexnord was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

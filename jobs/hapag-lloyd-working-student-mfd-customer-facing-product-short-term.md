@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hapag-Lloyd](https://scoutify.ai/companies/ocs-cx-oj50269?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Hamburg, Hamburg, Germany |
-| Category | Product Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://fa-etuy-saasfaeuraprod1.fa.ocs.oraclecloud.com/jobs/#4852) |
 
 ## About This Role
 
-This product marketing position at Hapag-Lloyd was posted on 2026-09-17.
+This product manager position at Hapag-Lloyd was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

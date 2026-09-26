@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Titusville, Florida, United States |
-| Category | Product Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Titusville-New-Jersey-United-States-of-America/Product-Director-EPG_R-100174-1) |
 
 ## About This Role
 
-This product marketing position at Johnson & Johnson was posted on 2026-09-17.
+This product manager position at Johnson & Johnson was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

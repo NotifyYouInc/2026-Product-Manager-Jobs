@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | New York City, New York, United States |
-| Category | Product Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Sr-Director--Product-Intelligence---Marketing-Lead_4964159-2) |
 
 ## About This Role
 
-This product marketing position at Pfizer was posted on 2026-09-18.
+This product manager position at Pfizer was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

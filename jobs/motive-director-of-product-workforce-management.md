@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Product Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8593299002) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8820931002) |
 
 ## About This Role
 
-This product manager position at Motive was posted on 2026-06-17.
+This product manager position at Motive was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

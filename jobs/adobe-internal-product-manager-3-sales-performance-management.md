@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Human Resources / People Ops |
+| Category | Product Manager |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Product-Manager-3_R169439) |
 
 ## About This Role
 
-This human resources / people ops position at Adobe was posted on 2026-09-18.
+This product manager position at Adobe was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

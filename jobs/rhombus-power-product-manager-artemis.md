@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rhombus Power](https://scoutify.ai/companies/rhombuspower?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | 2 locations |
-| Category | Product Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/rhombuspower/jobs/7998529003) |
 
 ## About This Role
 
-This product marketing position at Rhombus Power was posted on 2026-09-17.
+This product manager position at Rhombus Power was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

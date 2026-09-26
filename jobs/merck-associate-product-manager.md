@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Hong Kong, Hong Kong |
 | Category | Product Manager |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/MYS---Selangor---Petaling-Jaya-Ascent-Paradigm/Associate-Product-Manager_R402207-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/HKG---Hong-Kong-Island---Hong-Kong-Lee-Garden-Two/Associate-Product-Manager_R418017) |
 
 ## About This Role
 
-This product manager position at Merck was posted on 2026-06-19.
+This product manager position at Merck was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

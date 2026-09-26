@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TELUS](https://scoutify.ai/companies/telus?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Product Manager |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Montreal-Quebec-Canada/Bilingual-Software-Product-Owner--100--remote-_R-22627) |
+| Category | Technical Product Manager |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/external/job/Montreal-Quebec-Canada/Bilingual-Software-Product-Owner--100--remote-_R-23198) |
 
 ## About This Role
 
-This product manager position at TELUS was posted on 2026-07-10.
+This technical product manager position at TELUS was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

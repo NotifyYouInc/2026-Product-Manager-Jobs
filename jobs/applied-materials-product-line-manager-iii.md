@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 8 locations |
+| Location | 2 locations |
 | Category | Product Manager |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Manager-III_R2621352) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Product-Line-Manager-III_R2628989-1) |
 
 ## About This Role
 
-This product manager position at Applied Materials was posted on 2026-07-01.
+This product manager position at Applied Materials was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

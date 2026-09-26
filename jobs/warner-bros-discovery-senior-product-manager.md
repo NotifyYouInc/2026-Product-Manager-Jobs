@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Product Manager |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-New-York-30-Hudson-Yards/Senior-Product-Manager_R000103180-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-San-Francisco-153-Kearny-Street/Senior-Product-Manager_R000108870) |
 
 ## About This Role
 
-This product manager position at Warner Bros Discovery was posted on 2026-04-20.
+This product manager position at Warner Bros Discovery was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

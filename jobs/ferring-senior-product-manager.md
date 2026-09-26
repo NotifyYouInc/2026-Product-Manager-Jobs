@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferring](https://scoutify.ai/companies/ferring?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Seoul, Seoul, South Korea |
 | Category | Product Manager |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Milan-Italy/Senior-Product-Manager_R0038044) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ferring.wd3.myworkdayjobs.com/ferring/job/Seoul-South-Korea/Senior-Product-Manager_R0038326) |
 
 ## About This Role
 
-This product manager position at Ferring was posted on 2026-07-30.
+This product manager position at Ferring was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

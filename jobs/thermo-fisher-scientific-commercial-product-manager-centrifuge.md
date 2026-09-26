@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Product Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Commercial-Product-Manager---Centrifuge_R-01367757-1) |
 
 ## About This Role
 
-This product marketing position at Thermo Fisher Scientific was posted on 2026-09-17.
+This product manager position at Thermo Fisher Scientific was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

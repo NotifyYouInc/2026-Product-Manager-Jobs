@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Toronto, Ontario, Canada |
 | Category | Product Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Specialist---IT-Product-Management_R_348102) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Specialist---IT-Product-Management_R_358466) |
 
 ## About This Role
 
-This product manager position at Marsh & McLennan Companies was posted on 2026-04-27.
+This product manager position at Marsh & McLennan Companies was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

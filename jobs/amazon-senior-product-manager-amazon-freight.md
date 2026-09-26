@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Product Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10553229/senior-product-manager-amazon-freight) |
 
 ## About This Role
 
-This product marketing position at Amazon was posted on 2026-09-18.
+This product manager position at Amazon was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

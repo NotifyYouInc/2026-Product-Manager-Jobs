@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pointclickcare](https://scoutify.ai/companies/pointclickcare?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | United States |
 | Category | Product Manager |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.lever.co/pointclickcare/04ae34da-9d7c-4d9d-96ae-eef30057a50a) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.lever.co/pointclickcare/3c86ab37-0891-442b-a0fd-e5880f84bf74) |
 
 ## About This Role
 
-This product manager position at Pointclickcare was posted on 2026-07-09.
+This product manager position at Pointclickcare was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

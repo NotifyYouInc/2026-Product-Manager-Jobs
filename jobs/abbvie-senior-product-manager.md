@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Product Marketing |
+| Category | Product Manager |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990015332476-senior-product-manager) |
 
 ## About This Role
 
-This product marketing position at AbbVie was posted on 2026-09-17.
+This product manager position at AbbVie was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

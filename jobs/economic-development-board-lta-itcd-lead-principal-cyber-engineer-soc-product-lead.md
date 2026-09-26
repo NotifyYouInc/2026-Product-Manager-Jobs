@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA-ITCD--LEAD--PRINCIPAL-CYBER-ENGINEER--SOC-PRODUCT-LEAD-_JR-10000049941) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Singapore/XMLNAME--LTA-ITCD--LEAD--PRINCIPAL-CYBER-ENGINEER--SOC-PRODUCT-LEAD-_JR-10000055705) |
 
 ## About This Role
 
-This security engineer position at Economic Development Board was posted on 2026-04-22.
+This semiconductor / chip design position at Economic Development Board was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

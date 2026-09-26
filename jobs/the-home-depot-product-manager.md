@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Georgia, US |
 | Category | Product Manager |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/PENNANT-PARK-ATLANTA---9141/PRODUCT-MANAGER_Req192549) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/GEORGIA---VIRTUAL---GA01/PRODUCT-MANAGER_Req193582) |
 
 ## About This Role
 
-This product manager position at The Home Depot was posted on 2026-09-04.
+This product manager position at The Home Depot was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

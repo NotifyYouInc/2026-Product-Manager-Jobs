@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
 | Location | Rahway, New Jersey, United States |
-| Category | Strategy & Operations |
+| Category | Operations |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Director--PM-OE-Operations---Integration_R417525-1) |
 
 ## About This Role
 
-This strategy & operations position at Merck was posted on 2026-09-17.
+This operations position at Merck was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

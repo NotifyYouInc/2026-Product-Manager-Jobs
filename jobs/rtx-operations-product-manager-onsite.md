@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=product-manager-jobs) |
-| Location | Windsor Locks, Connecticut, United States |
+| Location | Melbourne, Florida, United States |
 | Category | Product Manager |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B2--1-Hamilton-Rd--BLDG-2/Operations-Product-Manager--Onsite-_01857051) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Operations-Product-Manager--Onsite-_01876363) |
 
 ## About This Role
 
-This product manager position at RTX was posted on 2026-07-02.
+This product manager position at RTX was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 
